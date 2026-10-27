@@ -44,8 +44,10 @@ jobs:
             if ($LASTEXITCODE) { throw 'Configure failed' }
             cmake --build build-public --config Release --target ToneGrid ToneGridOfflineTests --parallel 2
             if ($LASTEXITCODE) { throw 'Full build failed' }
-            ctest --test-dir build-public -C Release --output-on-failure --parallel 1 --output-junit build-public/windows-tests.xml -R '^ToneGrid\.(InputCompensation136|RigStorage|Normalization125|Portability|DeviceRate|Isolation|Cabinet|PopupOnboarding|NamControls140|Audit142|LibraryFeedback142|FactoryRefinements142|Startup143ExistingHost|Startup143Host|Release143|Language144|Record141|RecordVideoBridge)$'
+            $taskJUnitPath = Join-Path $taskSourceRoot 'build-public/windows-tests.xml'
+            ctest --test-dir build-public -C Release --output-on-failure --parallel 1 --output-junit $taskJUnitPath -R '^ToneGrid\.(InputCompensation136|RigStorage|Normalization125|Portability|DeviceRate|Isolation|Cabinet|PopupOnboarding|NamControls140|Audit142|LibraryFeedback142|FactoryRefinements142|Startup143ExistingHost|Startup143Host|Release143|Language144|Record141|RecordVideoBridge)$'
             if ($LASTEXITCODE) { throw 'Windows validation failed' }
+            if (-not (Test-Path -LiteralPath $taskJUnitPath)) { throw 'Windows test XML report was not generated.' }
             python tools/package-windows.py --build build-public --output dist-windows
             if ($LASTEXITCODE) { throw 'Runtime package failed' }
             python tools/build-windows-installer.py --package dist-windows/ToneGrid-1.1.44-Windows-x64.zip --compiler build-tools/InnoSetup/ISCC.exe --work build-installer --output dist-installer
