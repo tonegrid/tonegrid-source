@@ -1,0 +1,88 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-vibrato-channel-61701",
+  "tone_id": "61701",
+  "model": "Fender Super Reverb 1965 - Vibrato",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "BFSR Vib V-4 T-4 M-5 B-4 SRL 6dB.nam",
+      "sha256": "a754139a14d6e0a80db45b026b0daacbe68eb5a89ed87e0e7e874453bfc13668",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-4 M-4 B-4 SRL 6dB.nam",
+      "sha256": "a6a7ae3f6764f9a81d41fec7e6304a6c4adf68e9b8d7a6c66cb951dae2c01b84",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-5 M-5 B-4 SRL 6dB.nam",
+      "sha256": "228cda3cb3420454f84dec16450608c7c63630f2cdae4d2185a2e2b88551f0a4",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-5 M-7 B-4 SRL 6dB.nam",
+      "sha256": "192846f2cb9e8ebbbce8cc363e5123d5ee06c82d00180a4d983fcce0436bd9b5",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-3 M-4 B-4 SRL 6dB.nam",
+      "sha256": "ae0b827ec8ccb1c9caac4836075d00e95c90e900770b0db7673b88e086ea37ba",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-5 M-8 B-4 SRL 6dB.nam",
+      "sha256": "64af37fe4bbbbd2c850494b397ffa696c0531a41e017707529f696a486873946",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-5 M-6 B-4 SRL 6dB.nam",
+      "sha256": "a20c4c2de0cdae85ad1786d1e154487fbed610cf5aaf6be6af5dc782572d41d9",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-5 M-4 B-4 SRL 6dB.nam",
+      "sha256": "1b5ca7b93dde7ad07863849a0a49916575a590be0ac323dfb6bde1a0d783bd4d",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-3 M-8 B-4 SRL 6dB.nam",
+      "sha256": "8e4e7b05c61291c3cd0cacd0219d1b4c27b6af77f6d8fe9f8432afd36df7d208",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-3 M-6 B-4 SRL 6dB.nam",
+      "sha256": "afb8cc8890836c08b70472da809c946a4692284538e4d178bbb4af67f673c551",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-4 M-7 B-4 SRL 6dB.nam",
+      "sha256": "68c772eb7dc1b90391be2273ac516f9e46c5a7f202324e02fa66a024d5c92f6f",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-4 M-8 B-4 SRL 6dB.nam",
+      "sha256": "8b7111d5de7cb250278618a289429486265424d41dfc598b38350c1bc2bc690e",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-3 M-5 B-4 SRL 6dB.nam",
+      "sha256": "eb344fb4e1bc9dd986ad5979b1c9ddbbe59a88bc791c077ede6d39b3310b28ee",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-4 M-6 B-4 SRL 6dB.nam",
+      "sha256": "f54ae03ebeaa0dfc69678a461f56a45569f45dee9d25bee0fbd871610a372dcd",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-4 T-3 M-7 B-4 SRL 6dB.nam",
+      "sha256": "301ee31e03ed49937c3ac30822c238c9764905f8a2685c447a84bae4c2d45add",
+      "gear": "amp"
+    }
+  ]
+}

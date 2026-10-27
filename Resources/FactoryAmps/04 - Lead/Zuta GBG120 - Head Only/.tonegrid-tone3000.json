@@ -1,0 +1,23 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/zuta-gbg120-77452",
+  "tone_id": "77452",
+  "model": "Zuta GBG120",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] Zoota.GBG12O-Mar412-CH4 Uno Grande - DI.nam",
+      "sha256": "16b9dc0f39a8d4f6c2a4931c1114e24b56b9f34687b4541ced715717d0bcfd7a",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] Zoota.GBG12O-Mes412-CH4 Uno Grande - DI.nam",
+      "sha256": "93dd363585b7740417938b626e942b336d0750c39547ec592ca952981e755ed3",
+      "gear": "amp"
+    }
+  ]
+}

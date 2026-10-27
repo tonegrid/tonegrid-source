@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "multi_effects_vs_individual_pedals",
+      "title": "Multi-Effects vs. Individual Pedals: Which Is Best for Beginner Guitarists?",
+      "artist": "",
+      "instructor": "Franco Lacan",
+      "date": "2025-12-02",
+      "style": "Articles",
+      "summary": "One of the best parts of learning guitar is exploring how effects can completely change your tone. But should you go for a multi-effects pedal, or should you build a small setup with individual pedals?\n",
+      "lessonUrl": "https://www.guitarclub.io/blog/multi_effects_vs_individual_pedals",
+      "videos": []
+    },
+    {
+      "id": "jam-pedals-1",
+      "title": "JAM pedals",
+      "artist": "",
+      "instructor": "Franco Lacan",
+      "date": "2025-07-21",
+      "style": "Gear",
+      "summary": "I often talk about effects pedals and gear, but I rarely talk about specific brands. That’s because if I do, I want to do a proper deep dive into it.\nSo today, let’s talk about JAM pedals!",
+      "lessonUrl": "https://www.guitarclub.io/blog/jam-pedals-1",
+      "videos": []
+    },
+    {
+      "id": "major-to-lydian",
+      "title": "Major to Lydian",
+      "artist": "",
+      "instructor": "Mark Shoebottom",
+      "date": "2025-04-30",
+      "style": "Music Theory",
+      "summary": "Ever wondered how to capture that glorious lydian sound? Or maybe you just want to explore a new musical avenue! Check out this free lesson to learn all about the lydian mode!",
+      "lessonUrl": "https://www.guitarclub.io/blog/major-to-lydian",
+      "videos": []
+    },
+    {
+      "id": "understanding-rhythmic-displacement",
+      "title": "Understanding Rhythmic Displacement",
+      "artist": "",
+      "instructor": "Mark Shoebottom",
+      "date": "2025-01-22",
+      "style": "Free Lessons",
+      "summary": "Rhythmic displacement is a great concept to help keep key melodies and phrases interesting without having to come up with something entirely new every time. This lesson will help you understand the ins- and outs of rhythmic displacement!",
+      "lessonUrl": "https://www.guitarclub.io/blog/understanding-rhythmic-displacement",
+      "videos": []
+    },
+    {
+      "id": "stocking-fillers-for-guitarists",
+      "title": "Stocking Fillers For Guitarists",
+      "artist": "",
+      "instructor": "Mark Shoebottom",
+      "date": "2024-12-19",
+      "style": "Articles",
+      "summary": "Need some ideas for your Christmas list? Or feel like you're missing some guitar-related accessories? Check out these items that every guitarist should have!",
+      "lessonUrl": "https://www.guitarclub.io/blog/stocking-fillers-for-guitarists",
+      "videos": []
+    },
+    {
+      "id": "what-is-da-coda-dal-segno-and-other-muscial-notation",
+      "title": "What is Da Coda, Dal Segno and other musical direction?",
+      "artist": "",
+      "instructor": "Dan Holton",
+      "date": "2024-11-06",
+      "style": "",
+      "summary": "Whether using our interactive tab player, normal tabs or reading full blown sheet music, you will have come across various cool symbols and musical directions to follow. In this blog post, we'll dive into the most common musical navigations.",
+      "lessonUrl": "https://www.guitarclub.io/blog/what-is-da-coda-dal-segno-and-other-muscial-notation",
+      "videos": []
+    },
+    {
+      "id": "3-tips-for-scary-speed-on-the-guitar",
+      "title": "3 Tips For Scary Speed on the Guitar",
+      "artist": "",
+      "instructor": "Dion Rushe",
+      "date": "2024-10-30",
+      "style": "Free Lessons",
+      "summary": "For this Halloween special, Dion is going to dive into his top 3 speed-building tips that will start to unlock this part of your playing for you based on many many years of working with speed-building on the guitar.",
+      "lessonUrl": "https://www.guitarclub.io/blog/3-tips-for-scary-speed-on-the-guitar",
+      "videos": []
+    },
+    {
+      "id": "2024-11-03-10-essential-guitar-chords-every-beginner-should-know",
+      "title": "10 Essential Guitar Chords Every Beginner Should Know",
+      "artist": "",
+      "instructor": "Kiall Freeman",
+      "date": "2024-03-11",
+      "style": "Free Lessons",
+      "summary": "Hello, future strummers! We're here today to help you build a collection of 10 essential chords you should MUST know. \n“Must know” sounds extreme but the truth is, these chords turn up time and time again so don’t skip them!",
+      "lessonUrl": "https://www.guitarclub.io/blog/2024-11-03-10-essential-guitar-chords-every-beginner-should-know",
+      "videos": []
+    }
+  ]
+}

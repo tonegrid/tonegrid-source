@@ -1,0 +1,23 @@
+{
+  "project": "daisysp",
+  "repository": "https://github.com/daisyaudio/DaisySP",
+  "commit": "2c72eaf9eac5fc0dca1919d65d606da907832618",
+  "tag": null,
+  "license": "MIT",
+  "files_sha256": {
+    "LICENSE": "ae36576d7394109775a8cc86c31c94f016de256526e86d11ee554ef25d429570",
+    "Source/Effects/chorus.cpp": "2403c2589fe2c8f967b213b346aebe355f18298130c9b1059b5cf5557221a992",
+    "Source/Effects/chorus.h": "42c8d3c2a83b55fe6bae14e00241f12b6b0f8aad0435674be058d9db7678d044",
+    "Source/Effects/flanger.cpp": "0c1921d88b97e1a6cfbf46298c46a0d81596c2a8f50bf1d18e329edff00d742e",
+    "Source/Effects/flanger.h": "642b788950390930909e450f48a524324d8298c639d5c7b4f623e55f8c18e645",
+    "Source/Effects/phaser.cpp": "9e26046400cca7ab317dd1bc7dde0527b2bf7f53ea45223642ed32ae1a1a95fc",
+    "Source/Effects/phaser.h": "f464cbd27087ed4d984fb6ecdadea24b38fe079c7287bb3c8ba737e19b03c9ca",
+    "Source/Effects/tremolo.cpp": "b2c0952eeb549983bb38bfc050d0af6d9ce50917831d4059177797c1ccf697aa",
+    "Source/Effects/tremolo.h": "a2a8ff817e0a9522b1760985c8a126451600d657124aed1abb7d03ebec6b8e3c",
+    "Source/Synthesis/oscillator.cpp": "6c0ed4e7db0e155b27847ff6319d5a9ec3234a5e90c535da4fb430aaa73a8a6f",
+    "Source/Synthesis/oscillator.h": "334385ef766a8d1e10e292ab58457f8306e55e22517e9eec9888a07044938b4c",
+    "Source/Utility/delayline.h": "fe4fec65cd93c7bb9ededd265a848e57df859e52e43142bbd9b9e1657cd3c075",
+    "Source/Utility/dsp.h": "534f0f76b7794939a5fff9b128b8fddb23ae0e63ad3354f663445d417924099a"
+  },
+  "copied_sources_unmodified": true
+}

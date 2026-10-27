@@ -1,0 +1,23 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/diezel-vh4-64455",
+  "tone_id": "64455",
+  "model": "Diezel VH4",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] DiZLVH4-CH3 Potty Time - DI.nam",
+      "sha256": "67d87eb998f039084fb21f3bed499069f1bbc7558a6c79cdd0dbc2f09e203e66",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] DiZLVH4-CH3 Physics - DI.nam",
+      "sha256": "a0cb2951c0a4e3fa1675e9741441ec8076ae095592972d35e266a256f9eb6421",
+      "gear": "amp"
+    }
+  ]
+}

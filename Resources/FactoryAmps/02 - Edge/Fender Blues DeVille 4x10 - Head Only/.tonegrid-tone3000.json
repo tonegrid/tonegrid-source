@@ -1,0 +1,33 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/fender-blues-deville-4x10-amp-head-captures-64903",
+  "tone_id": "64903",
+  "model": "Fender Blues DeVille 4x10",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "DI Blues DeVille Nrm In1 V-6 T-4 B-2 M-12 P-7.nam",
+      "sha256": "34add190a1101ff2865f64316fe766e03c8ce8832f12a6aac3917830a87124e6",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-6 T-7 B-5 M-6 P-6.nam",
+      "sha256": "b6fb063d1bdd285ea66dddbbeea32c2ab19d568e895a5926f7595908385b9d1f",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-6 T-9 B-3 M-10 P-8.nam",
+      "sha256": "1b35c7071fdeaa564c1524b39421eee292f425bfbf60b9c98f5621d14e026121",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-6 T-9 B-3 M-10 P-8 Brt.nam",
+      "sha256": "eb4b9bbb124a5f96eaad65cdefb5e89d5c4a84b17b923d4c808eb4e343c79d1d",
+      "gear": "amp"
+    }
+  ]
+}

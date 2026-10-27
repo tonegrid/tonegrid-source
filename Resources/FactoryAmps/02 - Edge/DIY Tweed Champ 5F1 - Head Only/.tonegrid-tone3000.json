@@ -1,0 +1,33 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/diy-tweed-champ-5f1-head-115dbu-5101",
+  "tone_id": "5101",
+  "model": "DIY Tweed Champ 5F1 Head (11.5dBu)",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "5F1 Hi V-4 V1A Cap-None.nam",
+      "sha256": "d013bee735d5f8732cdd852f07a68b688cce342b402c62023f9cef7cf171961e",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-3 V1A Cap-25uF.nam",
+      "sha256": "5aa5d3f928811adcc4b068b946e2cb7cf31d67f7958b36f1412d9749a3655dcf",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-3 V1A Cap-None.nam",
+      "sha256": "132b4758dc69a2271b145ac710e6f5957b4732b7c81ae8ca8f251e4fad57ee66",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-4 V1A Cap-25uF.nam",
+      "sha256": "bac6801fc5f321a89fe1868388f3217bdf2af28241191cfcc4ad771112a7644a",
+      "gear": "amp"
+    }
+  ]
+}

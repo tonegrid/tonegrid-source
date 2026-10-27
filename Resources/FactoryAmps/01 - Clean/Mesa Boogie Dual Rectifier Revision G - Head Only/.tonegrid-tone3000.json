@@ -1,0 +1,18 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/mesa-boogie-dual-rectifier-revision-g-79106",
+  "tone_id": "79106",
+  "model": "Mesa Boogie Dual Rectifier Revision G",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] DREC.G-TUB-SPG-ORG-CLN Factory Clean - DI.nam",
+      "sha256": "36dcd523992a75be2403105113f7580b24b6c6a1624cf981788d76dc8db74e3c",
+      "gear": "amp"
+    }
+  ]
+}

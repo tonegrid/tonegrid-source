@@ -1,0 +1,27 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "",
+  "image": "thumbnail.jpg",
+  "gear": "amp_cab",
+  "maker": "Fender",
+  "model": "'62 Deluxe",
+  "description": "Fender '62 Deluxe full-rig captures by OutmodedElectronics: amp, speaker and microphone together, with no additional cabinet IR required. Bright-channel settings range from Clean to Edge in this collection. In the filenames, V is Volume and T is Tone; SM57 identifies the microphone. Input reference: 11.5 dBu; output reference: 11.7 dBu. Settings and calibration are taken from the supplied files; an exact public pack page was not found.",
+  "provenance": {
+    "basis": "Publisher-supplied NAM metadata and filenames",
+    "creatorUrl": "https://www.tone3000.com/outmodedelectronics/",
+    "exactPublicPackFound": false,
+    "retrieved": "2026-10-16"
+  },
+  "models": [
+    {
+      "file": "FR Fender 62 Deluxe Brt V-5 T-7 SM57b.nam",
+      "sha256": "c189393a0661ce453c0f66a98aafe4c8870380815b96cb6ff73df05b73f22b31"
+    },
+    {
+      "file": "FR Fender 62 Deluxe Brt V-6 T-7 SM57b.nam",
+      "sha256": "95e6cdaa65ebbeec45ef20b94b4f45cdb8133fea0209abdd2a81c38513bde8f3"
+    }
+  ]
+}

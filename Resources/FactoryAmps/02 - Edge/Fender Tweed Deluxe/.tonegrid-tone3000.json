@@ -1,0 +1,27 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "",
+  "image": "thumbnail.jpg",
+  "gear": "amp_cab",
+  "maker": "Fender",
+  "model": "Tweed Deluxe 5E3",
+  "description": "OutmodedElectronics 5E3 Tweed Deluxe full-rig captures, including speaker and Shure SM57 microphone. The selected Edge sounds use V1/V2/T settings of 7/0/8 with an A12Q speaker and 8/0/7 with a 12A125A speaker. V1 and V2 are the two channel volumes; T is Tone. Input and output references are both 11.5 dBu. No additional cabinet IR is required. These details come from the supplied filenames and NAM metadata; an exact public pack page was not found.",
+  "provenance": {
+    "basis": "Publisher-supplied NAM metadata and filenames",
+    "creatorUrl": "https://www.tone3000.com/outmodedelectronics/",
+    "exactPublicPackFound": false,
+    "retrieved": "2026-10-16"
+  },
+  "models": [
+    {
+      "file": "5E3 V1-7 V2-0 T-8 A12Q SM57.nam",
+      "sha256": "f901074c6c72f93e91ecd993589b31e5e8887e620b29d3c3339501ba3f00d554"
+    },
+    {
+      "file": "5E3 V1-8 V2-0 T-7 12A125A SM57.nam",
+      "sha256": "75e901304257296d44a90ddce14468e29bb1f060bd3aed5e8df324af55d6c597"
+    }
+  ]
+}

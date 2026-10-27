@@ -1,0 +1,38 @@
+{
+  "source": "tone3000",
+  "creator": "rxguitar",
+  "creator_username": "rxguitar",
+  "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178",
+  "tone_id": "100178",
+  "model": "Marshall 2555X Silver Jubilee Reissue Head",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "JUB2555X_03_DIR_CLN_50W_EdgeBreakup.nam",
+      "sha256": "8b4b8e9eafd3514e39819d69790bee00457c67856e0818b8bcd2821d3f35710b",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_04_DIR_CLN_DynBreakup.nam",
+      "sha256": "c167b1e3658b8876daae4402417c98441a77137562656e08419eab944f784fb1",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_05_DIR_CLN_Breakup_OD.nam",
+      "sha256": "5d80ceb31a96647ed18b9252c970504091bc01e1db185e750e79a5782c59d757",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_07_DIR_CRU_LightClip.nam",
+      "sha256": "0dc79a13e1a2b8142c3c480002578593e9fafbaacdea3bc1273b37c0956aee80",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_08_DIR_CRU_LightClip_OD.nam",
+      "sha256": "fddfd53b1e98575b35e1e4ec186c7e170fd9fe61ffe2d9e801ab0d24fa3d6b5c",
+      "gear": "amp"
+    }
+  ]
+}

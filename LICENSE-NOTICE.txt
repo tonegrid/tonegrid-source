@@ -1,0 +1,18 @@
+ToneGrid 1.1.44 publication review candidate
+Copyright (c) 2026 ToneGrid contributors.
+
+Original ToneGrid application code: AGPL-3.0-only; complete text in LICENSE.txt.
+Third-party code keeps its original licences and notices. See LICENSING.md,
+DEPENDENCIES.json, vendor notices and Resources/Licenses.
+
+NAM captures, cabinet IRs, presets, artwork, trademarks, lesson descriptions and
+thumbnails are separate content. No AGPL relicensing of those assets is claimed.
+This notice supersedes stale aggregate 1.1.24 capture counts for this staging
+candidate; it does not expand creator permissions or erase original notices.
+
+The current library inventory is 1355 amp captures, 151 pedal captures and 2248
+IRs. Source-only publication does not include NAM or IR audio files. Public
+runtime retrieval is documented in CONTENT.md and pinned in the public lock.
+
+Maintainer: L’équipe ToneGrid -- https://github.com/tonegrid
+Website: https://www.tonegrid.net

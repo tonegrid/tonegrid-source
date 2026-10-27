@@ -1,0 +1,76 @@
+{
+  "version": 3,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 22,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "tonegrid-windows",
+      "displayName": "ToneGrid 1.1.44 - Windows x64",
+      "generator": "Visual Studio 17 2022",
+      "architecture": "x64",
+      "binaryDir": "${sourceDir}/build-tonegrid-144",
+      "cacheVariables": {
+        "BUILD_TESTING": "ON",
+        "CMAKE_INSTALL_PREFIX": "${sourceDir}/install-tonegrid-144",
+        "CMAKE_SUPPRESS_REGENERATION": "ON"
+      }
+    },
+    {
+      "name": "tonegrid-mac",
+      "generator": "Unix Makefiles",
+      "binaryDir": "${sourceDir}/build-tonegrid-144-mac",
+      "cacheVariables": {
+        "BUILD_TESTING": "ON",
+        "CMAKE_BUILD_TYPE": "Release",
+        "CMAKE_INSTALL_PREFIX": "${sourceDir}/install-tonegrid-144-mac",
+        "CMAKE_OSX_ARCHITECTURES": "arm64"
+      }
+    },
+    {
+      "name": "tonegrid-linux",
+      "generator": "Unix Makefiles",
+      "binaryDir": "${sourceDir}/build-tonegrid-144-linux",
+      "cacheVariables": {
+        "BUILD_TESTING": "ON",
+        "CMAKE_BUILD_TYPE": "Release",
+        "CMAKE_INSTALL_PREFIX": "${sourceDir}/install-tonegrid-144-linux"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "tonegrid-release",
+      "configurePreset": "tonegrid-windows",
+      "configuration": "Release",
+      "jobs": 2
+    },
+    {
+      "name": "tonegrid-mac",
+      "configurePreset": "tonegrid-mac",
+      "jobs": 2
+    },
+    {
+      "name": "tonegrid-linux",
+      "configurePreset": "tonegrid-linux",
+      "jobs": 2
+    }
+  ],
+  "testPresets": [
+    {
+      "name": "tonegrid-isolation",
+      "configurePreset": "tonegrid-windows",
+      "configuration": "Release",
+      "filter": {
+        "include": {
+          "name": "^ToneGrid.Isolation$|^ToneGrid.Portability$"
+        }
+      },
+      "output": {
+        "outputOnFailure": true
+      }
+    }
+  ]
+}

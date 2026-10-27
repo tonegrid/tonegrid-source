@@ -1,0 +1,18 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/diezel-vh4-64455",
+  "tone_id": "64455",
+  "model": "Diezel VH4",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] DiZLVH4-CH2 Those Bones - DI.nam",
+      "sha256": "5190d2a68b4eb5e0b2631ab15ed1624d78374aac626bfd66f9ee7eb4773e629f",
+      "gear": "amp"
+    }
+  ]
+}

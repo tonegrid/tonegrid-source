@@ -1,0 +1,474 @@
+// ToneGrid adaptation, 2026-10-01: per-instance converters, reset, fixed wet endpoint.
+// AELAPSE-derived GPL-3.0 DSP; see UPSTREAM.json and distributed GPL notices.
+#include "Springs.h"
+#include "dsp/Buffer.h"
+#include "dsp/Context.h"
+#include "dsp/FastMath.h"
+#include "dsp/Orthogonal.h"
+#include "dsp/Utils.h"
+#include <algorithm>
+#include <cmath>
+#include <cstddef>
+#include <cstdlib>
+
+namespace processors
+{
+inline namespace DSP_ARCH_NAMESPACE
+{
+
+// Multirate converter storage belongs to each prepared instance.
+
+/* scipy.signal.cheby1(10,2,1,analog=True,output='sos') */
+static constexpr dsp::IIRFilter<Springs::mtype, 10>::SOS kSosAnalog = {{{
+    {0.f, 0.f, 0.00255383f, 1.f, 0.21436212f, 0.0362477f},
+    {0.f, 0.f, 1.f, 1.f, 0.19337886f, 0.21788333f},
+    {0.f, 0.f, 1.f, 1.f, 0.15346633f, 0.51177596f},
+    {0.f, 0.f, 1.f, 1.f, 0.09853145f, 0.80566858f},
+    {0.f, 0.f, 1.f, 1.f, 0.03395162f, 0.98730422f},
+}}};
+
+void Springs::reset()
+{
+    if (!x_) return;
+    memset(x_, 0, sizeof(mtype) * static_cast<size_t>(maxBlockSize_));
+    memset(bufferIn_.getData(), 0, sizeof(mtype) * decltype(bufferIn_)::kSize);
+    memset(bufferOut_.getData(), 0, sizeof(mtype) * decltype(bufferOut_)::kSize);
+    memset(bufferDec_.getData(), 0, sizeof(mtype) * decltype(bufferDec_)::kSize);
+    bufferIn_.rewind(); bufferOut_.rewind(); bufferDec_.rewind(); decimateId_ = 0;
+    allpassIntermediary_ = {}; for (auto& state : allpassState_) state = {};
+    lowpassState_ = {}; eqState_ = {}; dcblockerState_ = {};
+    allpassCoeff0_.reset(); allpassCoeff1_.reset(); loopGain_.reset();
+    lowpassFreqs_.reset(); lowpass_.fromAnalog(kSosAnalog, lowpassFreqs_.get());
+    dry_.reset(); wet_.reset(); loopTd_.finish(); loopModAmp_.finish(); predelay_.finish();
+    loopChaos_ = {}; loopChaosNoise_ = dsp::Noise<mtype>{0x534751};
+    dsp::INoise<mtype> noise{0x534750}; loopMod_.setPhase(noise.process());
+}
+
+void Springs::update(float r, float freq, float td, float t60, float tone,
+                     float chaos, float scatter, float width, float drywet,
+                     int blockSize)
+{
+    if (freq != freq_) {
+        setFreq(freq, blockSize);
+    }
+    if (r != r_) {
+        setRes(r, blockSize);
+    }
+    if (td != td_) {
+        setTd(td, blockSize);
+    }
+    if (chaos != chaos_) {
+        setChaos(chaos, blockSize);
+    }
+    if (t60 != t60_) {
+        setT60(t60, blockSize);
+    }
+    if (tone != tone_) {
+        setTone(tone, blockSize);
+    }
+    if (width != width_) {
+        setWidth(width, blockSize);
+    }
+    if (scatter_ != scatter) {
+        setScatter(scatter, blockSize);
+    }
+    if (drywet != drywet_) {
+        setDryWet(drywet, blockSize);
+    }
+}
+
+auto Springs::getDownSampledBlockSize(int blockSize) const
+{
+    auto rate = static_cast<int>(rateFactor_);
+    return (blockSize + rate - 1 - (rate - decimateId_) % rate) / rate;
+}
+
+void Springs::setFreq(float freq, int blockSize)
+{
+    auto freqScaled = freq * freqScale_;
+    auto rateFactor = static_cast<unsigned int>(kDecimateMaxFreq / freqScaled);
+    rateFactor = std::clamp(rateFactor, 1u, static_cast<unsigned int>(kMaxDecimate));
+
+    freqScaled *= static_cast<float>(rateFactor);
+
+    auto fFactor = 1.f + (kFreqFactor.load() - 1.f) * getScatterFactor();
+    auto freqs   = freqScaled * fFactor;
+    freqs        = dsp::min(mtype(0.995f).load(), freqs);
+    freqs        = dsp::max(mtype(0.005f).load(), freqs);
+    auto freqsAP = dsp::batch<mtype>::simdtype::convert(freqs);
+
+    if (r_ < 0) {
+        freqsAP /= 2;
+    }
+
+    auto oldRateFactor = rateFactor_;
+    rateFactor_        = rateFactor;
+    freq_              = freq;
+
+    if (rateFactor != oldRateFactor) {
+        decimateId_ = 0;
+
+        auto fM = static_cast<float>(rateFactor);
+
+        auto dcblockfreq = kDcBlockFreq * freqScale_ * fM;
+        dcblocker_.setFreq(dcblockfreq);
+
+        // we changed the feedbackloop delay with a smooth rate equal to it's
+        // value
+        setTd(td_, blockSize, td_);
+        setTone(tone_, blockSize);
+        setRes(r_, blockSize);
+
+        setNStages();
+    }
+
+    // update allpass freq
+    auto downSampledBlockSize = getDownSampledBlockSize(blockSize);
+    auto smoothRate           = 1.f / static_cast<float>(downSampledBlockSize);
+    allpass_.setFreq(freqsAP);
+    allpassCoeff1_.set(allpass_.getCoeff1(), smoothRate);
+    allpass_.setCoeff1(allpassCoeff1_.get());
+
+    // set new frequencies to lowpass filter
+    lowpassFreqs_.set(freqs, smoothRate);
+}
+
+void Springs::setRes(float r, int blockSize)
+{
+    bool signChanged = std::signbit(r) != std::signbit(r_);
+    r_               = r;
+
+    auto rFactor = 1.f + (kRFactor.load() - 1.f) * getScatterFactor();
+    auto rs      = dsp::abs(r_) * rFactor;
+
+    allpass_.setRes(dsp::batch<mtype>::simdtype::convert(rs));
+
+    auto downSampledBlockSize = getDownSampledBlockSize(blockSize);
+    auto smoothRate           = 1.f / static_cast<float>(downSampledBlockSize);
+
+    allpassCoeff0_.set(allpass_.getCoeff0(), smoothRate);
+    allpass_.setCoeff0(allpassCoeff0_.get());
+
+    if (signChanged) {
+        setFreq(freq_, blockSize);
+    }
+
+    setNStages();
+}
+
+void Springs::setTd(float td, int blockSize, float smoothSeconds)
+{
+    td_            = td;
+    float sampleTd = td * sampleRate_ / static_cast<float>(rateFactor_);
+
+    // prevent from going higher than buffer size
+    sampleTd = std::min(sampleTd, kMaxLoopLengthSeconds * kDefaultSamplerRate *
+                                      kDefaultSamplerRate / sampleRate_);
+
+    auto loopFactor = 1.f + (kLoopTdFactor.load() - 1.f) * getScatterFactor();
+    auto loopTd     = sampleTd * loopFactor;
+    auto loopModAmp = loopTd * kLoopModFactor;
+    loopChaosMod_   = loopTd * 0.07f * dsp::pow(chaos_, 2.5f);
+    // predelay is floored because because we don't want unwanted filtering from
+    // linear interpolation
+    auto predelayT = dsp::toFloat<float>(dsp::toInt(loopTd * .5f));
+
+    auto smoothLength = static_cast<int>(
+        sampleRate_ / static_cast<float>(rateFactor_) * smoothSeconds);
+    loopTd_.set(loopTd, smoothLength);
+    loopModAmp_.set(loopModAmp, smoothLength);
+    predelay_.set(predelayT, smoothLength / 2);
+
+    setT60(t60_, blockSize);
+}
+
+void Springs::setChaos(float chaos, int blockSize)
+{
+    chaos_ = chaos;
+    setTd(td_, blockSize);
+}
+
+void Springs::setTone(float tone, int /*blockSize*/)
+{
+    tone_ = tone;
+
+    auto eqPeak = dsp::expScale(kToneMin, kToneMax, tone) * freqScale_ *
+                  static_cast<float>(rateFactor_);
+    static constexpr auto kMaxEqPeak = 0.95f;
+    eqPeak                           = std::min(kMaxEqPeak, eqPeak);
+    eq_.setFreq(eqPeak);
+    eq_.setBandWidth(kEqBandWidth);
+}
+
+void Springs::setT60(float t60, int blockSize)
+{
+    t60_                      = t60;
+    auto downSampledBlockSize = getDownSampledBlockSize(blockSize);
+    auto smoothRate           = 1.f / static_cast<float>(downSampledBlockSize);
+    loopGain_.set(dsp::pow(0.001f, td_ / t60_), smoothRate);
+}
+
+void Springs::setWidth(float width, int blockSize)
+{
+    width_          = width;
+    auto theta      = dsp::constants<float>::pi_4 * (1.f - width_);
+    auto wet        = dsp::sin(dsp::constants<float>::pi_2 * drywet_);
+    auto wetchannel = dsp::cos(theta) * wet;
+    auto wetcross   = dsp::sin(theta) * wet;
+
+    float invBlockSize = 1.f / static_cast<float>(blockSize);
+    wet_.set({wetchannel, wetcross},
+             invBlockSize * static_cast<float>(rateFactor_));
+}
+
+void Springs::setDryWet(float drywet, int blockSize)
+{
+    drywet_            = drywet;
+    float invBlockSize = 1.f / static_cast<float>(blockSize);
+    float dry          = drywet == 1.f ? 0.f : dsp::cos(dsp::constants<float>::pi_2 * drywet);
+    dry_.set(dry, invBlockSize);
+
+    setWidth(width_, blockSize);
+}
+
+void Springs::setScatter(float scatter, int blockSize)
+{
+    scatter_ = scatter;
+    setTd(td_, blockSize);
+    setFreq(freq_, blockSize);
+}
+
+void Springs::setNStages()
+{
+    /* if abs(R) smaller than a certain value, reduce the cascade size
+     * this helps to avoid long ringing around allpass phasing frequency */
+    if (std::abs(r_) < kMinRWithMaxCascadeL) {
+        apNStages_ = static_cast<unsigned int>(
+            std::abs(r_) / kMinRWithMaxCascadeL * kApCascadeL);
+    } else {
+        apNStages_ = kApCascadeL;
+    }
+
+    // divide by rate factor
+    apNStages_ = (apNStages_ + rateFactor_ - 1) / rateFactor_;
+
+    // reset state in unused stages
+    for (size_t i = apNStages_; i < kApCascadeL; ++i) {
+        allpassState_[i] = {};
+    }
+}
+
+void Springs::process(const float *const *__restrict in,
+                      float *const *__restrict out, int count)
+{
+    assert(kDecimate != nullptr);
+    assert(kInterpolate != nullptr);
+
+    auto *inl  = in[0];
+    auto *inr  = in[1];
+    auto *inl2 = inl;
+    auto *inr2 = inr;
+    auto *outl = out[0];
+    auto *outr = out[1];
+
+    int blockSize = maxBlockSize_;
+
+    auto noise = loopChaosNoise_.process();
+    noise *= loopChaosMod_;
+    loopChaos_.set(noise, static_cast<int>(sampleRate_ * kChaosSmoothTime /
+                                           static_cast<float>(rateFactor_)));
+
+    while (count) {
+
+        blockSize = std::min(count, blockSize);
+
+        auto ctxtIn =
+            dsp::BufferContext(reinterpret_cast<float *>(x_) +
+                                   (static_cast<ptrdiff_t>(blockSize * 3)),
+                               blockSize, bufferIn_);
+        auto ctxtOut =
+            dsp::Context(reinterpret_cast<dsp::mfloat<2> *>(x_), blockSize);
+        auto ctxtdec = dsp::BufferContext(x_, blockSize, bufferDec_);
+
+        CTXTRUNVEC(ctxtIn)
+        {
+            auto mix = (ctxtIn.load(*inl) + ctxtIn.load(*inr)) * 0.5f;
+            ctxtIn.setOutput(mix);
+            inl += ctxtIn.getIncrSize();
+            inr += ctxtIn.getIncrSize();
+        };
+
+#ifdef SPRINGS_SHAKE
+        // shake springs
+        {
+            auto ctxt = ctxtIn;
+            for (int n = 0; n < ctxt.getBlockSize(); ++n, ctxt.next()) {
+                auto x = ctxt.getInput();
+                if (shakeEnv_.isRunning()) {
+                    auto env   = shakeEnv_.process();
+                    auto noise = shakeNoise_.process();
+                    auto shake = env * noise;
+                    x += shake;
+                    ctxt.setOutput(x);
+                } else {
+                    break;
+                }
+            }
+        }
+#endif
+
+        kDecimate->decimate(rateFactor_, ctxtIn, ctxtdec, dldecimate_,
+                            decimateId_);
+
+        CTXTRUN(ctxtdec)
+        {
+            auto x = ctxtdec.getInput();
+            predelaydl_.write(ctxtdec, x);
+
+            // if predelay is smoothed we use linear tap
+            if (predelay_.isActive()) {
+                predelayTap_.setDelay(predelay_.step());
+                x = predelayTap_.read(ctxtdec, predelaydl_);
+            }
+            // if it's fixed we use non interpolating tap
+            else {
+                dsp::TapNoInterp<mtype> &predelayTapNoInterp = predelayTap_;
+                x = predelayTapNoInterp.read(ctxtdec, predelaydl_);
+            }
+            ctxtdec.setOutput(x);
+        };
+
+        CTXTRUN(ctxtdec)
+        {
+            auto x = ctxtdec.getInput();
+
+            LoopType looptap;
+            auto mod   = loopMod_.process();
+            auto chaos = loopChaos_.step();
+
+            auto delay = loopTd_.step();
+
+            delay += mod * loopModAmp_.step() + chaos;
+            looptap.setDelay(delay);
+
+            auto loop = looptap.read(ctxtdec, loopdl_);
+
+            // householder transform
+            loop = dsp::householder(loop);
+
+            loopRippleDL_.write(ctxtdec, loop);
+            auto loopRipple = dsp::TapTail{}.read(ctxtdec, loopRippleDL_);
+
+            loopRipple += kLoopRippleGain * (loop - loopRipple);
+
+            x += loopRipple * loopGain_.step(ctxtdec);
+            ctxtdec.setOutput(x);
+        };
+
+        CTXTRUN(ctxtdec)
+        {
+            auto x = ctxtdec.getInput();
+            x *= kNonLinearityGain;
+            x = dsp::tanh(x);
+            x /= kNonLinearityGain;
+            ctxtdec.setOutput(x);
+        };
+        CTXTRUN(ctxtdec) { dcblocker_.process(ctxtdec, dcblockerState_); };
+
+        // allpass cascade
+        CTXTRUN(ctxtdec)
+        {
+            allpass_.setCoeff0(allpassCoeff0_.step(ctxtdec));
+            allpass_.setCoeff1(allpassCoeff1_.step(ctxtdec));
+            auto x = ctxtdec.getInput();
+
+            // shift intermediary values
+            // and set value as first entries of intermediary values
+            allpassIntermediary_ =
+                dsp::push(dsp::load(allpassIntermediary_), x);
+
+            // compute allpass filters
+            dsp::Context c1(&allpassIntermediary_);
+            for (size_t j = 0; j < apNStages_; ++j) {
+                allpass_.process(c1, allpassState_[j]);
+            }
+
+            // outout is last intermediary value
+            dsp::batch<mtype> allpassOutput =
+                dsp::shift<-(kN) * int(kApChainSize - 1)>(c1.getInput());
+            ctxtdec.setOutput(allpassOutput);
+
+            // write to loopback
+            x = ctxtdec.getInput();
+            loopdl_.write(ctxtdec, x);
+        };
+
+        CTXTRUN(ctxtdec)
+        {
+            eq_.process(ctxtdec, eqState_);
+
+            if (lowpassFreqs_.isActive()) {
+                lowpass_.fromAnalog(kSosAnalog, lowpassFreqs_.step(ctxtdec));
+            }
+            lowpass_.process(ctxtdec, lowpassState_);
+        };
+
+#ifdef SPRINGS_RMS
+        rms_.processBlock(ctxtdec, rmsStack_);
+#endif
+
+        auto ctxtdecOut = dsp::BufferContext(
+            reinterpret_cast<dsp::mfloat<2> *>(&x_[blockSize]) -
+                (static_cast<ptrdiff_t>(ctxtdec.getBlockSize())),
+            ctxtdec.getBlockSize(), bufferOut_);
+        CTXTRUNREV2(ctxtdec, ctxtdecOut)
+        {
+            ctxtdecOut.setOutput(dsp::reduce<2>(ctxtdec.getInput()));
+        };
+        CTXTRUN(ctxtdecOut)
+        {
+            auto mix = ctxtdecOut.getInput();
+
+            mix *= 2.f / kN;
+
+            dsp::mfloat<2> wetsig;
+            auto wet  = wet_.step(ctxtOut);
+            wetsig[0] = dsp::sum(wet * mix);
+            wetsig[1] = dsp::sum(wet * dsp::flip<1>(mix));
+
+            ctxtdecOut.setOutput(wetsig);
+        };
+
+        decimateId_ = kInterpolate->interpolate(
+            rateFactor_, ctxtdecOut, ctxtOut, dlinterpolate_, decimateId_);
+
+        CTXTRUN(ctxtOut)
+        {
+            auto wetsig = ctxtOut.getInput();
+            auto dry    = dry_.step(ctxtOut);
+            *outl       = *inl2 * dry + wetsig[0];
+            *outr       = *inr2 * dry + wetsig[1];
+            ++outl, ++inl2;
+            ++outr, ++inr2;
+        };
+
+        bufferIn_.nextBlock(ctxtIn);
+        bufferOut_.nextBlock(ctxtdecOut);
+        bufferDec_.nextBlock(ctxtdec);
+
+        count -= blockSize;
+    }
+
+    dry_.reset();
+    wet_.reset();
+    allpassCoeff0_.reset();
+    allpassCoeff1_.reset();
+    loopGain_.reset();
+    if (lowpassFreqs_.isActive()) {
+        lowpassFreqs_.reset();
+        lowpass_.fromAnalog(kSosAnalog, lowpassFreqs_.get());
+    }
+}
+
+} // namespace DSP_ARCH_NAMESPACE
+} // namespace processors

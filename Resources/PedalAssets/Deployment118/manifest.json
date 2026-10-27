@@ -1,0 +1,72 @@
+[
+  {
+    "source": "[local-build-path-omitted] Image Oct 2, 2026, 11_55_53 PM-1.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\classic_fuzz\\face.png",
+    "sha256": "27692863215428f1630ce7f914ad3e9cfc7ecef563671e777a8cd1c49d9c914c"
+  },
+  {
+    "source": "[local-build-path-omitted] Image Oct 2, 2026, 11_55_58 PM-2.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\treble_boost\\face.png",
+    "sha256": "90c744555c59f14bd781ed69948dc0c6737d51eb3bf9df49ac0b3d5edf0fd194"
+  },
+  {
+    "source": "[local-build-path-omitted] Image Oct 2, 2026, 11_56_02 PM-3.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\auto_wah\\face.png",
+    "sha256": "9a7878b7b062f12cf59af6e4fe83ca0cb31a0610259d64a6e46cb8ffb29a598e"
+  },
+  {
+    "source": "[local-build-path-omitted] Image Oct 2, 2026, 11_56_05 PM-4.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\studio_comp\\face.png",
+    "sha256": "5de612aa93375f6ed0b71a3c70e5304474fa5d9afd0af573d9c042e212b47cd8"
+  },
+  {
+    "source": "[local-build-path-omitted] Image Oct 2, 2026, 11_56_07 PM-5.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\horse_od\\face.png",
+    "sha256": "6a5c484c1cbe2148489f6b34d2921d560372c5500386b18a8be0f31cd3f9e604"
+  },
+  {
+    "source": "[local-build-path-omitted] Image Oct 2, 2026, 11_56_10 PM-6.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\808_od\\face.png",
+    "sha256": "3c0719541a097daa2a8a80b00b4aebe571830dd7979cfc7d0207510fabf04497"
+  },
+  {
+    "source": "[local-build-path-omitted] Image Oct 2, 2026, 11_56_13 PM-7.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\blues_od\\face.png",
+    "sha256": "a09ceed86ddaab02fbe6b115d10cf9622acdf9d3a6bebf3ef6136db6dc931988"
+  },
+  {
+    "source": "[local-build-path-omitted] Image Oct 2, 2026, 11_56_16 PM-8.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\filter_dist\\face.png",
+    "sha256": "fdb7cb348afb325e1d251c577c0a8b7779fd08d7f9053f0ed66f7628a5706553"
+  },
+  {
+    "source": "[local-build-path-omitted] Image Oct 2, 2026, 11_56_19 PM-9.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\orange_dist\\face.png",
+    "sha256": "b1cafa63d1f722c5be4233c2203e0cb966de8da620ff4839ddfb351444811b62"
+  },
+  {
+    "source": "[local-build-path-omitted] Image Oct 3, 2026, 12_06_00 AM.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\vintage_fuzz\\face.png",
+    "sha256": "a4c834e31c30704b71f552ab58b120eaaa8b4d4d2a16a7de45f9342277935fb0"
+  },
+  {
+    "source": "[local-build-path-omitted]",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\graphic_eq\\face.png",
+    "sha256": "e73435313a27e2374b9ca33e1e6a727ca673aac51e963d50ba2ac1f14bcbc592"
+  },
+  {
+    "source": "[local-build-path-omitted] Image Oct 2, 2026, 11_56_22 PM-10.png",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\pedals\\clean_boost\\face.png",
+    "sha256": "1c37f6ebad52470efa11bddf2419973d547f359113d75a938d6b6188be78b520"
+  },
+  {
+    "source": "[local-build-path-omitted]",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\shared\\slider_cap.png",
+    "sha256": "3b03d2c044b4021dc3991b5ebe273229c28523cf2dfe938e44033983b4e8b090"
+  },
+  {
+    "source": "[local-build-path-omitted]",
+    "asset": "Resources\\PedalAssets\\Deployment118\\assets\\background.png",
+    "sha256": "97c7acd09ed0d2a86cd08616a71854dda502028d6ab69d30a67172b4d28a5355"
+  }
+]

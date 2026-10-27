@@ -1,0 +1,28 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/mesa-boogie-dual-rectifier-revision-g-79106",
+  "tone_id": "79106",
+  "model": "Mesa Boogie Dual Rectifier Revision G",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] DREC.G-DIO-BLD-RED-MDN Alone I Stand - DI.nam",
+      "sha256": "6ed0738cc6cdccb0ecf2fc0963f5e277f5f5f22bed52659f0d73c2d760041e30",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] DREC.G-DIO-BLD-RED-MDN+ Field Pointers - DI.nam",
+      "sha256": "c06d5aff5a54adeadfcfdf54c845f1efb8c7ff65906edf500de4bade60e199d0",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] DREC.G-DIO-BLD-RED-VNT Factory Molten Red - DI.nam",
+      "sha256": "65f535777cef6699e1b501e082ee973017ea8c53b1481a895f2ad121b2e44528",
+      "gear": "amp"
+    }
+  ]
+}

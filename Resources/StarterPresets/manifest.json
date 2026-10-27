@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "startupSlot": 0,
+  "presets": [
+    {
+      "slot": 0,
+      "file": "slot-001.tonexrig",
+      "name": "John Mayer - Slow Dancing",
+      "sha256": "c045d8c0e34b21de4b647821efe3f36048c29be2a8efc143bc975e09fc1020aa",
+      "bytes": 3526
+    },
+    {
+      "slot": 1,
+      "file": "slot-002.tonexrig",
+      "name": "AC/DC - Back In Black",
+      "sha256": "f5eaf0f5a237ae531250a74a9526dc809d711e7b9a91e531f54fc2062128b8d9",
+      "bytes": 3735
+    },
+    {
+      "slot": 2,
+      "file": "slot-003.tonexrig",
+      "name": "Guns N' Roses - Sweet Child O' Mine",
+      "sha256": "2a68ba5c1a55a58a3945244155006b4d5b4755b1bf3cb1a702a1fd949f213b26",
+      "bytes": 3768
+    },
+    {
+      "slot": 3,
+      "file": "slot-004.tonexrig",
+      "name": "Pink Floyd - Comfortably Numb",
+      "sha256": "63126105d49b989ebd60e7d6fe14efa02d38f8cd6ce6ba8d553faa7c072d119b",
+      "bytes": 3475
+    },
+    {
+      "slot": 4,
+      "file": "slot-005.tonexrig",
+      "name": "The Police - Every Breath You Take",
+      "sha256": "5c1c3bad50c99af2663590613111f81cca33ccc1f6dde197fc926eae57a1c0a9",
+      "bytes": 3535
+    },
+    {
+      "slot": 5,
+      "file": "slot-006.tonexrig",
+      "name": "SRV - Little Wing",
+      "sha256": "8496f7636249c25a67b5fcbf15773081e312d072fda3788d85d6b7eacfa6d102",
+      "bytes": 3755
+    },
+    {
+      "slot": 6,
+      "file": "slot-007.tonexrig",
+      "name": "Jimi Hendrix - Hey Joe",
+      "sha256": "846a53858c76c2c543f7768f33d60ded89be9839d39b1b829883dbcedc96e7d3",
+      "bytes": 3700
+    }
+  ]
+}

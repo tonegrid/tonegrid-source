@@ -1,0 +1,27 @@
+{
+  "originalDevelopmentSnapshot": "4854b2a1ed3cca8059a95b9cf6120ca00f5ca0e5",
+  "applicationCPPSourceUnchanged": true,
+  "publicationOverlays": [
+    "CMakeLists.txt: source archive revision fallback",
+    "tools/factory-content.py: public checksum-pinned data and SDK retrieval",
+    "tools/package-windows.py and tools/package-mac-local.py: public/archive revision identity",
+    "Resources locks: public downloads and current source metadata overlay",
+    "publication documentation, draft gated CI and ignore rules",
+    "two metadata JSON files: personal input-image paths redacted; no runtime values changed",
+    "Tests/TestIsolationTests.h: separate fake production/test roots; application profile logic unchanged",
+    "Resources/FactoryAmps/hiwatt-64577-provenance.json: restore required original public metadata; include in 4060-record lock",
+    "installer/windows and installer tooling: unsigned per-user Review setup and lifecycle tests",
+    "tools/verify-resource-manifests.py: independently check catalogue requirements against download inventory",
+    "2026-10-27: owner-confirmed content scopes and original-art/contributed-preset licence documentation; application/runtime inputs unchanged",
+    "Publication lifecycle metadata updated after owner approval; Git normalizes designated text files to LF per the reviewed .gitattributes; vendor and resource bytes are preserved."
+  ],
+  "privateHistoryIncluded": false,
+  "currentToneBankNewerThanDistributedWindows": true,
+  "status": "APPROVED_FOR_PUBLICATION",
+  "maintainer": "L’équipe ToneGrid",
+  "profile": "https://github.com/tonegrid",
+  "rightsGate": "Owner content scopes/licences and source publication approved 2026-10-27. Third-party terms remain intact; public CI and SignPath eligibility/signing are separate pending work.",
+  "windowsApplicationBuilt": true,
+  "windowsInstallerTested": true,
+  "macCorrespondenceSeparate": true
+}

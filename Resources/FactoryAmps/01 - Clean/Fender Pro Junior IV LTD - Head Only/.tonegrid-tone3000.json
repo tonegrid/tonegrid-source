@@ -1,0 +1,38 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/fender-pro-junior-iv-ltd-4702",
+  "tone_id": "4702",
+  "model": "Fender Pro Junior IV LTD",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "Fender Pro Junior IV LTD V-4 T-4.nam",
+      "sha256": "dd3fdd0728f722cd6eb6d335609257d5093960c0ee22496442320c3285ef1651",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-4 T-6.nam",
+      "sha256": "87cb08dd44a98511149b3c8857cefe030995bd5fb9fbb5bd0e0fa908d30a4f38",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-4 T-8.nam",
+      "sha256": "ea5d25681e19b8d0d529421279eacc217413279ea4ed4b44857f0126ec959523",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-4 T-10.nam",
+      "sha256": "8a46fdc8ec54cfb7ddccf68c42b6ef4b96ec532bb8ae9bd19ab9bb649880f631",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-4 T-12.nam",
+      "sha256": "f01beb07f435559e2f505e7a44407076702e4fe4674b4891c1497f80171193ae",
+      "gear": "amp"
+    }
+  ]
+}

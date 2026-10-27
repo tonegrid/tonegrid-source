@@ -1,0 +1,593 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590",
+  "tone_id": "64590",
+  "model": "Supro Black Magick - Amp Head",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-9 SRL.nam",
+      "sha256": "2bacab463f0142e96bc620b4cf070a0df16fc3826c98197c290e12a723faa39b",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-8 SRL.nam",
+      "sha256": "bff8ef062e3051cdc438eed604d6d4a2d554ec456a08b3a0381bf16c7a8fdd99",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-10 SRL.nam",
+      "sha256": "b91fdf65648b9ffdfc029e68057439f721050003c06dabbb3d66d15d74251587",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-5 SRL.nam",
+      "sha256": "58633e39f1bbe5fabf190e62d89df93a5768de3422085adca2dc5e43f8b1126d",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-6 SRL.nam",
+      "sha256": "c01a371025d6da8316630902a18f2da2e4791b48808d74c1c62704fa10489f40",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-7 SRL.nam",
+      "sha256": "ec7fd4ebe101aaa00e92188164076b2d02b47e992f147638010b4af4d1ba7477",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-8 P12Q.nam",
+      "sha256": "7d2a6ba6478d8b400e9144e6ec6fe2963cace9319fb2e494c6f22dcb44a0f97c",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-7 P12Q.nam",
+      "sha256": "f9b2c110f0365817e7158d74cd9a2d07f5ce2af94d52a5745d1eadcb6664507a",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-5 P12Q.nam",
+      "sha256": "53ae15c05d840f144ae77bf37b53db21fb94727dbd476029f234806a2f7f3c74",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-3 SRL.nam",
+      "sha256": "33bc2cb30e0c329901118af2577d99eb20e45bd44dcc1d20b9c17496eff7852c",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-4 SRL.nam",
+      "sha256": "172f2754eb347542601efc78ed81952e644eaa444aef34fa01da7ac61561fd78",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-10 T-3 P12Q.nam",
+      "sha256": "7cc035d1964e15e3b380a2ca901c039af889d76a8bb2f1b17d8abf6ddb2d24fb",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-10 SRL.nam",
+      "sha256": "5384d0a4c3388e0b2db41f2bdafdcbc088b750d4979ec63f25dc674581f0a106",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-9 SRL.nam",
+      "sha256": "4cdb5c783ab25769eefcee86c4ef35d1dbe96ba883137067975bf90ebe661c55",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-8 P12Q.nam",
+      "sha256": "14f58f47fa646e45921fbd5e1b1ffeb21f152ec83f011fb86541f44c28dc75fc",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-7 P12Q.nam",
+      "sha256": "faa0fdc71aaad8caa966ac25a5dbcf4160a48d2d83797e3ad18afbcca03ed7c7",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-7 SRL.nam",
+      "sha256": "693bab3f5066fcd7dc808a809ff16f7e80fd12da1de1d337f0627096da9c117b",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-8 SRL.nam",
+      "sha256": "b5b9660c70f046eb96d0c01f6d002b7ebff6b7fcd9644df44a4375139ee989b5",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-6 SRL.nam",
+      "sha256": "4becfb3262b9389b3daede7e24383bb256427055b75649b15fa4cf562bb2df2e",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-4 SRL.nam",
+      "sha256": "696d41cd39625f30ebe99f8220e40e695952485df15056ed68458fbe6a601b3e",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-3 SRL.nam",
+      "sha256": "6973859d5a2b6d82ea92a54cddb43529fd3336e975bc41a4b076f19184bb9354",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-5 SRL.nam",
+      "sha256": "9a77d887752ed98d5a79576805b50308fa9eba77cc13e9fa08ccb7cec2494fd2",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-8 T-5 P12Q.nam",
+      "sha256": "d0ae66cde151aa9a27f4fc311d2aefabdde2cddd4912a9cc1ed2ad8be3484e31",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-10 SRL.nam",
+      "sha256": "b931df1a99ea426623142987505650e4a4a3bd6a307fb084d18e4a9e64a3c7c2",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-9 SRL.nam",
+      "sha256": "d5ffa93530f258a8931aacf40879287285f1bc65c1dac4e872c216182acc23e0",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-8 SRL.nam",
+      "sha256": "3075c36b343a71ca0fca48852646669a7fcbbb23a378d2a640d34cb5aa5b8b6a",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-7 SRL.nam",
+      "sha256": "20dc874cc562da8cb4724a3193ff6634a2a3dc4470109b12a1decd4a700ca387",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-6 SRL.nam",
+      "sha256": "3a922275595dec5d7b68bf55f55c3d542e4366a387203210091f309752cb603e",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-7 P12Q.nam",
+      "sha256": "23bc4ffadf21fe74cf53fef0ddb692d361c735f4412c16a6e25622fcb4429aac",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-5 SRL.nam",
+      "sha256": "b10c42d35a415523b8c61a4c016cb531c8de86a019d6ec3f8c60a74ac509d114",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-8 P12Q.nam",
+      "sha256": "f2d3af49cfd7ca27e480d62eac8b3d6f9a2abad6ccc5bdb1604fbfea9447256e",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-3 SRL.nam",
+      "sha256": "b5814ec50d4eae92c1848d655310978fd9bdba3ce73d28dde00a9ab670e74e88",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-4 SRL.nam",
+      "sha256": "d031ecbb2c61b057e85ebc0acfc8be586002e1aa62c66d4f84a0a3f6464a08c4",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-10 SRL.nam",
+      "sha256": "a86c5bdd0b1cd51ff0958ea5a2a239775e079620b4aae47728a8e3784c264863",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In2 V2-5 T-5 P12Q.nam",
+      "sha256": "e5f72abb62f08e9da7bc45a681715cbdf91abe145c718bacc1669209b87f3e5c",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-10 P12Q.nam",
+      "sha256": "09ff4a3176dc4bc5d964a9520fa19f97de74e794f17a24dfa3e2682552d395c8",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-7 SRL.nam",
+      "sha256": "5419991a2f8ffcbc650e3edc15d1b17d738cd9318749469a7c3927aeeef667d7",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-7 P12Q.nam",
+      "sha256": "e99e4957d8ae2e945b9ed91e1b7dc4617fabb9e9acd8a4fa6bbbeb6bbcb89219",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-8 P12Q.nam",
+      "sha256": "fda78207ac04d4ee815c11fb9df2beabae662013c6abadf2d57b86d29e2695ec",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-8 SRL.nam",
+      "sha256": "43b27ffdd668aab5f633135040bc6b04921a49399045a07cb49a8261dc53c642",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-9 SRL.nam",
+      "sha256": "86ea4e4a834977e6efd694009ceb995229d703f0d04d1404ea5f81a01bc893eb",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-5 SRL.nam",
+      "sha256": "b38efe7a9a4a51d2a24541c72b010bdce29528650f7b9c7ccf35f3a15525b5ad",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-5 P12Q.nam",
+      "sha256": "0feb6094507b09c8a260bc0b9408af696afedfefc7bcec1e602f02547d96d496",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-4 SRL.nam",
+      "sha256": "24a425417c85517243a4d07bff8117407886cb25cfccff822881af1ae0cde615",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-6 SRL.nam",
+      "sha256": "a1bc22e621abd36f5b17bdc686c21e957432ba4f3325fad2ccb4193cbc661cbd",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-10 T-3 SRL.nam",
+      "sha256": "7ab3b08003f492e7cd1dec365007d7346e15bdf9032b315002114ebd390ca87d",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-8 SRL.nam",
+      "sha256": "81d5430c9d1a59c89af46a654091ac4e82faf1402b4a349fb538e2c443be97d1",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-10 SRL.nam",
+      "sha256": "f934f63462e3f23959f23f7e961b809df25667a7de726d2c6161932aef6ae68d",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-9 SRL.nam",
+      "sha256": "cd67685bef315dc455c551b4ea41267ef50f00b9aed63aa6e55f73e891e8ace1",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-10 P12Q.nam",
+      "sha256": "fa3369bf3753aed53ceb35fca4afce027bfe52149c22e3b7be863b4b3aa0dfd4",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-7 P12Q.nam",
+      "sha256": "f70b86949a2061b630aaa7c37cf6646f079e887278ab04c8df432a65fa82936f",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-6 SRL.nam",
+      "sha256": "13dea822083c392cb3dcfed8decb4722584d2717f06a428b7b98c8c0e9c6c0fb",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-5 SRL.nam",
+      "sha256": "72bd6b042f417e523223bd09dfe497bfdfd6bbbb21ae6fa76ad596c94de6ef82",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-7 SRL.nam",
+      "sha256": "7a78b00f8a816d561cf7362db34c54411f4ba7873729b6fa3cadc306d9ae41f9",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-8 P12Q.nam",
+      "sha256": "b87f00d7eca4ab9b60b2f1ff2d5726f7967ea35787ad564be79bac595bf3a96e",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-10 SRL.nam",
+      "sha256": "da2d551a30d5a41977b294fb04bbe63893fca725970aca29afe095732ae90cee",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-4 SRL.nam",
+      "sha256": "7e025563c5b6d03b5dbfac9e17951fdf74785a94b386ace84a8c5b156d21b254",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-3 SRL.nam",
+      "sha256": "614c5b623344f95d9b1017857975ccc97e5a32ebe930c3b55abfc748ac889d42",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-8 T-5 P12Q.nam",
+      "sha256": "d18766f3f69b1999e14bbe85f02eabf83ba776bb0ae731e1726688c7f9f994bb",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-10 P12Q.nam",
+      "sha256": "c5cbfcdff7da2ea1cea7c0aad636ce8d0f10090f628b26fda38428d110bdae92",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-7 P12Q.nam",
+      "sha256": "32383bc951c4778f16388ca18fa60682e6ebe1a022cfb1b8e1d332e356d18487",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-7 SRL.nam",
+      "sha256": "940fc48903bec7d3df3827aa1513849c5b7f552419ced278e2a34ea135ad1ebb",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-8 P12Q.nam",
+      "sha256": "afd4fd4eaa50b4a347c636440a2b95e55459856e5c522e35f49ae5edb25849d0",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-8 SRL.nam",
+      "sha256": "9380d5145573bf05d881d08a133e0f6e76df80d121e44b3135ecf94096fc8296",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-9 SRL.nam",
+      "sha256": "15e75ea2a2ce04bcaac26fba65cb3cea340ee00d7ac6c6aa5e75c5da84d2c443",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-6 SRL.nam",
+      "sha256": "79dfe635ae7cfe8f061c10c9d2e06aee98bbc6a6000df10758826c4aa412ffdd",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-3 SRL.nam",
+      "sha256": "40e6dace11b603db0ccace4a2f49b2139b03340af43dbcf4cbabe4a76c5f5c91",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-4 SRL.nam",
+      "sha256": "eaf3051cb2859e794e3665b0b8215918842efcfe11af90497de587707df74bd3",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-5 P12Q.nam",
+      "sha256": "20ee0b1c1b259950c6774ad7d8f987a0ee18e242e99701431005035a8294bf49",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-5 T-5 SRL.nam",
+      "sha256": "2e3294ec3ac33eebd512b6cc9822e0afbf784e8030c6ec44ca7c5f4f0ff2e63f",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-10 SRL.nam",
+      "sha256": "f5211f65af6fdb3b98a901d65a650e5556a5cd903d625aa542c4c53fe9f49d4c",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-10 P12Q.nam",
+      "sha256": "0427d302af63b0ced0808815bf784b8f06e2b665a927c938594d397484e2d45c",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-9 SRL.nam",
+      "sha256": "0918e787a3439c7bcaeb13836e81de10a8865320dac69abb426f69e695c2750f",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-8 SRL.nam",
+      "sha256": "26074187f49fe5fc8a951db28d1a33569c39ee24b024e0910f683901a9f5a793",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-8 P12Q.nam",
+      "sha256": "e34c6e5ad416ca9f2da9e6fdc3e3e3fe04e724d506f35d065df2ac1f31fe9c4f",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-7 P12Q.nam",
+      "sha256": "93a50a3308d87e0a010b0e2a6cf1fbddbf858b10d43002164ade00a333830bb1",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-7 SRL.nam",
+      "sha256": "c6a3bd0cefacd37a063cf617dd2e42d7b34351ae29066b186be3db9796ac5e18",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-6 SRL.nam",
+      "sha256": "eb0b14825c8d959a08bd2f2d6b23adfc23bc41791d7205c99d1c52749e5b2002",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-5 SRL.nam",
+      "sha256": "b19cf2c2b698e3a222990b1c03a234bf8b9cfc582a10e96f348454d480e6fd6a",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-10 SRL.nam",
+      "sha256": "c14b0ba39811a88082643c19b3d940b9a26da36a2f4671b2315332312a73d2a8",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-5 P12Q.nam",
+      "sha256": "911332633809a3c7c5102bdf6bd5ff3636d0f0bc802b3268017b848fc70c3093",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-4 SRL.nam",
+      "sha256": "bd2690bf54cfa64872812b32ea8028b1685c8f13ab01124ce513366f04d3205f",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-10 V2-0 T-3 SRL.nam",
+      "sha256": "7bf2832940ac3ab4f617aaee7c62accc9d24cc172b27fc894a71ca77f1ee2816",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-7 P12Q.nam",
+      "sha256": "c112162c671de20bcb2c6820b6fde02ac232cf1645c43426eefdafe36748a239",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-9 SRL.nam",
+      "sha256": "f844ed2e99c06bc9f4793c0d352f0378627feb211e0b9a95bc2a30ed61080c17",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-7 SRL.nam",
+      "sha256": "e2208a53b11efa0b52baa13eb53ed395ac92172be5e7ec0c758aee75d79e930d",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-8 SRL.nam",
+      "sha256": "29249551af90d1c5b30a9e84b152ae44a7c7f0cfc0817ee38e7a011b9015a5b9",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-8 P12Q.nam",
+      "sha256": "10e2bd9426b9959a51b7773c0be53badd4df55f3410dd1d24b162e259816824c",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-4 SRL.nam",
+      "sha256": "116e837f44efa0c66b359fb59d5a63d7a71e4920dc47fbb18243c09c0a69f125",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-5 SRL.nam",
+      "sha256": "544ff72633c3e426888e46222b5d1f4c4c13a59d0caa4b07b9e2f6c8a1a06b2d",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-5 P12Q.nam",
+      "sha256": "592d659d38db41f147c8740588cd2a8c502cfbaee57e9f64714369768827f1f4",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-6 SRL.nam",
+      "sha256": "e08915983bf0a5abd6caccdadc51f4e1f378bfcb0067c1132be8174fe0f9621a",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-8 V2-0 T-3 SRL.nam",
+      "sha256": "5ac324e68bc76254f29fa5139f7472367feba8d6490f9babd4ffb16b86b1c954",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-9 SRL.nam",
+      "sha256": "81190a60cdd960c1da056a33588baf06e32baae010ec5e16c646f3c7ea408c54",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-8 SRL.nam",
+      "sha256": "fe7fe81e445b8b8d54aa4a2bedaf6e2b3bb74bc370e90ded2cb51a70a10b0aa3",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-10 SRL.nam",
+      "sha256": "6444c3b2c3bea24be7f459ba1dee0d7409b1649f45c4320d6207575d78a2ed7c",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-5 SRL.nam",
+      "sha256": "3c3b5e413d0809dff03c90df6ef8a3b334c6d24c8aa92842a4bb8808999e1565",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-6 SRL.nam",
+      "sha256": "049352e36e46c122c538a3f164df96f7c9e0d7a7c9428dbc6beeae66d93410a5",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-7 P12Q.nam",
+      "sha256": "6c6f5183d8b8a3bd8d17689d3615401d54d898eebad8b7c4f9b397913e067e91",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-8 P12Q.nam",
+      "sha256": "3059069bff5d884a966481e27e3387603b7fd087e45ca1935e741569db81cae7",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-7 SRL.nam",
+      "sha256": "0f2d937781165ecc77f59c8042980be41391f4127cc3c0a7682cea227a7f64bd",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-5 P12Q.nam",
+      "sha256": "1914f5988f5b719947a73bc9848e69d9ecfae10776096313262d9eb1f244a917",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-10 SRL.nam",
+      "sha256": "d040c582b3ae980bfd364eaa5e4275d5af7f9b945d7cff410631828044b1ceda",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-3 SRL.nam",
+      "sha256": "f217f44ea179e725ee1edc9b4ce0afef2830d46d4e92c11129a7a3ae50ab62c4",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-7 V2-0 T-4 SRL.nam",
+      "sha256": "811afa5622b98ad74c88325f4f3585ff9d13f6641f1f570284c837d33d9ffd4f",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-10 T-7 P12Q.nam",
+      "sha256": "41171a60eef57e3271403410f422cf7372e9aa799b7058faa0a59333526f7c50",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-7 SRL.nam",
+      "sha256": "77bfaf2863cd7cd6c1ba04d75023fa9c4fc2df1e57343fe0f15fb47a6ad991a5",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-9 SRL.nam",
+      "sha256": "cf157634a2ac34fbeecc6456f72991236be2080cb8e31ce5ec2d20954de2ee0e",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-8 P12Q.nam",
+      "sha256": "b8aec44874ce7bd9f8b74084471a4dbf612c62e1d43a4774fa61fda6ae8a6417",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-8 SRL.nam",
+      "sha256": "bd90b489517a54418b8885c3cc3202c105f895addfb2d905f32ada255c254313",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-7 P12Q.nam",
+      "sha256": "a60fc2301646848c6bf9960d30f27ff9f1fd59edc0b397ea710332d025bd84c7",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-5 SRL.nam",
+      "sha256": "980976fb88ba0cc5fc8f4e885e53c9c0a5820498deeb280622b7b24bb5bb1a72",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-4 SRL.nam",
+      "sha256": "eab68857ac8aa83071a6c78ea5b966f354a4b65fd03f0cf28ef3e898270f5028",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-5 P12Q.nam",
+      "sha256": "1dd014676c36a9dabd5d3a546e364a53368b7fe3a3d824874d1cbd0735298a29",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-6 SRL.nam",
+      "sha256": "b169c2cc209a7674a7ed34495cffd751f34076dbc110b3a0bd7386584bef4b8a",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Supro 1695TJ In1-2 V1-5 V2-0 T-3 SRL.nam",
+      "sha256": "060d53b895dedd0be1dde859cb6a5ae19643f07907ae53ab354ab37ef054da5f",
+      "gear": "amp"
+    }
+  ]
+}

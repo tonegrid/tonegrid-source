@@ -1,0 +1,78 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/50w-plexi-circuit-1987-lead-spec-no-bright-cap-5751",
+  "tone_id": "5751",
+  "model": "50W Plexi Circuit - 1987 Lead Spec - No Bright Cap",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "1987 No Brt V1-6 T-6 M-10 B-2 P-6.nam",
+      "sha256": "c20f9558e2ceda20aebbd58422bf0d310948f0e67eb17fd97a5f5ff09255c70c",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-8 T-6 M-10 B-2 P-6.nam",
+      "sha256": "25b16c0988f8132a3ccc3b9161c14b3e420dc53eb9e49e0d941f3b04c73df3f2",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-4 T-8 M-10 B-2 P-8.nam",
+      "sha256": "cbf28f11cd190159b1eb01372eb376819ff540ad1516b105828b2fa29553ac0b",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-6 T-8 M-10 B-2 P-8.nam",
+      "sha256": "8dc732ed409e0ca9d3b1dc9e0cd4bde03a2783a3ee38f221249e9da998dc1815",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-8 T-8 M-10 B-2 P-8.nam",
+      "sha256": "5475eca966fce935d746870996c8d394bfdfa50b36addd711946fcf99fc514fc",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-6 T-10 M-10 B-6 P-10.nam",
+      "sha256": "9ad4f803f77976451de39e57560c2dcf7ba1f93f8c805b315f86b20d640c4fa6",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-8 T-10 M-10 B-6 P-10.nam",
+      "sha256": "150edee3d1de1cf7483f81d375a1f3114a79201ecc22d64944bfd7c0993f800b",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-6 T-6 M-5 B-2 P-6.nam",
+      "sha256": "e301e1d3b43c488a822f82ddb87c1b749aeec4e1e43ce3ce4a235d0187d6c5e9",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-8 T-6 M-5 B-2 P-6.nam",
+      "sha256": "60b4bf0388456ee5f72a5c76827f04e093eadef89d87c589ae03dc6b098e7c57",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-4 T-8 M-10 B-4 P-8.nam",
+      "sha256": "f14f8cfa567a1d4c014fb29a10f2e07e11679b6453d24a7d2fd122ed4133f694",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-4 T-4 M-10 B-4 P-4.nam",
+      "sha256": "855b96de39ef13e05b03378ce62dbdb3d30122b2090b80e0a5a0948820c5815b",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-4 T-6 M-10 B-4 P-6.nam",
+      "sha256": "1e4d8c47aff9fdc4bef44bc1a35a10465c3e9dd3c7f13b73a23830fc6b0e6272",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-4 T-4 M-6 B-4 P-4.nam",
+      "sha256": "56b5f9d3d6bd585ea580be9baa5fa7c758b3ba97eb7d1baf84c81c8cf2df4948",
+      "gear": "amp"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "source": "tone3000",
+  "tone_id": 100112,
+  "title": "Fender Blues Junior Tweed",
+  "creator": "gloo",
+  "creator_id": "f5f1f64a-5afb-46fd-8740-b6ab293f08b4",
+  "url": "https://www.tone3000.com/tones/fender-tweed-amp-100112",
+  "license": "t3k",
+  "architecture": "2",
+  "format": "nam",
+  "gear": "amp-cab",
+  "models": [
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 01.nam",
+      "sha256": "86288f099bbcdd317d754286ddbe52f431e816aa63343c1323810a5710ae7d3f"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 10.nam",
+      "sha256": "cfc919a1695d150919c67148e0e1ef77482e578a14aa8a47b3390260c5afdd31"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 11.nam",
+      "sha256": "71e2dd7538bcfa34d70498ad6db87e102d4e74f55e5bf4dd097c371f93dd5267"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 13.nam",
+      "sha256": "c7a26d2da6e65be2d374daa77d8bac425c805f8f6e2b1f7feed22b66be3a644a"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 02.nam",
+      "sha256": "9c776c2e998c45bfb9b04e34bc229f8bee136ead81f55b2dbccf27ee7c88eb63"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 03.nam",
+      "sha256": "957be3edd05f7c79fc1c7153f409a68d3047869816ad0d25af59402ad00942dc"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 04.nam",
+      "sha256": "986229a233b313c3f55ae4a70fa36b56e3ecb631e4b90804e6174f5addfc4434"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 05.nam",
+      "sha256": "9474fa16fa6aadbec71bf9583b506ca808e00d3f8ed3ad89f24dc6c97ecaa256"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 06.nam",
+      "sha256": "d77c0d354953f1b1b6098c4ac47f635650a06b62942256efb3948774b1d14f13"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 07.nam",
+      "sha256": "dcd7c2749a221785f2c424c65357e55d03e46f6ce423327cef84016498484b76"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 08.nam",
+      "sha256": "e1b903c4dce37d55ef4a753182a9dfd91e912a1d294f0106358c29b854df47cb"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 09.nam",
+      "sha256": "643f7e8c3bb5220e2c4d7cbd8e0b787211d9d46f34a30c569eaba6bf97f185e0"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Dirty 12.nam",
+      "sha256": "4ce060b8ee2990c16302f548bf6aa381437f92297646e84b0d8b56c51cac2649"
+    }
+  ],
+  "image": "thumbnail.jpg",
+  "description": "This is the Fender Blues Junior Tweed Amp.\n\nThis is an amazing amp, where most modern amps have a scooped sound profile (likely due to the popularization of humbuckers), while this one retains the warm, thick, and very full sound that works wonders with single coils. This one being a 15W amp really surprised me with how well it sounds compared to amps a million times its size.\n\nI believe amps like this one were used on \"In Utero\", and I'm very lucky to have an opportunity to capture this one. In the next few days, I'll probably upload more takes with this amp.\n\nThis is an amp from a music shop where my friend works, and it was recorded with an SM57 in a DIY amp closet. In post, I just removed a bit of noise and used light EQ and compression to get the best tones. If you're curious, it costs around $850.\n\nToneGrid notes: publisher-authorized redistribution. Clean captures are filed under Clean; Dirty captures under Crunch. Every capture has a publisher-approved +12 dB input listening adjustment, applied automatically with Gain at 0 dB. This is not measured electrical calibration: input/output dBu references remain absent. Full output normalization is measured against the existing Marshall reference. Clean 07 is peak-limited and remains about 0.4 dB quieter on the reference DI. The category and numerical suffix identify the original capture, not measured amp knob positions.",
+  "maker": "Fender",
+  "model": "Blues Junior Tweed",
+  "creator_username": "gloo",
+  "downloaded_at": "2026-10-17T14:26:20.500+01:00",
+  "provenance": {
+    "basis": "Supplied creator sidecar, NAM metadata and filenames",
+    "creator": "gloo",
+    "sourceUrl": "https://www.tone3000.com/tones/fender-tweed-amp-100112",
+    "redistribution": "Publisher confirmed creator permission on 2026-10-17",
+    "inputCompensation": "Publisher explicitly approved +12 dB listening adjustment on all 20 files; not electrical calibration",
+    "artwork": "AI-generated illustration for ToneGrid, not a capture-session photograph",
+    "classification": "Clean filenames -> 01 - Clean; Dirty filenames -> 03 - Crunch"
+  }
+}

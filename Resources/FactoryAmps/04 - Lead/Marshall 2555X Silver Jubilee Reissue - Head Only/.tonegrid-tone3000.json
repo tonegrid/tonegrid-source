@@ -1,0 +1,73 @@
+{
+  "source": "tone3000",
+  "creator": "rxguitar",
+  "creator_username": "rxguitar",
+  "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178",
+  "tone_id": "100178",
+  "model": "Marshall 2555X Silver Jubilee Reissue Head",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "JUB2555X_13_DIR_LEAD_HardRock.nam",
+      "sha256": "52ea676ebdbd7d185874d470b771d7ea0744e7b25e1730ab0775e66b4727a675",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_14_DIR_LEAD_ModernTight.nam",
+      "sha256": "da5bd1b9288e0cbcc524c60c388e55ed2176f907519754db9cfef6bb00914a83",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_15_DIR_LEAD_DiodeHeavy.nam",
+      "sha256": "22f4ed40039c1010fef2a8790b72ffce4dc874d982eee65a485192a961c46ad8",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_16_DIR_LEAD_ModernHeavy_TS.nam",
+      "sha256": "8615afb532458cbb96134b469607a62df109fc6f636e0d4a4c7fc2bf2eaf43cd",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_17_DIR_LEAD_MidScoop_TS.nam",
+      "sha256": "4b4fe8731a38b3e1787bafc62d883dc3e448294e9723753db23d161f45abc19c",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_18_DIR_LEAD_BayArea_TS.nam",
+      "sha256": "394e787042acbaa127c4a0dc75ea6a05ceb7f20eff9ce82632a5bd955539c445",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_19_DIR_LEAD_Jubilee.nam",
+      "sha256": "755edca68066eac6b521ffdef09f88526fe1614992b815668606a8a16ca93800",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_20_DIR_LEAD_Jubilee_OD.nam",
+      "sha256": "734fac2fb4982901e17d089fd34b8463285af31db8f853ebb741cb336c11c1ad",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_21_DIR_LEAD_50W_Fusion_OD.nam",
+      "sha256": "86524faf3475d3b00b406e3ee0debdb2b83aeeee71c1c5f997c1bd6ec588a448",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_22_DIR_LEAD_50W_SingingVocal.nam",
+      "sha256": "a6496ce451065f2f852b493dfd5510851e69ef12a2565255c47ffcea7c5c4cd2",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_23_DIR_LEAD_50W_LiquidSolo.nam",
+      "sha256": "be46999245a89838222abe81c67dbd17661294e0620f7b36bd796859c5370630",
+      "gear": "amp"
+    },
+    {
+      "file": "JUB2555X_24_DIR_LEAD_Shred_TS.nam",
+      "sha256": "f6d7154f11533de90ec3b8d78d183e20897850ac24da8bd372739947ef654dbc",
+      "gear": "amp"
+    }
+  ]
+}

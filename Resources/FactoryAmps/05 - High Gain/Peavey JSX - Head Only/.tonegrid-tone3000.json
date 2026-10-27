@@ -1,0 +1,93 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/peavey-jsx-amp-head-67214",
+  "tone_id": "67214",
+  "model": "Peavey JSX - Amp Head",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "DI JSX Ult G-5 T-5.5 M-5.5 B-4 Ma-1 P-3 R-7 SRL.nam",
+      "sha256": "d0d219393ebcce290fc5c5984406c67c717b73b8f844523160f24492b0cdc71e",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-5 T-5.5 M-5.5 B-4 Ma-1 P-3 R-7 Fat SRL.nam",
+      "sha256": "7ccc92d83ab61780cf06188d62c2f38f6c586412452fdab8bbc2d5683a8979a0",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-6 M-6 B-6 Ma-1 P-4.5 R-4.5 SRL.nam",
+      "sha256": "cb653152d8f36b65fbc4174e57c423c80d6054d821055c22ebd17f10419c12aa",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-6 M-6 B-6 Ma-1 P-4.5 R-4.5 Fat SRL.nam",
+      "sha256": "d4e2196cb7f9f379269fcc0dca0c0bbefbf6f2fa1a9c43c92169ee643f237eee",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-5.5 M-3 B-5.5 Ma-1 P-6 R-5 SRL.nam",
+      "sha256": "f5ce0a8628b4ab764eadd0198e647aae9cfcc944fb853f42b100af0f22bfffec",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-5.5 M-3 B-5.5 Ma-1 P-6 R-5 Fat SRL.nam",
+      "sha256": "400560c23278e910e55109ea038527c3be0e7263dcaef6026501d16ecad2b423",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-4 M-5-B-6 Ma-1 P-5 R-2 SRL.nam",
+      "sha256": "f0e7fcb7cf0fabea58ff42ab205854de09a603f4e08620aa265d6978e52e4b0a",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-4 M-5-B-6 Ma-1 P-5 R-2 Fat SRL.nam",
+      "sha256": "0f50c3235bc52145209ac091b053d6ae89cab9c69a2e34d2c6c2c051ca6cec29",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-5 M-4 B-6 Ma-1 P-3 R-5 SRL.nam",
+      "sha256": "79de91db93f895bb8a882be19ba399539b3618fc840d374e6595ff1e6e339fb0",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-5 M-4 B-6 Ma-1 P-3 R-5 Fat SRL.nam",
+      "sha256": "70b2d7f4341976607ec70dee9882e72b94f83300cf39f451ff10bc5107c6d281",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-5 M-5 B-5 Ma-1 P-6 R-6 SRL.nam",
+      "sha256": "ee7b1e8e091b76c7f6f9ea1295b6f63c9eac9cf0c975530203896d3ac468d51a",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-5 M-5 B-5 Ma-1 P-6 R-6 Fat SRL.nam",
+      "sha256": "97b336a57def9c1934b6fc2ce0e4a913746d032fb82ee9fd705f969a62f62609",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-6 M-4 B-7 Ma-1 P-2 R-3 SRL.nam",
+      "sha256": "8a343ce800392f806926c2e58a31c85ee3ec050c128d6c43e1319d2cf9681f0b",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-6 M-4 B-7 Ma-1 P-2 R-3 Fat SRL.nam",
+      "sha256": "57b69efeb8c1e07af7e2e71b39ab9d53bd904b102674c4e3884a69c558693906",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-5 M-5-B-5 Ma-1 P-3 R-4 SRL.nam",
+      "sha256": "57aa91712a5044584f1a877e20948191c178d1455e53700134b48837cb529718",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Ult G-4 T-5 M-5-B-5 Ma-1 P-3 R-4 Fat SRL.nam",
+      "sha256": "673e283405f9d2cb448d411b20a96c44303271624688fdcb5997cc8c54e96cad",
+      "gear": "amp"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/50w-plexi-circuit-1987-lead-spec-no-bright-cap-5751",
+  "tone_id": "5751",
+  "model": "50W Plexi Circuit - 1987 Lead Spec - No Bright Cap",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "1987 No Brt V1-2 T-6 M-5 B-2 P-6.nam",
+      "sha256": "b2e74c1b35c1cf8d210a3765f29426d048f9040ecbe8204bb0eb4b228e6f74d2",
+      "gear": "amp"
+    },
+    {
+      "file": "1987 No Brt V1-2.5 T-6 M-1 B-4 P-6.nam",
+      "sha256": "97b559e51675c0396fbd55eb5586977b424d2cb54cbb158d71512aed8fced73b",
+      "gear": "amp"
+    }
+  ]
+}

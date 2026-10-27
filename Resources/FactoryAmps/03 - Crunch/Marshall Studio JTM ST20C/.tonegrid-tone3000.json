@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "source": "tone3000",
+  "tone_id": 92047,
+  "title": "Marshall Studio JTM ST20C",
+  "creator": "rxguitar",
+  "creator_id": "0ce9d9ac-8636-4c41-b0e9-0fd5b5f1b3ee",
+  "url": "https://www.tone3000.com/tones/marshall-studio-jtm-st20c-92047",
+  "license": "t3k",
+  "architecture": "2",
+  "format": "nam",
+  "gear": "amp-cab",
+  "models": [
+    {
+      "file": "JTM20_02_FULL_JMP_Crunch-Ref.nam",
+      "sha256": "5bd731c16f50e9398a318432e7ad89f29c9132fc2f387ca7e97b2c41d2f43c2b"
+    },
+    {
+      "file": "JTM20_03_FULL_JMP_Heavy-Crunch.nam",
+      "sha256": "f2d003a6af42865f4606f9af3f9dbf2f18a51a24990691786dcea35c8c810ae3"
+    },
+    {
+      "file": "JTM20_05_FULL_JMP_Woolly-Rhythm.nam",
+      "sha256": "017fd0836980e3b2b4625afc30c60ce9c89361fdcc6a1d46dd844253be1a1ef7"
+    },
+    {
+      "file": "JTM20_06_FULL_JMP_Crunch-5W.nam",
+      "sha256": "96c93d6ba9148aa6fdcb28f87cf0aa8159314ed576638fb630919f9278c83142"
+    },
+    {
+      "file": "JTM20_09_FULL_HT_Crunch.nam",
+      "sha256": "14cb6b6443daf769bbf3dcb06f0dca25880e07fb3f4355d6816d4853bd3302ac"
+    },
+    {
+      "file": "JTM20_10_FULL_HT_Crunch-Scoop.nam",
+      "sha256": "ba0c86c4fc219a058f24a8cb7779184539dd40eff8d51325f44bda38e48552b4"
+    },
+    {
+      "file": "JTM20_11_FULL_HT_HardRock.nam",
+      "sha256": "5c3aed6b0646779607bc842f95beeac629d6428328b6d2427c0337cd0486eaea"
+    },
+    {
+      "file": "JTM20_12_FULL_HT_Dimed.nam",
+      "sha256": "76d78a7756a34596b9021de036fe69bf28928bcb95cf8afd121b13eb3270391a"
+    },
+    {
+      "file": "JTM20_15_FULL_JMP_Crunch_Keeley-TS.nam",
+      "sha256": "7a1c391427bc62e4472605670f517c99bb6cbc9d7d3afd9a0bdd906260601af8"
+    },
+    {
+      "file": "JTM20_16_FULL_JMP_Crunch_Keeley-ODR.nam",
+      "sha256": "789db26dec2e7cdf9d606fde3630cbf20aa656ed3d08cafc7f8658a3b251c79b"
+    },
+    {
+      "file": "JTM20_17_FULL_JMP_Crunch_Keeley-Hyb.nam",
+      "sha256": "948fb2a027c4e5f68162307da88a6bbd3ac40677885c64b7d83c33f76bccd0b5"
+    },
+    {
+      "file": "JTM20_18_FULL_JMP_Mid-Focus.nam",
+      "sha256": "395f2c03d8d9df9718a7e19034be9275ff8b3adab3615ae16f6dfac659a45e07"
+    }
+  ],
+  "image": "thumbnail.jpg",
+  "description": "🔊 This pack contains 19 Neural Amp Modeler (NAM) profiles captured from a Marshall Studio JTM ST20C combo using a controlled, studio-grade reamping workflow. The goal is to deliver accurate, touch-sensitive, and consistent profiles reflecting the real dynamic behavior of the JTM45 circuit, available in both Direct and Full Rig (mic'd) formats.\n\n🎚️ To maintain tonal coherence across the collection, Presence values were fine-tuned specifically for each gain level to tame harsh high frequencies, while keeping microphone placement identical throughout the session.\n\n🎛️ Gain staging & Calibration\nThese profiles were captured using mathematically verified reference levels:\n- Input Calibration (Send): +7.5 dBu\n- Output Calibration (Return): +3.8 dBu\n\n🔀 Studio-grade Reamping Chain\nThe signal is routed through a precision reamping chain designed to preserve pure guitar impedance, attack dynamics, and transient integrity:\n- Interface: MOTU M4 (ESS Sabre32 Ultra DAC line out @ +16 dBu)\n- Reamp Box: Radial X-Amp (Active Class-A buffer & transformer isolation)\n- Cabling: EBS High Performance shielded, low-capacitance patch cables to eliminate noise and capacitive loss.\n\n🎙️ Microphone setup (Full Rig captures)\nThe combo's internal Celestion G12M-65 Creamback speaker was captured using a Sennheiser e906 set to flat voicing. \n- Position: Placed 3 cm from the grille cloth, targeted directly at the cap edge (dome/cone junction).\n- Angle: Angled slightly off-axis toward the outer cone to smooth out aggressive high-end fizz while retaining punchy midrange bite and transient definition.\n- Preamp: MOTU M4 ultra-clean preamp for transparent dynamics and low noise.\n\n📂 Pack structure (19 profiles — available in DIR and FULL)\n\n🟢 #01 to #06 — Jumped Channel Versatility\nInputs bridged with EBS patch cabling (Loudness 1 + Loudness 2)[cite: 4]. Covers warm jumped cleans, reference vintage breakup, fat woolly rhythms, and 5W attenuated crunch.\n\n🟡 #07 to #12 — High Treble Channel (Lead / Plexi)\nPure High Treble input[cite: 4]. Ranges from pristine edge-of-breakup chimes (#07–#08) to classic rock crunch (#09–#11) and full-tilt vintage roar with \"Plexi Dimed\" (#12).\n\n🔵 #13 & #14 — Normal Channel (Deep & Sag)\nWarm, dark cleans and vintage power-tube sag characteristics.\n\n🟣 #15 to #17 — Keeley Noble Screamer Boosts\nJumped crunch pushed by the Keeley Noble Screamer (TS and ODR hybrid analog circuits) for tight modern lead and rhythm articulation.\n\n👑 #18 & #19 — Custom Voicings\n- #18 Mid-Focus Crunch: Punchy, midrange-forward crunch dialed to cut through dense band mixes.\n- #19 Pedal Platform Deep: High-headroom clean with tailored low-end and tamed presence, voiced specifically to take high-gain distortion pedals cleanly.\n\n🎯 Purpose of the pack\nDesigned for guitarists seeking an authentic, responsive vintage Marshall experience with zero guesswork. Load the Full Rig profiles to play instantly, or pair the Direct captures with your favorite IRs.",
+  "maker": "Marshall",
+  "model": "Studio JTM ST20C",
+  "creator_username": "rxguitar",
+  "downloaded_at": "2026-10-16T22:03:34.342+01:00",
+  "provenance": {
+    "basis": "Creator pack description and supplied NAM metadata",
+    "sourceUrl": "https://www.tone3000.com/tones/marshall-studio-jtm-st20c-92047",
+    "retrieved": "2026-10-17",
+    "artwork": "Illustrative thumbnail generated for ToneGrid; not a capture-session photograph",
+    "classification": "Publisher classification from filenames and creator gain-stage descriptions"
+  }
+}

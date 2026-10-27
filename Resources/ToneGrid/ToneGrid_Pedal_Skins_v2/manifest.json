@@ -1,0 +1,381 @@
+{
+  "app": "ToneGrid",
+  "version": 2,
+  "assets": [
+    {
+      "id": "01_classic_fuzz",
+      "name": "Classic Fuzz",
+      "file": "01_classic_fuzz.png",
+      "type": "NAM capture",
+      "knobs": [
+        "Input trim",
+        "Mix",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 1,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        444,
+        140,
+        196,
+        270
+      ],
+      "content_rect_xywh": [
+        13,
+        8,
+        197,
+        272
+      ],
+      "sha256": "24373ef8c8213b5dd8274a474043829a0a6efbbf414f3aa63f5afdf88c04a79b"
+    },
+    {
+      "id": "02_treble_boost",
+      "name": "Treble Boost",
+      "file": "02_treble_boost.png",
+      "type": "NAM capture",
+      "knobs": [
+        "Input trim",
+        "Mix",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 2,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        662,
+        140,
+        192,
+        270
+      ],
+      "content_rect_xywh": [
+        15,
+        8,
+        193,
+        272
+      ],
+      "sha256": "f65f59023dfa684b0cf7e709175de09f1679f4adfa64ab3f11f2666a7ccfc601"
+    },
+    {
+      "id": "03_auto_wah",
+      "name": "Auto Wah",
+      "file": "03_auto_wah.png",
+      "type": "algorithmic",
+      "knobs": [
+        "Sensitivity",
+        "Range",
+        "Decay"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 3,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        875,
+        140,
+        191,
+        270
+      ],
+      "content_rect_xywh": [
+        16,
+        8,
+        192,
+        272
+      ],
+      "sha256": "928f588ff5b8234ca005fea365f0994c3c8bb7f24caa5e4d83333cc3d99bc361"
+    },
+    {
+      "id": "04_studio_comp",
+      "name": "Studio Comp",
+      "file": "04_studio_comp.png",
+      "type": "algorithmic",
+      "knobs": [
+        "Threshold",
+        "Ratio",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 4,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        1088,
+        140,
+        189,
+        270
+      ],
+      "content_rect_xywh": [
+        17,
+        8,
+        190,
+        272
+      ],
+      "sha256": "0ffe38b8275d6d1c60e59a22dc9d0d4ab3c129dfc126ed1c46b35ae18da9d8f4"
+    },
+    {
+      "id": "05_transparent_od",
+      "name": "Transparent OD",
+      "file": "05_transparent_od.png",
+      "type": "NAM capture",
+      "knobs": [
+        "Input trim",
+        "Mix",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 5,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        1298,
+        140,
+        212,
+        270
+      ],
+      "content_rect_xywh": [
+        8,
+        11,
+        208,
+        265
+      ],
+      "sha256": "f8082864258a0714279b83f31191338f800469240ce021122a4cb811d57f9ecb"
+    },
+    {
+      "id": "06_horse_od",
+      "name": "Horse OD",
+      "file": "06_horse_od.png",
+      "type": "NAM capture",
+      "knobs": [
+        "Input trim",
+        "Mix",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 6,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        1534,
+        140,
+        204,
+        270
+      ],
+      "content_rect_xywh": [
+        9,
+        8,
+        206,
+        272
+      ],
+      "sha256": "767d19d38e7baa4bffa652c2f0152be70d76af4f06ee922ef4f28dcc6b01f737"
+    },
+    {
+      "id": "07_808_od",
+      "name": "808 OD",
+      "file": "07_808_od.png",
+      "type": "NAM capture",
+      "knobs": [
+        "Input trim",
+        "Mix",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 7,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        37,
+        494,
+        208,
+        283
+      ],
+      "content_rect_xywh": [
+        12,
+        8,
+        200,
+        272
+      ],
+      "sha256": "84d467ec6a3384260586ee553dc9c73aea52167b99bf7e2374d89d059f905f51"
+    },
+    {
+      "id": "08_blues_od",
+      "name": "Blues OD",
+      "file": "08_blues_od.png",
+      "type": "NAM capture",
+      "knobs": [
+        "Input trim",
+        "Mix",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 8,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        272,
+        494,
+        210,
+        283
+      ],
+      "content_rect_xywh": [
+        11,
+        8,
+        202,
+        272
+      ],
+      "sha256": "80c105ec2c17ee601c2dbf462bb5199f475de1c71e8734190b45712a5a847aa0"
+    },
+    {
+      "id": "09_filter_dist",
+      "name": "Filter Dist",
+      "file": "09_filter_dist.png",
+      "type": "NAM capture",
+      "knobs": [
+        "Input trim",
+        "Mix",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 9,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        513,
+        495,
+        224,
+        282
+      ],
+      "content_rect_xywh": [
+        8,
+        13,
+        208,
+        262
+      ],
+      "sha256": "ef611804a66fd901da0e90a0711a65feb9a6e80669dccd61b046a4574d005f71"
+    },
+    {
+      "id": "10_orange_dist",
+      "name": "Orange Dist",
+      "file": "10_orange_dist.png",
+      "type": "NAM capture",
+      "knobs": [
+        "Input trim",
+        "Mix",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 10,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        770,
+        494,
+        217,
+        283
+      ],
+      "content_rect_xywh": [
+        8,
+        8,
+        208,
+        271
+      ],
+      "sha256": "09f9b09bea81abe04bd53221a532d14597abc816e83607f6d4aa2fdc2ee28807"
+    },
+    {
+      "id": "11_vintage_fuzz",
+      "name": "Vintage Fuzz",
+      "file": "11_vintage_fuzz.png",
+      "type": "NAM capture",
+      "knobs": [
+        "Input trim",
+        "Mix",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 11,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        1015,
+        494,
+        223,
+        283
+      ],
+      "content_rect_xywh": [
+        8,
+        12,
+        208,
+        264
+      ],
+      "sha256": "12710b51eff5193d03458a650848177b2db00f4d36b783a46e7980d7e357cd98"
+    },
+    {
+      "id": "12_graphic_eq",
+      "name": "Graphic EQ",
+      "file": "12_graphic_eq.png",
+      "type": "algorithmic",
+      "knobs": [
+        "Low",
+        "Mid",
+        "High"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 12,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        1269,
+        494,
+        221,
+        283
+      ],
+      "content_rect_xywh": [
+        8,
+        11,
+        208,
+        266
+      ],
+      "sha256": "8b21bdead2ec8ea6eee307c3b4fbad430d33f1b1e19828925dd592b359c95700"
+    },
+    {
+      "id": "13_clean_boost",
+      "name": "Clean Boost",
+      "file": "13_clean_boost.png",
+      "type": "algorithmic",
+      "knobs": [
+        "Boost",
+        "Mix",
+        "Level"
+      ],
+      "usage": "Use as the enclosure/background skin. Overlay all live controls in JUCE.",
+      "order": 13,
+      "width": 224,
+      "height": 288,
+      "source_crop_xywh": [
+        1518,
+        494,
+        222,
+        283
+      ],
+      "content_rect_xywh": [
+        8,
+        11,
+        208,
+        265
+      ],
+      "sha256": "a3580c6df131e362f0228dde754aa493ce58ae96785890c9db8abbed9e938486"
+    }
+  ],
+  "source": {
+    "file": "ChatGPT Image Sep 28, 2026, 10_52_47 PM.png",
+    "width": 1774,
+    "height": 887,
+    "sha256": "ccc45b3081507fb92afcff86a78249f673a2135171a69e9cf7b86fd241a3384e"
+  },
+  "image_policy": "Exact source crops; aspect-preserving resampling into 224x288 RGBA canvases. Transparent outer padding; original dark corner background and enclosure shadows retained inside each crop. No generated or reconstructed artwork.",
+  "excluded_modules": [
+    "Guitar In",
+    "Noise Gate"
+  ]
+}

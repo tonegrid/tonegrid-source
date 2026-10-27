@@ -1,0 +1,153 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/diy-tweed-deluxe-5e3-head-115dbu-4976",
+  "tone_id": "4976",
+  "model": "DIY Tweed Deluxe 5E3 Head (11.5dBu)",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "5E3 In1 V1-2 V2-2 T-6.nam",
+      "sha256": "8fcb41dea5c00d1f6b2129457a89a5dc21b1d904a50724a26990767379835ae6",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-7 T-4.nam",
+      "sha256": "a0b60d2fe7b4d286dd3c8056d3102aa0e68cd57b9374d603a9739c316e77fdf1",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-0 T-6.nam",
+      "sha256": "45f16cc2edfa23af106cb397c5648933033e0df66e72f35b8bce7bb7e80d0604",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-7 T-2.nam",
+      "sha256": "b83b9f3f7c5ef65902093582cf5669df0fd70f4569ec014c7d5fecdc50987669",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-5 T-10.nam",
+      "sha256": "1e0bb5154570b05a9be05539a3a4455372f1e13900de8c4562ef94f3eb32515d",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-0 T-4.nam",
+      "sha256": "945a9959c832ca90fe75dae38d84189aa562cd4baf50fcebbbff0b19faa950ed",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In2 V1-0 V2-8 T-4.nam",
+      "sha256": "cfe2dd2194d007439584231db322ac2b3e66d2217e20ef41ab8f550194fc2228",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-7 T-6.nam",
+      "sha256": "f3020d2f23228a71fc95e861b016b876a6edd7e7df469ade9c02470935a51e44",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-5 T-8.nam",
+      "sha256": "2b7da8524a4b5ceb811b9cbd399df1ee0f59bae2caf4adcdc3ecf984c0b8f56d",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-7 T-8.nam",
+      "sha256": "4cb4d0f3d87ffcec92041385e98260ff2818e564d1868f1eac21d622e37b5de4",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-5 T-4.nam",
+      "sha256": "db6d84bcbbd3794504a3f4608fa7b6980c68ef38e7c0df7a208a5b98beaf046d",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-5 T-6.nam",
+      "sha256": "3b40a14fc13d0fb73bfb916da5bd8aae60792208b52ed9e1fdee1a8cb272629b",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-1 V2-9 T-7.nam",
+      "sha256": "2637fc1796d2d2ab7ee755df7bdee2f5b274c49b9faefa7c51748e7454f1b8b8",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-5 T-2.nam",
+      "sha256": "2ab45cf76e003e71ddf2598fef979967dbbc8ffea1d414a91b478d0bf5c47158",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-0 T-10.nam",
+      "sha256": "e5276c2b8f567821d8624b2b59fd4c3dcd1ca7878721ea8ba31babf93638f3b4",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-2 T-8.nam",
+      "sha256": "20910d9391916934736ca6c647aebb4ad4039385007afd5b7cf1961d0bdade8f",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-2 T-2.nam",
+      "sha256": "f84d9df6a60d30c2af756930339577fa6cc8013091b6fde3b9fc7ba3a721b9e8",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-2 T-10.nam",
+      "sha256": "c8e5a9fb7e42f5cc4e9a81908b5113fef3f0b5ec2749ef790736732566223e55",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-1 V2-9 T-10.nam",
+      "sha256": "26dc1c59ddb6eef697fbaff47efd92aa51aba99c870d113fcc6dc684d2d4aa19",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-2 T-4.nam",
+      "sha256": "7468c45086f117f1930452f8a51c31dea661ca6ad396d7f6dfa0ca4b49d6129f",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-0 T-8.nam",
+      "sha256": "0a1dc71773757429d086874766a79649dede2a76f20df6c16935fe15e8b36d90",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-1 V2-9 T-9.nam",
+      "sha256": "398f8403541899b842f5b6565bd5d8955ea251297d2944608d1549ed87e49415",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In2 V1-0 V2-8 T-6.nam",
+      "sha256": "3bc458c7f8481bf1a88b23e06922e596f6509b01df24297f451549b40824ad61",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In2 V1-0 V2-8 T-8.nam",
+      "sha256": "72ccd21db21345bc5bb00861c78a3c39949b162424038b93d2838ed95a173cce",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In2 V1-0 V2-8 T-10.nam",
+      "sha256": "6197c22ae02666e49df7cd501f13ccd1a8028c2eed8312a65a86d5a74ccc88d1",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-0 T-2.nam",
+      "sha256": "6429c07490ab676ef1c8aee90e0bfb390a13e57160bffafda2f93bca39fda8df",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-2 V2-7 T-10.nam",
+      "sha256": "2b867387b093edc3454a5410c170830d67c58aeb5ad743360875ee3643adf7fb",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-1 V2-9 T-8.nam",
+      "sha256": "3c63c80fd3ad1645b75a622acf5c1c1c316899dd68b798cb129e9f1e8df1e86d",
+      "gear": "amp"
+    }
+  ]
+}

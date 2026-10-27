@@ -1,0 +1,33 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728",
+  "tone_id": "64728",
+  "model": "Mesa Boogie Mark VII",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] MESA.MKVII-90W-CH3-MKIIB Pony Rawness - DI.nam",
+      "sha256": "838bf877cdadaf4db58de0ce23d374472ecd1ad0c9a1e2dc0dbc6993aa84642c",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] MESA.MKVII-90W-CH3-MKIIC Bull Sheet - DI.nam",
+      "sha256": "67e9cbd97250c01e53941035de71c785b8892de034b3f5f52a6833df9350e91d",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] MESA.MKVII-90W-CH3-MKIV War Never Changes - DI.nam",
+      "sha256": "3855131d59931e606088cd4118434d927736d2614a81fc16e11240d88237130e",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] MESA.MKVII-90W-CH2-MKVII Chunky - DI.nam",
+      "sha256": "83eef8737d0087a0a0c4a5fa5641d6e1ba3cd96c37830bb739a91920e7bbacf7",
+      "gear": "amp"
+    }
+  ]
+}

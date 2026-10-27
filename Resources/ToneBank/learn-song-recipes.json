@@ -1,0 +1,802 @@
+{
+  "schemaVersion": 1,
+  "description": "Editable editorial recipes for new GuitarClub lesson practice tones; existing publisher presets remain intact.",
+  "profiles": {
+    "acoustic": {
+      "templateRank": 56,
+      "gainDb": -6,
+      "bassDb": -2,
+      "midDb": 0,
+      "trebleDb": 1,
+      "reverb": 5,
+      "pedals": [
+        0
+      ],
+      "compression": 40,
+      "part": "Acoustic",
+      "acoustic": true,
+      "cabinet": "1x12/ToneGrid Deluxe Reverb 1x12/Deluxe Reverbe 1x12 Balanced.wav"
+    },
+    "jazz": {
+      "templateRank": 56,
+      "gainDb": -7,
+      "bassDb": 1,
+      "midDb": 1,
+      "trebleDb": -3,
+      "reverb": 5,
+      "pedals": [],
+      "part": "Main",
+      "acoustic": true,
+      "highCutHz": 5500,
+      "cabinet": "2x12/ToneGrid Jazz Chorus 2x12/Jazz Chorus 2x12 Warm.wav"
+    },
+    "clean": {
+      "templateRank": 56,
+      "gainDb": -3,
+      "bassDb": -1,
+      "midDb": 0,
+      "trebleDb": 1,
+      "reverb": 9,
+      "pedals": [],
+      "part": "Main"
+    },
+    "funk": {
+      "templateRank": 56,
+      "gainDb": -4,
+      "bassDb": -2,
+      "midDb": 0.5,
+      "trebleDb": 1.5,
+      "reverb": 5,
+      "pedals": [
+        0
+      ],
+      "compression": 75,
+      "part": "Rhythm",
+      "cabinet": "2x12/ToneGrid Twin Reverb 2x12/Twin Reverb 2x12 Balanced.wav"
+    },
+    "bluesclean": {
+      "templateRank": 98,
+      "gainDb": -5,
+      "bassDb": -1,
+      "midDb": 1,
+      "trebleDb": 0.5,
+      "reverb": 12,
+      "pedals": [],
+      "part": "Main"
+    },
+    "blues": {
+      "templateRank": 99,
+      "gainDb": -1,
+      "bassDb": -1,
+      "midDb": 1.5,
+      "trebleDb": 0,
+      "reverb": 10,
+      "pedals": [
+        1
+      ],
+      "part": "Lead"
+    },
+    "vintage": {
+      "templateRank": 26,
+      "gainDb": -2,
+      "bassDb": -2,
+      "midDb": 1,
+      "trebleDb": -1,
+      "reverb": 8,
+      "pedals": [],
+      "part": "Main"
+    },
+    "britedge": {
+      "templateRank": 59,
+      "gainDb": -2,
+      "bassDb": -1,
+      "midDb": 1,
+      "trebleDb": 1,
+      "reverb": 7,
+      "pedals": [],
+      "part": "Rhythm"
+    },
+    "britrock": {
+      "templateRank": 10,
+      "gainDb": 0,
+      "bassDb": -1,
+      "midDb": 1.5,
+      "trebleDb": 0.5,
+      "reverb": 5,
+      "pedals": [],
+      "part": "Rhythm",
+      "gate": true
+    },
+    "lead": {
+      "templateRank": 5,
+      "gainDb": -1,
+      "bassDb": -1,
+      "midDb": 2,
+      "trebleDb": -0.5,
+      "reverb": 12,
+      "pedals": [],
+      "part": "Lead",
+      "gate": true
+    },
+    "fuzz": {
+      "templateRank": 66,
+      "gainDb": -2,
+      "bassDb": -2,
+      "midDb": 1,
+      "trebleDb": -1,
+      "reverb": 7,
+      "pedals": [
+        7
+      ],
+      "part": "Main",
+      "gate": true
+    },
+    "garage": {
+      "templateRank": 84,
+      "gainDb": -2,
+      "bassDb": -1,
+      "midDb": 1,
+      "trebleDb": 1,
+      "reverb": 4,
+      "pedals": [],
+      "part": "Rhythm",
+      "gate": true
+    },
+    "modern": {
+      "templateRank": 21,
+      "gainDb": -1,
+      "bassDb": -1,
+      "midDb": 1,
+      "trebleDb": 0,
+      "reverb": 6,
+      "pedals": [],
+      "part": "Rhythm",
+      "gate": true
+    },
+    "woman": {
+      "templateRank": 91,
+      "gainDb": -2,
+      "bassDb": -1,
+      "midDb": 3,
+      "trebleDb": -3,
+      "reverb": 8,
+      "pedals": [],
+      "part": "Lead",
+      "highCutHz": 5500
+    }
+  },
+  "songs": [
+    {
+      "artist": "Creedence Clearwater Revival",
+      "song": "Have You Ever Seen The Rain",
+      "profile": "acoustic",
+      "gainDb": -6.0,
+      "note": "Clear strumming voicing with gentle compression and a short room."
+    },
+    {
+      "artist": "Jimi Hendrix",
+      "song": "Foxey Lady",
+      "profile": "fuzz",
+      "gainDb": -1.0,
+      "note": "Mid-forward fuzz for the main riff; control the sustain with the guitar volume."
+    },
+    {
+      "artist": "The Beatles",
+      "song": "Can't Buy Me Love",
+      "profile": "britedge",
+      "gainDb": -3.0,
+      "note": "Bright low-gain rhythm with enough bite for the chord accents."
+    },
+    {
+      "artist": "4 Non Blondes",
+      "song": "What's Up",
+      "profile": "acoustic",
+      "gainDb": -5.0,
+      "note": "Open-chord practice tone with restrained bass and room ambience."
+    },
+    {
+      "artist": "Michael Jackson",
+      "song": "Human Nature",
+      "profile": "funk",
+      "gainDb": -5.0,
+      "note": "Clear, lightly compressed arpeggios with restrained chorus and stereo-free ambience.",
+      "chorus": [
+        0.8,
+        22,
+        16
+      ],
+      "reverb": 10
+    },
+    {
+      "artist": "The Smashing Pumpkins",
+      "song": "1979",
+      "profile": "clean",
+      "gainDb": -1.0,
+      "note": "Lightly modulated, rounded clean texture for the repeating figure.",
+      "chorus": [
+        0.45,
+        18,
+        12
+      ],
+      "reverb": 9
+    },
+    {
+      "artist": "Radiohead",
+      "song": "Karma Police",
+      "profile": "acoustic",
+      "gainDb": -5.0,
+      "note": "Balanced chord voicing for the verse and chorus; keep the picking dynamics intact."
+    },
+    {
+      "artist": "Black Sabbath",
+      "song": "Planet Caravan",
+      "profile": "clean",
+      "gainDb": -6.0,
+      "note": "Dark, softly modulated clean texture for the spacious repeated chords.",
+      "chorus": [
+        0.32,
+        65,
+        28
+      ],
+      "trebleDb": -3,
+      "reverb": 20
+    },
+    {
+      "artist": "The Rolling Stones",
+      "song": "Miss You",
+      "profile": "funk",
+      "gainDb": -1.0,
+      "note": "Tight, slightly gritty rhythm with compressed attacks and very little room."
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "song": "Scar Tissue",
+      "profile": "bluesclean",
+      "gainDb": -6.0,
+      "note": "Open, lightly breaking-up tone for double-stops and expressive fills."
+    },
+    {
+      "artist": "Django Reinhardt",
+      "song": "Minor Swing",
+      "profile": "jazz",
+      "gainDb": -7.0,
+      "note": "Dry rounded practice sound for the gypsy-jazz melody and rhythm."
+    },
+    {
+      "artist": "Joan Jett & the Blackhearts",
+      "song": "I Love Rock ’N Roll",
+      "profile": "britrock",
+      "gainDb": 1.0,
+      "note": "Firm mid-gain power chords with short ambience and controlled lows."
+    },
+    {
+      "artist": "Magic Sam",
+      "song": "All Your Love",
+      "profile": "vintage",
+      "gainDb": -1.0,
+      "note": "Small-amp blues bite with room for bends and picking dynamics."
+    },
+    {
+      "artist": "AC/DC",
+      "song": "TNT",
+      "profile": "britrock",
+      "gainDb": 0.5,
+      "note": "Dry, punchy rhythm with a firm midrange; avoid excessive gain."
+    },
+    {
+      "artist": "Tame Impala",
+      "song": "Feels Like We Only Go Backwards",
+      "profile": "fuzz",
+      "gainDb": -4.0,
+      "note": "Soft-edged fuzz and slow modulation for a hazy repeating texture.",
+      "chorus": [
+        0.35,
+        40,
+        18
+      ],
+      "reverb": 12
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Hells Bells",
+      "profile": "britrock",
+      "gainDb": -1.0,
+      "note": "Open ringing chords with less drive and a little more room."
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "song": "Snow (Hey Oh)",
+      "profile": "funk",
+      "gainDb": -5.0,
+      "note": "Bright, compressed clean picking for an even repeating pattern."
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "song": "I Love You",
+      "profile": "clean",
+      "gainDb": -2.0,
+      "note": "Rounded clean verse texture with a little delay; the heavy section needs more drive.",
+      "delay": [
+        380,
+        20,
+        12
+      ],
+      "reverb": 14
+    },
+    {
+      "artist": "Link Wray",
+      "song": "Rumble",
+      "profile": "vintage",
+      "gainDb": 1.0,
+      "note": "Rough-edged vintage chords with a short room and strong pick response."
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Whole Lotta Rosie",
+      "profile": "britrock",
+      "gainDb": 1.5,
+      "note": "A little more bite for the driving riff while keeping the low end tight."
+    },
+    {
+      "artist": "T-Bone Walker",
+      "song": "Stormy Monday",
+      "profile": "jazz",
+      "gainDb": -4.0,
+      "note": "Warm, nearly clean blues phrasing with a restrained top end."
+    },
+    {
+      "artist": "Steve Lacy",
+      "song": "Dark Red",
+      "profile": "funk",
+      "gainDb": -2.0,
+      "note": "Rounded, gently modulated rhythm with a warm top end.",
+      "chorus": [
+        0.45,
+        24,
+        15
+      ],
+      "trebleDb": -1.5
+    },
+    {
+      "artist": "AC/DC",
+      "song": "You Shook Me All Night Long",
+      "profile": "britrock",
+      "gainDb": 0.0,
+      "note": "Clear mid-gain rhythm for crisp chord changes and ringing notes."
+    },
+    {
+      "artist": "Focus",
+      "song": "Hocus Pocus",
+      "profile": "britrock",
+      "gainDb": 2.0,
+      "note": "Forward mids and firm crunch for the rapid main riff."
+    },
+    {
+      "artist": "Elmore James",
+      "song": "It Hurts Me Too",
+      "profile": "vintage",
+      "gainDb": 1.0,
+      "note": "Singing vintage breakup for slide; tune the guitar as taught in the lesson."
+    },
+    {
+      "artist": "Slade",
+      "song": "Merry Xmas Everybody",
+      "profile": "britrock",
+      "gainDb": -1.0,
+      "note": "Broad, bright rhythm crunch for strummed chords."
+    },
+    {
+      "artist": "The Allman Brothers Band",
+      "song": "Jessica",
+      "profile": "lead",
+      "gainDb": -3.0,
+      "note": "Clear, singing lead voicing with restrained drive and short ambience."
+    },
+    {
+      "artist": "John Lee Hooker",
+      "song": "Boom Boom",
+      "profile": "vintage",
+      "gainDb": 0.0,
+      "note": "Dry vintage bite for the repeating boogie riff."
+    },
+    {
+      "artist": "Led Zeppelin",
+      "song": "Black Dog",
+      "profile": "britrock",
+      "gainDb": 1.0,
+      "note": "Dense, mid-focused crunch for the stop-start riff."
+    },
+    {
+      "artist": "The Allman Brothers Band",
+      "song": "Soulshine",
+      "profile": "lead",
+      "gainDb": -2.0,
+      "note": "Warm sustained lead with a short delay kept below the dry notes.",
+      "delay": [
+        300,
+        18,
+        10
+      ]
+    },
+    {
+      "artist": "Stevie Ray Vaughan",
+      "song": "Texas Flood",
+      "profile": "blues",
+      "gainDb": 0.0,
+      "note": "Dynamic blues drive with sustained bends and modest room ambience."
+    },
+    {
+      "artist": "Howlin' Wolf",
+      "song": "Smokestack Lightnin'",
+      "profile": "vintage",
+      "gainDb": -1.0,
+      "note": "Lean, repetitive blues figure with dry vintage breakup."
+    },
+    {
+      "artist": "Stevie Ray Vaughan",
+      "song": "Lenny",
+      "profile": "bluesclean",
+      "gainDb": -7.0,
+      "note": "Low-gain expressive clean tone with gentle ambience.",
+      "reverb": 16
+    },
+    {
+      "artist": "Freddie King",
+      "song": "Have You Ever Loved A Woman",
+      "profile": "blues",
+      "gainDb": -1.0,
+      "note": "Warm lead sustain with room for wide bends and softer phrases."
+    },
+    {
+      "artist": "Stevie Ray Vaughan",
+      "song": "Hide Away",
+      "profile": "blues",
+      "gainDb": -2.0,
+      "note": "Tight blues drive with clear alternating bass and treble notes."
+    },
+    {
+      "artist": "Freddie King",
+      "song": "Going Down",
+      "profile": "blues",
+      "gainDb": 1.0,
+      "note": "More assertive drive for the low riff and punchy lead responses."
+    },
+    {
+      "artist": "Audioslave",
+      "song": "Cochise",
+      "profile": "modern",
+      "gainDb": 1.0,
+      "note": "Tight modern crunch for the riff with little ambience."
+    },
+    {
+      "artist": "Chuck Berry",
+      "song": "Wee Wee Hours",
+      "profile": "vintage",
+      "gainDb": -3.0,
+      "note": "Warm, lightly breaking-up blues phrases with a short room."
+    },
+    {
+      "artist": "Guns N' Roses",
+      "song": "Welcome to the Jungle",
+      "profile": "britrock",
+      "gainDb": 2.0,
+      "note": "Upper-mid bite and a low-level delay for the opening figure and rhythm.",
+      "delay": [
+        330,
+        18,
+        11
+      ]
+    },
+    {
+      "artist": "Maroon 5",
+      "song": "Harder to Breathe",
+      "profile": "funk",
+      "gainDb": 1.0,
+      "note": "Compressed, slightly gritty rhythm with controlled bass."
+    },
+    {
+      "artist": "Eric Clapton",
+      "song": "Layla",
+      "profile": "acoustic",
+      "gainDb": -5.0,
+      "note": "Transparent practice voicing for the acoustic-style arrangement."
+    },
+    {
+      "artist": "Chuck Berry",
+      "song": "Maybellene",
+      "profile": "vintage",
+      "gainDb": 0.0,
+      "note": "Bright, raw rock-and-roll attack with tight bass."
+    },
+    {
+      "artist": "Oasis",
+      "song": "Live Forever",
+      "profile": "britrock",
+      "gainDb": -1.0,
+      "note": "Open, broad rhythm crunch with a little room around the chords."
+    },
+    {
+      "artist": "Journey",
+      "song": "Don't Stop Believin'",
+      "profile": "lead",
+      "gainDb": -2.0,
+      "note": "Smooth lead tone with short delay for melodic fills.",
+      "delay": [
+        310,
+        20,
+        13
+      ]
+    },
+    {
+      "artist": "Oasis",
+      "song": "Don't Look Back in Anger",
+      "profile": "britedge",
+      "gainDb": 0.0,
+      "note": "Bright chord definition with a modest amount of breakup."
+    },
+    {
+      "artist": "Green Day",
+      "song": "Good Riddance",
+      "profile": "acoustic",
+      "gainDb": -6.0,
+      "note": "Clear chord and picking practice tone with light compression."
+    },
+    {
+      "artist": "Peter Gabriel",
+      "song": "Solsbury Hill",
+      "profile": "acoustic",
+      "gainDb": -6.0,
+      "note": "Clean fingerpicking with reduced bass and a small room."
+    },
+    {
+      "artist": "Queen",
+      "song": "Don't Stop Me Now",
+      "profile": "lead",
+      "gainDb": -1.0,
+      "note": "Singing midrange for the guitar phrases, with restrained delay.",
+      "delay": [
+        290,
+        18,
+        10
+      ]
+    },
+    {
+      "artist": "Foo Fighters",
+      "song": "Times Like These",
+      "profile": "modern",
+      "gainDb": -2.0,
+      "note": "Firm, clear crunch for the repeated figure and open chords."
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "song": "Never Going Back Again",
+      "profile": "acoustic",
+      "gainDb": -7.0,
+      "note": "Fast clean fingerpicking with gentle dynamics and very little reverb.",
+      "reverb": 3
+    },
+    {
+      "artist": "John Mayer",
+      "song": "Why Georgia",
+      "profile": "acoustic",
+      "gainDb": -6.0,
+      "note": "Clear percussive picking with enough compression to support quiet notes."
+    },
+    {
+      "artist": "Ocean Colour Scene",
+      "song": "The Riverboat Song",
+      "profile": "britrock",
+      "gainDb": -1.0,
+      "note": "Dry blues-rock bite for the rhythmic main figure."
+    },
+    {
+      "artist": "Jimi Hendrix",
+      "song": "The Wind Cries Mary",
+      "profile": "bluesclean",
+      "gainDb": -5.0,
+      "note": "Soft edge-of-breakup response for chord embellishments and fills."
+    },
+    {
+      "artist": "Foo Fighters",
+      "song": "Best of You",
+      "profile": "modern",
+      "gainDb": 0.0,
+      "note": "Full rhythm crunch with controlled lows and short ambience."
+    },
+    {
+      "artist": "Jimi Hendrix",
+      "song": "Red House",
+      "profile": "blues",
+      "gainDb": 0.0,
+      "note": "Warm blues lead with room for bends and guitar-volume cleanup."
+    },
+    {
+      "artist": "The Strokes",
+      "song": "Last Nite",
+      "profile": "garage",
+      "gainDb": -1.0,
+      "note": "Lean garage crunch with clear chord attacks."
+    },
+    {
+      "artist": "Ed Sheeran",
+      "song": "Photograph",
+      "profile": "acoustic",
+      "gainDb": -7.0,
+      "note": "Soft clean chord practice tone with light compression."
+    },
+    {
+      "artist": "The Hives",
+      "song": "Hate To Say I Told You So",
+      "profile": "garage",
+      "gainDb": 1.0,
+      "note": "Raw, mid-forward rhythm with a tight low end."
+    },
+    {
+      "artist": "Eric Clapton",
+      "song": "Wonderful Tonight",
+      "profile": "bluesclean",
+      "gainDb": -6.0,
+      "note": "Rounded clean lead with a little sustain and restrained room ambience."
+    },
+    {
+      "artist": "Cream",
+      "song": "Strange Brew",
+      "profile": "woman",
+      "gainDb": -1.0,
+      "note": "Rounded, mid-forward lead voicing with softened treble."
+    },
+    {
+      "artist": "John Mayer",
+      "song": "Neon",
+      "profile": "acoustic",
+      "gainDb": -5.0,
+      "note": "Percussive fingerstyle practice tone; guitar tuning and right-hand technique remain essential."
+    },
+    {
+      "artist": "Ed Sheeran",
+      "song": "Perfect",
+      "profile": "acoustic",
+      "gainDb": -7.0,
+      "note": "Gentle clean strumming and arpeggios with a small room."
+    },
+    {
+      "artist": "Justin Bieber",
+      "song": "Sorry",
+      "profile": "funk",
+      "gainDb": -6.0,
+      "note": "Bright, compressed clean practice voicing for the lesson arrangement."
+    },
+    {
+      "artist": "Oasis",
+      "song": "Champagne Supernova",
+      "profile": "britedge",
+      "gainDb": -1.0,
+      "note": "Open lightly driven chords with a little more space.",
+      "delay": [
+        360,
+        22,
+        10
+      ],
+      "reverb": 14
+    },
+    {
+      "artist": "The Temptations",
+      "song": "My Girl",
+      "profile": "funk",
+      "gainDb": -6.0,
+      "note": "Warm, clean repeating motif with even picking dynamics."
+    },
+    {
+      "artist": "James Taylor",
+      "song": "Fire and Rain",
+      "profile": "acoustic",
+      "gainDb": -7.0,
+      "note": "Natural fingerpicking practice tone with restrained compression and room."
+    },
+    {
+      "artist": "Tracy Chapman",
+      "song": "Fast Car",
+      "profile": "acoustic",
+      "gainDb": -7.0,
+      "note": "Clear repeating picking pattern with strong note separation."
+    },
+    {
+      "artist": "John Mayer",
+      "song": "Queen of California",
+      "profile": "acoustic",
+      "gainDb": -5.0,
+      "note": "Open fingerstyle and strumming practice voicing with a little edge."
+    },
+    {
+      "artist": "Albert King",
+      "song": "Born Under a Bad Sign",
+      "profile": "blues",
+      "gainDb": -1.0,
+      "note": "Focused blues sustain for the riff and broad bends."
+    },
+    {
+      "artist": "Green Day",
+      "song": "American Idiot",
+      "profile": "garage",
+      "gainDb": 1.0,
+      "note": "Punchy rhythm crunch with tight bass for fast chord changes."
+    },
+    {
+      "artist": "Stevie Wonder",
+      "song": "Isn't She Lovely Fingerstyle",
+      "profile": "acoustic",
+      "gainDb": -6.0,
+      "note": "Balanced clean fingerstyle practice voicing for melody and bass together."
+    },
+    {
+      "artist": "Bob Dylan",
+      "song": "Knockin' On Heaven's Door",
+      "profile": "acoustic",
+      "gainDb": -6.0,
+      "note": "Simple open-chord practice sound with gentle room ambience."
+    },
+    {
+      "artist": "Passenger",
+      "song": "Let Her Go",
+      "profile": "acoustic",
+      "gainDb": -7.0,
+      "note": "Clear fingerpicking with softened attacks and restrained bass."
+    },
+    {
+      "artist": "Bob Marley",
+      "song": "Three Little Birds",
+      "profile": "funk",
+      "gainDb": -7.0,
+      "note": "Dry clean offbeat chords with controlled low frequencies.",
+      "reverb": 3
+    },
+    {
+      "artist": "The Beatles",
+      "song": "Blackbird",
+      "profile": "acoustic",
+      "gainDb": -7.0,
+      "note": "Detailed clean fingerstyle voicing with very little ambience.",
+      "reverb": 3
+    },
+    {
+      "artist": "The Troggs",
+      "song": "Wild Thing",
+      "profile": "vintage",
+      "gainDb": 1.0,
+      "note": "Raw, simple chord crunch with a slightly softened top end."
+    },
+    {
+      "artist": "Snow Patrol",
+      "song": "Chasing Cars",
+      "profile": "clean",
+      "gainDb": -5.0,
+      "note": "Clear repeating notes with a quiet delay and modest ambience.",
+      "delay": [
+        420,
+        22,
+        13
+      ],
+      "reverb": 13
+    },
+    {
+      "artist": "America",
+      "song": "A Horse With No Name",
+      "profile": "acoustic",
+      "gainDb": -6.0,
+      "note": "Open strumming practice tone with even dynamics."
+    },
+    {
+      "artist": "The Verve",
+      "song": "Lucky Man",
+      "profile": "acoustic",
+      "gainDb": -5.0,
+      "note": "Balanced open chords with a little room and low-level delay.",
+      "delay": [
+        340,
+        15,
+        7
+      ],
+      "reverb": 10
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-normal-channel-68651",
+  "tone_id": "68651",
+  "model": "Fender Super Reverb 1965 - Normal",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "BFSR Nrm V-5 T-3 B-4 SRL.nam",
+      "sha256": "3ece9631e3a7597d6f9381004bfe09a904b24c13f10a801f8feaaa9bd5dc7ceb",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-5 T-4 B-4 SRL.nam",
+      "sha256": "3838dd808895b17eddb6b5d7047c1f5b8d92a48d9c1a0787ba1d0fa0245f95e0",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-5 T-5 B-4 SRL.nam",
+      "sha256": "dba3e9ed626a997dc3f35d4a151b8721f3981e5ef8846c8d1868b78ad63d78bc",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-5 T-6 B-4 SRL.nam",
+      "sha256": "0d62d7ed282614723e5365212330864ad92746b8689ffacb4c984a898c9cf8ba",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-6 T-3 B-4 SRL.nam",
+      "sha256": "67d0fcb008cc37932c36ae0c28ddceeb4ee28e4b23b5cd21f8af7492bad633c4",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-6 T-5 B-4 SRL.nam",
+      "sha256": "581d2c64843e423a7e86241d53a54d29e72425c90f8a449c14202eca4d9664a2",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-6 T-6 B-4 SRL.nam",
+      "sha256": "163459e585848395038e909959452e03e45d84fc814d172c7b4fe3cba3c3a9b6",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-6 T-4 B-4 SRL.nam",
+      "sha256": "4e7e2635d84da8606f3ab5379143e747bee53c195d6976011601bb081aa66645",
+      "gear": "amp"
+    }
+  ]
+}

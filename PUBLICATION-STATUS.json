@@ -1,0 +1,39 @@
+{
+  "status": "APPROVED_FOR_PUBLICATION",
+  "publicRepoProposed": "tonegrid/tonegrid-source",
+  "publicRepoCreated": true,
+  "privateRepositoryVisibilityUnchanged": true,
+  "maintainer": "L’équipe ToneGrid",
+  "fullPersonalNameIncluded": false,
+  "requiredReviews": [
+    "public unsigned GitHub CI validation after source publication",
+    "SignPath dependency/data eligibility, approved roles/MFA, notices and trusted signing integration",
+    "physical-interface and clean-machine testing before a signed Windows production release"
+  ],
+  "signingProviderPriority": "SignPath Foundation; no acceptance claimed",
+  "certumIdentityHandling": "Private separate process only if chosen later; no personal name in public staging",
+  "published": true,
+  "windowsValidation": {
+    "fullApplicationBuild": true,
+    "offlineTestExecutableBuilt": true,
+    "selectedSuites": 18,
+    "latestRelevantResultsPassed": true,
+    "installerChecks": 29,
+    "installerAllPassed": true,
+    "hardware": "Synthetic only; physical audio/browser services not validated",
+    "signature": "Application/setup/uninstaller unsigned"
+  },
+  "macWorkstream": {
+    "separate": true,
+    "exactDistributedSourcesUnresolved": true,
+    "blocksWindowsTests": false,
+    "blocksClaimOfExactMacSources": true
+  },
+  "ownerConfirmationsRecorded": "2026-10-27",
+  "originalGeneratedArtworkLicence": "AGPL-3.0-only; excludes third-party assets",
+  "confirmedPartnerPresetLicence": "AGPL-3.0-only; preserves unrelated third-party terms and credits",
+  "ownerAttestedGitHub2FA": true,
+  "intendedSigningApprover": "Project owner; provider account setup pending",
+  "publicationApprovalDate": "2026-10-27",
+  "publicRepository": "https://github.com/tonegrid/tonegrid-source"
+}

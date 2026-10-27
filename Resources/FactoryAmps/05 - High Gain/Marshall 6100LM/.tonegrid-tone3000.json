@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "source": "tone3000",
+  "tone_id": 75346,
+  "title": "Marshall 6100LM 30th Anniversary Blue 92 Half Stack",
+  "creator": "rxguitar",
+  "creator_id": "0ce9d9ac-8636-4c41-b0e9-0fd5b5f1b3ee",
+  "url": "https://www.tone3000.com/tones/marshall-6100lm-30th-anniversary-blue-92-half-stack-75346",
+  "license": "t3k",
+  "architecture": "2",
+  "format": "nam",
+  "gear": "amp-cab",
+  "models": [
+    {
+      "file": "M6100_14_CR_C_HighGain.nam",
+      "sha256": "f75eac6a356743d1bace13b1320c285fe241718ce3467a67ec0d39217bcd35cb"
+    },
+    {
+      "file": "M6100_15_CR_C_Thrash_TS.nam",
+      "sha256": "a36b9311664969fcd3c4c28edf3aa344c9f059f8cd55681f4e746e5267cf4782"
+    },
+    {
+      "file": "M6100_16_CR_C_RawThrash_OD.nam",
+      "sha256": "acc8733b8cf786af260ff2aa807657139b76df5eb80784956e427e3c9af6515d"
+    },
+    {
+      "file": "M6100_17_CR_C_TightThrash_TS.nam",
+      "sha256": "7539504bdb78472fb93015c1bca81d08ab9ba6b89662548ef4f46990d623b513"
+    },
+    {
+      "file": "M6100_18_CR_C_CrankedThrash_TS.nam",
+      "sha256": "59e8a9ab82559326277cc1be1ba75bb2c82bae3599c1d5b5528412504adc72ec"
+    },
+    {
+      "file": "M6100_20_LD_Thrash_TS.nam",
+      "sha256": "151df0feee2ec555a312f1cc255c03be651e58bd1dcc36295413d58ee734a7e7"
+    },
+    {
+      "file": "M6100_24_LD_Boost_Scoop.nam",
+      "sha256": "7556c6495d3d7732e2786400a201fab501cbb70df234095d4f810f69028c0968"
+    },
+    {
+      "file": "M6100_32_SC_LD_Scoop.nam",
+      "sha256": "75b23903c30b25e8d513da2e8ea858afa0090ab9abc00fbe76c13af254e1e3b4"
+    },
+    {
+      "file": "M6100_33_SIG_Brit_Monster.nam",
+      "sha256": "f49ffd0deaa8aeb0c880ec6142b3c89907654d17a1bf7ed10049d70ea01efb73"
+    }
+  ],
+  "image": "thumbnail.jpg",
+  "description": "🔊 This pack contains 33 Neural Amp Modeler A2 (NAM A2) profiles captured from a Marshall 6100LM 30th Anniversary Blue through its matching 6960A cabinet, using a controlled and repeatable studio workflow. The goal of these captures is simply to provide accurate, dynamic, and consistent profiles that reflect the real behavior of the amplifier, without added processing or coloration.\n\n🎚️ To keep the entire pack coherent, the amplifier’s Presence control was kept at 6 for all captures, and the microphone blend remained identical throughout. This avoids the feeling of switching to a different amplifier when moving from one profile to another, and helps maintain a stable tonal identity across the full collection.\n\n🎛️ Gain staging (Input Calibration OFF / Input at 0 dB)\nThe DI signal was precisely calibrated to preserve the natural touch-sensitivity and dynamic response of the amplifier:\n\nOption A (Recommended - Native Gain): Leave Input Calibration OFF and keep the Input knob at 0 dB.\nFor Humbuckers & High-Output Pickups: Aim for a DI signal around −30 LUFS during energetic playing, with transient peaks near −10 dBFS.\nSingle Coils & P90s (Strat / Tele / P90): Aim for a DI signal around −34 to −32 LUFS during energetic strumming, with transient peaks near −15 to −12 dBFS. Leaving your DI at these natural values with Input Calibration OFF allows the Single Coil profiles (#25–#32) to break up with exact, touch-sensitive valve compression.\n\nOption B (Calibrated Mode): Enable Input Calibration in NAM / Gateway and set your interface's input value accordingly. These profiles were captured at a reference level of +23.0 dBu (Input) and -7.0 dBu (Output).\nFor users less familiar with gain staging, it is recommended to aim for similar DI values to achieve the intended dynamic response.\n\n🔀 Source signal (Dry/Wet workflow)\nThe guitar signal passes through a Radial J48 active DI for clean impedance conversion. The dry signal feeds the amplifier while the DI is recorded separately, providing a stable reference for NAM training.\n\n🎙️ Microphone setup (Dual SM57, Fredman‑inspired)\nThe cabinet was captured using two SM57 microphones placed directly on the grille. One microphone is positioned on‑axis for clarity and attack, while the second is angled at 40° to smooth the high end and reinforce the low‑mids. The angled microphone is attenuated by −5 dBFS to maintain a balanced blend. Both microphones run through Midas M32R preamps for consistent gain and low noise.\n\n🎸 Instrument source\nAll profiles were played and calibrated using “Utopia”, a handmade guitar inspired by the Steve Vai PIA. Its stable intonation and wide dynamic range help maintain consistency across all captures.\n\n📂 Pack structure (35 profiles)\n\n🟢 #01 to #06 — Cleans\nA range of clean tones from warm and rounded to brighter, more modern voicings. These include jazz‑influenced warmth, edge‑of‑breakup nuances, spanky funk cleans, and scooped Neo‑Soul / ambient tones, with a few low‑gain options using light overdrive and pushed Channel 1 volume.\n\n🟡 #07 to #14 — Crunches\nCrunch tones built around the three channels of the 6100. This group covers vintage Plexi‑style responses, classic JCM800 rock crunch, boosted variations for heavier rhythm work, and tighter modern high‑gain settings. The progression moves from open midrange crunch to more focused and aggressive rhythm tones.\n\n🔴 #15 to #18 — Thrash / High‑Gain Crunch\nChannel C captures optimized for tight, controlled high‑gain playing. These profiles range from old‑school Thrash to more saturated modern rhythm tones, with TS and OD variations offering different levels of precision, mid focus and saturation.\n\n🟣 #19 to #24 — Leads\nLead and high‑gain profiles using the amp’s Boost and Mid Shift options. This group includes classic Marshall lead tones, tighter rhythm variations, scooped settings, and modern liquid sustain. Several profiles use TS or OD boosts for added focus and articulation.\n\n🔵 #25 to #32 — [v2.0 UPDATE] Single Coil & P90 Suite\nSpecifically calibrated, with Low Compensation input switch, for Stratocaster, Telecaster, and P90 pickups to eliminate harsh upper-mid/treble spikes on bridge positions.\n\n👑 #33 — [v2.0 UPDATE] SIGNATURE MONSTER\nMaximum valve saturation, extreme gain density, and endless liquid harmonic sustain.\n\n🛡️ Technical consistency\nAll profiles were checked for phase alignment, transient integrity, loudness consistency and stable frequency balance. The workflow was kept identical across all captures to ensure predictable behavior in NAM.\n\n🎯 Purpose of the pack\nThis collection is intended for guitarists looking for natural‑feeling, mix-ready NAM profiles that behave closely to the real amplifier. The focus is on reliability, musicality and a clean capture chain, with consistent presence settings and microphone balance to maintain a unified tonal identity across the entire pack.",
+  "maker": "Marshall",
+  "model": "6100LM",
+  "creator_username": "rxguitar",
+  "downloaded_at": "2026-10-16T22:14:01.223+01:00",
+  "provenance": {
+    "basis": "Creator pack description and supplied NAM metadata",
+    "sourceUrl": "https://www.tone3000.com/tones/marshall-6100lm-30th-anniversary-blue-92-half-stack-75346",
+    "retrieved": "2026-10-17",
+    "artwork": "Illustrative thumbnail generated for ToneGrid; not a capture-session photograph",
+    "classification": "Publisher classification from filenames and creator gain-stage descriptions"
+  }
+}

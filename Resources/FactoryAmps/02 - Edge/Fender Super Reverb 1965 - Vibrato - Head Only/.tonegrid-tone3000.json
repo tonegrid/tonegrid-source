@@ -1,0 +1,208 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-vibrato-channel-61701",
+  "tone_id": "61701",
+  "model": "Fender Super Reverb 1965 - Vibrato",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "BFSR Vib V-5 T-5 M-8 B-4 SRL.nam",
+      "sha256": "fc92458272a4f9b8c86d6ff1ddc440b9c773c26b8da4cebe1cc507a413708000",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-6 M-6 B-4 SRL.nam",
+      "sha256": "8ee529026e68d2b85cc40a33d4a950f8325ef9c87a4ea32268d690107df4c7f4",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-5 M-7 B-4 SRL.nam",
+      "sha256": "816be99c4f1f484c0b21ea12890b34bf2d66701b4f71aa62344414fff23e8f44",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-4 M-8 B-4 SRL.nam",
+      "sha256": "9941d998f06bbbf174195b336d078386e79d780c360b80b28117d16bcb472b32",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-5 M-6 B-4 SRL.nam",
+      "sha256": "0d7fc12d98a616ab47b540d21b0767edca4c748db99a8eab9d3b9c4cc6074691",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-4 M-5 B-4 SRL.nam",
+      "sha256": "339227fcd22fd1393ae336625520bad2b04013c9e11d98bef80e93ec23a3b2ab",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-4 M-4 B-4 SRL.nam",
+      "sha256": "3ef08f4f7ebe434a527f64c476a58f5eaaaa2c53af79ae3f19dda1db06c69eef",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-6 M-5 B-4 SRL.nam",
+      "sha256": "b864a72b133db2e5cd3cc33c56fa63c5363fe4fbbfe695bead14fb6eeef416c9",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-5 M-4 B-4 SRL.nam",
+      "sha256": "50a3b96678bcb1cdd12fdac03e7f4677d5e928d3bda77c7d4ea63ff8a0fbab73",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-6 M-7 B-4 SRL.nam",
+      "sha256": "9b8cadec709cd05eff87e99ab5ee5ab000c3eb648fe4dbfa3dcd65d964198e4c",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-6 M-8 B-4 SRL.nam",
+      "sha256": "e8983e55092ac30ca340632601285b5cee5669991bce093270628f1da5e7ef51",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-6 M-8 B-4 SRL.nam",
+      "sha256": "716a4de7b46b308e0130c1e3b20c99dfe6ed525a08b78be7bbd53715175baac3",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-6 M-7 B-4 SRL.nam",
+      "sha256": "9406f0c72fb73060ab995c5ab046243c06fc1361f1259f747024ff945f4499e1",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-6 M-4 B-4 SRL.nam",
+      "sha256": "4c9aa93b5f7d222d07b96595d79e752928ca01d0a6d8daaf35708b5758381f92",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-4 M-7 B-4 SRL.nam",
+      "sha256": "71be6fc576f4187f073ed6d529c5d0f69908f8da2e11f3a497c378cb9a504563",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-6 M-6 B-4 SRL.nam",
+      "sha256": "fe012fd85d28b7dc429e826369b8d5545fd5caa92aacee3bd45a6be27f677e34",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-6 M-4 B-4 SRL.nam",
+      "sha256": "57d9e1bf9e6a2740daca6b93e4215948f9e7dce20a013699c69443a96a2ed8de",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-4 M-5 B-4 SRL.nam",
+      "sha256": "3a488948ca4d586253323a8564a5cca1c609f2ef71ff5d2fdd32d7ad33b4e7e3",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-6 M-5 B-4 SRL.nam",
+      "sha256": "4617536005793df66dcf8fd2307c9387ef8172a9397a73bc484d5d9eea50fbc4",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-5 M-6 B-4 SRL.nam",
+      "sha256": "ea6a963fc5dd0b8d694013efa146d5d60f627faf7ee40eb29a6006d664065078",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-4 M-8 B-4 SRL.nam",
+      "sha256": "26923a71148a0908af9d44a41dc6452360f36b29c2bc1d4b5723694b11031313",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-4 M-4 B-4 SRL.nam",
+      "sha256": "ca34fdf773fc74ef4318bd9350b609be19ec44742ca2b5780bbdb151282f13a7",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-5 M-4 B-4 SRL.nam",
+      "sha256": "08d3d3fe492ce59351ecc73a2c8fc14eb1937f29e5adaa867a96861d83586dd9",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-4 M-6 B-4 SRL.nam",
+      "sha256": "b1e030b4823e923e77c303cd38809e3edfee1c40bc3018b7c6050be7569801e3",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-4 M-7 B-4 SRL.nam",
+      "sha256": "704e5b4c814518c1ab012d32d333d6a2ebb2c5a808479605932e0b4c3906a15b",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-5 M-7 B-4 SRL.nam",
+      "sha256": "cd28dfbdf25cf3cc2545621f81740cf8b82630c827db5ed812101c1774019cac",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-5 M-7 B-3 SRL.nam",
+      "sha256": "4cf21634fcbf81c28950f4b47d74e768c266ddd8722d0ae85630df3574d4907d",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-5 M-8 B-3 SRL.nam",
+      "sha256": "699010b4fcf375719745f68486b56e36e80fbcfe4417d1444aa5258f3963dece",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-5 M-9 B-3 SRL.nam",
+      "sha256": "3a15f686590205d4b5d034822eceddc08cd13f694256134e3fa24e640a5d7d2d",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-6 M-7 B-3 SRL.nam",
+      "sha256": "f3dd23f0500a7cafe93b51342978cbcb85a5aa5b806b10bbbb26d5a9ffdcd4ca",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-6 M-9 B-3 SRL.nam",
+      "sha256": "e5047feb3572b617232cd21357eb2e2179fbd86071a1b14329a04d5327938da9",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-6 M-10 B-2 SRL.nam",
+      "sha256": "2b2e6c147a73bf350fe208caf1684dfed3d6d16ff7624ddb022277a7caa6b84e",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-6 M-10 B-3 SRL.nam",
+      "sha256": "d9f99ac292a2e602b6ef7a11a664a3eef6e394a6aa69bcaef6640f4fde6d627c",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-6 M-8 B-3 SRL.nam",
+      "sha256": "66b7963a0d92f144af1ac26f0c96494773b42bed25fa124081e2ac2c4a40dbf5",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-5 M-8 B-4 SRL.nam",
+      "sha256": "6cf9ede43b87aaff92a1ce2a54cf367192b1a598cfe2e7e3401f2ac8177c9e52",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-4 M-6 B-4 SRL.nam",
+      "sha256": "da53d4d53bfeef28fd9a37b9e44b23ccd35252dbe3a6e6493121963264401d95",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-5 M-5 B-4 SRL.nam",
+      "sha256": "6d27fa090eb8979951a7c597807c3ab7a8d41dce23e3d34bf65085695c43dc45",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-5 T-5 M-5 B-4 SRL.nam",
+      "sha256": "a678f5e8464e653a787b9d5afd978412f7fd053451949e4bb74c2ce30b5208f4",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Vib V-6 T-5 M-10 B-3 SRL.nam",
+      "sha256": "bd79411ca02a0dce1fc69c35d89059dd3bf955280e1eb0cc65f5199b9011de3b",
+      "gear": "amp"
+    }
+  ]
+}

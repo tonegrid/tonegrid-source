@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "components": [
+    {
+      "name": "JUCE",
+      "path": "vendor/JUCE-8.0.6",
+      "version": "8.0.6",
+      "upstream": "https://github.com/juce-framework/JUCE",
+      "licence": "AGPL-3.0 open-source option; retain per-file exceptions",
+      "localModifications": "No modification asserted by existing notices; exact vendored tree included",
+      "sourceFiles": 4135,
+      "vendoredTreeSHA256": "a23a9d2178d97b0659ecef91539321eca01a7fdbb674da1d4374e922e683e967"
+    },
+    {
+      "name": "NeuralAmpModelerCore",
+      "path": "vendor/NeuralAmpModelerCore-main",
+      "version": "0.6.0 as declared in NAM/version.h; upstream commit not recorded",
+      "upstream": "https://github.com/sdatkinson/NeuralAmpModelerCore",
+      "licence": "MIT",
+      "localModifications": "Vendored A2/fast implementation; upstream delta not fully established; exact source included",
+      "sourceFiles": 130,
+      "vendoredTreeSHA256": "1ece749404ad3583c2b2520c23a7331498492b0854993abad31b0242399364e2"
+    },
+    {
+      "name": "Eigen",
+      "path": "vendor/eigen-3.4.0",
+      "version": "3.4.0",
+      "upstream": "https://gitlab.com/libeigen/eigen",
+      "licence": "MPL-2.0 core; BSD and other per-file/module licences preserved",
+      "localModifications": "No project modification record located; entire selected source/notice tree retained",
+      "sourceFiles": 1784,
+      "vendoredTreeSHA256": "6e19c90ffc94bdec539df7092a6df4a0189721a42b392ab5915f5e040296b0ae"
+    },
+    {
+      "name": "AELAPSE Spring",
+      "path": "vendor/aelapse-spring",
+      "version": "v1.0.1 ef108369d826aa180b8bc8bc319aa7d6ac90061a",
+      "upstream": "https://github.com/smiarx/aelapse",
+      "licence": "GPL-3.0",
+      "localModifications": "Modified spring/DSP extraction: see Resources/Licenses/AELAPSE-SPRING-ATTRIBUTION.txt and UPSTREAM.json",
+      "sourceFiles": 100,
+      "vendoredTreeSHA256": "ffdf73a53a1f5d12e9fddd18367d83ee9c628c238d2b3556bd53f1bdfddedb3f"
+    },
+    {
+      "name": "smiarx DSP",
+      "path": "vendor/aelapse-spring/include",
+      "version": "f28c084b3269716f46a7d2fc9f64e3bb5bcb6f21",
+      "upstream": "https://github.com/smiarx/dsp",
+      "licence": "GPL-3.0 notice added later upstream; provenance retained",
+      "localModifications": "MSVC/SIMD/reset/portability changes documented in AELAPSE attribution",
+      "sourceFiles": 23,
+      "vendoredTreeSHA256": "87fc1da34f4ad27ec18333422a2f33f4ae0301381a22ee6f30fb0ba7b0ecbf1c"
+    },
+    {
+      "name": "GCEM",
+      "path": "vendor/aelapse-spring/gcem",
+      "version": "012ae73c6d0a2cb09ffe86475f5c6fba3926e200",
+      "upstream": "https://github.com/kthohr/gcem",
+      "licence": "Apache-2.0",
+      "localModifications": "Exact vendored include tree retained with NOTICE",
+      "sourceFiles": 68,
+      "vendoredTreeSHA256": "0a8fe9ced1de064d350da808c58ba65a81c7305dca430e4e419fb168d1067b2b"
+    },
+    {
+      "name": "DaisySP",
+      "path": "vendor/daisysp",
+      "version": "2c72eaf9eac5fc0dca1919d65d606da907832618",
+      "upstream": "https://github.com/electro-smith/DaisySP",
+      "licence": "MIT",
+      "localModifications": "Selected unmodified sources according to source-manifest.json",
+      "sourceFiles": 15,
+      "vendoredTreeSHA256": "9c55bada9996aaa558647d47b8b88efc49226818f74ead1cbe727cad513e833c"
+    },
+    {
+      "name": "stftPitchShift",
+      "path": "vendor/stft-pitch",
+      "version": "8e55dc639811a8ac5b3f5bc3d1f90a11c59ca582",
+      "upstream": "https://github.com/jurihock/stftPitchShift",
+      "licence": "MIT",
+      "localModifications": "Selected unmodified headers according to source-manifest.json",
+      "sourceFiles": 7,
+      "vendoredTreeSHA256": "3501ad1c7838f60c08ff8e0da2f5edf0111b540e13b52fb709aca10e9d6ae873"
+    },
+    {
+      "name": "Dattorro verb",
+      "path": "vendor/dattorro-verb",
+      "version": "41e976a0228a2472156f5c010b3bfbb444e777d2",
+      "upstream": "https://github.com/el-visio/dattorro-verb",
+      "licence": "MIT",
+      "localModifications": "Upstream sources unmodified per provenance; ToneGrid wrapper changes are in Source/",
+      "sourceFiles": 6,
+      "vendoredTreeSHA256": "9f6d99f61b6838f883c070cb44e217c16a53f0d3817c6c41f82a669bfab3a675"
+    },
+    {
+      "name": "AudioDSPTools",
+      "path": "vendor/AudioDSPTools-main",
+      "version": "upstream commit not recorded",
+      "upstream": "https://github.com/sdatkinson/AudioDSPTools",
+      "licence": "MIT plus retained WDL/iPlug2/Surge notices",
+      "localModifications": "Lanczos callback/reference/copy-direction/alignment adaptations; exact source included",
+      "sourceFiles": 6,
+      "vendoredTreeSHA256": "ca310c4ed085f30f2d1135240cc2f083414ed9439a2b55b9dead3a41851f3a7d"
+    },
+    {
+      "name": "LAME",
+      "path": "vendor/lame",
+      "version": "3.100",
+      "upstream": "https://lame.sourceforge.io/",
+      "licence": "LGPL; exact COPYING and source headers retained",
+      "localModifications": "Separate encoder process; upstream source tarball accompanies distributions; no patent representation",
+      "sourceFiles": 325,
+      "vendoredTreeSHA256": "3503f076edf3fc85e5dbdae76753ef33328d14376953c495b0f4004857f13e98"
+    },
+    {
+      "name": "ASIO SDK",
+      "path": "vendor/asio",
+      "version": "2025 copyright in bundled SDK; package revision unrecorded",
+      "upstream": "https://www.steinberg.net/asiosdk",
+      "licence": "GPL-3.0 alternative selected; retain every per-file notice",
+      "localModifications": "No proprietary-SDK redistribution option is relied on; review any differently licensed files",
+      "sourceFiles": 48,
+      "vendoredTreeSHA256": "72db58818caa73f11dc20d5eb6b5086a94935584766b1c52c08c976ab7e56474"
+    },
+    {
+      "name": "VST3 SDK",
+      "path": "vendor/JUCE-8.0.6/modules/juce_audio_processors/format_types/VST3_SDK",
+      "version": "JUCE 8.0.6 bundled SDK",
+      "upstream": "https://github.com/steinbergmedia/vst3sdk",
+      "licence": "GPL-3.0 alternative and per-file licences",
+      "localModifications": "JUCE vendored SDK; no claim to use a different current upstream licence",
+      "sourceFiles": 128,
+      "vendoredTreeSHA256": "e345e38533532c46fd6b27c67681775940d07a8bc7188e50435d68b46a8ffbd6"
+    },
+    {
+      "name": "TONE3000 adaptations",
+      "path": "Source",
+      "version": "38330d53676daa20c630d0ab1474d4a51ba0ea9b",
+      "upstream": "https://github.com/tone-3000/tone3000-plugin",
+      "licence": "MIT",
+      "localModifications": "Normalization/spread/diffuser code adapted; details in Resources/Licenses/TONE3000-ADAPTATION.md",
+      "sourceFiles": 218,
+      "vendoredTreeSHA256": "8c1ab7cf0acc706dc942f3cfd74ea294f8abc4fe95d529a0735cdaddcd3a65b1"
+    },
+    {
+      "name": "Microsoft WebView2 SDK",
+      "version": "1.0.2903.40",
+      "upstream": "https://www.nuget.org/packages/Microsoft.Web.WebView2/1.0.2903.40",
+      "licence": "Bundled Microsoft SDK licence; SDK loader separately retrieved from pinned public NuGet",
+      "localModifications": "None established; exact NuGet package hash in dependencies.json"
+    },
+    {
+      "name": "Microsoft VC++ and WebView2 runtimes",
+      "version": "Toolchain/system dependent",
+      "upstream": "https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist",
+      "licence": "Microsoft redistributable terms; NOT AGPL",
+      "localModifications": "Not source components; do not put prebuilt application/runtime DLLs in the source archive"
+    },
+    {
+      "name": "Inno Setup (installer build tool)",
+      "version": "7.1.0 x64",
+      "upstream": "https://github.com/jrsoftware/issrc/tree/is-7_1_0",
+      "licence": "Inno Setup License; preserved installer engine notices, separate from ToneGrid AGPL",
+      "localModifications": "Unmodified official compiler; ToneGrid.iss is project-authored installer source",
+      "downloadSHA256": "0362a383ed217d4c4239b5933866dd96d3eb2102737da92f80f6057a4b40df2f",
+      "notice": "installer/windows/INNO-LICENSE.txt",
+      "scope": "Build tool fetched separately; its compiler binary is not checked into source"
+    }
+  ],
+  "method": "Actual vendored licences and records; unknown upstream revisions are explicitly labelled. Tree hashes pin the included source independently.",
+  "embeddedComponents": [
+    {
+      "name": "nlohmann/json",
+      "version": "3.12.0",
+      "path": "vendor/NeuralAmpModelerCore-main/Dependencies/nlohmann/json.hpp",
+      "upstream": "https://github.com/nlohmann/json",
+      "licence": "MIT, embedded full header notice",
+      "modifications": "Not established; exact included header preserved"
+    },
+    {
+      "name": "JUCE embedded libraries",
+      "version": "Exact JUCE 8.0.6 copy; per-component revisions vary",
+      "components": [
+        "zlib",
+        "FLAC",
+        "HarfBuzz",
+        "SheenBidi",
+        "CHOC",
+        "JPEG/PNG codecs",
+        "KISS FFT and other per-file JUCE third-party code"
+      ],
+      "licence": "See preserved source headers and THIRD-PARTY-LICENSE-INDEX.json; not all carry the JUCE licence",
+      "modifications": "Upstream JUCE integration, not assumed ToneGrid-authored"
+    },
+    {
+      "name": "Native platform SDK/system components",
+      "version": "Build-host dependent",
+      "components": [
+        "Windows SDK/MSVC runtime",
+        "macOS SDK/Core Audio/Accelerate/WebKit",
+        "Linux ALSA/curl/WebKitGTK when built"
+      ],
+      "licence": "External SDK/system terms; not distributed as ToneGrid AGPL source"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+name: Public Windows build and unsigned installer (review-gated)
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: windows-2022
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4, pinned 2026-10-26
+        with:
+          persist-credentials: false
+      - name: Require completed publication review
+        shell: pwsh
+        run: |
+          $status = Get-Content PUBLICATION-STATUS.json -Raw | ConvertFrom-Json
+          if ($status.status -ne 'APPROVED_FOR_PUBLICATION') { throw 'Local review gates have not been cleared.' }
+          python -c "import sys; assert sys.version_info >= (3,11)"
+      - name: Retrieve only public pinned inputs
+        shell: pwsh
+        run: |
+          python --version
+          python tools/factory-content.py sdk
+          if ($LASTEXITCODE) { throw 'SDK retrieval failed' }
+          python tools/factory-content.py sync
+          if ($LASTEXITCODE) { throw 'Factory retrieval failed' }
+          python tools/factory-content.py verify
+          if ($LASTEXITCODE) { throw 'Factory verification failed' }
+          python tools/verify-resource-manifests.py
+          if ($LASTEXITCODE) { throw 'A catalogue requires an omitted resource' }
+          ./tools/setup-inno.ps1 -ToolDirectory ./build-tools
+      - name: Compile, test, package and exercise isolated installer
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $taskSourceRoot = (Get-Location).Path
+          if (Test-Path 'T:\') { throw 'T drive already exists; do not replace it.' }
+          subst T: $taskSourceRoot
+          if ($LASTEXITCODE) { throw 'Short source mapping failed' }
+          try {
+            Set-Location T:\
+            cmake -S . -B build-public -G 'Visual Studio 17 2022' -A x64 -DBUILD_TESTING=ON -DCMAKE_FIND_USE_PACKAGE_REGISTRY=OFF -DCMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY=OFF -DFETCHCONTENT_FULLY_DISCONNECTED=ON
+            if ($LASTEXITCODE) { throw 'Configure failed' }
+            cmake --build build-public --config Release --target ToneGrid ToneGridOfflineTests --parallel 2
+            if ($LASTEXITCODE) { throw 'Full build failed' }
+            ctest --test-dir build-public -C Release --output-on-failure --parallel 1 --output-junit build-public/windows-tests.xml -R '^ToneGrid\.(InputCompensation136|RigStorage|Normalization125|Portability|DeviceRate|Isolation|Cabinet|PopupOnboarding|NamControls140|Audit142|LibraryFeedback142|FactoryRefinements142|Startup143ExistingHost|Startup143Host|Release143|Language144|Record141|RecordVideoBridge)$'
+            if ($LASTEXITCODE) { throw 'Windows validation failed' }
+            python tools/package-windows.py --build build-public --output dist-windows
+            if ($LASTEXITCODE) { throw 'Runtime package failed' }
+            python tools/build-windows-installer.py --package dist-windows/ToneGrid-1.1.44-Windows-x64.zip --compiler build-tools/InnoSetup/ISCC.exe --work build-installer --output dist-installer
+            if ($LASTEXITCODE) { throw 'Installer build failed' }
+            python tools/build-windows-installer.py --package dist-windows/ToneGrid-1.1.44-Windows-x64.zip --compiler build-tools/InnoSetup/ISCC.exe --work build-upgrade-fixture --output build-upgrade-artifacts --upgrade-fixture
+            if ($LASTEXITCODE) { throw 'Upgrade fixture build failed' }
+            python tools/test-windows-installer.py --installer dist-installer/ToneGrid-1.1.44-Windows-x64-Unsigned-Review.exe --fixture build-upgrade-artifacts/ToneGrid-1.1.44-Windows-x64-Unsigned-UpgradeFixture.exe --work build-installer-tests
+            if ($LASTEXITCODE) { throw 'Installer lifecycle failed' }
+          } finally {
+            Set-Location $taskSourceRoot
+            subst T: /D
+          }
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4, pinned 2026-10-26
+        with:
+          name: ToneGrid-Windows-unsigned-review-${{ github.sha }}
+          path: |
+            dist-installer/ToneGrid-1.1.44-Windows-x64-Unsigned-Review.exe
+            dist-installer/ToneGrid-1.1.44-Windows-x64-Unsigned-Review.exe.sha256
+            dist-installer/ToneGrid-1.1.44-Windows-x64-Unsigned-Review.manifest.json
+            build-public/windows-tests.xml
+            build-installer-tests/evidence/installer-tests.json
+          if-no-files-found: error

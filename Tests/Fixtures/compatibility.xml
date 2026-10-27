@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CompatibilityBaseline fixtureVersion="1">
+  <Definition id="0" name="COMP" nam="0">
+    <Preset index="0" label="01 Gentle" identity="algorithm-v1" details=""
+            input="-18.0" mix="1.0" output="2.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Picking" identity="algorithm-v1" details=""
+            input="-24.0" mix="0.699999988079071" output="3.0" ratio="3.0"
+            tone="0.0" sens="55.0" range="75.0" decay="160.0" eq0="0.0" eq1="0.0"
+            eq2="0.0" eq3="0.0" eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Funk" identity="algorithm-v1" details=""
+            input="-28.0" mix="0.800000011920929" output="4.0" ratio="4.0"
+            tone="0.0" sens="55.0" range="75.0" decay="160.0" eq0="0.0" eq1="0.0"
+            eq2="0.0" eq3="0.0" eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Country" identity="algorithm-v1" details=""
+            input="-30.0" mix="1.0" output="5.0" ratio="6.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Sustain" identity="algorithm-v1" details=""
+            input="-32.0" mix="0.8999999761581421" output="6.0" ratio="5.0"
+            tone="0.0" sens="55.0" range="75.0" decay="160.0" eq0="0.0" eq1="0.0"
+            eq2="0.0" eq3="0.0" eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Parallel" identity="algorithm-v1" details=""
+            input="-32.0" mix="0.4000000059604645" output="3.0" ratio="8.0"
+            tone="0.0" sens="55.0" range="75.0" decay="160.0" eq0="0.0" eq1="0.0"
+            eq2="0.0" eq3="0.0" eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 Humbuckers" identity="algorithm-v1" details=""
+            input="-14.0" mix="0.75" output="2.0" ratio="3.0" tone="0.0"
+            sens="55.0" range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0"
+            eq3="0.0" eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Fast control" identity="algorithm-v1" details=""
+            input="-20.0" mix="1.0" output="2.0" ratio="8.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="1" name="TS9" nam="1">
+    <Preset index="0" label="01 Warm boost" identity="d2e89b96ced74ebe580ac723fea09e90e6f149b6877f8ed22d1b772a82a9feb1"
+            details="Ibanez TS9 Tube Screamer Drive 0 Tone 6 Level 6 &#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Mid boost" identity="2790ef92e8666aa5036e06e0938ab7c798b00b1821c27a106755b617e0bbee48"
+            details="Ibanez TS9 Tube Screamer Drive 0 Tone 7 Level 7&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Bright boost" identity="7e2257baa7c099074f242b7281f9164de45f3d5b212ef3c03d7b273226b4ce02"
+            details="Ibanez TS9 Tube Screamer Drive 0 Tone 9 Level 9&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Light drive" identity="c08f924499ae385a9f754da811e0a7a2b9bbadda337ed76e9d28fb3f3d19e242"
+            details="Ibanez TS9 Tube Screamer Drive 2 Tone 7 Level 10&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Classic drive" identity="12ee51bc7bf741a7103eca0157c461389994963c1fb4bdeb36de0dfe942d9656"
+            details="Ibanez TS9 Tube Screamer Drive 7 Tone 7 Level 7&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Dark drive" identity="0a1b65893aa6ea2bb729b670f6ecf363bd8ca18b1aa1f710a98c2b4fd80a1be3"
+            details="Ibanez TS9 Tube Screamer Drive 8 Tone 4 Level 5&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 Bright drive" identity="5d88d226629e6ee90c4d51075a998949d435a31fb09c2da9f3e88ad2bd078b94"
+            details="Ibanez TS9 Tube Screamer Drive 8 Tone 8 Level 8&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Maximum drive" identity="9e61e9fd8709ef29a8a47d5560cd5046d2cfe88ac6858fc89107be3a1ce7592f"
+            details="Ibanez TS9 Tube Screamer Drive 10 Tone 9 Level 7&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="2" name="CENTURA" nam="1">
+    <Preset index="0" label="01 Warm boost" identity="29b9158dd07f45a89fd7e9b93eea7742a71a6858dabf3d90644da2be6d2ca7ae"
+            details="Ceriatone Centura G1 T4 O4&#10;Capture level unspecified"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Bright boost" identity="67c1eef18c0d3ba81d2223297d16528c9b32566c463a6c0d00c30f109026afc8"
+            details="Ceriatone Centura G1 T6 O4&#10;Capture level unspecified"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Warm crunch" identity="b63856c0c291d88f11184a990621acd591f924233fb024826013039d171c4c5a"
+            details="Ceriatone Centura G3 T2 O4&#10;Capture level unspecified"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Bright crunch" identity="b468bb672756e85df5bba1ee798ec7c547cfb35463cd00d03c6dcd1e49b9e6a4"
+            details="Ceriatone Centura G3 T8 O4&#10;Capture level unspecified"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Mid drive" identity="8bfc43ad1e2d1e047e1b3799500c0c7df4fae0008138f2cf0a6aa8c4523ddc55"
+            details="Ceriatone Centura G6 T6 O4&#10;Capture level unspecified"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Bright drive" identity="06d847455cc91252fefb2d38834058c8ac44749efcacad0635b15fe0afe82a37"
+            details="Ceriatone Centura G6 T8 O4&#10;Capture level unspecified"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 Warm lead" identity="46feecf729620f01d37bbbc38ca78e846dd80993abd25117dcf20ecb1d01029b"
+            details="Ceriatone Centura G8 T2 O4&#10;Capture level unspecified"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Bright lead" identity="a2d08620057310aaeeb16ace2ec4be6996e4301de4c407d690fcbacf5e2d57a2"
+            details="Ceriatone Centura G8 T8 O4&#10;Capture level unspecified"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="3" name="DS-1" nam="1">
+    <Preset index="0" label="01 Gain 0" identity="5e3ee831b928cdaff296695ca29eaaf04acdf4d18f7792b05a542d55557748be"
+            details="Boss DS-1 T5_V10_G0&#10;Capture level unspecified" input="0.0"
+            mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0" range="75.0"
+            decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0" eq4="0.0"
+            eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Gain 1" identity="0c8768ce0d72081d7196ecc29c39cbfb1ceac68ece71c176538953107ffdc3b0"
+            details="Boss DS-1 T5_V10_G1&#10;Capture level unspecified" input="0.0"
+            mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0" range="75.0"
+            decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0" eq4="0.0"
+            eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Gain 2" identity="08eca725d672bee547385325ddde8447fa4a73c6e309059e89fd217261f78df6"
+            details="Boss DS-1 T5_V10_G2&#10;Capture level unspecified" input="0.0"
+            mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0" range="75.0"
+            decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0" eq4="0.0"
+            eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Gain 3" identity="3546ac269180ad63abc6a15ebfb818503251c8006d6eb9e5f4a50bc7316edb26"
+            details="Boss DS-1 T5_V10_G3&#10;Capture level unspecified" input="0.0"
+            mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0" range="75.0"
+            decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0" eq4="0.0"
+            eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Gain 4" identity="c6488cbc2ccc6d0e611becb043f0d30a1786184bfb9210b2e580170d8baa2597"
+            details="Boss DS-1 T5_V10_G4&#10;Capture level unspecified" input="0.0"
+            mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0" range="75.0"
+            decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0" eq4="0.0"
+            eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Gain 6" identity="24520c9f140de541b3f939135948a43b33c0e54370b2a254d4a88e02cde3b0a0"
+            details="Boss DS-1 T5_V10_G6&#10;Capture level unspecified" input="0.0"
+            mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0" range="75.0"
+            decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0" eq4="0.0"
+            eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 Gain 8" identity="3cf981170d6786b73d9d1a15869fb8adddc912759b455dd3706efc9e956cec91"
+            details="Boss DS-1 T5_V10_G8&#10;Capture level unspecified" input="0.0"
+            mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0" range="75.0"
+            decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0" eq4="0.0"
+            eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Gain 10" identity="e99143fa14770dd8bfad957f4bcc6ce6a05ddfcec3a4627ed2dca0f0ce5824ce"
+            details="Boss DS-1 T5_V10_G10&#10;Capture level unspecified"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="4" name="TIMMY" nam="1">
+    <Preset index="0" label="01 Light / soft" identity="e2b35aeb05228662f9aef303ca5ccfd155b44d06e8cf8d748c6326a443c92fbe"
+            details="MXR Timmy V-1_00 B-3_00 T-Max G-10_00 C-C&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Light / asym" identity="ec1f91a0f3a1e2885cb803d30cf30ad5ba870192f6923e885ebcb29dba297da9"
+            details="MXR Timmy V-1_00 B-3_00 T-Max G-10_00 C-L&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Medium / soft" identity="c206be2cdf7553b0f62db0244fbcd9243f3b6051f51b011f5075208fb46d6aa6"
+            details="MXR Timmy V-1_00 B-3_00 T-Max G-12_00 C-C&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Medium / asym" identity="1991e596ebf661e98a6dbdbe3179e690498430ef857295830a7b80e8e78ccde5"
+            details="MXR Timmy V-1_00 B-3_00 T-Max G-12_00 C-L&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Drive / soft" identity="d1fd200b41e59645667baebded6bb7eac3755a2bf5fe3903272ad49d74efb6d0"
+            details="MXR Timmy V-1_00 B-3_00 T-Max G-2_00 C-C&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Drive / asym" identity="750f95de70653d971c1fd3e3d80e1eb4edc68ec2a36217f76a4ad80dd361e4a4"
+            details="MXR Timmy V-1_00 B-3_00 T-Max G-2_00 C-L&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 EQ / heavy" identity="16f11d2f29ed23f006952d7d452ef27e646a106cd04377f1ac49f4db3676caa1"
+            details="MXR Timmy V-1_00 B-2_00 T-3_00 G-12_00 C-R&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Flat / heavy" identity="b7d324e8546d38c0ea469835d77f19183954ef642c2eba68e5fa055a814b94a8"
+            details="MXR Timmy V-1_00 B-12_00 T-12_00 G-2_00 C-R&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="5" name="BIG MUFF" nam="1">
+    <Preset index="0" label="01 Dark / medium" identity="18c534abe7ce57435cf3b57f853840079d8b910e43f4aadf4b00f7b75106b8fd"
+            details="EHX IC Big Muff V-6 T-3 S-5&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Balanced / medium" identity="eeb7d4fdcb8a45a5a0d56714df1e2f2c38d8e1aba63f0c9c07479276d10614d6"
+            details="EHX IC Big Muff V-6 T-5 S-5&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Bright / medium" identity="5eb5e191f007ac3aa616748ddfe2daaf66e3a593f67228db505234aa3a403bf4"
+            details="EHX IC Big Muff V-6 T-7 S-5&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Dark / sustain" identity="f578a927bbd359dd203bbd8bd886829b3e58350a3ea214d2a358ca0e6be76f79"
+            details="EHX IC Big Muff V-6 T-3 S-8&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Balanced / sustain" identity="9b56dd49520a6a8dee7e09b28a85a99facc5f3c5faa638d7d3af9590c5987aee"
+            details="EHX IC Big Muff V-6 T-5 S-8&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Bright / sustain" identity="1196fe127cabe7b8666f0a2d432e749ec97e75ae1d21a3dc5c94b100ceab7884"
+            details="EHX IC Big Muff V-6 T-7 S-8&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 Tone bypass / soft" identity="fc40b42601b225dc0a7a210f93dd953f920d2ac524af21801cc77f889c076067"
+            details="EHX IC Big Muff V-6 T-Byp S-2&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Tone bypass / full" identity="e343f60ff83a8aafb70ef581ef1903d9e93ee73e90c4a785e124eb7050c28a4f"
+            details="EHX IC Big Muff V-6 T-Byp S-8&#10;Calibrated capture"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="6" name="BOOST" nam="0">
+    <Preset index="0" label="01 Boost +1 dB" identity="algorithm-v1" details=""
+            input="1.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Boost +2 dB" identity="algorithm-v1" details=""
+            input="2.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Boost +3 dB" identity="algorithm-v1" details=""
+            input="3.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Boost +4 dB" identity="algorithm-v1" details=""
+            input="4.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Boost +6 dB" identity="algorithm-v1" details=""
+            input="6.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Boost +8 dB" identity="algorithm-v1" details=""
+            input="8.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 Boost +10 dB" identity="algorithm-v1" details=""
+            input="10.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Boost +12 dB" identity="algorithm-v1" details=""
+            input="12.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="7" name="CLASSIC FUZZ" nam="1">
+    <Preset index="0" label="01 Cleanup soft" identity="165778e442f3a86df4af84031ed18c9d2e449da6f2810fff5392b8116acd2e66"
+            details="Si Fuzz Face Clone A-A - V-5_00 F-12_00 C-3&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Cleanup edge" identity="30983a13c066ca52aef7a54deea903557f11f723f27acec0d71a7ff4d5d07d91"
+            details="Si Fuzz Face Clone A-A - V-5_00 F-12_00 C-1&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Fuzz 7:00" identity="d83e86c717d5da5a8d4aa11c19614fb3d03b4bab06d8e5025d3b9cb88e903450"
+            details="Si Fuzz Face Clone A-A - V-5_00 F-7_00&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Fuzz 9:00" identity="143569bd1dc284fab34464345eb0642e6422dbffeb5983ea3bf3658ea73b6791"
+            details="Si Fuzz Face Clone A-A - V-5_00 F-9_00&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Fuzz 10:30" identity="d378028b2f6edb8682ad26c97ee02e6a7c562d8b0ddfc9cbc356fb01c05c59ec"
+            details="Si Fuzz Face Clone A-A - V-5_00 F-10_30&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Fuzz 12:00" identity="cc1de6d212835b931bc5fe5588b5222943cbc543f641cf0b1ef4155056110035"
+            details="Si Fuzz Face Clone A-A - V-5_00 F-12_00&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 Fuzz 1:30" identity="8b5245fc31d5034f154ebe190f8fdf727d9c0bf75a49a1411a3774218ff74dd1"
+            details="Si Fuzz Face Clone A-A - V-5_00 F-1_30&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Fuzz 3:00" identity="adce5a724ac39299a231b6bcb34b158cfc3e21013f5f3c2118ce29efe4eadf63"
+            details="Si Fuzz Face Clone A-A - V-5_00 F-3_00&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="8" name="TREBLE BOOST" nam="1">
+    <Preset index="0" label="01 Treble light" identity="0e899bdd962b4bfeaff0c95664065fc572893c648d25af41f5d868575161526e"
+            details="Moth Heat0 Range10&#10;Capture level unspecified&#10;jodianlord / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Treble drive" identity="c45ef57246833294d001ee1913280af00588b1742ae0022fbc3e0396a62a20e2"
+            details="Moth Heat5 Range10&#10;Capture level unspecified&#10;jodianlord / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Treble hot" identity="38253116f7749f7f2a098cd4b0f17e446789ba8987b37f25a442d0d14291dc73"
+            details="Moth Heat10 Range10&#10;Capture level unspecified&#10;jodianlord / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Wide light" identity="cee3d4665500e05c674fe2bcaae4e96d197c99b0ab060448504b1a514d904253"
+            details="Moth Heat0 Range5&#10;Capture level unspecified&#10;jodianlord / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Wide drive" identity="9535a63e9c8c5a1ffbb83a3bc301443a3ee8923c86986153d09618e56be9ea47"
+            details="Moth Heat5 Range5&#10;Capture level unspecified&#10;jodianlord / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Wide hot" identity="67372457261042febd71506b755d0e56179d215e8015125fcf0874ca9d4e7298"
+            details="Moth Heat10 Range5&#10;Capture level unspecified&#10;jodianlord / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 18V treble" identity="b7726c87fca7c4f513d0066be404342262dd2d96dec677d948b00defe37bc508"
+            details="18V Moth Heat5 Range10&#10;Capture level unspecified&#10;jodianlord / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 18V wide" identity="5f4f9680fb1d1860cdd044fe66006deab4c10b0bea6b686037e6356c2df9899e"
+            details="18V Moth Heat5 Range5&#10;Capture level unspecified&#10;jodianlord / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="9" name="AUTO WAH" nam="0">
+    <Preset index="0" label="01 Classic funk" identity="auto-wah-v2" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Soft soul" identity="auto-wah-v2" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="48.0"
+            range="55.0" decay="300.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Fast quack" identity="auto-wah-v2" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="65.0"
+            range="65.0" decay="70.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Wide sweep" identity="auto-wah-v2" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="65.0"
+            range="100.0" decay="220.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Dark vowel" identity="auto-wah-v2" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="60.0"
+            range="30.0" decay="280.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Reverse funk" identity="auto-wah-v2" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="80.0" decay="240.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 Single coils" identity="auto-wah-v2" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="75.0"
+            range="70.0" decay="180.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Humbuckers" identity="auto-wah-v2" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="35.0"
+            range="65.0" decay="180.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="10" name="BLUES OD" nam="1">
+    <Preset index="0" label="01 Clean edge" identity="fb5ac1521757e7714be91d374058661d13e16a41d9873f5ba189ee73acea7a6a"
+            details="Boss BD-2 A-A L-1_00 T-1_30 G-7_00&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Light drive" identity="23731c62a7aa3ca2e20cb275c35c157c81500d639d7614138c5a906d42ab7e08"
+            details="Boss BD-2 A-A L-1_00 T-1_30 G-9_00&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Blues crunch" identity="92ab49cc1a3f5c290c6ba5a60cc2a70106482f0919eaac492d6f1294ddaba0bb"
+            details="Boss BD-2 A-A L-1_00 T-1_30 G-11_00&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Lead drive" identity="98b7a008fa58910128418e52d864b544b8985ba0c081d926d49dca924f262c66"
+            details="Boss BD-2 A-A L-1_00 T-1_30 G-2_00&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Full drive" identity="eff41f04092dd20c72d4e14928173e26413a2e0610312cbc196f084b74868c2a"
+            details="Boss BD-2 A-A L-1_00 T-1_30 G-5_00&#10;Calibrated capture&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Warm crunch" identity="0f406dab13b2b39bdbd106ad7061e361082ca59376e9fd4acde271d29b67a5f8"
+            details="Boss BD-2 T-10_00 G-12_00 Std&#10;Capture level unspecified&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 Warm lead" identity="e60ab929fa5bab9080c3deccb56d467ac1afa02192e456cbb174aa1f08b4f34f"
+            details="Boss BD-2 T-10_00 G-3_00 Std&#10;Capture level unspecified&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Bright lead" identity="0c62904b38e7d81f26dc4c7e1c0923be55324bdb2a7517910ba77fe823a0ce61"
+            details="Boss BD-2 T-2_00 G-3_00 Std&#10;Capture level unspecified&#10;Historical factory capture / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="11" name="FILTER DIST" nam="1">
+    <Preset index="0" label="01 Light bright" identity="5fbf9d18b2524f8ba478298d28254c08380356324b0b6396b7f86da7169836c3"
+            details="ProCo RAT2 D-7_30 F-12_00 V-3_00 TTSV10&#10;Calibrated capture&#10;OutmodedElectronics / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Light dark" identity="d047d52d1ead3742f686594b5c1408d1983aeb3df3e2ade0f3b4207750986b5c"
+            details="ProCo RAT2 D-7_30 F-2_00 V-3_00 TTSV10&#10;Calibrated capture&#10;OutmodedElectronics / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="2" label="03 Crunch open" identity="9eec23fa42ba48fcf8e110c156e030b54e192afd0c81f27e045574afd9574ba5"
+            details="ProCo RAT2 D-9_00 F-1_00 V-3_00 TTSV10&#10;Calibrated capture&#10;OutmodedElectronics / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="3" label="04 Crunch dark" identity="83222be962650ae6844ac818b254492654c3610c2b38ae4fedd64fa615f5d9b2"
+            details="ProCo RAT2 D-9_00 F-2_00 V-3_00 TTSV10&#10;Calibrated capture&#10;OutmodedElectronics / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="4" label="05 Drive open" identity="8e1ffbe99f99c2d8b162f51128dfbbea1c64f3c1ecdca943f8f9ddcfde01b53a"
+            details="ProCo RAT2 D-10_30 F-12_00 V-3_00 TTSV10&#10;Calibrated capture&#10;OutmodedElectronics / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="5" label="06 Drive dark" identity="90d88c0949245a79c5ba3d4a99c791d9da7fb15255ba602017d5663f4e4dd0d0"
+            details="ProCo RAT2 D-10_30 F-2_00 V-3_00 TTSV10&#10;Calibrated capture&#10;OutmodedElectronics / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="6" label="07 Heavy open" identity="ee97c38ac5278dd4591a31fbcbd4e6199cf7300cdcce86da3f637e9d4a34e8e6"
+            details="ProCo RAT2 D-12_00 F-12_00 V-3_00 TTSV10&#10;Calibrated capture&#10;OutmodedElectronics / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="7" label="08 Heavy dark" identity="eabdcb834972d2e29266806545677c4d6d00ee6d196f0f15e71216e364aac919"
+            details="ProCo RAT2 D-12_00 F-2_00 V-3_00 TTSV10&#10;Calibrated capture&#10;OutmodedElectronics / T3K"
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+  </Definition>
+  <Definition id="12" name="GRAPHIC EQ" nam="0">
+    <Preset index="0" label="01 Flat" identity="graphic-eq-v1" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0"
+            eq4="0.0" eq5="0.0" eq6="0.0"/>
+    <Preset index="1" label="02 Mid push" identity="graphic-eq-v1" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="-2.0" eq1="-1.0" eq2="1.0" eq3="4.0"
+            eq4="2.0" eq5="0.0" eq6="-1.0"/>
+    <Preset index="2" label="03 Tight rhythm" identity="graphic-eq-v1" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="-6.0" eq1="-3.0" eq2="0.0" eq3="1.0"
+            eq4="2.0" eq5="1.0" eq6="-2.0"/>
+    <Preset index="3" label="04 Warm lead" identity="graphic-eq-v1" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="1.0" eq2="2.0" eq3="3.0"
+            eq4="1.0" eq5="-2.0" eq6="-4.0"/>
+    <Preset index="4" label="05 Scoop" identity="graphic-eq-v1" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="2.0" eq1="1.0" eq2="-2.0" eq3="-4.0"
+            eq4="-2.0" eq5="1.0" eq6="2.0"/>
+    <Preset index="5" label="06 Bright clean" identity="graphic-eq-v1" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="-2.0" eq1="-1.0" eq2="0.0" eq3="0.0"
+            eq4="1.0" eq5="2.0" eq6="3.0"/>
+    <Preset index="6" label="07 Tame bite" identity="graphic-eq-v1" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="0.0" eq1="0.0" eq2="1.0" eq3="1.0"
+            eq4="0.0" eq5="-3.0" eq6="-5.0"/>
+    <Preset index="7" label="08 Hollowbody" identity="graphic-eq-v1" details=""
+            input="0.0" mix="1.0" output="0.0" ratio="2.0" tone="0.0" sens="55.0"
+            range="75.0" decay="160.0" eq0="-5.0" eq1="-3.0" eq2="-1.0" eq3="1.0"
+            eq4="2.0" eq5="1.0" eq6="-1.0"/>
+  </Definition>
+  <Rigs>
+    <PedalRig version="3" name="Synthetic compatibility rig">
+      <PLUGIN name="Synthetic TONEX" descriptiveName="" format="VST3" category=""
+              manufacturer="" version="test" file="synthetic.vst3" uniqueId="7b"
+              isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+              numOutputs="0" isShell="0" hasARAExtension="0" uid="0"/>
+      <Amp bytes="14" sha256="de98858e30e441360c33c06443d00e766ff71bc61023965db78eb81aad0d62ae">14.ykmazgVYzk1Xs7larkG</Amp>
+      <Pedal id="0" preset="0" enabled="1" input="-18.0" mix="1.0" output="2.0"
+             model="algorithm-v1"/>
+      <Pedal id="1" preset="1" enabled="0" input="18" output="0.0" model="2790ef92e8666aa5036e06e0938ab7c798b00b1821c27a106755b617e0bbee48"
+             mix="0.3"/>
+      <Pedal id="2" preset="2" enabled="1" input="18" output="0.0" model="b63856c0c291d88f11184a990621acd591f924233fb024826013039d171c4c5a"
+             mix="0.3"/>
+      <Pedal id="3" preset="3" enabled="0" input="18" output="0.0" model="3546ac269180ad63abc6a15ebfb818503251c8006d6eb9e5f4a50bc7316edb26"
+             mix="0.3"/>
+      <Pedal id="4" preset="4" enabled="1" input="18" output="0.0" model="d1fd200b41e59645667baebded6bb7eac3755a2bf5fe3903272ad49d74efb6d0"
+             mix="0.3"/>
+      <Pedal id="5" preset="5" enabled="0" input="18" output="0.0" model="1196fe127cabe7b8666f0a2d432e749ec97e75ae1d21a3dc5c94b100ceab7884"
+             mix="0.3"/>
+      <Pedal id="6" preset="6" enabled="1" input="10.0" mix="1.0" output="0.0"
+             model="algorithm-v1"/>
+    </PedalRig>
+    <PedalRig version="4" name="Synthetic compatibility rig">
+      <PLUGIN name="Synthetic TONEX" descriptiveName="" format="VST3" category=""
+              manufacturer="" version="test" file="synthetic.vst3" uniqueId="7b"
+              isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+              numOutputs="0" isShell="0" hasARAExtension="0" uid="0"/>
+      <Input gain="4.5" threshold="-57.0" gate="1"/>
+      <Amp bytes="14" sha256="de98858e30e441360c33c06443d00e766ff71bc61023965db78eb81aad0d62ae">14.ykmazgVYzk1Xs7larkG</Amp>
+      <Pedal id="0" preset="0" enabled="1" input="-18.0" mix="1.0" output="2.0"
+             ratio="2.0" model="algorithm-v1"/>
+      <Pedal id="1" preset="1" enabled="0" input="18" output="0.0" ratio="2.0"
+             model="2790ef92e8666aa5036e06e0938ab7c798b00b1821c27a106755b617e0bbee48"
+             mix="0.3"/>
+      <Pedal id="2" preset="2" enabled="1" input="18" output="0.0" ratio="2.0"
+             model="b63856c0c291d88f11184a990621acd591f924233fb024826013039d171c4c5a"
+             mix="0.3"/>
+      <Pedal id="3" preset="3" enabled="0" input="18" output="0.0" ratio="2.0"
+             model="3546ac269180ad63abc6a15ebfb818503251c8006d6eb9e5f4a50bc7316edb26"
+             mix="0.3"/>
+      <Pedal id="4" preset="4" enabled="1" input="18" output="0.0" ratio="2.0"
+             model="d1fd200b41e59645667baebded6bb7eac3755a2bf5fe3903272ad49d74efb6d0"
+             mix="0.3"/>
+      <Pedal id="5" preset="5" enabled="0" input="18" output="0.0" ratio="2.0"
+             model="1196fe127cabe7b8666f0a2d432e749ec97e75ae1d21a3dc5c94b100ceab7884"
+             mix="0.3"/>
+      <Pedal id="6" preset="6" enabled="1" input="10.0" mix="1.0" output="0.0"
+             ratio="2.0" model="algorithm-v1"/>
+    </PedalRig>
+    <PedalRig version="5" name="Synthetic compatibility rig">
+      <PLUGIN name="Synthetic TONEX" descriptiveName="" format="VST3" category=""
+              manufacturer="" version="test" file="synthetic.vst3" uniqueId="7b"
+              isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+              numOutputs="0" isShell="0" hasARAExtension="0" uid="0"/>
+      <Input gain="4.5" threshold="-57.0" gate="1"/>
+      <Amp bytes="14" sha256="de98858e30e441360c33c06443d00e766ff71bc61023965db78eb81aad0d62ae">14.ykmazgVYzk1Xs7larkG</Amp>
+      <Pedal id="0" preset="0" enabled="1" input="-18.0" mix="1.0" output="2.0"
+             ratio="2.0" model="algorithm-v1"/>
+      <Pedal id="1" preset="1" enabled="0" input="0.0" tone="2.5" output="0.0"
+             ratio="2.0" model="2790ef92e8666aa5036e06e0938ab7c798b00b1821c27a106755b617e0bbee48"/>
+      <Pedal id="2" preset="2" enabled="1" input="0.0" tone="-3.5" output="0.0"
+             ratio="2.0" model="b63856c0c291d88f11184a990621acd591f924233fb024826013039d171c4c5a"/>
+      <Pedal id="3" preset="3" enabled="0" input="0.0" tone="2.5" output="0.0"
+             ratio="2.0" model="3546ac269180ad63abc6a15ebfb818503251c8006d6eb9e5f4a50bc7316edb26"/>
+      <Pedal id="4" preset="4" enabled="1" input="0.0" tone="-3.5" output="0.0"
+             ratio="2.0" model="d1fd200b41e59645667baebded6bb7eac3755a2bf5fe3903272ad49d74efb6d0"/>
+      <Pedal id="5" preset="5" enabled="0" input="0.0" tone="2.5" output="0.0"
+             ratio="2.0" model="1196fe127cabe7b8666f0a2d432e749ec97e75ae1d21a3dc5c94b100ceab7884"/>
+      <Pedal id="6" preset="6" enabled="1" input="10.0" mix="1.0" output="0.0"
+             ratio="2.0" model="algorithm-v1"/>
+    </PedalRig>
+    <PedalRig version="6" name="Synthetic compatibility rig">
+      <PLUGIN name="Synthetic TONEX" descriptiveName="" format="VST3" category=""
+              manufacturer="" version="test" file="synthetic.vst3" uniqueId="7b"
+              isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+              numOutputs="0" isShell="0" hasARAExtension="0" uid="0"/>
+      <Input gain="4.5" threshold="-57.0" gate="1"/>
+      <Amp bytes="14" sha256="de98858e30e441360c33c06443d00e766ff71bc61023965db78eb81aad0d62ae">14.ykmazgVYzk1Xs7larkG</Amp>
+      <Pedal id="0" preset="0" enabled="1" input="-18.0" mix="1.0" output="2.0"
+             ratio="2.0" model="algorithm-v1"/>
+      <Pedal id="1" preset="1" enabled="0" input="0.0" tone="2.5" output="0.0"
+             ratio="2.0" model="2790ef92e8666aa5036e06e0938ab7c798b00b1821c27a106755b617e0bbee48"/>
+      <Pedal id="2" preset="2" enabled="1" input="0.0" tone="-3.5" output="0.0"
+             ratio="2.0" model="b63856c0c291d88f11184a990621acd591f924233fb024826013039d171c4c5a"/>
+      <Pedal id="3" preset="3" enabled="0" input="0.0" tone="2.5" output="0.0"
+             ratio="2.0" model="3546ac269180ad63abc6a15ebfb818503251c8006d6eb9e5f4a50bc7316edb26"/>
+      <Pedal id="4" preset="4" enabled="1" input="0.0" tone="-3.5" output="0.0"
+             ratio="2.0" model="d1fd200b41e59645667baebded6bb7eac3755a2bf5fe3903272ad49d74efb6d0"/>
+      <Pedal id="5" preset="5" enabled="0" input="0.0" tone="2.5" output="0.0"
+             ratio="2.0" model="1196fe127cabe7b8666f0a2d432e749ec97e75ae1d21a3dc5c94b100ceab7884"/>
+      <Pedal id="6" preset="6" enabled="1" input="10.0" mix="1.0" output="0.0"
+             ratio="2.0" model="algorithm-v1"/>
+      <Pedal id="7" preset="7" enabled="0" input="0.0" tone="2.5" output="0.0"
+             ratio="2.0" model="adce5a724ac39299a231b6bcb34b158cfc3e21013f5f3c2118ce29efe4eadf63"/>
+      <Pedal id="8" preset="0" enabled="1" input="0.0" tone="-3.5" output="0.0"
+             ratio="2.0" model="0e899bdd962b4bfeaff0c95664065fc572893c648d25af41f5d868575161526e"/>
+      <Pedal id="9" preset="1" enabled="0" input="0.0" mix="1.0" output="0.0"
+             ratio="2.0" wahSensitivity="83.0" wahRange="37.0" wahDecay="333.0"
+             model="auto-wah-v2"/>
+      <Pedal id="10" preset="2" enabled="1" input="0.0" tone="-3.5" output="0.0"
+             ratio="2.0" model="92ab49cc1a3f5c290c6ba5a60cc2a70106482f0919eaac492d6f1294ddaba0bb"/>
+      <Pedal id="11" preset="3" enabled="0" input="0.0" tone="2.5" output="0.0"
+             ratio="2.0" model="83222be962650ae6844ac818b254492654c3610c2b38ae4fedd64fa615f5d9b2"/>
+      <Pedal id="12" preset="4" enabled="1" input="0.0" mix="1.0" output="0.0"
+             ratio="2.0" eq0="-5.0" eq1="3.0" eq2="7.0" eq3="0.0" eq4="-4.0"
+             eq5="2.0" eq6="9.0" model="graphic-eq-v1"/>
+    </PedalRig>
+  </Rigs>
+  <PedalMidi version="1">
+    <Binding target="127" kind="1" channel="16" number="127"/>
+    <Binding target="128" kind="2" channel="3" number="60"/>
+    <Binding target="129" kind="2" channel="3" number="61"/>
+    <Binding target="130" kind="2" channel="3" number="62"/>
+    <Binding target="131" kind="2" channel="3" number="63"/>
+    <Binding target="132" kind="2" channel="3" number="64"/>
+    <Binding target="133" kind="2" channel="3" number="65"/>
+    <Binding target="134" kind="2" channel="3" number="66"/>
+    <Binding target="135" kind="2" channel="3" number="67"/>
+    <Binding target="136" kind="2" channel="3" number="68"/>
+    <Binding target="137" kind="2" channel="3" number="69"/>
+    <Binding target="138" kind="2" channel="3" number="70"/>
+    <Binding target="139" kind="2" channel="3" number="71"/>
+    <Binding target="140" kind="2" channel="3" number="72"/>
+  </PedalMidi>
+</CompatibilityBaseline>

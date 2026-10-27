@@ -1,0 +1,21 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/hiwatt-super-hi-50-64577",
+  "tone_id": "64577",
+  "maker": "Hiwatt",
+  "model": "Super-Hi 50",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Hiwatt Super-Hi 50, Fortin-designed 50W EL34 amplifier, captured by 2dor. AMP captures contain the complete head without cabinet or microphone. PRE and POW are separate preamp-only and poweramp-only utilities, not complete heads. Mesa 4x12 Oversized Straight used as load. Original calibrated NAM bytes retained. No exact cabinet IR association is asserted.",
+  "models": [
+    {
+      "file": "[AMP] HWAT-SUPERHI50 Bright Overdrive - DI.nam",
+      "sha256": "c5d2374e6c80762ae722a88cc6e423066a23a2d5e056d908c549e7625a56a98b",
+      "gear": "amp",
+      "name": "[AMP] HWAT-SUPERHI50 Bright Overdrive - DI",
+      "categoryRationale": "Gain 4, SuperHi off; same setting as the existing Crunch full rig."
+    }
+  ]
+}

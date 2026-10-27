@@ -1,0 +1,14 @@
+* -text
+*.h text eol=lf
+*.cpp text eol=lf
+*.c text eol=lf
+*.inl text eol=lf
+*.mm text eol=lf
+*.cmake text eol=lf
+CMakeLists.txt text eol=lf
+*.py text eol=lf
+*.cjs text eol=lf
+# Reviewed dependencies and factory hashes use exact original bytes.
+vendor/** -text
+Resources/** -text
+*.sh text eol=lf

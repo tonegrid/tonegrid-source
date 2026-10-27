@@ -1,0 +1,92 @@
+{
+  "id": "transparent_od",
+  "displayName": "TRANSPARENT OD",
+  "subtitle": "DRIVE WHAT'S REAL",
+  "type": "standard",
+  "referenceSize": {
+    "width": 300,
+    "height": 450
+  },
+  "assetSize2x": {
+    "width": 600,
+    "height": 900
+  },
+  "controls": [
+    {
+      "id": "inputTrim",
+      "label": "INPUT TRIM",
+      "type": "rotary",
+      "center": {
+        "x": 65,
+        "y": 100
+      },
+      "diameter": 58
+    },
+    {
+      "id": "mix",
+      "label": "MIX",
+      "type": "rotary",
+      "center": {
+        "x": 150,
+        "y": 100
+      },
+      "diameter": 58
+    },
+    {
+      "id": "level",
+      "label": "LEVEL",
+      "type": "rotary",
+      "center": {
+        "x": 235,
+        "y": 100
+      },
+      "diameter": 58
+    }
+  ],
+  "led": {
+    "center": {
+      "x": 150,
+      "y": 30
+    },
+    "diameter": 14,
+    "off": "../../shared/led_off.png",
+    "on": "../../shared/led_on.png"
+  },
+  "preset": {
+    "bounds": {
+      "x": 75,
+      "y": 278,
+      "width": 150,
+      "height": 30
+    },
+    "render": "juce_custom_lookandfeel"
+  },
+  "midi": {
+    "bounds": {
+      "x": 110,
+      "y": 320,
+      "width": 80,
+      "height": 28
+    },
+    "render": "juce_custom_lookandfeel"
+  },
+  "footswitch": {
+    "center": {
+      "x": 150,
+      "y": 390
+    },
+    "diameter": 56,
+    "up": "../../shared/footswitch_up.png",
+    "down": "../../shared/footswitch_down.png"
+  },
+  "knobStrip": {
+    "path": "../../shared/knob_strip.png",
+    "frames": 101,
+    "frameWidth": 128,
+    "frameHeight": 128,
+    "sweepDegrees": 270,
+    "startDegrees": -135
+  },
+  "face": "face.png",
+  "notes": "Static title/subtitle and graphic motif are baked into face.png. Dynamic controls are overlaid by JUCE."
+}

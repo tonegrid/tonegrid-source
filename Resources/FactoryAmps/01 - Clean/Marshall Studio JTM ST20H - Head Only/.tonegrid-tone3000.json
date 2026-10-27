@@ -1,0 +1,28 @@
+{
+  "source": "tone3000",
+  "creator": "rxguitar",
+  "creator_username": "rxguitar",
+  "url": "https://www.tone3000.com/tones/marshall-studio-jtm-st20h-92048",
+  "tone_id": "92048",
+  "model": "Marshall Studio JTM ST20H",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "JTM20_01_DIR_JMP_Clean.nam",
+      "sha256": "e4b1c5c6e3022866cd52495664988561857050ec2cfa9ea3baece69b3c7f1bc4",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_07_DIR_HT_Clean.nam",
+      "sha256": "b401cae0b7e725ad3ff5dbe580b9066ae7eb11691e922f563a6332d99f71cf9c",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_13_DIR_NRM_Deep-Clean.nam",
+      "sha256": "a7388967b90d6ed7f7273c032fe2ddfa31f9b6824b13c4840a4660e3d3e7f0d7",
+      "gear": "amp"
+    }
+  ]
+}

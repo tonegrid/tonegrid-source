@@ -1,0 +1,78 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/1980-marshall-jmp-2204-70525",
+  "tone_id": "70525",
+  "model": "1980 Marshall JMP 2204",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] JMP2204-Mar4x12-HI Rock Machine - DI.nam",
+      "sha256": "30001df5cc61c61c29b632e57cac7b5cb3c30c78cbc7abc9b629e90b31b09705",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Msm4x12-HI Rock Machine - DI.nam",
+      "sha256": "22af6afc9c20cd7f37495247133b2dff9407963cb03ef1431ad1bef7b54d839b",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Mar2x12-HI Rock Machine - DI.nam",
+      "sha256": "e30edaf08d58190fdbb9dac5d56c8176838b193b4724aa944a5eeaf7ee1e7514",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Mar4x12-HI Hendrics - DI.nam",
+      "sha256": "4bf40b1139f6ba378539d46bad5bc9dccd0b665e8c3ddf8a64c2a55ec21cb86b",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Mar4x12-HI Classic Hits - DI.nam",
+      "sha256": "95270deeb5fd4cbcbacf2bb77c6f10db987167d7c20305d545e446c61c612815",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Mar4x12-HI Mr. Chunk - DI.nam",
+      "sha256": "16eade1add220dfddab69534294d5ce7393e21c67694211c5a706c60d6af3286",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Mar4x12-HI Anguish - DI.nam",
+      "sha256": "3176b2844253fd30b8cf35ed4a0b2af7b0985fb3d89a6c6514be144ac4c448b5",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Mar4x12-HI Shuck-a-Truck - DI.nam",
+      "sha256": "649141dd1bbf0c9b235819e51d47412557f6eeef496076c56f27a3633c663312",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Mar4x12-HI Paffed Up - DI.nam",
+      "sha256": "1aae27f64cb9887449277247df9d9f1a3946df1430f05856e9d2156ff112775d",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Mar4x12-HI+ 13 Killer Grinds - DI.nam",
+      "sha256": "d85380b8c57142f35e5a065b56a57d5b34cc5b709d4067afe9a5c5914242e537",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Mar4x12-HI+ 13 Owls - DI.nam",
+      "sha256": "25db4905692be473a881c0bf90df9cee0f8efb85f8e629540a664e6ca9e42595",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Mar2x12-HI+ 13 Owls - DI.nam",
+      "sha256": "4010bf3063908264f84747a49a9882e4ffca01c58572776d800be736bde3500f",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] JMP2204-Msm4x12-HI+ 13 Owls - DI.nam",
+      "sha256": "3cc8b5a7ddf56a839fa858132cab20a208c69aaf69b8c0cfe08911b1285d57d3",
+      "gear": "amp"
+    }
+  ]
+}

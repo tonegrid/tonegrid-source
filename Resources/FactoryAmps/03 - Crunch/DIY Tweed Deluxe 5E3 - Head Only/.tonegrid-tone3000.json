@@ -1,0 +1,373 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/diy-tweed-deluxe-5e3-head-115dbu-4976",
+  "tone_id": "4976",
+  "model": "DIY Tweed Deluxe 5E3 Head (11.5dBu)",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "5E3 In1 V1-5 V2-0 T-10.nam",
+      "sha256": "1c0f3e26bdd6636a60b8f36725874fc475daeb6e9213237c6ef70868814b38ef",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-5 T-10.nam",
+      "sha256": "9fa2ea873636389afa743c3d134f15e470b43d9be22912b91b9eb8f9a8a33961",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In2 V1-5 V2-10 T-9.nam",
+      "sha256": "ea40b37619649091d56dc14153f0a92a9f0730f10fac97cd0a6df026e20edbc3",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-2 T-2.nam",
+      "sha256": "18ca9c145053c3b4e5f1f1b389909c339d089bcb428bc8ef0770941179a198ed",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-7 T-8.nam",
+      "sha256": "a522b2c5113bff6093d13c57c54e66c84a5b650acd35b98bdc80f4889aecf522",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-2 T-10.nam",
+      "sha256": "2e457c7674b6b6a3f0ea0707012cd24c56623d33eb8c716de2df6d55c4ec429e",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-7 T-6.nam",
+      "sha256": "bf003158a79d7c1becad4bde1a7201bdec9990e548376a7176442de3f943c373",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-10 T-10.nam",
+      "sha256": "f2176fb286a6f209373db80795adf59c600d4c1606955c231a9ed61a554cf260",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-5 T-2.nam",
+      "sha256": "2571c9a9af3f64f547ca64cda7ebea4aeb7ba801479c8cda8cf1e996b0c7447e",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-9 V2-9 T-10.nam",
+      "sha256": "021b30fda84fd8159e0cc67e83c80ebd51bb5ac6fa6ee77ffe5e9a4476e129e7",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-7 T-10.nam",
+      "sha256": "12d8ad602f2b06a24a592b8ce5e4729f93afa96e1acaacc1bb7618a951137507",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-10 T-9.nam",
+      "sha256": "683b5997ece510b487190a5bc390f1c5c555d46e9110c2df9c5d8bbb7f26fca1",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-0 T-4.nam",
+      "sha256": "53c2a71e579a396d40b8d578661bf7f26c4f6db22e6cde750683dd2feca357e5",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-0 T-2.nam",
+      "sha256": "e65152137e2a4a0e462f1e4fabe19c64c4e65132896c2e10144b052ff435ee89",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-10 T-8.nam",
+      "sha256": "e0440f3a81fbd4dd09c2717e0ca63267efff3911d7cd8241a25f8ea10274a7d6",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-2 T-6.nam",
+      "sha256": "52bf2b6c278ba84ede8ef8aafada0460ea7c5d620c5f2043ba3237797a206bce",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-0 T-2.nam",
+      "sha256": "4ef4e2c537b3f28bb823d5773566dd698e881221b0d32e5a0f10676cfa694201",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-5 T-4.nam",
+      "sha256": "3cea20d280c5bb1bcbcd5c07124592529c45928fea96b1de683c5dddf7417e04",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-7 T-6.nam",
+      "sha256": "b72a31657d035ac6761950a0ad1462e9054c7280000ab83d36a1248f13252d6b",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-0 T-2.nam",
+      "sha256": "1cbdfca7ba381d5413005241da593c8605f312a6dd2bfc54dfc33a78ed6ac247",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-5 T-6.nam",
+      "sha256": "ce95eb3a319370f3529e1eb1d84003b186de5af4528f4fdb0cbeebeb9edf7024",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-7 T-8.nam",
+      "sha256": "0f0e4c09cd5b1445299550d29958bc8ed54e167fcca9b7aab37790bc71bca588",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-7 T-2.nam",
+      "sha256": "35d1019928b459d442c2d1e991d520e54ad654e3972c2c58c8d52d77014355bc",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-5 T-2.nam",
+      "sha256": "d7c7cb0d942bdeb7428c5ef9652f9fbde5f15b189310e1b700cb0821635ac2ba",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-2 T-8.nam",
+      "sha256": "a1b8d8edf657fe2f120caf0a90afe6b5807c7c53cd4dcf109b00830fb1bc580a",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-0 T-4.nam",
+      "sha256": "a58649fde82e464fccbdc4d38cbf333dbacf7eb4138bbf62e15d9244ea00c29c",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-0 T-8.nam",
+      "sha256": "2e4c27c6d499acfcd3da095b241d07f366d33895a380d00d5f40c3fcaa5a7a34",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-5 T-8.nam",
+      "sha256": "19bd4aaba4e8e4b32ebe2eb77fd7c80e2537818d5b64395581bab47bf19d8b68",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-0 T-6.nam",
+      "sha256": "64a832b39a5c17219521c2e4ab0e0fbef2d3255dd55445254ff5309386be3d7f",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-2 T-8.nam",
+      "sha256": "5c06ba8353fbb27c05fee2dc8f159965c8be2ce196210e4bc872edff840f92ef",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-5 T-8.nam",
+      "sha256": "8be8c4e43eac2885856850f1cd41fccf701bc26176decf55c0298c8e2b1760f7",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-5 T-4.nam",
+      "sha256": "c63106489082a2a838186b99310b5f7539d80666a470c231b339b164b38ad5ef",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-2 T-4.nam",
+      "sha256": "4bb938e538add330e08c5dd8e79b878499f483d77d0f0dc0542f5ed758958a84",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-10 T-7.nam",
+      "sha256": "c4ceeaa58cbaab79b1a59225c68a810284c01ce5567c1820e322b36af96e6e7e",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-7 T-2.nam",
+      "sha256": "59751e72c7ccfacd85353f598b4ea41b23777fbbb5d7468c660e9c1a45a98caf",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-7 T-10.nam",
+      "sha256": "8bfcd0e6a41d2272c8c2369f02d578cb1f5d7d15f4077fa14eb1c94c11d13053",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-10 T-6.nam",
+      "sha256": "f54fe2d48f3d3529af67430e18990f55dc9ff083d91e5375ac7606fe5d14e32b",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-0 T-6.nam",
+      "sha256": "c1b58d6c40cb3b5b537904d76f03c18384a7e29891dce998223606695b944862",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In2 V1-5 V2-10 T-7.nam",
+      "sha256": "9bc13a71a4339709e29226c089c8193d097a1d2831374c694b4a4aec53855021",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-2 T-8.nam",
+      "sha256": "7052be281cfb50bdc24bf946017e97924b7d32632f7829f3b9e87d9e793db544",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-2 T-10.nam",
+      "sha256": "d5a78d6e645379f7f499f309c56fcc8c92a134043c1f0dc847db9a5cf5b1590a",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-0 T-6.nam",
+      "sha256": "dc295871f5f7ed156fbb987631b1a0b411f1f43a0a278a57a41789e2273e0b3f",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In2 V1-5 V2-10 T-6.nam",
+      "sha256": "c0ff95e118954a8be9a2bb9f46bba98d3e699b26199515a3b392a3b2bd945750",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-7 T-4.nam",
+      "sha256": "fb5132e9fd7754685bec416c152b5f026e43da9ce936ae054607b779f5821265",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-2 T-4.nam",
+      "sha256": "20ac133c03e45ca813d1c5d1f915b2afbded3c3682c98d93d69d6aacdf362fd8",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-5 T-6.nam",
+      "sha256": "1431ea09256d804ff5e65bd46452b035eaa9d26a6134d5acd7c4b3b065b6862c",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-5 T-6.nam",
+      "sha256": "0302817d3594cdab8cd3b5b626f119c89ab2d7dc8efd1761818b8be5ecfe369f",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-2 T-6.nam",
+      "sha256": "532cd06b911c2df34ca5bc9bb37f47affab2cf4d967f86c34b4478d2df01ae65",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-5 T-10.nam",
+      "sha256": "ed2c22597d69feebac6e201c02d294545abb72496bf5476f3cff2e3436acac55",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-0 T-10.nam",
+      "sha256": "84da14be829781e0d761dbd8768e6e351db7694b009f7653b8689a2f21fe720d",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-5 T-8.nam",
+      "sha256": "e9b4e7c74c0af70371d6d4867e91ccefe0ae6d63ed4874558e7a048aad79d207",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-2 T-10.nam",
+      "sha256": "86e7f891f1f8a80d98dda3b653925a4f0fa2dd08207a9f4bf2fef3e96e4e7b2f",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-2 T-2.nam",
+      "sha256": "8a81426f6eb727d8b3c7b0f3d4d99cdc599a3e0e6f8e74af0c0b40cf98a3d33f",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-0 T-10.nam",
+      "sha256": "f16f68dbeae66e3a262c1d27f9276efd625a72c2b42a8750a42cecc5b36fb196",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In2 V1-5 V2-10 T-8.nam",
+      "sha256": "192e596b354d0c088179a905d4aef280593f51c43faccc27d329fc9723f32ecb",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-7 T-10.nam",
+      "sha256": "eadee6e9c7ae5437c5f0173a273218b3c9a3b526c8e6887a994fb74da3718084",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-2 T-4.nam",
+      "sha256": "6383f78459544d40c143fd943371e822c2700603d297a2d6fac843abf97e09e8",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-7 T-6.nam",
+      "sha256": "1d7cf0be7eed88ebca90f8a5bd7537d7b84296f3307ab77de8ff6fd533fc2f5c",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-5 T-2.nam",
+      "sha256": "d6850e05f0b74e3d70db5e6dbb24b1338096ff49f53e867353e74071904fd898",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-0 T-4.nam",
+      "sha256": "64c10f123b921d0ed1905bbec67e16227b896c3cc8241a75e4da4fd584bee1a5",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-5 V2-10 T-10.nam",
+      "sha256": "7414ccfff33a542f171e2cbe6fb12615171806a613ff2d607a3f21bf591fd7b8",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-2 T-6.nam",
+      "sha256": "f283867d7fd4929df0297af28029cba186cd6491b14d4086332a7f6bd86cb03b",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-7 T-2.nam",
+      "sha256": "f2a96e7ff342e0daa67defb5bea46c40a1fcd7875e83b59071c6198269cd73e2",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-5 T-4.nam",
+      "sha256": "59aced46483f8ad277a40a8da6783e2e35a0c283e62560240fc54a5d454c9b65",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-7 T-8.nam",
+      "sha256": "fb55420bb5b60d6b5a6f9eef41d933a6ee96b99235efa0ae13dcf1262767d950",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In2 V1-5 V2-10 T-10.nam",
+      "sha256": "e7a385599ef20b4ed1fa410b4f21eff08ba623dee723812c0ecb57b67034b759",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-0 T-8.nam",
+      "sha256": "824d150df4560a2162b7ff6854f685349f43a6d98d055ddc29b514b1d54ffd87",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-7 T-4.nam",
+      "sha256": "edde4fd2c9db191f8136bc0b3b9acbf8380d04d185b1eb48951465305a15928a",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-2 T-2.nam",
+      "sha256": "c65fee721d0568bb32db34f539c2d4055cf269c2c5db910a6b8f3b67276088a0",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-8 V2-7 T-4.nam",
+      "sha256": "d7da71c3bd4451f2ece16a584ad3ac330d948a6a9518a6ab16afe3286ddeab20",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-5 T-10.nam",
+      "sha256": "8964586b8189e58c5e357f662b3bcc6349132409c180fe71e7b9e2002c050686",
+      "gear": "amp"
+    },
+    {
+      "file": "5E3 In1 V1-10 V2-0 T-8.nam",
+      "sha256": "28f0b64cc757d2b0658480be68ec49eebc09a7864efe2dd63e6c923792b0e71b",
+      "gear": "amp"
+    }
+  ]
+}

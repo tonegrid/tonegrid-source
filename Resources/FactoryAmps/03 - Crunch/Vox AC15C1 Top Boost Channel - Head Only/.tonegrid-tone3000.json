@@ -1,0 +1,73 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/vox-ac15c1-top-boost-channel-37813",
+  "tone_id": "37813",
+  "model": "Vox AC15C1 Top Boost Channel",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "Vox AC15C1 TB V-8 T-6 B-4 C-7 TTSV10.nam",
+      "sha256": "b99a8b53702d2178bdbcf20c29c0b8e37030c26204e513daa57214349a647447",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-6 B-4 C-7 TTSV10 SRL.nam",
+      "sha256": "c946c457448f04958391559689f28b2914f6d8a043876991264238990300cd5c",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-6 B-4 C-5 TTSV10.nam",
+      "sha256": "6a4b1c26a25b6a3e7ce45f7aa7ca231f1ad2815006bd20c65ddf0b73f3ff228d",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-6 B-4 C-5 TTSV10 SRL.nam",
+      "sha256": "ce0be801460aa857bcb51aa62c65d92a7f2b8684e035a8d60b096be66fab93a7",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-6 B-4 C-0 TTSV10.nam",
+      "sha256": "f550bf3079a2fa2a8771318b208c7c356c73dc35e40d7cbf5e4f1ddc9b6cb692",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-6 B-4 C-0 TTSV10 SRL.nam",
+      "sha256": "be23200eb0eeeee8ce5fb33b6c40522712b195f01d678e7a0c3ddf0c159619ee",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-5 B-5 C-7 TTSV10.nam",
+      "sha256": "632de5f1fb1bb91ac34a43ee146bc7c1e8b82496e5549bd8097ee99f65131f01",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-5 B-5 C-7 TTSV10 SRL.nam",
+      "sha256": "b7a231b5a5f90cd5a9ced82110a3137cefac794f1331c427b1a59a521cb91474",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-5 B-5 C-5 TTSV10.nam",
+      "sha256": "40ddc2564bb4ac4896f93b2cfb5e72dd8a7fb2a7bb489357917bfa33edb709a3",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-5 B-5 C-5 TTSV10 SRL.nam",
+      "sha256": "a5bba012b1343606558bcbc450eed8a647c7361cadeca1fe615be8a9f11490c2",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-5 B-5 C-0 TTSV10.nam",
+      "sha256": "35ff0653449f7164e7590e813504da5a2d78f8f1ea0be366e94c376a6a8a46c1",
+      "gear": "amp"
+    },
+    {
+      "file": "Vox AC15C1 TB V-8 T-5 B-5 C-0 TTSV10 SRL.nam",
+      "sha256": "82a7a9074b6a259fe7b55f56372ca480cf4e8ab9c6a5fe6290115b176e7a69a8",
+      "gear": "amp"
+    }
+  ]
+}

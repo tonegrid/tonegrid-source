@@ -1,0 +1,33 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/peavey-jsx-amp-head-67214",
+  "tone_id": "67214",
+  "model": "Peavey JSX - Amp Head",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "DI JSX Cln V-5 T-6 M-4 B-4 Ma-1 R-2 P-5 SRL 6dB.nam",
+      "sha256": "f53a00ee607ce3e4642a39f21a22d13c5ca6d6f9277b3a01d184c4b2758661bd",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cln V-5 T-6 M-4 B-4 Ma-1 R-3 P-6 SRL 6dB.nam",
+      "sha256": "3598b9cebfb61411bbc70b38c77aa684afc3677a82fde4d874406a2532074487",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cln V-8 T-5 M-5 B-5 Ma-1 R-2 P-2 SRL 6dB.nam",
+      "sha256": "0ac53474b5248855bbfd7fad0567d22b482d1f32a4e21b0be696f649e5db296b",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cln V-8 T-6 M-4 B-4 Ma-1 R-0 P-3 SRL 6dB.nam",
+      "sha256": "4c99e047d0cc0ddf2ebe00d93a69753f1ffadcc916529e7ba1e0ac7d7f01531d",
+      "gear": "amp"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PedalRig version="17" name="The Police - Every Breath You Take" presetId="tonegrid-starter-142-005">
+  <OutputDSP version="7" ampNormalizationEnabled="1" spreadEnabled="0" offsetMs="8" wobblePercent="25" crossoverHz="130" wobbleEnabled="1" crossoverEnabled="1" diffuseEnabled="1">
+    <Reverb version="1" enabled="1" type="1" timeSeconds="1.3" preDelayMs="10" color="45" mixPercent="8" />
+    <Pitch version="1" mode="0" semitones="0" dry="100" down="0" up="0" />
+    <Mod version="1" enabled="1" type="0" rateHz="1.1" depth="24" level="18" />
+    <Delay version="1" enabled="0" timeMs="320" feedback="0" mix="0" />
+    <AmpEq version="3" bassDb="0" midDb="0" trebleDb="0" enabled="0" lowCut="0" highCut="0" lowCutHz="80" highCutHz="8000" lowMidHz="250" lowMidDb="0" lowMidQ="1" presenceHz="3000" presenceDb="0" presenceQ="1" depthDb="0" depthHz="100" />
+  </OutputDSP>
+  <AmpSource type="NAM" file="01 - Clean/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH1-CLN Factory Bright Clean - DI.nam" bytes="294618" sha256="c573001b45974b05db4085d911d5accf6caad22b85337c81ba479aaf8e8d6b64" gainDb="0" volumeDb="0" />
+  <Input gain="0" threshold="-74" gate="0" />
+  <Pedal id="0" preset="5" enabled="1" input="-25" mix="0.4" output="1" ratio="2.5" model="algorithm-v1" />
+  <Pedal id="1" preset="2" enabled="0" input="0" tone="0" output="0" ratio="2.0" model="ac661457216323fca615551d78830155cf79e95642704d03a0e93e16d2aa41b1" />
+  <Pedal id="2" preset="4" enabled="0" input="0" tone="0" output="0" ratio="2.0" model="bf87a558598bea0a16789e2631993d01d12eaa0d0ff587ac355d3216659e747d" />
+  <Pedal id="3" preset="2" enabled="0" input="0" tone="0" output="0" ratio="2.0" model="8018b901a7d0744250615537ded839d62b52b7a91c24b7429ed75f34e8ec373b" />
+  <Pedal id="4" preset="3" enabled="0" input="0" tone="0" output="0" ratio="2.0" model="d521e42b8e2d4f304deaa88317e39aa1e47e43b5a96e80e150e09809cee8c4fd" />
+  <Pedal id="5" preset="6" enabled="0" input="0" tone="0" output="0" ratio="2.0" model="b0c8d514c2539ca85ca19d821fa1325ad4b032e790220921cee7f51f1cc9193f" />
+  <Pedal id="6" preset="0" enabled="0" input="1" mix="1.0" output="0" ratio="2.0" model="algorithm-v1" />
+  <Pedal id="7" preset="9" enabled="0" input="0" tone="0" output="0" ratio="2.0" model="eeb7d4fdcb8a45a5a0d56714df1e2f2c38d8e1aba63f0c9c07479276d10614d6" />
+  <Pedal id="8" preset="10" enabled="0" input="0" tone="0" output="0" ratio="2.0" model="68bca2080beb3ec3316f44931f6d1f56ad9137b5fe5ecead8082c4974ce668c1" />
+  <Pedal id="9" preset="0" enabled="0" input="0.0" mix="1.0" output="0.0" ratio="2.0" wahSensitivity="55" wahRange="75" wahDecay="160" model="auto-wah-v2" />
+  <Pedal id="10" preset="6" enabled="0" input="0" tone="0" output="0" ratio="2.0" model="25e8bf5cf7db6edefb1320c76588977ba8c4866c4b5f659cbf91bca441cb9e90" />
+  <Pedal id="11" preset="12" enabled="0" input="0" tone="0" output="0" ratio="2.0" model="6f6035cf5e0315e29357316fab968bb1a0fe21f7d8216679c39997684c4cbe31" />
+  <Pedal id="12" preset="0" enabled="0" input="0.0" mix="1.0" output="0.0" ratio="2.0" eq0="0" eq1="0" eq2="0" eq3="0" eq4="0" eq5="0" eq6="0" model="graphic-eq-v1" />
+  <PresetMetadata sourceToneBankId="056-the-police-every-breath-you-take-rhythm" creator="GuitarCustom.pt" />
+  <CabinetIR version="1" file="4x12/UK Greenback - Marshall 1960TV 4x12 M201/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav" sha256="16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54" locked="0" bypassed="0" />
+</PedalRig>

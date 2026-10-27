@@ -1,0 +1,100 @@
+{
+  "id": "classic_fuzz",
+  "displayName": "CLASSIC FUZZ",
+  "subtitle": "DRIVE WHAT'S REAL",
+  "type": "standard",
+  "referenceSize": {
+    "width": 300,
+    "height": 450
+  },
+  "assetSize2x": {
+    "width": 1024,
+    "height": 1536
+  },
+  "controls": [
+    {
+      "id": "inputTrim",
+      "label": "Input trim",
+      "type": "rotary",
+      "center": {
+        "x": 78,
+        "y": 112
+      },
+      "diameter": 60
+    },
+    {
+      "id": "tone",
+      "label": "Tone",
+      "type": "rotary",
+      "center": {
+        "x": 150,
+        "y": 112
+      },
+      "diameter": 60
+    },
+    {
+      "id": "level",
+      "label": "Level",
+      "type": "rotary",
+      "center": {
+        "x": 225,
+        "y": 112
+      },
+      "diameter": 60
+    }
+  ],
+  "led": {
+    "center": {
+      "x": 145.6,
+      "y": 52
+    },
+    "diameter": 31.92,
+    "off": "../../shared/led_off.png",
+    "on": "../../shared/led_on.png"
+  },
+  "preset": {
+    "bounds": {
+      "x": 75,
+      "y": 220,
+      "width": 150,
+      "height": 34
+    },
+    "render": "juce_custom_lookandfeel"
+  },
+  "midi": {
+    "bounds": {
+      "x": 110,
+      "y": 264,
+      "width": 80,
+      "height": 28
+    },
+    "render": "juce_custom_lookandfeel"
+  },
+  "footswitch": {
+    "center": {
+      "x": 150,
+      "y": 329
+    },
+    "diameter": 58,
+    "up": "../../shared/footswitch_up.png",
+    "down": "../../shared/footswitch_down.png"
+  },
+  "knobStrip": {
+    "path": "../../shared/knob_strip.png",
+    "frames": 101,
+    "frameWidth": 128,
+    "frameHeight": 128,
+    "sweepDegrees": 270,
+    "startDegrees": -135
+  },
+  "face": "face.png",
+  "notes": "User supplied PNG, byte-identical. Shared validated Transparent OD hardware and renderer. Vintage label offset explicitly accepted provisionally.",
+  "assetPackVersion": "fidelity-static-face-plus-v3-hardware",
+  "viewport": {
+    "x": 20,
+    "y": 25,
+    "width": 260,
+    "height": 390
+  },
+  "darkInk": false
+}

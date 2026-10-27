@@ -1,0 +1,238 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/jet-city-jca22h-crunch-channel-depth-mod-115dbu-30015",
+  "tone_id": "30015",
+  "model": "Jet City JCA22H - Crunch Channel - Depth Mod (11.5dBu)",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "JCA22H CR-6 B-5 M-6 T-5 V-2 P-8 D-4.nam",
+      "sha256": "a0fe47b1df989fff88df0c6eb5ea116488da30e1fc3ee8b6cbc37bdcf2939396",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-5 M-6 T-5 V-2 P-8 D-3.nam",
+      "sha256": "895d9f09a7cdc55673bb6c1245d3085cfebc6463fbfb2c4dfa4ce1667fc07688",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-5 M-6 T-5 V-2 P-8 D-2.nam",
+      "sha256": "a5d06a326d4f21bd6624dc685ddbdceac2540d9c4488fb4e145d7bb4cedbc45d",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-4 M-4 T-6 V-2 P-7 D-4.nam",
+      "sha256": "b27e245175dcb1a9fec6a682793a73353dfec7a036f75dace2cf9958f81ec62f",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-4 M-5 T-6 V-2 P-6 D-4.nam",
+      "sha256": "c5637a976a18ae05b655666a74fcd557bc2dfb09157ce092fe7a4907e6bbfa66",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-4 M-4 T-6 V-2 P-7 D-2.nam",
+      "sha256": "43726d1de2089940cbca5870f8f10ddbf216b27f61d3c8f68270bd6d4bbe591d",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-4 M-4 T-6 V-2 P-7 D-3.nam",
+      "sha256": "c8b56b0437fa146435ee5667847465cd5874ffbad32d699284a3d30187afa9b0",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-4 M-5 T-6 V-2 P-6 D-3.nam",
+      "sha256": "25d46b440cd579ef7d1046d77e287fd6bd24ec152d4458a20ff9348859b2e204",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-4 M-5 T-6 V-2 P-6 D-2.nam",
+      "sha256": "dbdd2a7362994f3d8ee680df63353800db313584140476b3ea95cf1f86e8bf89",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-4 M-3 T-7 V-2 P-5 D-3.nam",
+      "sha256": "a7c22f4d457f83e010f6ecb4bdf0e02337d4eec0c82c79aa7dfca5c52ece019e",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-3 M-6 T-5 V-2 P-6 D-2.nam",
+      "sha256": "c73904efc81f318bad18cf2299257399f65586e72896103df23947be4227be84",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-3 M-6 T-5 V-2 P-6 D-3.nam",
+      "sha256": "39b75e69d9c6e3c2dae814f1d148384c0c377c367df881b4d4a3848dc272804e",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-3 M-6 T-5 V-2 P-6 D-4.nam",
+      "sha256": "6f835bd9facee0eb6cf076d9038607a85e91e893f9b8e60a3bfcd34d6825695c",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-4 M-3 T-7 V-2 P-5 D-4.nam",
+      "sha256": "3f7397b5a89f4cace51c84c9d2eb1f5228439b8d47920c54a842fe5044f8b16e",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-6 B-4 M-3 T-7 V-2 P-5 D-2.nam",
+      "sha256": "5eb059045f3731bcd84a5ce18589ad41939d250478289eecb0aa446f7ae93c7e",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-5 M-6 T-5 V-2 P-8 D-2.nam",
+      "sha256": "8f4501200737141cf856f18a9a2e214ac41b231a7817184347bf67b9d5b4e54c",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-5 M-6 T-5 V-2 P-8 D-4.nam",
+      "sha256": "44d4d327d7078d97decb9ebbe8665794a79a9a8e43cd591e68a6d5400153dc23",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-4 M-5 T-6 V-2 P-6 D-3.nam",
+      "sha256": "c227063d8c66c7a81040824ea2af3ddbe9afd1887296f7f45138d3dce5b7a5a0",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-4 M-5 T-6 V-2 P-6 D-2.nam",
+      "sha256": "6b8252218bb2c0e180f4ef8480270358434fe540e1dd96f2410fb569443b51d3",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-4 M-5 T-6 V-2 P-6 D-4.nam",
+      "sha256": "66e0e4ef4f51f770008ae40e33c1a646cbe7bb242ebb53c258fa34a7d510d255",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-5 M-6 T-5 V-2 P-8 D-3.nam",
+      "sha256": "4c8828bfb4dbf8c491e481d7d8a46a10186498f529788d453f1658fe7e6fa8b8",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-4 M-3 T-7 V-2 P-5 D-3.nam",
+      "sha256": "9cdce8b080bfd134b89e8d1b26f6c23231c899f06c2b1cda03f297b037b61746",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-4 M-4 T-6 V-2 P-7 D-3.nam",
+      "sha256": "c713f97bf3f7c6bc6af89349fa5cbaefdc6121937c4111a65703d6dd6752cba3",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-4 M-3 T-7 V-2 P-5 D-4.nam",
+      "sha256": "7169f8571538a1dfea81704f4f4e29205e1ad47abec2300b9d999c65d3215224",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-4 M-4 T-6 V-2 P-7 D-2.nam",
+      "sha256": "4b698a11582ca4797c747cbcafb9450e9af624816a5fac3816a638f7d584dde0",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-4 M-3 T-7 V-2 P-5 D-2.nam",
+      "sha256": "9dfea86cb9b281eb30a75a2a87c5f20399232f74b7d746b7d3042281bec3e5a5",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-4 M-4 T-6 V-2 P-7 D-4.nam",
+      "sha256": "e1f49f7cfe8a8bb46181f7e0fac54c0271671802a81a792e82e6608e3d983feb",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-3 M-6 T-5 V-2 P-6 D-4.nam",
+      "sha256": "4aa794edd1a2a9ce98ab62116099e48d7249c39409e297a1d407cb399d6bdfb6",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-5 M-6 T-5 V-2 P-8 D-4.nam",
+      "sha256": "93f19b1232f2e34544b7ed64caebd496142606e388f69b3cbd8897fe2b7862f2",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-5 M-6 T-5 V-2 P-8 D-2.nam",
+      "sha256": "fe70326462a0973ddbdb677978e37c4b0ce4e5f5bc842be98ecfe6d14fed45ef",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-5 M-6 T-5 V-2 P-8 D-3.nam",
+      "sha256": "795b3ca9bf91746903f29fcde6c51649b0d303f9e75689a641315f855b3e178f",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-3 M-6 T-5 V-2 P-6 D-2.nam",
+      "sha256": "ebffcaf575c19bcda59f76bf0546ef869aea7232ffcbeafc589ad17e56a50ec3",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-5 B-3 M-6 T-5 V-2 P-6 D-3.nam",
+      "sha256": "23f6d8d42e8ddc0e8adc29b217eb23b50a3e21da1f58c81d37708e935df69641",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-4 M-4 T-6 V-2 P-7 D-2.nam",
+      "sha256": "1287ecb245386399f18628eb42e8f829d899ad416bf637db23c656296ba81e8a",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-4 M-5 T-6 V-2 P-6 D-4.nam",
+      "sha256": "a180eba230496f93f4cfd0279dd963b8948b1bc7ffda76f566537496928de8af",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-4 M-5 T-6 V-2 P-6 D-3.nam",
+      "sha256": "e900db5f71611754fa70c1c61180efb7e983a7ddeada08104065dde6de7abc82",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-4 M-4 T-6 V-2 P-7 D-4.nam",
+      "sha256": "585922cd1799352645c7c80fffec54bf19e3ca3cd77d89bb9ff6d3dad4f0279d",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-4 M-4 T-6 V-2 P-7 D-3.nam",
+      "sha256": "ea39fcca773294c6a9315956798ac45172e9fd0d6e448d6bc787d8ab98b04941",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-4 M-5 T-6 V-2 P-6 D-2.nam",
+      "sha256": "6a8a6c7428df505d2fa1b567a559c861acb54a172ebfa4436036ea562cb2aaa0",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-3 M-6 T-5 V-2 P-6 D-4.nam",
+      "sha256": "0f49490293caccb0e4e808cda74f1267a84a539f90df12de38b0b988ed241889",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-4 M-3 T-7 V-2 P-5 D-2.nam",
+      "sha256": "fc72e10fbc9fe1cbcdb364fd8043c4f6b0dce234bce0fc81bf5f231a6cb62287",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-3 M-6 T-5 V-2 P-6 D-3.nam",
+      "sha256": "f774c5c6fbeb96893e4ed6c97e315b944cc8dfe919d57281da07190c0824a4ba",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-3 M-6 T-5 V-2 P-6 D-2.nam",
+      "sha256": "129e3d99bf70f2cf246cba94c7479b8539b13dd9ea0dfc2d7ca8ba92ce81f02b",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-4 M-3 T-7 V-2 P-5 D-3.nam",
+      "sha256": "d4905ce0e3f00461e58f58042bbdf7fc194c2fdb918b7fb0591be7ad6c9e77dc",
+      "gear": "amp"
+    },
+    {
+      "file": "JCA22H CR-4 B-4 M-3 T-7 V-2 P-5 D-4.nam",
+      "sha256": "51a7a44bec877bede16ccad752a771e41a40e4c30c2b450be16b0208bcf6e014",
+      "gear": "amp"
+    }
+  ]
+}

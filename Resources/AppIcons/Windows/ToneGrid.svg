@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="64 64 896 896" role="img" aria-labelledby="title">
+<title id="title">ToneGrid app icon</title>
+<defs>
+  <linearGradient id="tile" x1="0" y1="0" x2="0.8" y2="1">
+    <stop stop-color="#303640"/><stop offset="1" stop-color="#101318"/>
+  </linearGradient>
+</defs>
+<rect x="64" y="64" width="896" height="896" rx="200" fill="url(#tile)"/>
+<rect x="66" y="66" width="892" height="892" rx="198" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="4"/>
+<g fill="#ffffff" transform="translate(512 500) scale(2.2) translate(-725.9 -437.95)">
+<path d="M726.5 308.7 875 401.8 778.1 462.1 731.7 462.1 828.4 401.8 726.5 337.4 624 401.8 720.2 462.1 673.8 462.1 576.9 402.1Z"/>
+<path d="M603.1 455.1 725.9 534.5 849.2 455.1 874.9 471.2 725.9 567.2 576.8 471.5Z"/>
+<path d="M683.5 475.9 768.7 475.9 725.9 511.4Z"/>
+</g>
+</svg>

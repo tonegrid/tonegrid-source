@@ -1,0 +1,33 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/carstens-grace-100-95297",
+  "tone_id": "95297",
+  "model": "Carstens Grace 100",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] CRST.GRAYS100-Mar412 Evil MoJoe #02 - DI.nam",
+      "sha256": "8f7d4df2afe20241d8870b5e189fb26ead5bac9376948af6aabf4b9b5d63834f",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] CRST.GRAYS100-Mar412 Scorched Tales - DI.nam",
+      "sha256": "473ec1a1ca40a7b8ca7529b3a3f83c6993d0cd2b24f05080183c59f6a49132bd",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] CRST.GRAYS100-Mes412 Wishful Notes - DI.nam",
+      "sha256": "40fd1137857dc8601ff7c5ac35798a868579ad09fae5f705e57a0e3a01e074b4",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] CRST.GRAYS100-Mes412 Noon #02 - DI.nam",
+      "sha256": "4b2b76cf2da2c684c7f4efb9cf040e3e6573a82d16f7925a2904de49dac7d490",
+      "gear": "amp"
+    }
+  ]
+}

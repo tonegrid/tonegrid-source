@@ -1,0 +1,55 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "",
+  "image": "thumbnail.jpg",
+  "gear": "amp_cab",
+  "maker": "VOX",
+  "model": "AC15C1",
+  "description": "Vox AC15C1 full-rig captures by OutmodedElectronics. This Crunch selection contains both Normal (Nrm) and Top Boost (TB) channels. V is Volume, T is Treble, B is Bass and C is Cut. Filenames retain the microphone identifiers for each capture, including blends. Input and output references are both 11.5 dBu. The amp, speaker and microphone are already included; no additional cabinet IR is required. Details are based on the supplied filenames and NAM metadata; an exact public pack page was not found.",
+  "provenance": {
+    "basis": "Publisher-supplied NAM metadata and filenames",
+    "creatorUrl": "https://www.tone3000.com/outmodedelectronics/",
+    "exactPublicPackFound": false,
+    "retrieved": "2026-10-16"
+  },
+  "models": [
+    {
+      "file": "FR AC15C1 Nrm V-3 C-8 SM57.nam",
+      "sha256": "ef22e80d973c03fa4f7195fda6dee89e837e081fbfa53ed9ed7c2817aea690a6"
+    },
+    {
+      "file": "FR AC15C1 Nrm V-5 C-5 M160.nam",
+      "sha256": "74d03d753c6ce147b4eb53ff77e691ffcde75cdcaebda649914b425004676d56"
+    },
+    {
+      "file": "FR AC15C1 Nrm V-6 C-0 ST170.nam",
+      "sha256": "58ed5f1a1c428842535d86029c7a07e3f50a569923d4256b17eba1e7ac6d073b"
+    },
+    {
+      "file": "FR AC15C1 Nrm V-7 C-0 87.nam",
+      "sha256": "dc6bf935a5bdc5ee2541fd11fd4d07193d399b5e30d0125235e7eaf82082545c"
+    },
+    {
+      "file": "FR AC15C1 TB V-2 T-5 B-5 C-5 PR20 545.nam",
+      "sha256": "fa92646e9ecadb9237eaae9319ce35ac2e47ee7a524b9cdd3fe74fc8b7224d45"
+    },
+    {
+      "file": "FR AC15C1 TB V-4 T-6 B-4 C-5 87.nam",
+      "sha256": "6c447d68d905a72f7f8c02c40babee78849c12c1e15a05dc2042325749d10c44"
+    },
+    {
+      "file": "FR AC15C1 TB V-5 T-5 B-5 C-0 SM57.nam",
+      "sha256": "a34f0593a03b3721ea2b33f0605e47974ce4f0b75259bcdd2f7e3c9b71071f92"
+    },
+    {
+      "file": "FR AC15C1 TB V-8 T-4 B-5 C-0 OR57.nam",
+      "sha256": "9d1f8c3eb6f37a83585038f82764402c449a1ade12b6f41a054d34dd1b317115"
+    },
+    {
+      "file": "FR AC15C1 TB V-8 T-7 B-4 C-0 MD421 013.nam",
+      "sha256": "fb16fd312768e80e0292438cdf582a8aa603fac185b5cc0a2b3498ab4caddcc9"
+    }
+  ]
+}

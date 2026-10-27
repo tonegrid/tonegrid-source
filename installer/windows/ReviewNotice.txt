@@ -1,0 +1,21 @@
+ToneGrid — unsigned local review
+
+Maintainer: L’équipe ToneGrid — https://github.com/tonegrid
+
+This installer is for local review. ToneGrid has not been accepted by SignPath
+Foundation and this installer, application and uninstaller are not signed.
+
+The application code is AGPL-3.0-only. Third-party code and Factory captures,
+cabinet IRs, artwork and media retain their separate notices and permissions.
+
+Program files are installed separately from your ToneGrid profile in AppData and
+your recordings in Documents. Upgrade and uninstall retain that user data.
+Close ToneGrid before updating. The installer will not force-close a session.
+
+ToneGrid makes scheduled update connections and connects to third-party services
+when their features are used. See PRIVACY.md. Those signing-policy requirements
+remain under review; this installer does not invent an unimplemented offline switch.
+
+The Review installer has a separate installation identity and shortcut names.
+Launching it normally uses your existing ToneGrid profile; automated review tests
+use the application's built-in isolated profile modes instead.

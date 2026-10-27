@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PedalRig version="16" name="John Mayer - Slow Dancing" presetId="tonegrid-starter-142-001">
+  <OutputDSP version="7" ampNormalizationEnabled="1" spreadEnabled="0" offsetMs="8.0" wobblePercent="25.0" crossoverHz="130.0" wobbleEnabled="1" crossoverEnabled="1" diffuseEnabled="1">
+    <Reverb version="1" enabled="1" type="1" timeSeconds="1.100000023841858" preDelayMs="10.0" color="45.0" mixPercent="36.0" />
+    <Pitch version="1" mode="0" semitones="0" dry="100.0" down="0.0" up="0.0" />
+    <Mod version="1" enabled="0" type="0" rateHz="0.800000011920929" depth="25.0" level="20.0" />
+    <Delay version="1" enabled="0" timeMs="320.0" feedback="0.0" mix="0.0" />
+    <AmpEq version="3" bassDb="5.5" midDb="0.800000011920929" trebleDb="0.0" enabled="1" lowCut="1" highCut="1" lowCutHz="80.0" highCutHz="8000.0" lowMidHz="250.0" lowMidDb="0.0" lowMidQ="1.0" presenceHz="3000.0" presenceDb="4.400000095367432" presenceQ="1.0" depthDb="-0.6000000238418579" depthHz="100.0" />
+  </OutputDSP>
+  <AmpSource type="NAM" file="01 - Clean/Fender Ramparte Pawnshop/Fender Ramparte - Clean - Cool Vol 3 - SM57 + R-121.nam" bytes="296667" sha256="53fe08f06a5fd9bae43c67a03554898eba42a31c57838cf41ab8f736775ba3c5" gainDb="0.0" volumeDb="0.0" />
+  <Input gain="0.0" threshold="-74.0" gate="0" />
+  <Pedal id="0" preset="4" enabled="1" input="-32.0" mix="0.8999999761581421" output="6.0" ratio="5.0" model="algorithm-v1" />
+  <Pedal id="1" preset="2" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="ac661457216323fca615551d78830155cf79e95642704d03a0e93e16d2aa41b1" />
+  <Pedal id="2" preset="4" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="bf87a558598bea0a16789e2631993d01d12eaa0d0ff587ac355d3216659e747d" />
+  <Pedal id="3" preset="2" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="8018b901a7d0744250615537ded839d62b52b7a91c24b7429ed75f34e8ec373b" />
+  <Pedal id="4" preset="3" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="d521e42b8e2d4f304deaa88317e39aa1e47e43b5a96e80e150e09809cee8c4fd" />
+  <Pedal id="5" preset="6" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="b0c8d514c2539ca85ca19d821fa1325ad4b032e790220921cee7f51f1cc9193f" />
+  <Pedal id="6" preset="0" enabled="0" input="1.0" mix="1.0" output="0.0" ratio="2.0" model="algorithm-v1" />
+  <Pedal id="7" preset="9" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="eeb7d4fdcb8a45a5a0d56714df1e2f2c38d8e1aba63f0c9c07479276d10614d6" />
+  <Pedal id="8" preset="10" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="68bca2080beb3ec3316f44931f6d1f56ad9137b5fe5ecead8082c4974ce668c1" />
+  <Pedal id="9" preset="0" enabled="0" input="0.0" mix="1.0" output="0.0" ratio="2.0" wahSensitivity="55.0" wahRange="75.0" wahDecay="160.0" model="auto-wah-v2" />
+  <Pedal id="10" preset="7" enabled="1" input="-1.5" tone="-0.5" output="-1.5" ratio="2.0" model="7364af30883a7302e8a89c848cf073c9eb6cadfab6ef6013b3161d2b470e85a2" />
+  <Pedal id="11" preset="12" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="6f6035cf5e0315e29357316fab968bb1a0fe21f7d8216679c39997684c4cbe31" />
+  <Pedal id="12" preset="0" enabled="0" input="0.0" mix="1.0" output="0.0" ratio="2.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0" eq4="0.0" eq5="0.0" eq6="0.0" model="graphic-eq-v1" />
+  <PresetMetadata sourceToneBankId="051-john-mayer-slow-dancing-in-a-burning-room-rhythm" creator="ToneGrid" />
+</PedalRig>

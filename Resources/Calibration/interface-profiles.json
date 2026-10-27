@@ -1,0 +1,822 @@
+{
+  "schemaVersion": 1,
+  "profiles": [
+    {
+      "id": "apogee-boom",
+      "manufacturer": "Apogee",
+      "model": "BOOM",
+      "generation": "Original",
+      "referenceDbU": 8,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Instrument mode, PAD off, GAIN 0 dB in Apogee Control; ECS effects off.",
+      "source": "https://apogeedigital.com/product/boom/",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "apogee-symphony-desktop",
+      "manufacturer": "Apogee",
+      "model": "Symphony Desktop",
+      "generation": "Desktop",
+      "referenceDbU": 14,
+      "instrumentChannels": [
+        1
+      ],
+      "settings": "Front instrument input 2; INST mode, SD-MP preamp, GAIN 0 dB; Soft Limit and effects off.",
+      "source": "https://knowledge.apogeedigital.com/hubfs/Users%20Guides%20and%20Documentation%20PDFs/SymphonyDesktopUsersGuide.pdf",
+      "notes": "Published maximum Hi-Z level +14 dBu; front input 2 is overridden when a rear input 2 cable is connected.",
+      "verified": "2026-10-13",
+      "inputInstructions": "Plug into the front instrument input and select Input 2.\nDisconnect any cable from rear input 2.",
+      "gainInstructions": "In the Apogee control app: select INST, SD-MP and GAIN 0 dB.\nTurn Soft Limit and input effects off.",
+      "gainConfirmation": "INST and SD-MP are selected, GAIN is 0 dB and effects are off."
+    },
+    {
+      "id": "arturia-audiofuse-studio",
+      "manufacturer": "Arturia",
+      "model": "AudioFuse Studio",
+      "generation": "Original, not Rev2",
+      "referenceDbU": 18,
+      "instrumentChannels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "settings": "Front input 1 to 4: INST on, PAD off; gain at minimum, input effects off.",
+      "source": "https://downloads.arturia.net/products/audiofuse-studio/manual/AudioFuse-Studio_Manual_1_0_7_EN.pdf",
+      "notes": "Published instrument-input specification at the stated settings; nominal reference, not an individual electrical measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "arturia-minifuse2",
+      "manufacturer": "Arturia",
+      "model": "MiniFuse 1 / 2 / 4",
+      "generation": "MiniFuse",
+      "referenceDbU": 11.5,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "INST on, gain at minimum. MiniFuse 1: input 1; MiniFuse 2 / 4: input 1 or 2.",
+      "source": "https://www.arturia.com/products/audio/minifuse/the-collection",
+      "notes": "11.5 dBu is the documented MiniFuse instrument specification, not a historical ToneGrid fallback.",
+      "verified": "2026-10-09",
+      "aliases": [
+        "arturia-minifuse1",
+        "arturia-minifuse4"
+      ],
+      "sources": [
+        "https://www.arturia.com/products/audio/minifuse/the-collection",
+        "https://www.arturia.com/products/audio/minifuse/the-collection",
+        "https://www.arturia.com/products/audio/minifuse/the-collection"
+      ]
+    },
+    {
+      "id": "audient-evo8",
+      "manufacturer": "Audient",
+      "model": "EVO 4 / 8",
+      "generation": "Original",
+      "referenceDbU": 10,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "Front D.I. input (channel 1), input gain at minimum; Smartgain off.",
+      "source": "https://audient.com/products/audio-interfaces/evo-8/tech-specs/",
+      "notes": "Published D.I. maximum +10 dBu. Do not substitute the +8 dBu ADC-stage specification or +16 dBu microphone specification. Nominal hardware specification.",
+      "verified": "2026-10-09",
+      "aliases": [
+        "audient-evo4"
+      ],
+      "sources": [
+        "https://audient.com/products/audio-interfaces/evo-8/tech-specs/",
+        "https://audient.com/pt/products/audio-interfaces/evo-4/tech-specs"
+      ]
+    },
+    {
+      "id": "audient-id-mkii",
+      "manufacturer": "Audient",
+      "model": "iD4 / iD14",
+      "generation": "MKII only",
+      "referenceDbU": 12,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "Front D.I. input (channel 1), gain at minimum; software input boost and effects off.",
+      "source": "https://audient.github.io/audient-documentation-site/id14/specifications/",
+      "notes": "Published instrument lineup 12 dBu = 0 dBFS; not the analogue distortion threshold (+10 dBu). Not applicable to original iD4 / iD14.",
+      "verified": "2026-10-13",
+      "sources": [
+        "https://audient.github.io/audient-documentation-site/id14/specifications/",
+        "https://audient.com/pt/products/audio-interfaces/id4/tech-specs/"
+      ]
+    },
+    {
+      "id": "audient-id48",
+      "manufacturer": "Audient",
+      "model": "iD48",
+      "generation": "Original",
+      "referenceDbU": 18,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Front D.I. input 1 or 2, gain at minimum; PAD and input effects off.",
+      "source": "https://audient.com/products/audio-interfaces/id48/tech-specs/",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "behringer-umc1820",
+      "manufacturer": "Behringer",
+      "model": "UMC1820",
+      "generation": "U-PHORIA",
+      "referenceDbU": 18,
+      "instrumentChannels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "settings": "INST on, PAD off, gain at minimum. Select the matching input channel.",
+      "source": "https://cdn.mediavalet.com/aunsw/musictribe/fZ7iM_N1BUmIar3YjcCqWQ/9AUF0PyJpkSKKmw3kGXFvw/Original/QSG_BE_0805-AAN_UMC1820_WW.pdf",
+      "notes": "Manufacturer instrument maximum +18 dBu. Do not use the +11 dBu microphone/line specification.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "behringer-umc-hd",
+      "manufacturer": "Behringer",
+      "model": "UMC202HD / 204HD / 404HD",
+      "generation": "U-PHORIA HD",
+      "referenceDbU": -3,
+      "instrumentChannels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "settings": "INST on, PAD off, gain at minimum. UMC202HD / 204HD: input 1 or 2; UMC404HD: input 1 to 4.",
+      "source": "https://mediadl.musictribe.com/media/sys_master/h1f/h9b/8849476255774.pdf",
+      "notes": "Manufacturer instrument maximum -3 dBu, PAD off. Do not substitute +20 dBu line input. Not applicable to UMC22 / UM2.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "behringer-umc22-um2",
+      "manufacturer": "Behringer",
+      "model": "UMC22 / UM2",
+      "generation": "U-PHORIA",
+      "referenceDbU": 2,
+      "instrumentChannels": [
+        1
+      ],
+      "settings": "Dedicated instrument input 2; gain at minimum.",
+      "source": "https://mediadl.musictribe.com/media/PLM/data/docs/UMC/QSG_BE_0805-AAR_U-PHORIA-Series_WW.pdf",
+      "notes": "Instrument maximum +2 dBu in the UMC22 / UM2 input table. The n/a row on the following page is for inserts, not inputs.",
+      "verified": "2026-10-13",
+      "inputInstructions": "Plug your guitar into the dedicated INSTRUMENT 2 input.\nNo INST switch is needed."
+    },
+    {
+      "id": "fender-link-off",
+      "manufacturer": "Fender",
+      "model": "Link I/O",
+      "generation": "PAD OFF",
+      "referenceDbU": 2.2,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "Guitar input 1. Set the side PAD switch OFF. Input gain is fixed.",
+      "source": "https://www.fmicassets.com/Damroot/Original/10087/OM_2313000000_Link-IO-UAI_EN.pdf",
+      "notes": "Manufacturer maximum 1.0 Vrms with PAD off and 2.8 Vrms with PAD on, converted to dBu and rounded to one decimal.",
+      "verified": "2026-10-13",
+      "inputInstructions": "Plug your guitar into the 1/4-inch input using a guitar cable.",
+      "gainInstructions": "Set the side PAD switch OFF. There is no input gain knob.\nThe large volume knob only controls your headphones.",
+      "gainConfirmation": "My Link I/O PAD switch is OFF."
+    },
+    {
+      "id": "fender-link-on",
+      "manufacturer": "Fender",
+      "model": "Link I/O",
+      "generation": "PAD ON",
+      "referenceDbU": 11.2,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "Guitar input 1. Set the side PAD switch ON. Input gain is fixed.",
+      "source": "https://www.fmicassets.com/Damroot/Original/10087/OM_2313000000_Link-IO-UAI_EN.pdf",
+      "notes": "Manufacturer maximum 1.0 Vrms with PAD off and 2.8 Vrms with PAD on, converted to dBu and rounded to one decimal.",
+      "verified": "2026-10-13",
+      "inputInstructions": "Plug your guitar into the 1/4-inch input using a guitar cable.",
+      "gainInstructions": "Set the side PAD switch ON. There is no input gain knob.\nThe large volume knob only controls your headphones.",
+      "gainConfirmation": "My Link I/O PAD switch is ON."
+    },
+    {
+      "id": "focusrite-clarett8",
+      "manufacturer": "Focusrite",
+      "model": "Clarett+ 4Pre / 8Pre",
+      "generation": "Clarett+ only",
+      "referenceDbU": 15,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Input 1 or 2: INST on, AIR off, gain at minimum.",
+      "source": "https://userguides.focusrite.com/hc/en-gb/articles/18577946999570-Clarett-8Pre-technical-specifications",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13",
+      "sources": [
+        "https://userguides.focusrite.com/hc/en-gb/articles/18577946999570-Clarett-8Pre-technical-specifications",
+        "https://userguides.focusrite.com/hc/en-gb/articles/18577953842450-Clarett-4Pre-technical-specifications"
+      ],
+      "aliases": [
+        "focusrite-clarett4"
+      ]
+    },
+    {
+      "id": "scarlett-2i2-4",
+      "manufacturer": "Focusrite",
+      "model": "Scarlett Solo / 2i2 / 4i4 / 18i20",
+      "generation": "4th Gen",
+      "referenceDbU": 12,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "INST on; AIR, Auto Gain and Clip Safe off if available. Solo: input 1; others: input 1 or 2. Gain at minimum.",
+      "source": "https://userguides.focusrite.com/hc/en-gb/articles/19640392541202-2i2-4th-Gen-Specifications",
+      "notes": "Published instrument-input full-scale reference; nominal manufacturer specification, not an individual hardware measurement.",
+      "verified": "2026-10-13",
+      "aliases": [
+        "scarlett-solo-4",
+        "scarlett-4i4-4",
+        "scarlett-18i20-4"
+      ],
+      "sources": [
+        "https://userguides.focusrite.com/hc/en-gb/articles/19640392541202-2i2-4th-Gen-Specifications",
+        "https://fael-downloads-prod.focusrite.com/customer/prod/downloads/scarlett_solo_4th_gen_user_guide_v3-pdf-en.pdf",
+        "https://fael-downloads-prod.focusrite.com/customer/prod/downloads/scarlett_4i4_4th_gen_user_guide-pdf-en.pdf",
+        "https://userguides.focusrite.com/hc/en-gb/articles/21616107507218-18i20-4th-Gen-Specifications"
+      ]
+    },
+    {
+      "id": "scarlett-2i2-3",
+      "manufacturer": "Focusrite",
+      "model": "Scarlett Solo / 2i2 / 4i4 / 18i8 / 18i20",
+      "generation": "3rd Gen",
+      "referenceDbU": 12.5,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "INST on, AIR off, PAD off. Solo: input 2; other models: input 1 or 2. Gain at minimum.",
+      "source": "https://userguides.focusrite.com/hc/en-gb/articles/23031328747026-2i2-3rd-Gen-specifications",
+      "notes": "Published instrument-input full-scale reference; nominal manufacturer specification, not an individual hardware measurement.",
+      "verified": "2026-10-13",
+      "aliases": [
+        "scarlett-solo-3",
+        "scarlett-4i4-3",
+        "scarlett-18i8-3",
+        "scarlett-18i20-3"
+      ],
+      "sources": [
+        "https://userguides.focusrite.com/hc/en-gb/articles/23031328747026-2i2-3rd-Gen-specifications",
+        "https://userguides.focusrite.com/hc/en-gb/articles/23031457381138-Solo-3rd-Gen-specifications",
+        "https://fael-downloads-prod.focusrite.com/customer/prod/s3fs-public/downloads/Scarlett%204i4%203rd%20Gen%20User%20Guide_EN.pdf",
+        "https://fael-downloads-prod.focusrite.com/customer/prod/downloads/scarlett_18i20_3rd_gen_user_guide_v3_english_en.pdf",
+        "https://fael-downloads-prod.focusrite.com/customer/prod/downloads/scarlett_18i8_3rd_gen_user_guide_v3_en.pdf"
+      ]
+    },
+    {
+      "id": "ik-axeio",
+      "manufacturer": "IK Multimedia",
+      "model": "AXE I/O",
+      "generation": "Original",
+      "referenceDbU": 14,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Front instrument input 1 or 2, gain at minimum. Input 1: PASSIVE and PURE; Z-TONE fully left (sharp).",
+      "source": "https://www.ikmultimedia.com/products/axeio/index.php?p=specs",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "ik-axeio-one",
+      "manufacturer": "IK Multimedia",
+      "model": "AXE I/O ONE",
+      "generation": "Original",
+      "referenceDbU": 10.5,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "Instrument input 1, gain at minimum. PASSIVE and PURE; Z-TONE fully left (sharp).",
+      "source": "https://www.ikmultimedia.com/products/axeioone/index.php?p=specs",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "ik-axeio-solo",
+      "manufacturer": "IK Multimedia",
+      "model": "AXE I/O Solo",
+      "generation": "Original",
+      "referenceDbU": 12.5,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "Front instrument input 1, gain at minimum. PASSIVE and PURE; Z-TONE fully left (sharp).",
+      "source": "https://www.ikmultimedia.com/products/axeiosolo/index.php?p=specs",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "maudio-air14",
+      "manufacturer": "M-Audio",
+      "model": "AIR 192|14",
+      "generation": "AIR",
+      "referenceDbU": 16,
+      "instrumentChannels": [
+        4,
+        5
+      ],
+      "settings": "Dedicated instrument input 5 or 6; gain at minimum.",
+      "source": "https://cdn.inmusicbrands.com/m-audio/maudio_documentation/AIR%20192-14%20-%20User%20Guide%20-%20v1.2.pdf",
+      "notes": "Published instrument-input specification at the stated settings; nominal reference, not an individual electrical measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "maudio-air",
+      "manufacturer": "M-Audio",
+      "model": "AIR 192|4 / 192|6",
+      "generation": "AIR",
+      "referenceDbU": 6,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Dedicated instrument input, gain at minimum. 192|4: input 2; 192|6: input 1 or 2.",
+      "source": "https://www.m-audio.com/audio-midi-interfaces/air-192-6.html",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13",
+      "sources": [
+        "https://www.m-audio.com/audio-midi-interfaces/air-192-4.html",
+        "https://www.m-audio.com/audio-midi-interfaces/air-192-6.html"
+      ]
+    },
+    {
+      "id": "maudio-air8",
+      "manufacturer": "M-Audio",
+      "model": "AIR 192|8",
+      "generation": "AIR",
+      "referenceDbU": 6.8,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Dedicated instrument input 1 or 2; gain at minimum, PAD off.",
+      "source": "https://cdn.inmusicbrands.com/m-audio/maudio_documentation/AIR_192-8-UserGuide-v1.1.pdf",
+      "notes": "Official manual instrument maximum +6.8 dBu, distinct from AIR 192|4 and |6 (+6 dBu).",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "maudio-mtrack-solo-duo",
+      "manufacturer": "M-Audio",
+      "model": "M-Track Solo / Duo",
+      "generation": "Estimated reference",
+      "referenceDbU": 6,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "INST on, gain at minimum. Solo: input 2; Duo: input 1 or 2.",
+      "source": "https://www.m-audio.com/audio-midi-interfaces/m-track-duo.html",
+      "notes": "+6 dBu supplied by the beta publisher. Manufacturer documents found do not specify the instrument-input full-scale reference; treat as an estimate, not a verified specification.",
+      "verified": "2026-10-13",
+      "estimated": true
+    },
+    {
+      "id": "mackie-onyx-usb",
+      "manufacturer": "Mackie",
+      "model": "Onyx Artist 1.2 / Producer 2.2",
+      "generation": "Onyx USB",
+      "referenceDbU": 24,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Hi-Z on, gain at minimum. Artist: input 2; Producer: input 1 or 2.",
+      "source": "https://mackie.com/img/file_resources/Onyx_USB_Interfaces_OM.pdf",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "motu-m2",
+      "manufacturer": "MOTU",
+      "model": "M2 / M4",
+      "generation": "M Series",
+      "referenceDbU": 16,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Front TRS instrument input using a TS guitar cable; gain at minimum.",
+      "source": "https://cdn-data.motu.com/manuals/usb-c-audio/M_Series_User_Guide.pdf",
+      "notes": "Appendix B TRS line/instrument input specification; +10 dBu refers to the XLR microphone input, not the instrument input.",
+      "verified": "2026-10-09",
+      "aliases": [
+        "motu-m4"
+      ],
+      "sources": [
+        "https://cdn-data.motu.com/manuals/usb-c-audio/M_Series_User_Guide.pdf",
+        "https://cdn-data.motu.com/manuals/usb-c-audio/M_Series_User_Guide.pdf"
+      ]
+    },
+    {
+      "id": "motu-ultralite5",
+      "manufacturer": "MOTU",
+      "model": "UltraLite-mk5",
+      "generation": "mk5",
+      "referenceDbU": 18,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Front instrument input 1 or 2 with a TS guitar cable; gain at minimum (0 dB), input effects off.",
+      "source": "https://cdn-data.motu.com/manuals/usb-c-audio/UltraLite-mk5_User_Guide.pdf",
+      "notes": "Appendix B: front TRS maximum +18 dBu unbalanced (TS guitar), not +20 dBu balanced.",
+      "verified": "2026-10-13",
+      "inputInstructions": "Plug your TS guitar cable into front input 1 or 2.\nNo INST switch is needed.",
+      "gainInstructions": "Set input GAIN to 0 dB in the CueMix control app.\nTurn input effects off.",
+      "gainConfirmation": "My CueMix input GAIN is 0 dB, with input effects off."
+    },
+    {
+      "id": "ni-audio-kontrol1",
+      "manufacturer": "Native Instruments",
+      "model": "AUDIO KONTROL 1",
+      "generation": "Original / legacy",
+      "referenceDbU": 10,
+      "instrumentChannels": [
+        1
+      ],
+      "settings": "Input 2 instrument mode on, physical gain at minimum.",
+      "source": "https://www.native-instruments.com/fileadmin/redaktion_upload/pdf/AudioKontrol1_Manual_English.pdf",
+      "notes": "Legacy hardware: driver availability on current Windows/macOS is not guaranteed. Use only if your device works in Audio Settings. Instrument specification on manual page 85.",
+      "verified": "2026-10-09"
+    },
+    {
+      "id": "presonus-quantum-es2",
+      "manufacturer": "PreSonus",
+      "model": "Quantum ES 2 / ES 4",
+      "generation": "ES, not HD",
+      "referenceDbU": 15,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Instrument input, gain at minimum, Auto Gain off. ES 2: input 1; ES 4: input 1 or 2.",
+      "source": "https://www.presonus.com/products/quantum-es-2-usb-c-audio-interface",
+      "notes": "Instrument input maximum +15 dBu unbalanced at minimum gain. ES 2 has one front instrument input; ES 4 has two.",
+      "verified": "2026-10-09",
+      "aliases": [
+        "presonus-quantum-es4"
+      ],
+      "sources": [
+        "https://www.presonus.com/products/quantum-es-2-usb-c-audio-interface",
+        "https://www.presonus.com/products/quantum-es-4-usb-c-audio-interface"
+      ]
+    },
+    {
+      "id": "presonus-studio24c",
+      "manufacturer": "PreSonus",
+      "model": "Studio 24c",
+      "generation": "Studio C",
+      "referenceDbU": 19,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Front instrument input 1 or 2 using a TS guitar cable; gain at minimum.",
+      "source": "https://www.presonus.com/products/studio-24c",
+      "notes": "Current manufacturer instrument specification +19 dBu at minimum gain; older manuals quote a balanced line/instrument figure of +10 dBu.",
+      "verified": "2026-10-13",
+      "inputInstructions": "Plug your guitar cable into front input 1 or 2.\nNo INST switch is needed."
+    },
+    {
+      "id": "rme-babyface-pro-fs",
+      "manufacturer": "RME",
+      "model": "Babyface Pro FS",
+      "generation": "FS",
+      "referenceDbU": 13,
+      "instrumentChannels": [
+        2,
+        3
+      ],
+      "settings": "Side instrument input 3 or 4. In TotalMix: +4 dBu input level, GAIN 0 dB; input effects off.",
+      "source": "https://rme-audio.de/downloads/bface_pro_fs_e.pdf",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "rme-ucx-ii",
+      "manufacturer": "RME",
+      "model": "Fireface UCX II",
+      "generation": "II",
+      "referenceDbU": 13,
+      "instrumentChannels": [
+        2,
+        3
+      ],
+      "settings": "Front input 3 or 4: INST on; input level +19 dBu, GAIN 0 dB in TotalMix. Input effects off.",
+      "source": "https://rme-audio.de/downloads/fface_ucx2_e.pdf",
+      "notes": "Instrument mode adds 6 dB internally; +19 dBu line reference corresponds to +13 dBu instrument reference.",
+      "verified": "2026-10-13",
+      "gainInstructions": "In the TotalMix control app: choose INST and +19 dBu input level.\nSet GAIN to 0 dB and turn input effects off.",
+      "gainConfirmation": "INST is on, input level is +19 dBu and GAIN is 0 dB."
+    },
+    {
+      "id": "rme-ufx-iii",
+      "manufacturer": "RME",
+      "model": "Fireface UFX III",
+      "generation": "III",
+      "referenceDbU": 21,
+      "instrumentChannels": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "settings": "Front input 9 to 12: INST on; GAIN 8 dB in TotalMix (minimum), input effects off.",
+      "source": "https://rme-audio.de/downloads/fface_ufx3_e.pdf",
+      "notes": "Published instrument maximum +21 dBu at its minimum 8 dB gain. Do not set this profile to 0 dB.",
+      "verified": "2026-10-13",
+      "gainInstructions": "Choose INST in the TotalMix control app.\nSet input GAIN to 8 dB (its minimum), with input effects off.",
+      "gainConfirmation": "My instrument input GAIN is 8 dB, with input effects off."
+    },
+    {
+      "id": "roland-rubix22",
+      "manufacturer": "Roland",
+      "model": "Rubix22",
+      "generation": "Original",
+      "referenceDbU": 18,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "Input 1L, Hi-Z on; SENS gain at minimum.",
+      "source": "https://static.roland.com/assets/media/pdf/Rubix_reference_eng01_W.pdf",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "ssl12",
+      "manufacturer": "SSL",
+      "model": "SSL 12",
+      "generation": "Original",
+      "referenceDbU": 14,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Front INST input 1 or 2; gain at minimum, 4K and high-pass filter off.",
+      "source": "https://support.solidstatelogic.com/hc/en-gb/articles/5568765809309-SSL-12-User-Guide",
+      "notes": "Published instrument-input specification at the stated settings; nominal reference, not an individual electrical measurement.",
+      "verified": "2026-10-13",
+      "inputInstructions": "Plug your guitar into front INST 1 or 2.\nNo additional INST switch is needed."
+    },
+    {
+      "id": "ssl2-mkii",
+      "manufacturer": "SSL",
+      "model": "SSL 2 / 2+",
+      "generation": "MKII",
+      "referenceDbU": 15,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Front Hi-Z input, LEGACY 4K off, gain at minimum.",
+      "source": "https://support.solidstatelogic.com/hc/en-gb/articles/19991374319773-SSL-2-MKII-User-Guide",
+      "notes": "Instrument-input maximum; manufacturer tolerance +/-0.5 dB or 5%.",
+      "verified": "2026-10-13",
+      "sources": [
+        "https://support.solidstatelogic.com/hc/en-gb/articles/19991374319773-SSL-2-MKII-User-Guide",
+        "https://support.solidstatelogic.com/hc/en-gb/articles/20859917333789-SSL-2-MKII-User-Guide"
+      ],
+      "aliases": [
+        "ssl2plus-mkii"
+      ]
+    },
+    {
+      "id": "ssl2-original",
+      "manufacturer": "SSL",
+      "model": "SSL 2 / 2+",
+      "generation": "Original (not MKII)",
+      "referenceDbU": 15,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "LINE and HI-Z on, LEGACY 4K off, gain at minimum.",
+      "source": "https://support.download.solidstatelogic.com/Interfaces/SSL%202%20User%20Guide_ENGLISH.pdf",
+      "notes": "Instrument-input maximum; manufacturer tolerance +/-0.5 dB or 5%.",
+      "verified": "2026-10-13",
+      "sources": [
+        "https://support.download.solidstatelogic.com/Interfaces/SSL%202%20User%20Guide_ENGLISH.pdf",
+        "https://support.solidstatelogic.com/hc/en-gb/articles/21551651147677-SSL-2-2-MKII-Audio-Performance-Specifications-Compared-to-MKI"
+      ],
+      "aliases": [
+        "ssl2plus-original"
+      ]
+    },
+    {
+      "id": "steinberg-ur12",
+      "manufacturer": "Steinberg",
+      "model": "UR12",
+      "generation": "Original",
+      "referenceDbU": 10.7185,
+      "instrumentChannels": [
+        1
+      ],
+      "settings": "Dedicated HI-Z input 2; gain at minimum.",
+      "source": "https://download.steinberg.net/downloads_hardware/UR12/UR12_documentation/Getting_started/UR12_Getting_Started_en.pdf",
+      "notes": "Instrument maximum +8.5 dBV converted to dBu by adding 2.2185.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "steinberg-ur22c",
+      "manufacturer": "Steinberg",
+      "model": "UR22C",
+      "generation": "UR-C",
+      "referenceDbU": 11.2185,
+      "instrumentChannels": [
+        1
+      ],
+      "settings": "Input 2 HI-Z on, physical input gain at minimum; DSP input gain and effects neutral.",
+      "source": "https://download.steinberg.net/downloads_hardware/UR-C/Manuals/UR22C_Operation_Manual_English.pdf",
+      "notes": "HI-Z input 2 maximum +9.0 dBV converted with dBu = dBV + 2.2185. Nominal specification.",
+      "verified": "2026-10-09"
+    },
+    {
+      "id": "tascam-us-hr",
+      "manufacturer": "TASCAM",
+      "model": "US-2x2HR / US-4x4HR",
+      "generation": "HR",
+      "referenceDbU": 12.2185,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Input 1 or 2: switch to INST; gain at minimum.",
+      "source": "https://www.tascam.eu/en/docs/US-2x2HR_US-4x4HR_RM_RevA3.pdf",
+      "notes": "Instrument maximum +10 dBV converted to dBu by adding 2.2185. Do not use the microphone specification.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "ua-apollo-solo",
+      "manufacturer": "Universal Audio",
+      "model": "Apollo Solo / Solo USB",
+      "generation": "Original",
+      "referenceDbU": 12.5,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "Front Hi-Z input 1; gain at minimum (+10 dB), Unison empty and input effects off.",
+      "source": "https://media.uaudio.com/support/manuals/v10.0-7wT3ki/Apollo%20Solo%20Manual.pdf",
+      "notes": "Published instrument-input specification at the stated settings; nominal reference, not an individual electrical measurement.",
+      "verified": "2026-10-13",
+      "sources": [
+        "https://media.uaudio.com/support/manuals/v9122-yw8H2/Apollo%20Solo%20USB%20Manual.pdf"
+      ],
+      "gainInstructions": "Set preamp gain to +10 dB in the Console control app.\nLeave the Unison slot empty and input effects off.",
+      "gainConfirmation": "My Console input gain is +10 dB, with Unison and effects off."
+    },
+    {
+      "id": "ua-apollo-twin-original",
+      "manufacturer": "Universal Audio",
+      "model": "Apollo Twin",
+      "generation": "Original Thunderbolt",
+      "referenceDbU": 12,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "Front Hi-Z input (channel 1), gain at minimum (+10 dB); Unison slot empty, input effects off.",
+      "source": "https://media.uaudio.com/support/manuals/hardware/Apollo%20Twin%20Hardware%20Manual.pdf",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13",
+      "gainInstructions": "Set preamp gain to +10 dB in the Console control app.\nLeave the Unison slot empty and input effects off.",
+      "gainConfirmation": "My Console input gain is +10 dB, with Unison and effects off."
+    },
+    {
+      "id": "ua-apollo-twin-x",
+      "manufacturer": "Universal Audio",
+      "model": "Apollo Twin X / x4",
+      "generation": "Original, not Gen 2",
+      "referenceDbU": 12.2,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Front Hi-Z input, gain at minimum (+10 dB); Unison empty, input effects off. Twin X: input 1; x4: input 1 or 2.",
+      "source": "https://media.uaudio.com/support/manuals/hardware/Apollo%20Twin%20X%20Hardware%20Manual.pdf",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13",
+      "sources": [
+        "https://media.uaudio.com/support/manuals/hardware/Apollo%20Twin%20X%20Hardware%20Manual.pdf",
+        "https://media.uaudio.com/support/manuals/hardware/Apollo%20x4%20Hardware%20Manual.pdf"
+      ],
+      "aliases": [
+        "ua-apollo-x4"
+      ],
+      "gainInstructions": "Set preamp gain to +10 dB in the Console control app.\nLeave the Unison slot empty and input effects off.",
+      "gainConfirmation": "My Console input gain is +10 dB, with Unison and effects off."
+    },
+    {
+      "id": "ua-volt2",
+      "manufacturer": "Universal Audio",
+      "model": "Volt 1 / 2 / 176 / 276",
+      "generation": "Original, not Gen 2",
+      "referenceDbU": 12.5,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "INST on; VINTAGE and 76 compressor off if available. Volt 1 / 176: input 1; 2 / 276: input 1 or 2. Gain at minimum.",
+      "source": "https://help.uaudio.com/hc/en-us/articles/4409522227092-Volt-Specifications",
+      "notes": "Published instrument-input full-scale reference; nominal manufacturer specification, not an individual hardware measurement.",
+      "verified": "2026-10-13",
+      "aliases": [
+        "ua-volt1",
+        "ua-volt176",
+        "ua-volt276"
+      ],
+      "sources": [
+        "https://help.uaudio.com/hc/en-us/articles/4409522227092-Volt-Specifications",
+        "https://help.uaudio.com/hc/en-us/articles/4409238150676-Volt-176-Hardware-Manual",
+        "https://help.uaudio.com/hc/en-us/articles/4409233427860-Volt-276-Hardware-Manual"
+      ]
+    },
+    {
+      "id": "yamaha-ag03mk2",
+      "manufacturer": "Yamaha",
+      "model": "AG03 MK2",
+      "generation": "MK2",
+      "referenceDbU": 10,
+      "instrumentChannels": [
+        1
+      ],
+      "settings": "GUITAR/LINE switch set to GUITAR, channel 2 GAIN switch LOW; STREAMING OUT set to DRY CH 1-2G.",
+      "source": "https://manual.yamaha.com/pa/live_streaming/ag03_06/en-US/8437888267.html",
+      "notes": "GUITAR 2G maximum +10 dBu in LOW gain, with direct dry USB routing; mixer faders/effects must not change the input reference.",
+      "verified": "2026-10-13",
+      "inputInstructions": "Plug your guitar into GUITAR 2G and select Input 2 in ToneGrid.",
+      "gainInstructions": "Set channel 2 GAIN to LOW and GUITAR/LINE to GUITAR.\nSet STREAMING OUT to DRY CH 1-2G.",
+      "gainConfirmation": "GAIN is LOW, GUITAR is selected and USB output is DRY."
+    },
+    {
+      "id": "zoom-ams22",
+      "manufacturer": "ZOOM",
+      "model": "AMS-22",
+      "generation": "Original",
+      "referenceDbU": 11,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "MIC/GUITAR input 1 with a guitar cable; gain at minimum (0), loopback off.",
+      "source": "https://zoomcorp.com/manuals/ams-22-en/",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "zoom-u22",
+      "manufacturer": "ZOOM",
+      "model": "U-22",
+      "generation": "Original",
+      "referenceDbU": 8.7,
+      "instrumentChannels": [
+        0
+      ],
+      "settings": "MIC/Hi-Z input 1 with a guitar cable; gain at minimum, loopback off.",
+      "source": "https://zoomcorp.com/documents/214/E_U-22_0.pdf",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    },
+    {
+      "id": "zoom-uac2",
+      "manufacturer": "ZOOM",
+      "model": "UAC-2",
+      "generation": "Original",
+      "referenceDbU": 12,
+      "instrumentChannels": [
+        0,
+        1
+      ],
+      "settings": "Hi-Z on, gain at minimum (0 dB); input effects and loopback off.",
+      "source": "https://zoomcorp.com/documents/227/E_UAC-2_0.pdf",
+      "notes": "Published instrument-input reference at the stated settings; nominal specification, not an individual hardware measurement.",
+      "verified": "2026-10-13"
+    }
+  ]
+}

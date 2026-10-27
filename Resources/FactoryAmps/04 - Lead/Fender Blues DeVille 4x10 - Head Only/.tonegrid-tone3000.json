@@ -1,0 +1,68 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/fender-blues-deville-4x10-amp-head-captures-64903",
+  "tone_id": "64903",
+  "model": "Fender Blues DeVille 4x10",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "DI Blues DeVille Drv In1 D-9 T-5 B-7 M-4 Ma-2 P-5.nam",
+      "sha256": "b187c76e170f137a43d67fa5668860b43efc97c1ef66719bbf1c176b332f13d3",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Drv In1 D-9 T-3 B-6 M-10 Ma-2 P-3.nam",
+      "sha256": "ee9fdd3c873a3c74e50446773ca90bf211c6e2f487d4c54398efc53f996fa0bc",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Drv In1 D-9 T-4 B-1 M-8 Ma-2 P-4.nam",
+      "sha256": "87cf03ad18e40f008f08febc5ec6e4f154e6987f4226b449c50aa43bbc62db5b",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Drv In1 D-9 T-6 B-4 M-12 Ma-2 P-5.nam",
+      "sha256": "87b02191d54321fc74b446716d4c0765b435157dfe0c55ea81c349f3fad10dcd",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Drv In1 D-10 T-3 B-6 M-10 Ma-2 P-3.nam",
+      "sha256": "25663a62587779d89b8a64dac539b8b96b64154499dbe748faeb028991de883f",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Drv In1 D-12 T-3 B-6 M-10 Ma-2 P-3.nam",
+      "sha256": "8bd45f76c0d1895a7c65407c219a449fb221475d4b6522f132142a32bbe9d549",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Drv In1 D-12 T-4 B-1 M-8 Ma-2 P-4.nam",
+      "sha256": "eedc5c94d41742d8564c908d435be146ab22860004984a68c86b77306fd83ccb",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Drv In1 D-12 T-5 B-7 M-4 Ma-2 P-6.nam",
+      "sha256": "38eb344254fc95d700002bf9e5ab054f3acfd9541434726ad00feaa802bd6e17",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Drv In1 D-12 T-6 B-6 M-6 Ma-2 P-6.nam",
+      "sha256": "b02ed8cd67ed15e008af55cbbfdb93eaabaad1d1d896b513b43086897e6eb96d",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Drv In1 D-9 T-6 B-6 M-6 Ma-2 P-6.nam",
+      "sha256": "cb65c7920a9a41b6743d1795eb417909da28edd8d2ffbc2dd5c112a8136c0b51",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Drv In1 D-12 T-6 B-4 M-12 Ma-2 P-5.nam",
+      "sha256": "b4466b5f81da9efa734e6ad2f3c3a7c48f5bb88caa3aa569314acfea49248481",
+      "gear": "amp"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/fender-pro-junior-iv-ltd-4702",
+  "tone_id": "4702",
+  "model": "Fender Pro Junior IV LTD",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "Fender Pro Junior IV LTD V-8 T-4.nam",
+      "sha256": "96ca3881d8ced4d8eaec198c60d5f2e53d832cdea1ae5b45a30e4f1fb7453553",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-8 T-6.nam",
+      "sha256": "5de55ce44fe027ec8462bec94dd4290f93e1481b6d089994104ee52cad6aac1d",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-8 T-8.nam",
+      "sha256": "debe925283a3dc1d54152e10ba2f79c5a7996830aa845929ac115e578b86541e",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-8 T-10.nam",
+      "sha256": "0c10f14342985fcea175ca5e8c0f0351220bd57f58e618105bd568e1f6493f5b",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-8 T-12.nam",
+      "sha256": "ee3f1caedeb1eeba45f3dba8e6fd45e91b1007f130de8ea791b3c768b971859a",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-10 T-4.nam",
+      "sha256": "1b769b4ade9036da7c7e7bc5f478a77f38ec55b6616742e475d77f8b9f3842ba",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-10 T-6.nam",
+      "sha256": "eecf6706a6f9a685ac5e00f0d5f1eb9312bb6911b12fedf354c6461ca3387d7f",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-10 T-8.nam",
+      "sha256": "eb00ba3ca939c6786d47af3a81fd735b0bc1465e557de6413b5a0ee76aee836a",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-10 T-10.nam",
+      "sha256": "9f511c9ef08bfff4bb0e1dbbd3ed6d79d647c09cf36c265404f5cd9bafff043d",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-10 T-12.nam",
+      "sha256": "dd085a3dea45235c092a67d52fef066917e68816d3017dfcd8dbd6b1a73e7e41",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-12 T-4.nam",
+      "sha256": "7ff9349920fcbd25dd219cc3bd4848ec0343cb5dfee2c7343606957f8b5d5991",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-12 T-6.nam",
+      "sha256": "e2296c058976f9564b6ba86d64c2c311772e7bb8da9dc29c66e7bb1774f40df3",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-12 T-8.nam",
+      "sha256": "8d26f025bc4664d57022f8b831f09dc082abb52bb67454932556b63ff5905c14",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-12 T-10.nam",
+      "sha256": "30a79dbddbf41dc0897c2e7ba076bab622b0d9849bb12244c587d3266c4323ff",
+      "gear": "amp"
+    },
+    {
+      "file": "Fender Pro Junior IV LTD V-12 T-12.nam",
+      "sha256": "03350c9c1242b80ce51d734693b4def887fbfedde02eb460596955bed61724ce",
+      "gear": "amp"
+    }
+  ]
+}

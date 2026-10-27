@@ -1,0 +1,5 @@
+#pragma once
+namespace tonegrid::build {
+inline constexpr const char* version = "@PROJECT_VERSION@";
+inline constexpr const char* sourceRevision = "@TONEGRID_SOURCE_REVISION@";
+}

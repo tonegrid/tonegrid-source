@@ -1,0 +1,93 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/ampeg-jet-ii-j-12t-78652",
+  "tone_id": "78652",
+  "model": "Ampeg Jet II J-12T",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "DI J-12T Gtr V-4 T-5 SRL.nam",
+      "sha256": "c7ada785f413d583953ec204c6055253c8c26afc9743c499e34c042cf4f411c8",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Acc V-2 T-5 SRL 4dB.nam",
+      "sha256": "fc88b621c3e61a83d1c49840d710069a2b94764f1feab4cb19c7cf45eaedea23",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Acc V-2 T-8 SRL 4dB.nam",
+      "sha256": "584d4cf0ca7b89c3a0f4bb86517829fe57b742bfb5de164068b3e51c690abcf8",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Acc V-2 T-2 SRL 4dB.nam",
+      "sha256": "83fa6dbb6fea0e68ece2d06681a759d0d948cd9bbe47d01e892f417a127d3117",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Acc V-2 T-10 SRL 4dB.nam",
+      "sha256": "363a564a318029fab4c7497ecc0bea76e0e999ae02ea8cf22c5e2bbf837ceb70",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-4 T-10 SRL.nam",
+      "sha256": "fe39803269cbcd8c2a8906c47c6311e0458faf3082354f403e4b439df13045a9",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-2 T-10 SRL 4dB.nam",
+      "sha256": "92570e95d39b582fd0bf2babc26bbcd256cc477d42663c4d32e44bf3dcd111d9",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-3 T-2 SRL.nam",
+      "sha256": "7f7f6af5cf86f25711fc77919a721d2aa131bc58a0350d453dacedf602566141",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-2 T-8 SRL 4dB.nam",
+      "sha256": "6dad1cf22bb00a76fd1c0b3dac06bd62bcd0d427cadaca9708cfd69b46284f69",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-3 T-5 SRL.nam",
+      "sha256": "b986d72c101efa93d6b313683c5601838b39c3c5f38b9fa89b2f41988e923fd6",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-2 T-5 SRL 4dB.nam",
+      "sha256": "eb9454bb2b390f555132c00f4c7306b90538503533a4c7bcb85d27fb95a43491",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-4 T-2 SRL.nam",
+      "sha256": "78d2b037a0bb3c93272503aa1b9b8dc76c194f3f8a06db586439e00085c145f9",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-2 T-2 SRL 4dB.nam",
+      "sha256": "2f745db8b380e4e16ca6a4cdfac7aec08a7c15e52cce2a147e75b317f2be4a69",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-3 T-10 SRL.nam",
+      "sha256": "6cc5ab4c51fec4281dfd67532946340725f1bec2cbd40832422c6f72b46a6923",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-3 T-8 SRL.nam",
+      "sha256": "00549e922c14fe961b9bd50ee52f047039fec375bfe8f939d13c35897ac8b998",
+      "gear": "amp"
+    },
+    {
+      "file": "DI J-12T Gtr V-4 T-8 SRL.nam",
+      "sha256": "8808c699087947189495b6514b23b01cc3bb85f1b67954c10a3cc972b217da7b",
+      "gear": "amp"
+    }
+  ]
+}

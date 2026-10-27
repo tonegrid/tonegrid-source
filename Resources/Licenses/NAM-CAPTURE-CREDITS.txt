@@ -1,0 +1,58 @@
+ToneGrid 1.1.38 - Factory NAM content
+613 NAM captures: 462 amplifiers and 151 pedal captures.
+Blues OD includes 21 creator-authorized MaestrodiMusica Blues Driver BD-2 captures.
+Their supplied NAM bytes and 10.5 dBu input/output metadata are unchanged.
+Publisher permission confirmations are recorded in Distribution/permissions.json.
+Every file, source, author, license and SHA-256 is listed in NAM-CAPTURE-INVENTORY.csv.
+Capture licenses are separate from the application AGPLv3 license; the application
+license does not grant additional rights over these capture files.
+
+Current credited sources (capture count / author / license / source URL):
+11 / 2dor / t3k / https://www.tone3000.com/tones/1980-marshall-jmp-2204-70521
+39 / 2dor / t3k / https://www.tone3000.com/tones/bogner-uberschall-80705
+4 / 2dor / t3k / https://www.tone3000.com/tones/carstens-grace-100-95299
+10 / 2dor / t3k / https://www.tone3000.com/tones/diezel-vh4-51451
+2 / 2dor / t3k / https://www.tone3000.com/tones/fortin-evil-pumpkin-66259
+10 / 2dor / t3k / https://www.tone3000.com/tones/friedman-be100-deluxe-41359
+10 / 2dor / t3k / https://www.tone3000.com/tones/friedman-jose-arredondo-58979
+12 / 2dor / t3k / https://www.tone3000.com/tones/friedman-plex-49343
+24 / 2dor / t3k / https://www.tone3000.com/tones/hiwatt-super-hi-50-53037
+11 / 2dor / t3k / https://www.tone3000.com/tones/marshall-jcm800-2203-modified-44209
+16 / 2dor / t3k / https://www.tone3000.com/tones/mesa-boogie-badlander-100w-43427
+5 / 2dor / t3k / https://www.tone3000.com/tones/mesa-boogie-dual-rectifier-revision-g-79103
+10 / 2dor / t3k / https://www.tone3000.com/tones/mesa-boogie-mark-vii-62659
+10 / 2dor / t3k / https://www.tone3000.com/tones/mesa-boogie-triple-rectifier-multi-watt-52642
+2 / 2dor / t3k / https://www.tone3000.com/tones/mlc-s_zero-v-vogg-decapitated-97238
+18 / 2dor / t3k / https://www.tone3000.com/tones/orange-or60-90925
+10 / 2dor / t3k / https://www.tone3000.com/tones/peavey-6505-1992-original-56552
+12 / 2dor / t3k / https://www.tone3000.com/tones/prs-mt-100-mark-tremonti-38592
+9 / 2dor / t3k / https://www.tone3000.com/tones/soldano-slo-100-46269
+2 / 2dor / t3k / https://www.tone3000.com/tones/wizard-modern-classic-mcii-100w-75140
+2 / 2dor / t3k / https://www.tone3000.com/tones/zuta-gbg120-77453
+2 / Mad Hatter Amp Lab / T3K — creator permission confirmed / https://www.tone3000.com/tones/tweed-deluxe-5e3-full-rig-93424
+21 / MaestrodiMusica / t3k / https://www.tone3000.com/tones/blues-driver-bd-2-12505
+26 / OutmodedElectronics / T3K — creator permission confirmed / https://www.tone3000.com/outmodedelectronics/
+20 / OutmodedElectronics / t3k / https://www.tone3000.com/tones/electro-harmonix-op-amp-big-muff-37818
+24 / OutmodedElectronics / t3k / https://www.tone3000.com/tones/keeley-time-machine-boost-46640
+8 / OutmodedElectronics / t3k / https://www.tone3000.com/tones/maxon-od808-6431
+16 / OutmodedElectronics / t3k / https://www.tone3000.com/tones/mxr-classic-108-fuzz-31556
+18 / OutmodedElectronics / t3k / https://www.tone3000.com/tones/mxr-timmy-30891
+20 / OutmodedElectronics / t3k / https://www.tone3000.com/tones/proco-rat2-30444
+18 / OutmodedElectronics / t3k / https://www.tone3000.com/tones/wampler-tumnus-deluxe-57605
+6 / bastienw / t3k / https://www.tone3000.com/tones/boss-ds-1-wampler-jcm-mod-standard-33515
+2 / claybennett / t3k / https://www.tone3000.com/tones/1964-vox-ac50-mk-i-potentially-ex-beatles-66547
+1 / claybennett / t3k / https://www.tone3000.com/tones/eric-claptons-fender-bassman-5f6-a-84556
+36 / claybennett / t3k / https://www.tone3000.com/tones/fender-pawn-shop-ramparte-57312
+4 / claybennett / t3k / https://www.tone3000.com/tones/the-metal-pack-5150-rev2-mesa-carbine-67958
+20 / gloo / T3K — creator permission confirmed / https://www.tone3000.com/tones/fender-tweed-amp-100112
+66 / outmodedelectronics / t3k / https://www.tone3000.com/tones/supro-black-magick-full-rigs-53368
+24 / rxguitar / T3K — creator permission confirmed / https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-half-stack-100177
+33 / rxguitar / T3K — creator permission confirmed / https://www.tone3000.com/tones/marshall-6100lm-30th-anniversary-blue-92-half-stack-75346
+19 / rxguitar / T3K — creator permission confirmed / https://www.tone3000.com/tones/marshall-studio-jtm-st20c-92047
+
+Factory artwork and thumbnails may include AI-generated illustrations. They do
+not depict the capture session. See per-family source descriptions and metadata.
+Output normalization is a separate ToneGrid adjustment. Fender Blues Junior Tweed
+retains the publisher-approved +12 dB listening compensation; it is not measured
+electrical calibration, and its existing warning remains enabled.
+8 / 2dor / T3K - creator permission confirmed by publisher 2026-10-24; complete heads only / https://www.tone3000.com/tones/hiwatt-super-hi-50-64577

@@ -1,0 +1,23 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/wizard-modern-classic-mcii-100w-75141",
+  "tone_id": "75141",
+  "model": "Wizard Modern Classic MCII 100W",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] Wzd.MCII100-Mes412-LD-BST-HI Bandit Torn - DI.nam",
+      "sha256": "aa5f2ac3c08ed14a07841023e5447af42c2aca6de42591b45a57971f48c50e2e",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] Wzd.MCII100-Mar412-LD-BST-HI Bandit Torn - DI.nam",
+      "sha256": "409f41cf8bca478e5995eded01b2dbbb2a1f71af985ff965d03ea608be014202",
+      "gear": "amp"
+    }
+  ]
+}

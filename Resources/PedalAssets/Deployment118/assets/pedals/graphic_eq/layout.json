@@ -1,0 +1,157 @@
+{
+  "id": "graphic_eq",
+  "displayName": "GRAPHIC EQ",
+  "subtitle": "DRIVE WHAT'S REAL",
+  "type": "standard",
+  "referenceSize": {
+    "width": 450,
+    "height": 450
+  },
+  "assetSize2x": {
+    "width": 1254,
+    "height": 1254
+  },
+  "controls": [
+    {
+      "id": "inputTrim",
+      "label": "Input trim",
+      "type": "rotary",
+      "center": {
+        "x": 78,
+        "y": 112
+      },
+      "diameter": 60
+    },
+    {
+      "id": "tone",
+      "label": "Tone",
+      "type": "rotary",
+      "center": {
+        "x": 150,
+        "y": 112
+      },
+      "diameter": 60
+    },
+    {
+      "id": "level",
+      "label": "Level",
+      "type": "rotary",
+      "center": {
+        "x": 225,
+        "y": 112
+      },
+      "diameter": 60
+    }
+  ],
+  "led": {
+    "center": {
+      "x": 220.6,
+      "y": 52
+    },
+    "diameter": 31.92,
+    "off": "../../shared/led_off.png",
+    "on": "../../shared/led_on.png"
+  },
+  "preset": {
+    "bounds": {
+      "x": 85,
+      "y": 267,
+      "width": 130,
+      "height": 34
+    },
+    "render": "juce_custom_lookandfeel"
+  },
+  "midi": {
+    "bounds": {
+      "x": 260,
+      "y": 270,
+      "width": 80,
+      "height": 28
+    },
+    "render": "juce_custom_lookandfeel"
+  },
+  "footswitch": {
+    "center": {
+      "x": 225,
+      "y": 334
+    },
+    "diameter": 58,
+    "up": "../../shared/footswitch_up.png",
+    "down": "../../shared/footswitch_down.png"
+  },
+  "knobStrip": {
+    "path": "../../shared/knob_strip.png",
+    "frames": 101,
+    "frameWidth": 128,
+    "frameHeight": 128,
+    "sweepDegrees": 270,
+    "startDegrees": -135
+  },
+  "face": "face.png",
+  "notes": "User supplied PNG, byte-identical. Shared validated Transparent OD hardware and renderer. Vintage label offset explicitly accepted provisionally.",
+  "assetPackVersion": "fidelity-static-face-plus-v3-hardware",
+  "viewport": {
+    "x": 61.316,
+    "y": 24.76,
+    "width": 327.368,
+    "height": 410.17
+  },
+  "darkInk": true,
+  "artworkClip": {
+    "x": 75,
+    "y": 24.76,
+    "width": 300,
+    "height": 410.17,
+    "radius": 28
+  },
+  "faders": [
+    {
+      "x": 95.52631578947368,
+      "y": 84.33014354066985,
+      "width": 30,
+      "height": 97.60765550239235
+    },
+    {
+      "x": 133.5645933014354,
+      "y": 84.33014354066985,
+      "width": 30,
+      "height": 97.60765550239235
+    },
+    {
+      "x": 171.60287081339712,
+      "y": 84.33014354066985,
+      "width": 30,
+      "height": 97.60765550239235
+    },
+    {
+      "x": 210.0,
+      "y": 84.33014354066985,
+      "width": 30,
+      "height": 97.60765550239235
+    },
+    {
+      "x": 247.6794258373206,
+      "y": 84.33014354066985,
+      "width": 30,
+      "height": 97.60765550239235
+    },
+    {
+      "x": 286.07655502392345,
+      "y": 84.33014354066985,
+      "width": 30,
+      "height": 97.60765550239235
+    },
+    {
+      "x": 324.11483253588517,
+      "y": 84.33014354066985,
+      "width": 30,
+      "height": 97.60765550239235
+    }
+  ],
+  "titleHover": {
+    "x": 100,
+    "y": 215,
+    "width": 250,
+    "height": 40
+  }
+}

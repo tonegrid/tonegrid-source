@@ -1,0 +1,15 @@
+{
+  "project": "stft-pitch",
+  "repository": "https://github.com/jurihock/stftPitchShift",
+  "commit": "8e55dc639811a8ac5b3f5bc3d1f90a11c59ca582",
+  "tag": "v2.0",
+  "license": "MIT",
+  "files_sha256": {
+    "LICENSE": "68e5a7665569eea62c82c9c90150c435359a4b64fcb7d1a09b89deef0196f1fb",
+    "StftPitchShift/Arctangent.h": "1054181f5b6b872cc673127dc24ddf88970beb038bfb20b2bdab48986c2eca87",
+    "StftPitchShift/Pitcher.h": "40ded0f66ecd6d9e3622815cb5a1efbe72fc5b89383ad77fab7b200cbce5ca87",
+    "StftPitchShift/Resampler.h": "dc8aa89e2bd033079a1d59049fea08b9638605aa97214729ebe500ae16abd29a",
+    "StftPitchShift/Vocoder.h": "b0cfd339188f6e8cf77e27d14bde21df0f3ba453a159b64a62d3d1871f9f4058"
+  },
+  "copied_sources_unmodified": true
+}

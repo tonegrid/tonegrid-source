@@ -1,0 +1,56 @@
+    bool verifyAudioRecovery126(String& result,const File& folder)
+    {
+        bool ok=true;const auto check=[&](bool pass,const String& label){ok&=pass;result+=String(pass?"PASS ":"FAIL ")+label+"\n";};
+        devices.closeAudioDevice();devices.removeAudioCallback(&audioTap);audioCallbackAttached=audioReady=false;
+        while(!devices.getAvailableDeviceTypes().isEmpty())devices.removeAudioDeviceType(devices.getAvailableDeviceTypes()[0]);
+        auto state=std::make_shared<audioRecovery126Tests::State>();devices.addAudioDeviceType(std::make_unique<audioRecovery126Tests::Type>(state));
+        XmlElement saved("DEVICESETUP");saved.setAttribute("deviceType","Test ASIO");saved.setAttribute("audioInputDeviceName","Test Interface");saved.setAttribute("audioOutputDeviceName","Test Interface");saved.setAttribute("audioDeviceRate",48000);
+        rig::writeXml(saved,bankDir.getChildFile("audio.xml"));const auto previous=bankDir.getChildFile("audio.xml").loadFileAsString();
+        check(!initialiseAudioDevices()&&!audioReady&&lastAudioError.contains("busy"),"real driver initialization failure is retained");
+        const int attempts=state->attempts;audio.onClick();auto* first=audioDialog.getComponent();
+        check(first&&first->isVisible(),"Settings opens despite driver initialization failure");
+        if(!first)return false;
+        for(int i=0;i<3;++i)audio.onClick();check(audioDialog.getComponent()==first&&state->attempts==attempts,"repeated Settings clicks reuse window without retrying failed driver");
+        std::function<Component*(Component*,const String&)> find=[&](Component* c,const String& id)->Component*{if(c->getComponentID()==id)return c;for(auto* child:c->getChildren())if(auto* found=find(child,id))return found;return nullptr;};
+        auto* error=dynamic_cast<Label*>(find(first->getContentComponent(),"audio-settings-status"));
+        check(error&&error->isVisible()&&error->getText().contains("busy"),"driver error is visible inside Settings");
+        persistAudioSettings();check(bankDir.getChildFile("audio.xml").loadFileAsString()==previous,"failed initialization preserves saved audio configuration");
+        String email;int drafts=0;diagnosticEmailLauncher=[&](const String& uri){email=uri;++drafts;return false;};
+        auto* diagnostic=dynamic_cast<TextButton*>(find(first->getContentComponent(),"audio-send-diagnostic"));sendDiagnostic.onClick();
+        check(!diagnostic&&!find(first->getContentComponent(),"audio-editable-content")&&diagnosticDialog&&drafts==1&&email.startsWith("mailto:christian@tonegrid.net?"),"Settings omits removed buttons; footer prepares diagnostic without sending");
+        auto* view=diagnosticDialog?dynamic_cast<tonegrid::diagnostics::View*>(find(diagnosticDialog->getContentComponent(),"diagnostic-report")):nullptr;
+        check(view&&view->report().contains("busy")&&view->report().contains("Device: none")&&view->report().contains("END OF TONEGRID DIAGNOSTIC"),"failure report includes actual error and complete marker");
+        if(view){MemoryOutputStream png;PNGImageFormat().writeImageToStream(diagnosticDialog->getContentComponent()->createComponentSnapshot(diagnosticDialog->getContentComponent()->getLocalBounds()),png);folder.getChildFile("audio-failure-diagnostic.png").replaceWithData(png.getData(),png.getDataSize());}
+        delete diagnosticDialog.getComponent();
+        for(int p=0;p<board::count;++p){auto s=pedals->get(p);s.enabled=false;pedals->set(p,s);}pedals->front.set({0,-70,false});
+        state->busy=false;auto setup=devices.getAudioDeviceSetup();setup.inputDeviceName=setup.outputDeviceName="Test Interface";setup.inputChannels=BigInteger(1);setup.outputChannels=BigInteger(3);setup.useDefaultInputChannels=setup.useDefaultOutputChannels=false;setup.sampleRate=44100;setup.bufferSize=128;
+        check(devices.setAudioDeviceSetup(setup,true).isEmpty(),"working device can be selected after initial failure");
+        const int recoveredAttempts=state->attempts;
+        check(initialiseAudioDevices()&&state->attempts==recoveredAttempts&&devices.getCurrentAudioDevice()->getCurrentSampleRate()==44100,"manual device selection wins over stale startup settings before change notification");
+        changeListenerCallback(nullptr);reconcileAudioDevice();attach();
+        check(audioReady&&lastAudioError.isEmpty()&&audioTap.inputConnected()&&player.getCurrentProcessor()==&deviceProcessor,"recovery registers callback and attaches real audio graph");
+        auto* device=dynamic_cast<audioRecovery126Tests::Device*>(devices.getCurrentAudioDevice());
+        bool rendered=false;if(device)for(int i=0;i<20;++i)rendered=device->render()||rendered;
+        check(rendered&&deviceProcessor.converting()&&graph.getSampleRate()==48000,"44.1 kHz recovery produces finite audio with 48 kHz engine");
+        check(error&&error->getText().contains("Audio is ready")&&!error->getText().contains("busy"),"successful selection replaces the error with input/output guidance");
+        const auto dspBefore=tonegrid::output::encode(outputSettings).toString(),logBefore=log.getText();
+        auto* const ampBefore=ampSource.get();auto* const processorBefore=player.getCurrentProcessor();const auto presetBefore=selected();const int languageAttempts=state->attempts,languageStarts=state->starts;
+        for(const auto& pack:tonegrid::l10n::Language::instance().available())tonegrid::l10n::Language::instance().select(pack.locale,false);
+        tonegrid::l10n::Language::instance().select("en",false);
+        check(state->attempts==languageAttempts&&state->starts==languageStarts&&ampSource.get()==ampBefore&&player.getCurrentProcessor()==processorBefore&&selected()==presetBefore&&tonegrid::output::encode(outputSettings).toString()==dspBefore,"all ten languages preserve the real host graph, preset, effects and running synthetic device");
+        check(log.getText()==logBefore&&sendDiagnostic.getButtonText()=="Send Diagnostic","language changes preserve English logs and diagnostic action");
+        delete audioDialog.getComponent();persistAudioSettings();
+        auto persisted=XmlDocument::parse(bankDir.getChildFile("audio.xml"));check(persisted&&persisted->getDoubleAttribute("audioDeviceRate")==44100,"recovered device settings persist");
+        devices.closeAudioDevice();state->available=false;reconcileAudioDevice();attach();audio.onClick();
+        check(!audioReady&&player.getCurrentProcessor()==nullptr&&audioDialog,"unplugged device stops processing while Settings stays available");
+        delete audioDialog.getComponent();state->available=true;setup.sampleRate=96000;setup.bufferSize=64;
+        check(devices.setAudioDeviceSetup(setup,true).isEmpty(),"device reconnects at a different rate and buffer");reconcileAudioDevice();attach();
+        device=dynamic_cast<audioRecovery126Tests::Device*>(devices.getCurrentAudioDevice());rendered=false;if(device)for(int i=0;i<20;++i)rendered=device->render()||rendered;
+        check(audioReady&&rendered,"reconnected 96 kHz device renders audio");
+        devices.closeAudioDevice();audioReady=false;bankDir.getChildFile("audio.xml").replaceWithText("<invalid");
+        check(initialiseAudioDevices()&&audioReady,"malformed saved audio configuration falls back to a working device");
+        sendDiagnostic.onClick();check(diagnosticDialog&&drafts==2,"footer diagnostic works independently of Settings");delete diagnosticDialog.getComponent();
+        diagnosticEmailLauncher=[](const String&){return false;};
+        devices.closeAudioDevice();reconcileAudioDevice();attach();
+        return ok;
+    }

@@ -1,0 +1,15 @@
+Microsoft Visual C++ runtime libraries
+Copyright Microsoft Corporation. All rights reserved.
+
+The portable package includes the unmodified x64 release runtime DLLs from the
+Visual Studio 2022 installation's VC/Redist/MSVC/Microsoft.VC143.CRT directory.
+These Microsoft redistributable components are not covered by ToneGrid's AGPL.
+They remain subject to Microsoft's applicable Visual Studio license terms.
+
+Microsoft's official list of distributable code and deployment documentation:
+https://learn.microsoft.com/en-us/visualstudio/releases/2022/redistribution
+https://learn.microsoft.com/en-us/cpp/windows/redistributing-visual-cpp-files
+https://learn.microsoft.com/en-us/cpp/windows/determining-which-dlls-to-redistribute
+
+The Windows Universal CRT and other Windows system DLLs remain Windows components.
+No system directories or registry settings are changed by extracting this ZIP.

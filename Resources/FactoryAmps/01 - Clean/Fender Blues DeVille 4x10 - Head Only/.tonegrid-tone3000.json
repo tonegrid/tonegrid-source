@@ -1,0 +1,108 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/fender-blues-deville-4x10-amp-head-captures-64903",
+  "tone_id": "64903",
+  "model": "Fender Blues DeVille 4x10",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-5 B-8 M-5 P-1.nam",
+      "sha256": "c9b1efb7f87d0bbe6dfd4f2bd986eb61eb2ce9c11cce70f91442d7a9db5d36f6",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-5 B-8 M-8 P-1.nam",
+      "sha256": "64bd578ed247ef1ae6ba66709db43c03b61486111097dc1010cfcdfd12143a26",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-7 B-7 M-7 P-1.nam",
+      "sha256": "45fbb8a0bdb735e38e50c58a71c0e67f0143f5c49e6dd20e818dc2a487cb0888",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-7 B-3 M-4 P-3.nam",
+      "sha256": "1138b4f0e8d45232a7938903327861c8eb04a4ad4cc236f852db5cd526ab697a",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-7 B-3 M-4 P-3 Brt.nam",
+      "sha256": "133becb4096f42831ddb1503c664a6176e9b57a11f4c04bb701649950d48e24e",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-7 B-4 M-7 P-7.nam",
+      "sha256": "29e3144abb1fbde6825410d8a74cac8ff36efd49cfbaef48b607d37ec42fcba8",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-7 B-4 M-7 P-7 Brt.nam",
+      "sha256": "b8c1b6fb446ca6571eec8a31b563ecc8b6b453e4a319f8c9a6453ba6257e1bb2",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-8 B-5 M-5 P-5 Brt.nam",
+      "sha256": "dd189a3734bd6e6fede3d15b3f69625ac335316497298a3555f0df1248ccddae",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-8 B-7 M-6 P-6.nam",
+      "sha256": "5cff022d316bdef466605a8e88ea882a87028900487d258b607183bc907dffef",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-8 B-7 M-6 P-6 Brt.nam",
+      "sha256": "53030ce7c9d2fd72e808db54d01501ed2fe1a2ff104e3337c9f056afcd1a88b7",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-8 B-5 M-7 P-5.nam",
+      "sha256": "5c23826e55ba444e3933fab11479a2daf8f5c53533aa4b0337a53b0c3498786a",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-9 B-9 M-6 P-3.nam",
+      "sha256": "0faba361401a99da3c66f71154c387e8ed866b7027c2ffecf27fb2c6f7e9c528",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-9 B-9 M-6 P-3 Brt.nam",
+      "sha256": "08ccc2df89c7920dac9eb7b5cf49825c5a3003b9ea7f384279f597c93c1a2f42",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-4 T-4 B-2 M-12 P-7.nam",
+      "sha256": "6f96e2b8b28185490c4f8936df4eb80595d122bb36fc9440bf7be34ccc062190",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-4 T-7 B-5 M-6 P-6.nam",
+      "sha256": "85ca09510b7b5db649bf021c5befd3c95191e62be73d35cb636e85e1662ba7f5",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-4 T-9 B-3 M-10 P-8 Brt.nam",
+      "sha256": "9206e945d7baaa59b2b9e63e26946f9a523f06d6a96cae355936bc752100f656",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-8 B-5 M-5 P-5.nam",
+      "sha256": "87be0b9510f373f2d4a79b2b05ab896b2f646657b8fdb90d779f01e750a49adb",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-2 T-8 B-5 M-7 P-5 Brt.nam",
+      "sha256": "1bc018e7b00e4770f3df6b38380728d3e6929ca59c13d36acd859e73492cff2d",
+      "gear": "amp"
+    },
+    {
+      "file": "DI Blues DeVille Nrm In1 V-4 T-9 B-3 M-10 P-8.nam",
+      "sha256": "9982f52b399d965a4817afc62fcce64f4f9ef72b0b15a328a97e405b5a016fba",
+      "gear": "amp"
+    }
+  ]
+}

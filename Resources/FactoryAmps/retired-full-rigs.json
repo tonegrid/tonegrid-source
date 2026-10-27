@@ -1,0 +1,2634 @@
+{
+  "schemaVersion": 1,
+  "version": "1.1.40-ir",
+  "captures": [
+    {
+      "file": "01 - Clean/Marshall 2555X Silver Jubilee/JUB2555X_01_FULL_CLN_Pristine.nam",
+      "sha256": "119a7f2ae7f4d25d6430a105f0f2df7f55cdf57bedd4fd4482371cb28d62b96c",
+      "bytes": 296497,
+      "head": {
+        "path": "01 - Clean/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_01_DIR_CLN_Pristine.nam",
+        "bytes": 295918,
+        "sha256": "f9b5261e518313cb36899d8b503502938779d91751b4617193610901500c3d2c",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_01_pair_cln_pristine"
+    },
+    {
+      "file": "01 - Clean/Marshall 2555X Silver Jubilee/JUB2555X_02_FULL_CLN_Warm.nam",
+      "sha256": "b614774d4cf879bda99f6f4fb985246bb37bfe7d428eac43ce2045e654b5f21a",
+      "bytes": 296259,
+      "head": {
+        "path": "01 - Clean/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_02_DIR_CLN_Warm.nam",
+        "bytes": 295415,
+        "sha256": "f8cbb717c65ec7e4f0c0a511c2e68c58400c90353aa9196f089a0a1ac39434c8",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_02_pair_cln_warm"
+    },
+    {
+      "file": "01 - Clean/Marshall 2555X Silver Jubilee/JUB2555X_06_FULL_CLN_PedalPlatform.nam",
+      "sha256": "b65f63ac6a86353e132bbd7c5eba7a34fbc7ca1ab9be5c2ac754203f59c7a2b3",
+      "bytes": 295549,
+      "head": {
+        "path": "01 - Clean/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_06_DIR_CLN_PedalPlatform.nam",
+        "bytes": 294885,
+        "sha256": "94e39167598a76853da3cef019a1ba7254cdbf9c5242d898ef64c9ab737c70ff",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_06_pair_cln_pedalplatform"
+    },
+    {
+      "file": "02 - Edge/Marshall 2555X Silver Jubilee/JUB2555X_03_FULL_CLN_50W_EdgeBreakup.nam",
+      "sha256": "1b2fa92bbe1af6bb396cff1b863381ddafcda4479e070254d20a8d511126edb9",
+      "bytes": 296828,
+      "head": {
+        "path": "02 - Edge/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_03_DIR_CLN_50W_EdgeBreakup.nam",
+        "bytes": 296011,
+        "sha256": "8b4b8e9eafd3514e39819d69790bee00457c67856e0818b8bcd2821d3f35710b",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_03_pair_cln_50w_edgebreakup"
+    },
+    {
+      "file": "02 - Edge/Marshall 2555X Silver Jubilee/JUB2555X_04_FULL_CLN_DynBreakup.nam",
+      "sha256": "aa50379d51a8a278d6f1519f81c33e360c018cc73a328f5cb70b6afd9627bae2",
+      "bytes": 296379,
+      "head": {
+        "path": "02 - Edge/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_04_DIR_CLN_DynBreakup.nam",
+        "bytes": 295469,
+        "sha256": "c167b1e3658b8876daae4402417c98441a77137562656e08419eab944f784fb1",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_04_pair_cln_dynbreakup"
+    },
+    {
+      "file": "02 - Edge/Marshall 2555X Silver Jubilee/JUB2555X_05_FULL_CLN_Breakup_OD.nam",
+      "sha256": "25c9444b4ba17bbd484a0806d343eec90fd460f229f61fbe9589bbaab0cdbf5d",
+      "bytes": 298275,
+      "head": {
+        "path": "02 - Edge/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_05_DIR_CLN_Breakup_OD.nam",
+        "bytes": 297040,
+        "sha256": "5d80ceb31a96647ed18b9252c970504091bc01e1db185e750e79a5782c59d757",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_05_pair_cln_breakup_od"
+    },
+    {
+      "file": "03 - Crunch/Marshall 2555X Silver Jubilee/JUB2555X_07_FULL_CRU_LightClip.nam",
+      "sha256": "caf66db1822cea397b187e5aa9e659df1105dcbc453d60a7df368b5040ae81f5",
+      "bytes": 296458,
+      "head": {
+        "path": "02 - Edge/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_07_DIR_CRU_LightClip.nam",
+        "bytes": 296467,
+        "sha256": "0dc79a13e1a2b8142c3c480002578593e9fafbaacdea3bc1273b37c0956aee80",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_07_pair_cru_lightclip"
+    },
+    {
+      "file": "03 - Crunch/Marshall 2555X Silver Jubilee/JUB2555X_08_FULL_CRU_LightClip_OD.nam",
+      "sha256": "0b71950fda2c4af8fbed35a4b883ac4c03f83a2fb0047655672d51cf6c012b08",
+      "bytes": 296490,
+      "head": {
+        "path": "02 - Edge/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_08_DIR_CRU_LightClip_OD.nam",
+        "bytes": 296374,
+        "sha256": "fddfd53b1e98575b35e1e4ec186c7e170fd9fe61ffe2d9e801ab0d24fa3d6b5c",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_08_pair_cru_lightclip_od"
+    },
+    {
+      "file": "03 - Crunch/Marshall 2555X Silver Jubilee/JUB2555X_09_FULL_CRU_ClassicClip.nam",
+      "sha256": "04dd70efb5413b3bb4fd30510fd14c51439e529311c0d55afd3d5f9223eaf14e",
+      "bytes": 296611,
+      "head": {
+        "path": "03 - Crunch/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_09_DIR_CRU_ClassicClip.nam",
+        "bytes": 296238,
+        "sha256": "e9faed89744b4d7a72c9ada646fb20ab25f94863d518262a88a774e70ede6452",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_09_pair_cru_classicclip"
+    },
+    {
+      "file": "03 - Crunch/Marshall 2555X Silver Jubilee/JUB2555X_10_FULL_CRU_ClassicClip_TS.nam",
+      "sha256": "bfdd62f80f9ad6f4155a0abcf262bab4f74c862ccd283a24813c37b6015f22ae",
+      "bytes": 296123,
+      "head": {
+        "path": "03 - Crunch/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_10_DIR_CRU_ClassicClip_TS.nam",
+        "bytes": 296040,
+        "sha256": "61aad8907202a6667224a1e662eb8530a6c1f113c9b397c657cf224c741b946d",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_10_pair_cru_classicclip_ts"
+    },
+    {
+      "file": "03 - Crunch/Marshall 2555X Silver Jubilee/JUB2555X_11_FULL_CRU_PushedClip.nam",
+      "sha256": "9b6c775ea388598f3394960b505ea15d09dc911c29788ae4436c209734a150f7",
+      "bytes": 296922,
+      "head": {
+        "path": "03 - Crunch/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_11_DIR_CRU_PushedClip.nam",
+        "bytes": 296211,
+        "sha256": "4bbda0ae0645cb719b6dc0e14641f311f2d5861d7e1547c721723019f51e27f0",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_11_pair_cru_pushedclip"
+    },
+    {
+      "file": "03 - Crunch/Marshall 2555X Silver Jubilee/JUB2555X_12_FULL_CRU_50W_SagClip.nam",
+      "sha256": "a15a5de24c03c6c533066622e2a71bd906d42e12e6a75c3d3bad87d587c57efb",
+      "bytes": 297031,
+      "head": {
+        "path": "03 - Crunch/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_12_DIR_CRU_50W_SagClip.nam",
+        "bytes": 296297,
+        "sha256": "220868766972d99702206d6de5cfcdc1e519ad5a66fb1a26061a7066f613a8dc",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_12_pair_cru_50w_sagclip"
+    },
+    {
+      "file": "04 - Lead/Marshall 2555X Silver Jubilee/JUB2555X_13_FULL_LEAD_HardRock.nam",
+      "sha256": "d9336004dd82d53dfd1b004b4f49c476c216ee9ee305d0fb133de29136c91e5b",
+      "bytes": 295809,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_13_DIR_LEAD_HardRock.nam",
+        "bytes": 296180,
+        "sha256": "52ea676ebdbd7d185874d470b771d7ea0744e7b25e1730ab0775e66b4727a675",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_13_pair_lead_hardrock"
+    },
+    {
+      "file": "04 - Lead/Marshall 2555X Silver Jubilee/JUB2555X_19_FULL_LEAD_Jubilee.nam",
+      "sha256": "56d201cde6f6e750b510cc0c40b073cc7b92603e3b1f814a068e49beffcdc470",
+      "bytes": 297295,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_19_DIR_LEAD_Jubilee.nam",
+        "bytes": 295974,
+        "sha256": "755edca68066eac6b521ffdef09f88526fe1614992b815668606a8a16ca93800",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_19_pair_lead_jubilee"
+    },
+    {
+      "file": "04 - Lead/Marshall 2555X Silver Jubilee/JUB2555X_20_FULL_LEAD_Jubilee_OD.nam",
+      "sha256": "0cbc96328fa4782633605bbeb673b40adc87f8dbe37ccf94485efbc0dd6bde88",
+      "bytes": 295847,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_20_DIR_LEAD_Jubilee_OD.nam",
+        "bytes": 295834,
+        "sha256": "734fac2fb4982901e17d089fd34b8463285af31db8f853ebb741cb336c11c1ad",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_20_pair_lead_jubilee_od"
+    },
+    {
+      "file": "04 - Lead/Marshall 2555X Silver Jubilee/JUB2555X_21_FULL_LEAD_50W_Fusion_OD.nam",
+      "sha256": "f38bceeca5d8c50683b8f36e861246186e33e09a419460748f51e3e09b234188",
+      "bytes": 296011,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_21_DIR_LEAD_50W_Fusion_OD.nam",
+        "bytes": 296708,
+        "sha256": "86524faf3475d3b00b406e3ee0debdb2b83aeeee71c1c5f997c1bd6ec588a448",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_21_pair_lead_50w_fusion_od"
+    },
+    {
+      "file": "04 - Lead/Marshall 2555X Silver Jubilee/JUB2555X_22_FULL_LEAD_50W_SingingVocal.nam",
+      "sha256": "9d5b0e45058e8522e43e89c51687eb3b8e3bbb4dd6392af4560eddb60f5dc3e9",
+      "bytes": 297017,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_22_DIR_LEAD_50W_SingingVocal.nam",
+        "bytes": 296846,
+        "sha256": "a6496ce451065f2f852b493dfd5510851e69ef12a2565255c47ffcea7c5c4cd2",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_22_pair_lead_50w_singingvocal"
+    },
+    {
+      "file": "04 - Lead/Marshall 2555X Silver Jubilee/JUB2555X_23_FULL_LEAD_50W_LiquidSolo.nam",
+      "sha256": "7145db59efa55c50556bc7c92b7f97504042fcbe8f593d64c82718331252eb1d",
+      "bytes": 295919,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_23_DIR_LEAD_50W_LiquidSolo.nam",
+        "bytes": 296686,
+        "sha256": "be46999245a89838222abe81c67dbd17661294e0620f7b36bd796859c5370630",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_23_pair_lead_50w_liquidsolo"
+    },
+    {
+      "file": "04 - Lead/Marshall 2555X Silver Jubilee/JUB2555X_24_FULL_LEAD_Shred_TS.nam",
+      "sha256": "6969f8a823e22d233d03ffc735e7c8dac828f940683a4062d1dfba65d8ea1c0d",
+      "bytes": 295989,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_24_DIR_LEAD_Shred_TS.nam",
+        "bytes": 295944,
+        "sha256": "f6d7154f11533de90ec3b8d78d183e20897850ac24da8bd372739947ef654dbc",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_24_pair_lead_shred_ts"
+    },
+    {
+      "file": "05 - High Gain/Marshall 2555X Silver Jubilee/JUB2555X_14_FULL_LEAD_ModernTight.nam",
+      "sha256": "3ea2bf0870b9d138563c5ec0f7c3ad06733ab0792f26ecdef3e14984bc1d04f1",
+      "bytes": 296798,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_14_DIR_LEAD_ModernTight.nam",
+        "bytes": 296085,
+        "sha256": "da5bd1b9288e0cbcc524c60c388e55ed2176f907519754db9cfef6bb00914a83",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_14_pair_lead_moderntight"
+    },
+    {
+      "file": "05 - High Gain/Marshall 2555X Silver Jubilee/JUB2555X_15_FULL_LEAD_DiodeHeavy.nam",
+      "sha256": "aa1851ce8b14ed9e5f4b1b00028e4789b41eefb2760c216384c4fc165fad144e",
+      "bytes": 296192,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_15_DIR_LEAD_DiodeHeavy.nam",
+        "bytes": 296315,
+        "sha256": "22f4ed40039c1010fef2a8790b72ffce4dc874d982eee65a485192a961c46ad8",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_15_pair_lead_diodeheavy"
+    },
+    {
+      "file": "05 - High Gain/Marshall 2555X Silver Jubilee/JUB2555X_16_FULL_LEAD_ModernHeavy_TS.nam",
+      "sha256": "e9d98d090a17c8cf885463528901670b9441466f5d89b73a1303393bd3fca53f",
+      "bytes": 295996,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_16_DIR_LEAD_ModernHeavy_TS.nam",
+        "bytes": 295973,
+        "sha256": "8615afb532458cbb96134b469607a62df109fc6f636e0d4a4c7fc2bf2eaf43cd",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_16_pair_lead_modernheavy_ts"
+    },
+    {
+      "file": "05 - High Gain/Marshall 2555X Silver Jubilee/JUB2555X_17_FULL_LEAD_MidScoop_TS.nam",
+      "sha256": "5fdc1608f5198f9a0a216811da1b0672781714570669eb4580d2fff50e5b7f3a",
+      "bytes": 296103,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_17_DIR_LEAD_MidScoop_TS.nam",
+        "bytes": 295648,
+        "sha256": "4b4fe8731a38b3e1787bafc62d883dc3e448294e9723753db23d161f45abc19c",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_17_pair_lead_midscoop_ts"
+    },
+    {
+      "file": "05 - High Gain/Marshall 2555X Silver Jubilee/JUB2555X_18_FULL_LEAD_BayArea_TS.nam",
+      "sha256": "9d33a2600d4af943db1627bcd1b7f2e774e72ffe38438e8e7ebddd03bdd35de1",
+      "bytes": 296051,
+      "head": {
+        "path": "04 - Lead/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_18_DIR_LEAD_BayArea_TS.nam",
+        "bytes": 296451,
+        "sha256": "394e787042acbaa127c4a0dc75ea6a05ceb7f20eff9ce82632a5bd955539c445",
+        "url": "https://www.tone3000.com/tones/marshall-2555x-silver-jubilee-reissue-head-100178"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/99311/2551AV_SM57_Blend_Short.wav",
+        "sha256": "e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748",
+        "locked": false
+      },
+      "model": "Marshall 2555X Silver Jubilee",
+      "matchKey": "jub2555x_18_pair_lead_bayarea_ts"
+    },
+    {
+      "file": "01 - Clean/Fender SuperReverb/FR Super Reverb Nrm V-4 T-5 B-4 P10R SM57a.nam",
+      "sha256": "7e08dd72c98f497812939cdd0f85829b65a882d6e37a56390459921023b6c22d",
+      "bytes": 295246,
+      "head": {
+        "path": "01 - Clean/Fender Super Reverb 1965 - Normal - Head Only/BFSR Nrm V-4 T-5 B-4 SRL 6dB.nam",
+        "bytes": 296172,
+        "sha256": "68d235caf4da51ca2189d8aa1605183ba6175f6072bb2991d9c3ddfeab7ed446",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-normal-channel-68651"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('nrm', ('v-4', 't-5', 'b-4'), False)"
+    },
+    {
+      "file": "01 - Clean/Fender SuperReverb/FR Super Reverb Nrm V-4 T-6 B-4 P10R SM57a.nam",
+      "sha256": "5a02a88610d929594176d5da1c279819c5ada912ab29a7b3342c96894bf7fa15",
+      "bytes": 294581,
+      "head": {
+        "path": "01 - Clean/Fender Super Reverb 1965 - Normal - Head Only/BFSR Nrm V-4 T-6 B-4 SRL 6dB.nam",
+        "bytes": 295706,
+        "sha256": "4983ea1c18fd581a75dab0434f988457e150457ba366362719a3d840a78ed3d2",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-normal-channel-68651"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('nrm', ('v-4', 't-6', 'b-4'), False)"
+    },
+    {
+      "file": "01 - Clean/Fender SuperReverb/FR Super Reverb Vib V-4 T-4 M-4 B-4 P10R SM57a.nam",
+      "sha256": "587f4bf32c422f81e063c50cbbcf611999936328e01c51f7e02d4106c996abe7",
+      "bytes": 296726,
+      "head": {
+        "path": "01 - Clean/Fender Super Reverb 1965 - Vibrato - Head Only/BFSR Vib V-4 T-4 M-4 B-4 SRL 6dB.nam",
+        "bytes": 297565,
+        "sha256": "a6a7ae3f6764f9a81d41fec7e6304a6c4adf68e9b8d7a6c66cb951dae2c01b84",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-vibrato-channel-61701"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('vib', ('v-4', 't-4', 'm-4', 'b-4'), False)"
+    },
+    {
+      "file": "01 - Clean/Fender SuperReverb/FR Super Reverb Vib V-4 T-4 M-5 B-4 P10R SM57a.nam",
+      "sha256": "dfc0470cf5b4b77c1a875aab9c52544ea775dffc838d0cb9ee0be0ed0beb8203",
+      "bytes": 295736,
+      "head": {
+        "path": "01 - Clean/Fender Super Reverb 1965 - Vibrato - Head Only/BFSR Vib V-4 T-4 M-5 B-4 SRL 6dB.nam",
+        "bytes": 297777,
+        "sha256": "a754139a14d6e0a80db45b026b0daacbe68eb5a89ed87e0e7e874453bfc13668",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-vibrato-channel-61701"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('vib', ('v-4', 't-4', 'm-5', 'b-4'), False)"
+    },
+    {
+      "file": "01 - Clean/Fender SuperReverb/FR Super Reverb Vib V-4 T-5 M-4 B-4 P10R SM57a.nam",
+      "sha256": "ccacfaf87355f6c129b84edfc606f88a52fe7ff636110fdf3ef5fa5ed4980a76",
+      "bytes": 295050,
+      "head": {
+        "path": "01 - Clean/Fender Super Reverb 1965 - Vibrato - Head Only/BFSR Vib V-4 T-5 M-4 B-4 SRL 6dB.nam",
+        "bytes": 296720,
+        "sha256": "1b5ca7b93dde7ad07863849a0a49916575a590be0ac323dfb6bde1a0d783bd4d",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-vibrato-channel-61701"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('vib', ('v-4', 't-5', 'm-4', 'b-4'), False)"
+    },
+    {
+      "file": "01 - Clean/Fender SuperReverb/FR Super Reverb Vib V-4 T-5 M-5 B-4 P10R SM57a.nam",
+      "sha256": "3fc45071fbda4e22219170d3145970d6f963b85ff3f2ca288b166dd4b9c19edb",
+      "bytes": 295594,
+      "head": {
+        "path": "01 - Clean/Fender Super Reverb 1965 - Vibrato - Head Only/BFSR Vib V-4 T-5 M-5 B-4 SRL 6dB.nam",
+        "bytes": 296575,
+        "sha256": "228cda3cb3420454f84dec16450608c7c63630f2cdae4d2185a2e2b88551f0a4",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-vibrato-channel-61701"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('vib', ('v-4', 't-5', 'm-5', 'b-4'), False)"
+    },
+    {
+      "file": "02 - Edge/Fender SuperReverb/FR Super Reverb Nrm V-7 T-8 B-3 P10R SM57a.nam",
+      "sha256": "823ade0cf50b009a291624d2e4a2c1e9450560e4173f0d119e115a66665ae621",
+      "bytes": 294441,
+      "head": {
+        "path": "03 - Crunch/Fender Super Reverb 1965 - Normal - Head Only/BFSR Nrm V-7 T-8 B-3 SRL.nam",
+        "bytes": 294569,
+        "sha256": "f57e288daac669a299e7bb2ee84b49cbc6a178025c01bacc114d8336d35937f6",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-normal-channel-68651"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('nrm', ('v-7', 't-8', 'b-3'), False)"
+    },
+    {
+      "file": "02 - Edge/Fender SuperReverb/FR Super Reverb Nrm V-7 T-8 B-3 P10R SM57b.nam",
+      "sha256": "b28da4dbdb92b06261f9291e1bb68357dbc46165dbe1b57597561a95f1e3725d",
+      "bytes": 294290,
+      "head": {
+        "path": "03 - Crunch/Fender Super Reverb 1965 - Normal - Head Only/BFSR Nrm V-7 T-8 B-3 SRL.nam",
+        "bytes": 294569,
+        "sha256": "f57e288daac669a299e7bb2ee84b49cbc6a178025c01bacc114d8336d35937f6",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-normal-channel-68651"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('nrm', ('v-7', 't-8', 'b-3'), False)"
+    },
+    {
+      "file": "02 - Edge/Fender SuperReverb/FR Super Reverb Vib V-7 T-5 M-10 B-1 P10R SM57b.nam",
+      "sha256": "f14d5b04191cbbed918da238e31419632b2489a584494225451056ddc3a84baa",
+      "bytes": 294390,
+      "head": {
+        "path": "03 - Crunch/Fender Super Reverb 1965 - Vibrato - Head Only/BFSR Vib V-7 T-5 M-10 B-1 SRL.nam",
+        "bytes": 294752,
+        "sha256": "4c407cbf885090e0a7b44e1c9f1c481f0d24ea03f6457178edfca3577321fcea",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-vibrato-channel-61701"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('vib', ('v-7', 't-5', 'm-10', 'b-1'), False)"
+    },
+    {
+      "file": "02 - Edge/Fender SuperReverb/FR Super Reverb Vib V-7 T-6 M-8 B-3 P10R SM57a.nam",
+      "sha256": "6241341e6624ae1fb52abc277c73ffcbcbbe15eaad2b1eb3c4f9e43017c526d2",
+      "bytes": 294515,
+      "head": {
+        "path": "03 - Crunch/Fender Super Reverb 1965 - Vibrato - Head Only/BFSR Vib V-7 T-6 M-8 B-3 SRL.nam",
+        "bytes": 294811,
+        "sha256": "ccee4ec1a7f85851fccd7c09d166eae0d447c7a9155e365e0e00876649096816",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-vibrato-channel-61701"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('vib', ('v-7', 't-6', 'm-8', 'b-3'), False)"
+    },
+    {
+      "file": "02 - Edge/Fender SuperReverb/FR Super Reverb Vib V-7 T-6 M-8 B-3 P10R SM57b.nam",
+      "sha256": "6078b962c3b92571ee88e2860098f73a6480c778af894d4518cf9374ad9bced5",
+      "bytes": 294527,
+      "head": {
+        "path": "03 - Crunch/Fender Super Reverb 1965 - Vibrato - Head Only/BFSR Vib V-7 T-6 M-8 B-3 SRL.nam",
+        "bytes": 294811,
+        "sha256": "ccee4ec1a7f85851fccd7c09d166eae0d447c7a9155e365e0e00876649096816",
+        "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-vibrato-channel-61701"
+      },
+      "cabinet": {
+        "file": "Factory/4x10/P10R UR 4x10 SM57 2.50in 0.0in.wav",
+        "sha256": "63e0cb97ca29793158309cc0735f88f009c8791184576d554794ebfbdea6b742",
+        "locked": false
+      },
+      "model": "Fender Super Reverb",
+      "matchKey": "('vib', ('v-7', 't-6', 'm-8', 'b-3'), False)"
+    },
+    {
+      "file": "01 - Clean/Supro Black Magick/FR Supro 1695TJ In1-2 V1-5 V2-0 T-5 P12Q M201a.nam",
+      "sha256": "059a296bffecfd6a36a10ba10eea2fb656c2d2e4eda727eb4a3dd0a9b9a34c08",
+      "bytes": 295048,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-5 V2-0 T-5 P12Q.nam",
+        "bytes": 295816,
+        "sha256": "1dd014676c36a9dabd5d3a546e364a53368b7fe3a3d824874d1cbd0735298a29",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-5', 'v2-0', 't-5'), 'p12q')"
+    },
+    {
+      "file": "01 - Clean/Supro Black Magick/FR Supro 1695TJ In1-2 V1-5 V2-0 T-5 P12Q M201b.nam",
+      "sha256": "bceb65b453ae53d579b9507f74fd73a2f32a82687221eebd20464bb3eb16db80",
+      "bytes": 294974,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-5 V2-0 T-5 P12Q.nam",
+        "bytes": 295816,
+        "sha256": "1dd014676c36a9dabd5d3a546e364a53368b7fe3a3d824874d1cbd0735298a29",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-5', 'v2-0', 't-5'), 'p12q')"
+    },
+    {
+      "file": "01 - Clean/Supro Black Magick/FR Supro 1695TJ In1-2 V1-5 V2-0 T-7 P12Q M201a.nam",
+      "sha256": "9c5cbbb6d49f2fb3d94414ed972342f77de2f59bc36cedd960c6eba87c3c61c3",
+      "bytes": 294985,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-5 V2-0 T-7 P12Q.nam",
+        "bytes": 296311,
+        "sha256": "a60fc2301646848c6bf9960d30f27ff9f1fd59edc0b397ea710332d025bd84c7",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-5', 'v2-0', 't-7'), 'p12q')"
+    },
+    {
+      "file": "01 - Clean/Supro Black Magick/FR Supro 1695TJ In1-2 V1-5 V2-0 T-7 P12Q M201b.nam",
+      "sha256": "3d382201c9b7928aa7e722abe04c9b80d0ff27cec0d4bfc9e33957b5f43e95e3",
+      "bytes": 294498,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-5 V2-0 T-7 P12Q.nam",
+        "bytes": 296311,
+        "sha256": "a60fc2301646848c6bf9960d30f27ff9f1fd59edc0b397ea710332d025bd84c7",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-5', 'v2-0', 't-7'), 'p12q')"
+    },
+    {
+      "file": "01 - Clean/Supro Black Magick/FR Supro 1695TJ In2 V2-5 T-5 P12Q M201a.nam",
+      "sha256": "fc2b2c2023fc21ee156d2aafdb9bb4a079c2e22570c3b4ce2efcc185cdb84263",
+      "bytes": 294876,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-5 T-5 P12Q.nam",
+        "bytes": 295761,
+        "sha256": "e5f72abb62f08e9da7bc45a681715cbdf91abe145c718bacc1669209b87f3e5c",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-5', 't-5'), 'p12q')"
+    },
+    {
+      "file": "01 - Clean/Supro Black Magick/FR Supro 1695TJ In2 V2-5 T-5 P12Q M201b.nam",
+      "sha256": "d6798e923e385c042974d40ee8a115817b5cb7aa8cfd1a3fd7c1b65fc1ca4f61",
+      "bytes": 294833,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-5 T-5 P12Q.nam",
+        "bytes": 295761,
+        "sha256": "e5f72abb62f08e9da7bc45a681715cbdf91abe145c718bacc1669209b87f3e5c",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-5', 't-5'), 'p12q')"
+    },
+    {
+      "file": "01 - Clean/Supro Black Magick/FR Supro 1695TJ In2 V2-5 T-7 P12Q M201a.nam",
+      "sha256": "c3831edf542063e48ec946a00fe985c03544771a29e85d9ce57a54d72d3c21df",
+      "bytes": 295107,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-5 T-7 P12Q.nam",
+        "bytes": 296219,
+        "sha256": "23bc4ffadf21fe74cf53fef0ddb692d361c735f4412c16a6e25622fcb4429aac",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-5', 't-7'), 'p12q')"
+    },
+    {
+      "file": "01 - Clean/Supro Black Magick/FR Supro 1695TJ In2 V2-5 T-7 P12Q M201b.nam",
+      "sha256": "09bfe7b2dc5888803cf692d7fa6815679c96cf6342adae8442e514f8a87ba0ee",
+      "bytes": 294690,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-5 T-7 P12Q.nam",
+        "bytes": 296219,
+        "sha256": "23bc4ffadf21fe74cf53fef0ddb692d361c735f4412c16a6e25622fcb4429aac",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-5', 't-7'), 'p12q')"
+    },
+    {
+      "file": "01 - Clean/Supro Black Magick/FR Supro 1695TJ In2 V2-5 T-8 P12Q M201a.nam",
+      "sha256": "538253897e1802550fab71fdd5ce02d000480e415ca4d49add484e051bdf92e7",
+      "bytes": 295577,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-5 T-8 P12Q.nam",
+        "bytes": 296409,
+        "sha256": "f2d3af49cfd7ca27e480d62eac8b3d6f9a2abad6ccc5bdb1604fbfea9447256e",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-5', 't-8'), 'p12q')"
+    },
+    {
+      "file": "01 - Clean/Supro Black Magick/FR Supro 1695TJ In2 V2-5 T-8 P12Q M201b.nam",
+      "sha256": "ad573d71b96c342825d92396d71850e0d46c4d16d80339b453a06d10b845e52c",
+      "bytes": 294935,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-5 T-8 P12Q.nam",
+        "bytes": 296409,
+        "sha256": "f2d3af49cfd7ca27e480d62eac8b3d6f9a2abad6ccc5bdb1604fbfea9447256e",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-5', 't-8'), 'p12q')"
+    },
+    {
+      "file": "02 - Edge/Supro Black Magick/FR Supro 1695TJ In1-2 V1-7 V2-0 T-5 P12Q M201a.nam",
+      "sha256": "1f621cedba576ddd9b0a352815649f71448df1f3184412259cf98b49a388f47b",
+      "bytes": 295321,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-7 V2-0 T-5 P12Q.nam",
+        "bytes": 295910,
+        "sha256": "1914f5988f5b719947a73bc9848e69d9ecfae10776096313262d9eb1f244a917",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-7', 'v2-0', 't-5'), 'p12q')"
+    },
+    {
+      "file": "02 - Edge/Supro Black Magick/FR Supro 1695TJ In1-2 V1-7 V2-0 T-5 P12Q M201b.nam",
+      "sha256": "7b912e18c72d0459e0c5c70095b876f37413d6b3dfc90c8e1bf1dbdfc436afc2",
+      "bytes": 295089,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-7 V2-0 T-5 P12Q.nam",
+        "bytes": 295910,
+        "sha256": "1914f5988f5b719947a73bc9848e69d9ecfae10776096313262d9eb1f244a917",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-7', 'v2-0', 't-5'), 'p12q')"
+    },
+    {
+      "file": "02 - Edge/Supro Black Magick/FR Supro 1695TJ In1-2 V1-7 V2-0 T-7 P12Q M201a.nam",
+      "sha256": "ae742197b39ee46bcaccc94454dcc378be1309b4b7d5d2b9715e5389d77676e9",
+      "bytes": 294920,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-7 V2-0 T-7 P12Q.nam",
+        "bytes": 296350,
+        "sha256": "6c6f5183d8b8a3bd8d17689d3615401d54d898eebad8b7c4f9b397913e067e91",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-7', 'v2-0', 't-7'), 'p12q')"
+    },
+    {
+      "file": "02 - Edge/Supro Black Magick/FR Supro 1695TJ In1-2 V1-7 V2-0 T-7 P12Q M201b.nam",
+      "sha256": "d9deceb872feca35d44eb0f730635e713f204012ed32ada267b5129bee191f9b",
+      "bytes": 294731,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-7 V2-0 T-7 P12Q.nam",
+        "bytes": 296350,
+        "sha256": "6c6f5183d8b8a3bd8d17689d3615401d54d898eebad8b7c4f9b397913e067e91",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-7', 'v2-0', 't-7'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-0 T-10 P12Q M201a.nam",
+      "sha256": "e4dbebc599539a536acfe30a7a20b686c9de06b298cd912b50ad91dd7b1cf6c4",
+      "bytes": 295619,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-0 T-10 P12Q.nam",
+        "bytes": 296490,
+        "sha256": "0427d302af63b0ced0808815bf784b8f06e2b665a927c938594d397484e2d45c",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-0', 't-10'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-0 T-10 P12Q M201b.nam",
+      "sha256": "1cbae5d3f2633f760a92c15978f1caa1f49dcf2904f2a9e102c1e9babfb09d6a",
+      "bytes": 295671,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-0 T-10 P12Q.nam",
+        "bytes": 296490,
+        "sha256": "0427d302af63b0ced0808815bf784b8f06e2b665a927c938594d397484e2d45c",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-0', 't-10'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-0 T-5 P12Q M201a.nam",
+      "sha256": "609aeffd248f4d415fb5b861646e9c14395f73383cb5577f4d44dc96fec95fbc",
+      "bytes": 294510,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-0 T-5 P12Q.nam",
+        "bytes": 295831,
+        "sha256": "911332633809a3c7c5102bdf6bd5ff3636d0f0bc802b3268017b848fc70c3093",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-0', 't-5'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-0 T-5 P12Q M201b.nam",
+      "sha256": "fdeb999c6fcc11bea3ff150fae06b46b1ceb5437c4b9e4f378a0d1c88809e26b",
+      "bytes": 294598,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-0 T-5 P12Q.nam",
+        "bytes": 295831,
+        "sha256": "911332633809a3c7c5102bdf6bd5ff3636d0f0bc802b3268017b848fc70c3093",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-0', 't-5'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-0 T-7 P12Q M201a.nam",
+      "sha256": "50dc93c46e982872a07fd577f8033f6e9539690e091c661314241398fe1e94b1",
+      "bytes": 294802,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-0 T-7 P12Q.nam",
+        "bytes": 296086,
+        "sha256": "93a50a3308d87e0a010b0e2a6cf1fbddbf858b10d43002164ade00a333830bb1",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-0', 't-7'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-0 T-7 P12Q M201b.nam",
+      "sha256": "77cb2a2718571c43f2728c6bbd87ddd029d17ab391974e942552158f677eb3db",
+      "bytes": 294638,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-0 T-7 P12Q.nam",
+        "bytes": 296086,
+        "sha256": "93a50a3308d87e0a010b0e2a6cf1fbddbf858b10d43002164ade00a333830bb1",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-0', 't-7'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-0 T-8 P12Q M201a.nam",
+      "sha256": "5842b0d28f5f559adf7818811f10d09b03736b02ea16407e585719dbdb691873",
+      "bytes": 295350,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-0 T-8 P12Q.nam",
+        "bytes": 296642,
+        "sha256": "e34c6e5ad416ca9f2da9e6fdc3e3e3fe04e724d506f35d065df2ac1f31fe9c4f",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-0', 't-8'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-0 T-8 P12Q M201b.nam",
+      "sha256": "a9c82680029f4535d3720a4db684e43e72074cabc712cb6be7e8c563db37feae",
+      "bytes": 295400,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-0 T-8 P12Q.nam",
+        "bytes": 296642,
+        "sha256": "e34c6e5ad416ca9f2da9e6fdc3e3e3fe04e724d506f35d065df2ac1f31fe9c4f",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-0', 't-8'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-8 V2-0 T-5 P12Q M201a.nam",
+      "sha256": "fdfa2eb5d980907f1de862350cee7ba73c03c615feb4a0fd1718f0a8955e6e54",
+      "bytes": 295111,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-8 V2-0 T-5 P12Q.nam",
+        "bytes": 296179,
+        "sha256": "592d659d38db41f147c8740588cd2a8c502cfbaee57e9f64714369768827f1f4",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-8', 'v2-0', 't-5'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-8 V2-0 T-5 P12Q M201b.nam",
+      "sha256": "f77102f4e53d2e377f72f8644d2e916671013fe7eff5eb609336a58b7832400e",
+      "bytes": 294806,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-8 V2-0 T-5 P12Q.nam",
+        "bytes": 296179,
+        "sha256": "592d659d38db41f147c8740588cd2a8c502cfbaee57e9f64714369768827f1f4",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-8', 'v2-0', 't-5'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-8 V2-0 T-7 P12Q M201a.nam",
+      "sha256": "7268314e39592b61fbba4a1cc4ed3758d9aa58fc92eae54b826bfc5fdefdb183",
+      "bytes": 294812,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-8 V2-0 T-7 P12Q.nam",
+        "bytes": 295968,
+        "sha256": "c112162c671de20bcb2c6820b6fde02ac232cf1645c43426eefdafe36748a239",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-8', 'v2-0', 't-7'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-8 V2-0 T-7 P12Q M201b.nam",
+      "sha256": "bc32385d182320d58a203e089e05640187d4cc43b6bd8230d8a7ed9f8cf2e5c6",
+      "bytes": 295150,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-8 V2-0 T-7 P12Q.nam",
+        "bytes": 295968,
+        "sha256": "c112162c671de20bcb2c6820b6fde02ac232cf1645c43426eefdafe36748a239",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-8', 'v2-0', 't-7'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-8 V2-0 T-8 P12Q M201a.nam",
+      "sha256": "0f34925a4cd803a690aa25f50bc08c97c95b8cc5bdedee2d5bc6253032c5d160",
+      "bytes": 294711,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-8 V2-0 T-8 P12Q.nam",
+        "bytes": 296753,
+        "sha256": "10e2bd9426b9959a51b7773c0be53badd4df55f3410dd1d24b162e259816824c",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-8', 'v2-0', 't-8'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In1-2 V1-8 V2-0 T-8 P12Q M201b.nam",
+      "sha256": "3ccb1339b8ce9935a7c34788cca33a5c3bc613f97648406896b387f34f1a5bfe",
+      "bytes": 294834,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-8 V2-0 T-8 P12Q.nam",
+        "bytes": 296753,
+        "sha256": "10e2bd9426b9959a51b7773c0be53badd4df55f3410dd1d24b162e259816824c",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-8', 'v2-0', 't-8'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-10 T-3 P12Q M201a.nam",
+      "sha256": "73f727d7a43cf6d77b29c41c7fa124a7e31691178efc9b88434dbf4a5d4e51a0",
+      "bytes": 294704,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-10 T-3 P12Q.nam",
+        "bytes": 295865,
+        "sha256": "7cc035d1964e15e3b380a2ca901c039af889d76a8bb2f1b17d8abf6ddb2d24fb",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-10', 't-3'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-10 T-3 P12Q M201b.nam",
+      "sha256": "d2a3884252231f2a864552925fe86b547420ecc1dfd09d0ad24131e46ab40fdc",
+      "bytes": 294587,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-10 T-3 P12Q.nam",
+        "bytes": 295865,
+        "sha256": "7cc035d1964e15e3b380a2ca901c039af889d76a8bb2f1b17d8abf6ddb2d24fb",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-10', 't-3'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-10 T-5 P12Q M201a.nam",
+      "sha256": "881180029a9228226222039c8d33a73e7280a837079d0ee45226e83668184b65",
+      "bytes": 294439,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-10 T-5 P12Q.nam",
+        "bytes": 295511,
+        "sha256": "53ae15c05d840f144ae77bf37b53db21fb94727dbd476029f234806a2f7f3c74",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-10', 't-5'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-10 T-5 P12Q M201b.nam",
+      "sha256": "e47df3f866ff253d2a5e093d8a0f7e93732bcc697ff1f1e1a4ace8cc7bceb74e",
+      "bytes": 294947,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-10 T-5 P12Q.nam",
+        "bytes": 295511,
+        "sha256": "53ae15c05d840f144ae77bf37b53db21fb94727dbd476029f234806a2f7f3c74",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-10', 't-5'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-10 T-7 P12Q M201a.nam",
+      "sha256": "c5934cd9856da4f67ae16c2e6061bb9a11c8c1af352d59faae1f60b6c57fc151",
+      "bytes": 294660,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-10 T-7 P12Q.nam",
+        "bytes": 296117,
+        "sha256": "f9b2c110f0365817e7158d74cd9a2d07f5ce2af94d52a5745d1eadcb6664507a",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-10', 't-7'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-10 T-7 P12Q M201b.nam",
+      "sha256": "c976fa5e7de9d5d1b10dfb408cafae2fca3b967eb5ee410814cf1fcff3bcdeb9",
+      "bytes": 294415,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-10 T-7 P12Q.nam",
+        "bytes": 296117,
+        "sha256": "f9b2c110f0365817e7158d74cd9a2d07f5ce2af94d52a5745d1eadcb6664507a",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-10', 't-7'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-10 T-8 P12Q M201a.nam",
+      "sha256": "31ff3e332bbd4a8deffb2651ba68266e7f341ca011658b9ecf2f61e804a568af",
+      "bytes": 295426,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-10 T-8 P12Q.nam",
+        "bytes": 296632,
+        "sha256": "7d2a6ba6478d8b400e9144e6ec6fe2963cace9319fb2e494c6f22dcb44a0f97c",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-10', 't-8'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-10 T-8 P12Q M201b.nam",
+      "sha256": "642661cbae6b44152f12268855f3da210ea14509def5797ac1aad15e424dd6fb",
+      "bytes": 295049,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-10 T-8 P12Q.nam",
+        "bytes": 296632,
+        "sha256": "7d2a6ba6478d8b400e9144e6ec6fe2963cace9319fb2e494c6f22dcb44a0f97c",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-10', 't-8'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-8 T-5 P12Q M201a.nam",
+      "sha256": "e7731d6be36b69220c6da9e48d8dade439a0905cc3b5f18f391509f8be83c5cc",
+      "bytes": 294735,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-8 T-5 P12Q.nam",
+        "bytes": 295876,
+        "sha256": "d0ae66cde151aa9a27f4fc311d2aefabdde2cddd4912a9cc1ed2ad8be3484e31",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-8', 't-5'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-8 T-5 P12Q M201b.nam",
+      "sha256": "d50c24aab41673020df1feb75e116fe5dbf1c7f0874b29562a5aa3530941bf18",
+      "bytes": 294603,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-8 T-5 P12Q.nam",
+        "bytes": 295876,
+        "sha256": "d0ae66cde151aa9a27f4fc311d2aefabdde2cddd4912a9cc1ed2ad8be3484e31",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-8', 't-5'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-8 T-7 P12Q M201a.nam",
+      "sha256": "a63928fd383d70d8336d6808ffc2e7810746c61a67347d2789a12190ed148bba",
+      "bytes": 294612,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-8 T-7 P12Q.nam",
+        "bytes": 296460,
+        "sha256": "faa0fdc71aaad8caa966ac25a5dbcf4160a48d2d83797e3ad18afbcca03ed7c7",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-8', 't-7'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-8 T-7 P12Q M201b.nam",
+      "sha256": "a4102ec39f7bf0608c416c84c1e17250296087db09074099a0cea0f021508508",
+      "bytes": 294630,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-8 T-7 P12Q.nam",
+        "bytes": 296460,
+        "sha256": "faa0fdc71aaad8caa966ac25a5dbcf4160a48d2d83797e3ad18afbcca03ed7c7",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-8', 't-7'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-8 T-8 P12Q M201a.nam",
+      "sha256": "9952921ed7774747d8b4391d385fc2bd9a131ad815d3bab428f081f010b65660",
+      "bytes": 295200,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-8 T-8 P12Q.nam",
+        "bytes": 296243,
+        "sha256": "14f58f47fa646e45921fbd5e1b1ffeb21f152ec83f011fb86541f44c28dc75fc",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-8', 't-8'), 'p12q')"
+    },
+    {
+      "file": "03 - Crunch/Supro Black Magick/FR Supro 1695TJ In2 V2-8 T-8 P12Q M201b.nam",
+      "sha256": "9be747ee81ef060eff16700f15f18b2e58896b2b7c319ef524fa7e55a685bb5b",
+      "bytes": 294967,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In2 V2-8 T-8 P12Q.nam",
+        "bytes": 296243,
+        "sha256": "14f58f47fa646e45921fbd5e1b1ffeb21f152ec83f011fb86541f44c28dc75fc",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in2', ('v2-8', 't-8'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-10 T-10 P12Q M201a.nam",
+      "sha256": "7d702b5776c8c60b124cb0cb6f518501c8bc3e151faee3275332f3dd3881b5ca",
+      "bytes": 295591,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-10 T-10 P12Q.nam",
+        "bytes": 296383,
+        "sha256": "09ff4a3176dc4bc5d964a9520fa19f97de74e794f17a24dfa3e2682552d395c8",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-10', 't-10'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-10 T-10 P12Q M201b.nam",
+      "sha256": "c55918a4415e7fa02d3fbb678fce3bd3448ad90141e732a39e64624e53260293",
+      "bytes": 295079,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-10 T-10 P12Q.nam",
+        "bytes": 296383,
+        "sha256": "09ff4a3176dc4bc5d964a9520fa19f97de74e794f17a24dfa3e2682552d395c8",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-10', 't-10'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-10 T-5 P12Q M201a.nam",
+      "sha256": "de2cbcdf42c4600e0cb0e571b7611a595998c501d6714abb8ddc3ba91c5574e3",
+      "bytes": 294459,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-10 T-5 P12Q.nam",
+        "bytes": 295916,
+        "sha256": "0feb6094507b09c8a260bc0b9408af696afedfefc7bcec1e602f02547d96d496",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-10', 't-5'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-10 T-5 P12Q M201b.nam",
+      "sha256": "4ea5803dcb07c5361d682f571fdd136db26f2f33d39d210dab0a01b1e529a566",
+      "bytes": 294481,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-10 T-5 P12Q.nam",
+        "bytes": 295916,
+        "sha256": "0feb6094507b09c8a260bc0b9408af696afedfefc7bcec1e602f02547d96d496",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-10', 't-5'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-10 T-7 P12Q M201a.nam",
+      "sha256": "2faab17b12df228f9d5b1d2e78cf7d6c5c26ec790a6526de2b54e8669ef51a61",
+      "bytes": 295115,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-10 T-7 P12Q.nam",
+        "bytes": 295758,
+        "sha256": "e99e4957d8ae2e945b9ed91e1b7dc4617fabb9e9acd8a4fa6bbbeb6bbcb89219",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-10', 't-7'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-10 T-7 P12Q M201b.nam",
+      "sha256": "f58dfd599bc863bcac1ab518ad2754b935ba351bf0e54096391d17ffe447fd26",
+      "bytes": 294606,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-10 T-7 P12Q.nam",
+        "bytes": 295758,
+        "sha256": "e99e4957d8ae2e945b9ed91e1b7dc4617fabb9e9acd8a4fa6bbbeb6bbcb89219",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-10', 't-7'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-10 T-8 P12Q M201a.nam",
+      "sha256": "d34785aa78232d953b2f589877a36a12a0765d9056608f2d5b7ab9a0436189f7",
+      "bytes": 294718,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-10 T-8 P12Q.nam",
+        "bytes": 296246,
+        "sha256": "fda78207ac04d4ee815c11fb9df2beabae662013c6abadf2d57b86d29e2695ec",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-10', 't-8'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-10 T-8 P12Q M201b.nam",
+      "sha256": "a839a60e82a921c0d3aa11edb6cdef909f73978283c08c7b95716d5ee60e9254",
+      "bytes": 294805,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-10 T-8 P12Q.nam",
+        "bytes": 296246,
+        "sha256": "fda78207ac04d4ee815c11fb9df2beabae662013c6abadf2d57b86d29e2695ec",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-10', 't-8'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-5 T-10 P12Q M201a.nam",
+      "sha256": "4f02618edc6464b1150cb4b74ebe168693393dfec8415c11b6ecf028bb45823d",
+      "bytes": 295420,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-5 T-10 P12Q.nam",
+        "bytes": 296869,
+        "sha256": "c5cbfcdff7da2ea1cea7c0aad636ce8d0f10090f628b26fda38428d110bdae92",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-5', 't-10'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-5 T-10 P12Q M201b.nam",
+      "sha256": "901087a471aed4a39fc3140c01516dac87adb85554ddd84fd9a17b56e6dd5810",
+      "bytes": 295283,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-5 T-10 P12Q.nam",
+        "bytes": 296869,
+        "sha256": "c5cbfcdff7da2ea1cea7c0aad636ce8d0f10090f628b26fda38428d110bdae92",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-5', 't-10'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-5 T-5 P12Q M201a.nam",
+      "sha256": "4dca386d962bfc02dfdbb1b57b6213cb5e167f560fd913868415ca7d5b0eb382",
+      "bytes": 294455,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-5 T-5 P12Q.nam",
+        "bytes": 295505,
+        "sha256": "20ee0b1c1b259950c6774ad7d8f987a0ee18e242e99701431005035a8294bf49",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-5', 't-5'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-5 T-5 P12Q M201b.nam",
+      "sha256": "7627a088b464b23a9fa7ff0196a66291528b8ba6606ed583e7fdf54082c4535f",
+      "bytes": 294730,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-5 T-5 P12Q.nam",
+        "bytes": 295505,
+        "sha256": "20ee0b1c1b259950c6774ad7d8f987a0ee18e242e99701431005035a8294bf49",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-5', 't-5'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-5 T-7 P12Q M201a.nam",
+      "sha256": "d187891e6d8c055d17d430b4d7ff6cb157a394252f67457cef8ad8ecaad3c03d",
+      "bytes": 294819,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-5 T-7 P12Q.nam",
+        "bytes": 296153,
+        "sha256": "32383bc951c4778f16388ca18fa60682e6ebe1a022cfb1b8e1d332e356d18487",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-5', 't-7'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-5 T-7 P12Q M201b.nam",
+      "sha256": "6444e8fc94e5ac4c6bf84b92bfd696fd18f36485d3b5a76c125523e4d88b8783",
+      "bytes": 294941,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-5 T-7 P12Q.nam",
+        "bytes": 296153,
+        "sha256": "32383bc951c4778f16388ca18fa60682e6ebe1a022cfb1b8e1d332e356d18487",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-5', 't-7'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-5 T-8 P12Q M201a.nam",
+      "sha256": "25afb7b1426fd850d3a3eaee4e423a9021b15c8128da817ed3b7522a2bdc5fec",
+      "bytes": 294964,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-5 T-8 P12Q.nam",
+        "bytes": 296440,
+        "sha256": "afd4fd4eaa50b4a347c636440a2b95e55459856e5c522e35f49ae5edb25849d0",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-5', 't-8'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-5 T-8 P12Q M201b.nam",
+      "sha256": "294bc72fbba2d8b67757610291bd8770e3eb892e6c380d5190b8c7e8bba87a2d",
+      "bytes": 294865,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-5 T-8 P12Q.nam",
+        "bytes": 296440,
+        "sha256": "afd4fd4eaa50b4a347c636440a2b95e55459856e5c522e35f49ae5edb25849d0",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-5', 't-8'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-8 T-10 P12Q M201a.nam",
+      "sha256": "93169778464fe5a3059b6bca6abdab8ab6d92bf0e8ba8e7bbd65ff1f13fe8b31",
+      "bytes": 294837,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-8 T-10 P12Q.nam",
+        "bytes": 296200,
+        "sha256": "fa3369bf3753aed53ceb35fca4afce027bfe52149c22e3b7be863b4b3aa0dfd4",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-8', 't-10'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-8 T-10 P12Q M201b.nam",
+      "sha256": "e88f760610c41f6eace19f22d179e7a1048ce570871c656ffa77bb83c59b0c70",
+      "bytes": 295494,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-8 T-10 P12Q.nam",
+        "bytes": 296200,
+        "sha256": "fa3369bf3753aed53ceb35fca4afce027bfe52149c22e3b7be863b4b3aa0dfd4",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-8', 't-10'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-8 T-5 P12Q M201a.nam",
+      "sha256": "34a7e211a7781363e7169f2cc832453d13407fbda907ac4f91a893881788f94d",
+      "bytes": 294337,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-8 T-5 P12Q.nam",
+        "bytes": 295616,
+        "sha256": "d18766f3f69b1999e14bbe85f02eabf83ba776bb0ae731e1726688c7f9f994bb",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-8', 't-5'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-8 T-5 P12Q M201b.nam",
+      "sha256": "e2dee2e77459401d8d7914e808aec533c95e0ebefd97c555d88464a3ca271cf3",
+      "bytes": 294522,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-8 T-5 P12Q.nam",
+        "bytes": 295616,
+        "sha256": "d18766f3f69b1999e14bbe85f02eabf83ba776bb0ae731e1726688c7f9f994bb",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-8', 't-5'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-8 T-7 P12Q M201a.nam",
+      "sha256": "8b14e93a51a9763204c150a2e9cf1b2d3f13fc427f71a7852db493d581e36024",
+      "bytes": 294865,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-8 T-7 P12Q.nam",
+        "bytes": 296048,
+        "sha256": "f70b86949a2061b630aaa7c37cf6646f079e887278ab04c8df432a65fa82936f",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-8', 't-7'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-8 T-7 P12Q M201b.nam",
+      "sha256": "d884c035a227f49ea8ea19d699167548df9622a45990dbfa7c5276bb4d3e9be1",
+      "bytes": 294635,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-8 T-7 P12Q.nam",
+        "bytes": 296048,
+        "sha256": "f70b86949a2061b630aaa7c37cf6646f079e887278ab04c8df432a65fa82936f",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-8', 't-7'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-8 T-8 P12Q M201a.nam",
+      "sha256": "8fb4e86a5753a0c4ab301e77bc97166295f1eead8fddb26b6ee24b83575e0e38",
+      "bytes": 294746,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-8 T-8 P12Q.nam",
+        "bytes": 296420,
+        "sha256": "b87f00d7eca4ab9b60b2f1ff2d5726f7967ea35787ad564be79bac595bf3a96e",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-8', 't-8'), 'p12q')"
+    },
+    {
+      "file": "04 - Lead/Supro Black Magick/FR Supro 1695TJ In1-2 V1-10 V2-8 T-8 P12Q M201b.nam",
+      "sha256": "86e5212aec5bfb5782785375e078e63a0664287040ceadbed00344108bd49b20",
+      "bytes": 295024,
+      "head": {
+        "path": "05 - High Gain/Supro Black Magick - Head Only/DI Supro 1695TJ In1-2 V1-10 V2-8 T-8 P12Q.nam",
+        "bytes": 296420,
+        "sha256": "b87f00d7eca4ab9b60b2f1ff2d5726f7967ea35787ad564be79bac595bf3a96e",
+        "url": "https://www.tone3000.com/tones/supro-black-magick-amp-head-64590"
+      },
+      "cabinet": {
+        "file": "Factory/1x12/53369/P12Q 1x12 M201 3.50in 0.0in.wav",
+        "sha256": "c5efcde56254612b1cc8d9a07f7b61086905e3c43c35bad16448db7080c11bc0",
+        "locked": false
+      },
+      "model": "Supro Black Magick 1695TJ",
+      "matchKey": "('in1-2', ('v1-10', 'v2-8', 't-8'), 'p12q')"
+    },
+    {
+      "file": "01 - Clean/Fortin Evil Pumpkin/FRTN.EVL.PMPKN-Mar4x12-CLN Homecoming - BLEND #1.nam",
+      "sha256": "444a7e358ee5775e1a83524e520bde5b20f5efcf167cc45ee2c9b4de15cc9e9b",
+      "bytes": 294364,
+      "head": {
+        "path": "01 - Clean/Fortin Evil Pumpkin - Head Only/[AMP] FRTN.EVL.PMPKN-Mar4x12-CLN Homecoming - DI.nam",
+        "bytes": 295250,
+        "sha256": "7cda2d004f5f8ddd6626c4d1a3fd7ea7378576e1636d449b049f01bda6843caa",
+        "url": "https://www.tone3000.com/tones/fortin-evil-pumpkin-66260"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Fortin Evil Pumpkin",
+      "matchKey": "frtnevlpmpknmar412clnhomecoming"
+    },
+    {
+      "file": "05 - High Gain/Fortin Evil Pumpkin/FRTN.EVL.PMPKN-Mes4x12-EP Jason Chugs - BLEND #1.nam",
+      "sha256": "116b10543d99ec71e2542dbfc049ed384d53bb6fdbe0f8946d5a0ad04bc41268",
+      "bytes": 294518,
+      "head": {
+        "path": "05 - High Gain/Fortin Evil Pumpkin - Head Only/[AMP] FRTN.EVL.PMPKN-Mes4x12-EP Jason Chugs - DI.nam",
+        "bytes": 294687,
+        "sha256": "9c6e9a95829cd5d8a359eaa997633eb547617648be95e0d769137d1345986d96",
+        "url": "https://www.tone3000.com/tones/fortin-evil-pumpkin-66260"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Fortin Evil Pumpkin",
+      "matchKey": "frtnevlpmpknmes412epjasonchugs"
+    },
+    {
+      "file": "02 - Edge/Diezel VH4/DiZLVH4-CH1 Breakup - BLEND #1.nam",
+      "sha256": "0676490dc2446f1c2d997b8c83bc11026d50f3eaa1d9c78aa9299f0eaf75df1b",
+      "bytes": 294063,
+      "head": {
+        "path": "02 - Edge/Diezel VH4 - Head Only/[AMP] DiZLVH4-CH1 Breakup - DI.nam",
+        "bytes": 295560,
+        "sha256": "16985db5803b96769d5e8f8cb1e1ecd77fb2954ce43429be5cbddc7b265e37a5",
+        "url": "https://www.tone3000.com/tones/diezel-vh4-64455"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Diezel VH4",
+      "matchKey": "dizlvh4ch1breakup"
+    },
+    {
+      "file": "02 - Edge/Diezel VH4/DiZLVH4-CH1 Breakup - BLEND #3.nam",
+      "sha256": "ea4759db809007194673b4da1e7c6236a421e9615502c441894e62cfc67a5543",
+      "bytes": 293981,
+      "head": {
+        "path": "02 - Edge/Diezel VH4 - Head Only/[AMP] DiZLVH4-CH1 Breakup - DI.nam",
+        "bytes": 295560,
+        "sha256": "16985db5803b96769d5e8f8cb1e1ecd77fb2954ce43429be5cbddc7b265e37a5",
+        "url": "https://www.tone3000.com/tones/diezel-vh4-64455"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Diezel VH4",
+      "matchKey": "dizlvh4ch1breakup"
+    },
+    {
+      "file": "03 - Crunch/Diezel VH4/DiZLVH4-CH2 Those Bones - BLEND #1.nam",
+      "sha256": "6a4b1e1e889b79fc4ded73a41d93fc41f3f8d6198726b764c0fead107f813296",
+      "bytes": 294274,
+      "head": {
+        "path": "03 - Crunch/Diezel VH4 - Head Only/[AMP] DiZLVH4-CH2 Those Bones - DI.nam",
+        "bytes": 293840,
+        "sha256": "5190d2a68b4eb5e0b2631ab15ed1624d78374aac626bfd66f9ee7eb4773e629f",
+        "url": "https://www.tone3000.com/tones/diezel-vh4-64455"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Diezel VH4",
+      "matchKey": "dizlvh4ch2thosebones"
+    },
+    {
+      "file": "03 - Crunch/Diezel VH4/DiZLVH4-CH2 Those Bones - BLEND #3.nam",
+      "sha256": "88716858ff53481bb8abc94a5cbfb167c93746f79c04473bb4cebaa0b1bda418",
+      "bytes": 294584,
+      "head": {
+        "path": "03 - Crunch/Diezel VH4 - Head Only/[AMP] DiZLVH4-CH2 Those Bones - DI.nam",
+        "bytes": 293840,
+        "sha256": "5190d2a68b4eb5e0b2631ab15ed1624d78374aac626bfd66f9ee7eb4773e629f",
+        "url": "https://www.tone3000.com/tones/diezel-vh4-64455"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Diezel VH4",
+      "matchKey": "dizlvh4ch2thosebones"
+    },
+    {
+      "file": "04 - Lead/Diezel VH4/DiZLVH4-CH4 Lead the Way - BLEND #1.nam",
+      "sha256": "01a0f384b57330b8cc1f55c8d543401b5beaf862bf605eaf5ac2dac4b46a669b",
+      "bytes": 293544,
+      "head": {
+        "path": "04 - Lead/Diezel VH4 - Head Only/[AMP] DiZLVH4-CH4 Lead the Way - DI.nam",
+        "bytes": 294255,
+        "sha256": "a23b2fd69249f3d89f052de7fb6bb8e0f6af3c21e6159e31706ba1ebf0e2ce6c",
+        "url": "https://www.tone3000.com/tones/diezel-vh4-64455"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Diezel VH4",
+      "matchKey": "dizlvh4ch4leadtheway"
+    },
+    {
+      "file": "04 - Lead/Diezel VH4/DiZLVH4-CH4 Lead the Way - BLEND #3.nam",
+      "sha256": "5500d2143f8032858a3e74b41efbefa2434b97913784c7614a36cc43b6e8d715",
+      "bytes": 294046,
+      "head": {
+        "path": "04 - Lead/Diezel VH4 - Head Only/[AMP] DiZLVH4-CH4 Lead the Way - DI.nam",
+        "bytes": 294255,
+        "sha256": "a23b2fd69249f3d89f052de7fb6bb8e0f6af3c21e6159e31706ba1ebf0e2ce6c",
+        "url": "https://www.tone3000.com/tones/diezel-vh4-64455"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Diezel VH4",
+      "matchKey": "dizlvh4ch4leadtheway"
+    },
+    {
+      "file": "05 - High Gain/Diezel VH4/DiZLVH4-CH3 Physics - BLEND #1.nam",
+      "sha256": "358afedd91cc05e27fbe2da585f4c6b641897ab6cfb5744d6639f3c9a605c6aa",
+      "bytes": 294122,
+      "head": {
+        "path": "05 - High Gain/Diezel VH4 - Head Only/[AMP] DiZLVH4-CH3 Physics - DI.nam",
+        "bytes": 293869,
+        "sha256": "a0cb2951c0a4e3fa1675e9741441ec8076ae095592972d35e266a256f9eb6421",
+        "url": "https://www.tone3000.com/tones/diezel-vh4-64455"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Diezel VH4",
+      "matchKey": "dizlvh4ch3physics"
+    },
+    {
+      "file": "05 - High Gain/Diezel VH4/DiZLVH4-CH3 Physics - BLEND #3.nam",
+      "sha256": "4dd6a77ebc356b2832e651e0ba71548d29caa09439431ab59ce1cf9ee26609a1",
+      "bytes": 293661,
+      "head": {
+        "path": "05 - High Gain/Diezel VH4 - Head Only/[AMP] DiZLVH4-CH3 Physics - DI.nam",
+        "bytes": 293869,
+        "sha256": "a0cb2951c0a4e3fa1675e9741441ec8076ae095592972d35e266a256f9eb6421",
+        "url": "https://www.tone3000.com/tones/diezel-vh4-64455"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Diezel VH4",
+      "matchKey": "dizlvh4ch3physics"
+    },
+    {
+      "file": "05 - High Gain/Diezel VH4/DiZLVH4-CH3 Potty Time - BLEND #1.nam",
+      "sha256": "2448b9bda6b3381d82efde570df3e3bf0bd595c4cc49ff3dc4cdac619b07152f",
+      "bytes": 293917,
+      "head": {
+        "path": "05 - High Gain/Diezel VH4 - Head Only/[AMP] DiZLVH4-CH3 Potty Time - DI.nam",
+        "bytes": 294035,
+        "sha256": "67d87eb998f039084fb21f3bed499069f1bbc7558a6c79cdd0dbc2f09e203e66",
+        "url": "https://www.tone3000.com/tones/diezel-vh4-64455"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Diezel VH4",
+      "matchKey": "dizlvh4ch3pottytime"
+    },
+    {
+      "file": "05 - High Gain/Diezel VH4/DiZLVH4-CH3 Potty Time - BLEND #3.nam",
+      "sha256": "783485fea0daee7f85117a932acd69effad8f3a6b468172d5b670ba0085a413b",
+      "bytes": 294062,
+      "head": {
+        "path": "05 - High Gain/Diezel VH4 - Head Only/[AMP] DiZLVH4-CH3 Potty Time - DI.nam",
+        "bytes": 294035,
+        "sha256": "67d87eb998f039084fb21f3bed499069f1bbc7558a6c79cdd0dbc2f09e203e66",
+        "url": "https://www.tone3000.com/tones/diezel-vh4-64455"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Diezel VH4",
+      "matchKey": "dizlvh4ch3pottytime"
+    },
+    {
+      "file": "01 - Clean/Mesa Boogie Dual Rectifier Revision G/DREC.G-TUB-SPG-ORG-CLN Factory Clean - SM57.nam",
+      "sha256": "158c827950aa4a7ceea421c9645037f2559d14601664e188a53bb654b59b1f12",
+      "bytes": 294299,
+      "head": {
+        "path": "01 - Clean/Mesa Boogie Dual Rectifier Revision G - Head Only/[AMP] DREC.G-TUB-SPG-ORG-CLN Factory Clean - DI.nam",
+        "bytes": 293967,
+        "sha256": "36dcd523992a75be2403105113f7580b24b6c6a1624cf981788d76dc8db74e3c",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-dual-rectifier-revision-g-79106"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Dual Rectifier Revision G",
+      "matchKey": "drecgtubspgorgclnfactoryclean"
+    },
+    {
+      "file": "03 - Crunch/Mesa Boogie Dual Rectifier Revision G/DREC.G-DIO-BLD-ORG-VNT Factory Orange Crunch - SM57.nam",
+      "sha256": "0a5c011e216d175eb49fc7be7548df4e5be86364aa7f5bf9cc700db0159df0e0",
+      "bytes": 294627,
+      "head": {
+        "path": "03 - Crunch/Mesa Boogie Dual Rectifier Revision G - Head Only/[AMP] DREC.G-DIO-BLD-ORG-VNT Factory Orange Crunch - DI.nam",
+        "bytes": 293970,
+        "sha256": "a7506926ba6b0022257265faf3a761cdf7eaf77d0a8a3938c14ae108b1b1fb5b",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-dual-rectifier-revision-g-79106"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Dual Rectifier Revision G",
+      "matchKey": "drecgdiobldorgvntfactoryorangecrunch"
+    },
+    {
+      "file": "05 - High Gain/Mesa Boogie Dual Rectifier Revision G/DREC.G-DIO-BLD-RED-MDN Alone I Stand - SM57.nam",
+      "sha256": "b29fdc67adf7ef20caa61b39171c9e541c1c7babfdfb2fafff4914eeb2a30677",
+      "bytes": 294029,
+      "head": {
+        "path": "05 - High Gain/Mesa Boogie Dual Rectifier Revision G - Head Only/[AMP] DREC.G-DIO-BLD-RED-MDN Alone I Stand - DI.nam",
+        "bytes": 295232,
+        "sha256": "6ed0738cc6cdccb0ecf2fc0963f5e277f5f5f22bed52659f0d73c2d760041e30",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-dual-rectifier-revision-g-79106"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Dual Rectifier Revision G",
+      "matchKey": "drecgdiobldredmdnaloneistand"
+    },
+    {
+      "file": "05 - High Gain/Mesa Boogie Dual Rectifier Revision G/DREC.G-DIO-BLD-RED-MDN+ Field Pointers - SM57.nam",
+      "sha256": "29e36eaf4e4e615b7e31ff1b803c42f7cfe528c73c78c78da28e99197dc938cb",
+      "bytes": 293242,
+      "head": {
+        "path": "05 - High Gain/Mesa Boogie Dual Rectifier Revision G - Head Only/[AMP] DREC.G-DIO-BLD-RED-MDN+ Field Pointers - DI.nam",
+        "bytes": 293853,
+        "sha256": "c06d5aff5a54adeadfcfdf54c845f1efb8c7ff65906edf500de4bade60e199d0",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-dual-rectifier-revision-g-79106"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Dual Rectifier Revision G",
+      "matchKey": "drecgdiobldredmdnfieldpointers"
+    },
+    {
+      "file": "05 - High Gain/Mesa Boogie Dual Rectifier Revision G/DREC.G-DIO-BLD-RED-VNT Factory Molten Red - SM57.nam",
+      "sha256": "5b4405f6c750562161ea0a056ca947b2104bface0c89a2ad2b2fa7a6a863ab12",
+      "bytes": 294606,
+      "head": {
+        "path": "05 - High Gain/Mesa Boogie Dual Rectifier Revision G - Head Only/[AMP] DREC.G-DIO-BLD-RED-VNT Factory Molten Red - DI.nam",
+        "bytes": 294368,
+        "sha256": "65f535777cef6699e1b501e082ee973017ea8c53b1481a895f2ad121b2e44528",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-dual-rectifier-revision-g-79106"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Dual Rectifier Revision G",
+      "matchKey": "drecgdiobldredvntfactorymoltenred"
+    },
+    {
+      "file": "01 - Clean/Mesa Boogie Mark VII/MESA.MKVII-90W-CH1-CLN Factory Bright Clean - BLEND #1.nam",
+      "sha256": "f13403c9565ecbc161a9cc2a48904cbe82ce944a179ec0fb1ed69216f547a17b",
+      "bytes": 293385,
+      "head": {
+        "path": "01 - Clean/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH1-CLN Factory Bright Clean - DI.nam",
+        "bytes": 294618,
+        "sha256": "c573001b45974b05db4085d911d5accf6caad22b85337c81ba479aaf8e8d6b64",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Mark VII",
+      "matchKey": "mesamkvii90wch1clnfactorybrightclean"
+    },
+    {
+      "file": "01 - Clean/Mesa Boogie Mark VII/MESA.MKVII-90W-CH1-FAT Factory Country Clean - BLEND #1.nam",
+      "sha256": "d95ce3c0cd80a504b16be51646dea69f7d05d0de269f19dfb446ccecc1417c93",
+      "bytes": 294837,
+      "head": {
+        "path": "01 - Clean/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH1-FAT Factory Country Clean - DI.nam",
+        "bytes": 296913,
+        "sha256": "e1e6329897cfa32e847dcbed54f7935425a65ed1ab37ad10ff4a9a80fab97982",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Mark VII",
+      "matchKey": "mesamkvii90wch1fatfactorycountryclean"
+    },
+    {
+      "file": "03 - Crunch/Mesa Boogie Mark VII/MESA.MKVII-90W-CH2-CRNCH Factory Classic Crunch - BLEND #1.nam",
+      "sha256": "6ce30d2f9959ec4b0ce683ee6d9fb441782bbcd59a280c86d27b41079744389e",
+      "bytes": 295421,
+      "head": {
+        "path": "03 - Crunch/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH2-CRNCH Factory Classic Crunch - DI.nam",
+        "bytes": 295933,
+        "sha256": "424b4587b8773442ac5aac6ece8607f4c24a0694bb3af1bea89f6fde5cd5f6ee",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Mark VII",
+      "matchKey": "mesamkvii90wch2crnchfactoryclassiccrunch"
+    },
+    {
+      "file": "03 - Crunch/Mesa Boogie Mark VII/MESA.MKVII-90W-CH2-MKVII Chunky - BLEND #1.nam",
+      "sha256": "05a70727f4f79fbcf8ab6cfdb7425ab3174b9ae6c201896008bf1bab83981a34",
+      "bytes": 293313,
+      "head": {
+        "path": "05 - High Gain/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH2-MKVII Chunky - DI.nam",
+        "bytes": 294256,
+        "sha256": "83eef8737d0087a0a0c4a5fa5641d6e1ba3cd96c37830bb739a91920e7bbacf7",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Mark VII",
+      "matchKey": "mesamkvii90wch2mkviichunky"
+    },
+    {
+      "file": "03 - Crunch/Mesa Boogie Mark VII/MESA.MKVII-90W-CH2-MKVII Chunky - BLEND #3.nam",
+      "sha256": "2d114566d9ace496940b86294e6ed0efa85cf0d79c8b05852c86827e5af64148",
+      "bytes": 293219,
+      "head": {
+        "path": "05 - High Gain/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH2-MKVII Chunky - DI.nam",
+        "bytes": 294256,
+        "sha256": "83eef8737d0087a0a0c4a5fa5641d6e1ba3cd96c37830bb739a91920e7bbacf7",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Mark VII",
+      "matchKey": "mesamkvii90wch2mkviichunky"
+    },
+    {
+      "file": "04 - Lead/Mesa Boogie Mark VII/MESA.MKVII-90W-CH3-MKIIB Pony Rawness - BLEND #1.nam",
+      "sha256": "abe1e1a485c546efdd9e36e0dd5636c309c06495d6eb93da662b6de373d98467",
+      "bytes": 293273,
+      "head": {
+        "path": "05 - High Gain/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH3-MKIIB Pony Rawness - DI.nam",
+        "bytes": 293700,
+        "sha256": "838bf877cdadaf4db58de0ce23d374472ecd1ad0c9a1e2dc0dbc6993aa84642c",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Mark VII",
+      "matchKey": "mesamkvii90wch3mkiibponyrawness"
+    },
+    {
+      "file": "05 - High Gain/Mesa Boogie Mark VII/MESA.MKVII-90W-CH3-MKIIC Bull Sheet - BLEND #1.nam",
+      "sha256": "68c8ae71d070ea356d72c78adfc382ee4b12e6ba8c5c061804fc6852a852f40d",
+      "bytes": 293669,
+      "head": {
+        "path": "05 - High Gain/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH3-MKIIC Bull Sheet - DI.nam",
+        "bytes": 294222,
+        "sha256": "67e9cbd97250c01e53941035de71c785b8892de034b3f5f52a6833df9350e91d",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Mark VII",
+      "matchKey": "mesamkvii90wch3mkiicbullsheet"
+    },
+    {
+      "file": "05 - High Gain/Mesa Boogie Mark VII/MESA.MKVII-90W-CH3-MKIIC Bull Sheet - BLEND #3.nam",
+      "sha256": "c4839a03b5272627a4f7f389806174c045ce82d4090f2159e3af071150f706fd",
+      "bytes": 293282,
+      "head": {
+        "path": "05 - High Gain/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH3-MKIIC Bull Sheet - DI.nam",
+        "bytes": 294222,
+        "sha256": "67e9cbd97250c01e53941035de71c785b8892de034b3f5f52a6833df9350e91d",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Mark VII",
+      "matchKey": "mesamkvii90wch3mkiicbullsheet"
+    },
+    {
+      "file": "05 - High Gain/Mesa Boogie Mark VII/MESA.MKVII-90W-CH3-MKIV War Never Changes - BLEND #1.nam",
+      "sha256": "4ffab7bc83c4158bbcf57c9dc484d15c76c0ed2c331605cc7c8ea94563828410",
+      "bytes": 293240,
+      "head": {
+        "path": "05 - High Gain/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH3-MKIV War Never Changes - DI.nam",
+        "bytes": 294133,
+        "sha256": "3855131d59931e606088cd4118434d927736d2614a81fc16e11240d88237130e",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Mark VII",
+      "matchKey": "mesamkvii90wch3mkivwarneverchanges"
+    },
+    {
+      "file": "05 - High Gain/Mesa Boogie Mark VII/MESA.MKVII-90W-CH3-MKIV War Never Changes - BLEND #3.nam",
+      "sha256": "36eb62a9c5fb4c5143a4b6365050ed35019649ae0648a8921c533c88cda30370",
+      "bytes": 293474,
+      "head": {
+        "path": "05 - High Gain/Mesa Boogie Mark VII - Head Only/[AMP] MESA.MKVII-90W-CH3-MKIV War Never Changes - DI.nam",
+        "bytes": 294133,
+        "sha256": "3855131d59931e606088cd4118434d927736d2614a81fc16e11240d88237130e",
+        "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Mesa Boogie Mark VII",
+      "matchKey": "mesamkvii90wch3mkivwarneverchanges"
+    },
+    {
+      "file": "02 - Edge/MLC S_ZERO V Vogg/MLC.VOG-Mar412-CLN Dirty Birdy - BLEND #1.nam",
+      "sha256": "647185721614fac1b628c351cce84337ff107319b36dc010bbcaff086e9b6a03",
+      "bytes": 296741,
+      "head": {
+        "path": "01 - Clean/MLC S_ZERO V Vogg (Decapitated) - Head Only/[AMP] MLC.VOG-Mar412-CLN Dirty Birdy - DI.nam",
+        "bytes": 295838,
+        "sha256": "5269a87b58633ffe7b6eb38463de1e77e0669bf8c3135fc77024cf69cfef4636",
+        "url": "https://www.tone3000.com/tones/mlc-s_zero-v-vogg-decapitated-97240"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "MLC S_ZERO V Vogg",
+      "matchKey": "mlcvogmar412clndirtybirdy"
+    },
+    {
+      "file": "05 - High Gain/MLC S_ZERO V Vogg/MLC.VOG-Mes412-DR2 Rammed Down - BLEND #1.nam",
+      "sha256": "03486fb82f03f76ccc006c7823eaed25b937b303fb94677c7882fab8b83e04be",
+      "bytes": 292877,
+      "head": {
+        "path": "05 - High Gain/MLC S_ZERO V Vogg (Decapitated) - Head Only/[AMP] MLC.VOG-Mes412-DR2 Rammed Down - DI.nam",
+        "bytes": 293487,
+        "sha256": "ffe89c4b81a567d29c2f2f352d44c9f6507031211bd30af44eed15d9bcab345a",
+        "url": "https://www.tone3000.com/tones/mlc-s_zero-v-vogg-decapitated-97240"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "MLC S_ZERO V Vogg",
+      "matchKey": "mlcvogmes412dr2rammeddown"
+    },
+    {
+      "file": "02 - Edge/Zuta GBG120/Zoota.GBG12O-Mar412-CH1 Big Hairy Breakup - SM57.nam",
+      "sha256": "448fdeed47af7eb4df8b4e500fd58071355f70388cb79fe8b444490e191296d3",
+      "bytes": 294310,
+      "head": {
+        "path": "02 - Edge/Zuta GBG120 - Head Only/[AMP] Zoota.GBG12O-Mar412-CH1 Big Hairy Breakup - DI.nam",
+        "bytes": 294701,
+        "sha256": "75807b0f459b84f47e521b23be50e9820552a6a73fa23bdaffb7795b8a7017e8",
+        "url": "https://www.tone3000.com/tones/zuta-gbg120-77452"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Zuta GBG120",
+      "matchKey": "zootagbg12omar412ch1bighairybreakup"
+    },
+    {
+      "file": "05 - High Gain/Zuta GBG120/Zoota.GBG12O-Mes412-CH4 Uno Grande - SM57.nam",
+      "sha256": "1f09c446c1041941a26b8ad01929acf4290dbeb2441ae62c8cafc8487c3e9280",
+      "bytes": 293454,
+      "head": {
+        "path": "04 - Lead/Zuta GBG120 - Head Only/[AMP] Zoota.GBG12O-Mes412-CH4 Uno Grande - DI.nam",
+        "bytes": 293360,
+        "sha256": "93dd363585b7740417938b626e942b336d0750c39547ec592ca952981e755ed3",
+        "url": "https://www.tone3000.com/tones/zuta-gbg120-77452"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Zuta GBG120",
+      "matchKey": "zootagbg12omes412ch4unogrande"
+    },
+    {
+      "file": "03 - Crunch/Marshall JMP 2204 1980/Marshall JMP 2204 -Mar4x12-HI Anguish - BLEND #1.nam",
+      "sha256": "1b24ce33428aecf9871a3e612eeeba1b875dc4811f0b857f60cb0cb7469413b2",
+      "bytes": 294037,
+      "head": {
+        "path": "03 - Crunch/1980 Marshall JMP 2204 - Head Only/[AMP] JMP2204-Mar4x12-HI Anguish - DI.nam",
+        "bytes": 294501,
+        "sha256": "3176b2844253fd30b8cf35ed4a0b2af7b0985fb3d89a6c6514be144ac4c448b5",
+        "url": "https://www.tone3000.com/tones/1980-marshall-jmp-2204-70525"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "1980 Marshall JMP 2204",
+      "matchKey": "jmp2204mar412hianguish"
+    },
+    {
+      "file": "03 - Crunch/Marshall JMP 2204 1980/Marshall JMP 2204 -Mar4x12-HI Hendrics - BLEND #1.nam",
+      "sha256": "f2719bab271eb989b04656365410fcecd38ef6e3e5bf026c141b8c4b74fbba52",
+      "bytes": 294978,
+      "head": {
+        "path": "03 - Crunch/1980 Marshall JMP 2204 - Head Only/[AMP] JMP2204-Mar4x12-HI Hendrics - DI.nam",
+        "bytes": 295318,
+        "sha256": "4bf40b1139f6ba378539d46bad5bc9dccd0b665e8c3ddf8a64c2a55ec21cb86b",
+        "url": "https://www.tone3000.com/tones/1980-marshall-jmp-2204-70525"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "1980 Marshall JMP 2204",
+      "matchKey": "jmp2204mar412hihendrics"
+    },
+    {
+      "file": "03 - Crunch/Marshall JMP 2204 1980/Marshall JMP 2204 -Mar4x12-HI+ Classic Hits - BLEND #1.nam",
+      "sha256": "3b8555e59cd500bb2d8e5e493d2d3a13df168a42e22c40a44c4e16a110386bd5",
+      "bytes": 294167,
+      "head": {
+        "path": "03 - Crunch/1980 Marshall JMP 2204 - Head Only/[AMP] JMP2204-Mar4x12-HI Classic Hits - DI.nam",
+        "bytes": 295011,
+        "sha256": "95270deeb5fd4cbcbacf2bb77c6f10db987167d7c20305d545e446c61c612815",
+        "url": "https://www.tone3000.com/tones/1980-marshall-jmp-2204-70525"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "1980 Marshall JMP 2204",
+      "matchKey": "jmp2204mar412hiclassichits"
+    },
+    {
+      "file": "03 - Crunch/Wizard Modern Classic MCII 100W/Wzd.MCII100-Mar412-RT-NRM-HI Sleepy Sheriff - BLEND #1.nam",
+      "sha256": "cc830e6ce2677d7eca43e337a866771e60192e3d8e27811acc5b732c4660f14b",
+      "bytes": 295219,
+      "head": {
+        "path": "05 - High Gain/Wizard Modern Classic MCII 100W - Head Only/[AMP] Wzd.MCII100-Mar412-RT-NRM-HI Sleepy Sheriff - DI.nam",
+        "bytes": 295202,
+        "sha256": "101efae2d6d43e75c0310f8cfdb9fd238172d776f5a951b806c22f1eb7ff9b35",
+        "url": "https://www.tone3000.com/tones/wizard-modern-classic-mcii-100w-75141"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Wizard Modern Classic MCII 100W",
+      "matchKey": "wzdmcii100mar412rtnrmhisleepysheriff"
+    },
+    {
+      "file": "05 - High Gain/Wizard Modern Classic MCII 100W/Wzd.MCII100-Mes412-LD-BST-HI Bandit Torn - BLEND #1.nam",
+      "sha256": "3bb5c6ecfcf59a8c600db95df7da7c7b1e2ae447f7ee30904cffbcda85702707",
+      "bytes": 294515,
+      "head": {
+        "path": "04 - Lead/Wizard Modern Classic MCII 100W - Head Only/[AMP] Wzd.MCII100-Mes412-LD-BST-HI Bandit Torn - DI.nam",
+        "bytes": 294996,
+        "sha256": "aa5f2ac3c08ed14a07841023e5447af42c2aca6de42591b45a57971f48c50e2e",
+        "url": "https://www.tone3000.com/tones/wizard-modern-classic-mcii-100w-75141"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Wizard Modern Classic MCII 100W",
+      "matchKey": "wzdmcii100mes412ldbsthibandittorn"
+    },
+    {
+      "file": "04 - Lead/Carstens Grace 100W/Carstens Grace 100W - Mes412 Noon #02 - SM58 - by 2Dor.nam",
+      "sha256": "e8f71d285e5bd9991825be24c0b987bdc9ac39e2e7ff9ff79924f6f2c8252a14",
+      "bytes": 293675,
+      "head": {
+        "path": "05 - High Gain/Carstens Grace 100 - Head Only/[AMP] CRST.GRAYS100-Mes412 Noon #02 - DI.nam",
+        "bytes": 294370,
+        "sha256": "4b2b76cf2da2c684c7f4efb9cf040e3e6573a82d16f7925a2904de49dac7d490",
+        "url": "https://www.tone3000.com/tones/carstens-grace-100-95297"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Carstens Grace 100W",
+      "matchKey": "crstgrays100mes412noon02"
+    },
+    {
+      "file": "04 - Lead/Carstens Grace 100W/Carstens Grace 100W - Mes412 Wishful Notes - SM58 - by 2Dor.nam",
+      "sha256": "c3b3c21190969b400bf50a43d7e8b710b48263f7b363eb83d2ca0aeede798299",
+      "bytes": 294051,
+      "head": {
+        "path": "05 - High Gain/Carstens Grace 100 - Head Only/[AMP] CRST.GRAYS100-Mes412 Wishful Notes - DI.nam",
+        "bytes": 294277,
+        "sha256": "40fd1137857dc8601ff7c5ac35798a868579ad09fae5f705e57a0e3a01e074b4",
+        "url": "https://www.tone3000.com/tones/carstens-grace-100-95297"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Carstens Grace 100W",
+      "matchKey": "crstgrays100mes412wishfulnotes"
+    },
+    {
+      "file": "05 - High Gain/Carstens Grace 100W/Carstens Grace 100W - Mar412 Evil MoJoe #02 - SM58 - by 2Dor.nam",
+      "sha256": "6be28b667a898e829a4ec4e72a4b0f1602312df4cc43c1ecb648752d7f7db461",
+      "bytes": 293540,
+      "head": {
+        "path": "05 - High Gain/Carstens Grace 100 - Head Only/[AMP] CRST.GRAYS100-Mar412 Evil MoJoe #02 - DI.nam",
+        "bytes": 294543,
+        "sha256": "8f7d4df2afe20241d8870b5e189fb26ead5bac9376948af6aabf4b9b5d63834f",
+        "url": "https://www.tone3000.com/tones/carstens-grace-100-95297"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Carstens Grace 100W",
+      "matchKey": "crstgrays100mar412evilmojoe02"
+    },
+    {
+      "file": "05 - High Gain/Carstens Grace 100W/Carstens Grace 100W - Mar412 Scorched Tales - SM58 - by 2Dor.nam",
+      "sha256": "3b7c79c5f3511c6de84917225332aed06a966b4cd7ebfe1663049afd12449391",
+      "bytes": 293750,
+      "head": {
+        "path": "05 - High Gain/Carstens Grace 100 - Head Only/[AMP] CRST.GRAYS100-Mar412 Scorched Tales - DI.nam",
+        "bytes": 293865,
+        "sha256": "473ec1a1ca40a7b8ca7529b3a3f83c6993d0cd2b24f05080183c59f6a49132bd",
+        "url": "https://www.tone3000.com/tones/carstens-grace-100-95297"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Carstens Grace 100W",
+      "matchKey": "crstgrays100mar412scorchedtales"
+    },
+    {
+      "file": "03 - Crunch/VOX AC15C1 Top Boost/FR AC15C1 TB V-2 T-5 B-5 C-5 PR20 545.nam",
+      "sha256": "fa92646e9ecadb9237eaae9319ce35ac2e47ee7a524b9cdd3fe74fc8b7224d45",
+      "bytes": 294823,
+      "head": {
+        "path": "01 - Clean/Vox AC15C1 Top Boost Channel - Head Only/Vox AC15C1 TB V-2 T-5 B-5 C-5 TTSV10.nam",
+        "bytes": 295921,
+        "sha256": "2895eaf579491ce9c9b7bf507838ef583fe291b44879806544dce0c79b4e5a24",
+        "url": "https://www.tone3000.com/tones/vox-ac15c1-top-boost-channel-37813"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Vox AC15C1 - Top Boost only",
+      "matchKey": "('v-2', 't-5', 'b-5', 'c-5')"
+    },
+    {
+      "file": "03 - Crunch/VOX AC15C1 Top Boost/FR AC15C1 TB V-5 T-5 B-5 C-0 SM57.nam",
+      "sha256": "a34f0593a03b3721ea2b33f0605e47974ce4f0b75259bcdd2f7e3c9b71071f92",
+      "bytes": 294723,
+      "head": {
+        "path": "02 - Edge/Vox AC15C1 Top Boost Channel - Head Only/Vox AC15C1 TB V-5 T-5 B-5 C-0 TTSV10.nam",
+        "bytes": 295692,
+        "sha256": "0952d05cf2866d557a6b0731e4ea1743460e38fb355073ad478e44320c9620d9",
+        "url": "https://www.tone3000.com/tones/vox-ac15c1-top-boost-channel-37813"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Vox AC15C1 - Top Boost only",
+      "matchKey": "('v-5', 't-5', 'b-5', 'c-0')"
+    },
+    {
+      "file": "04 - Lead/Bogner Ubershall/[AMP] UBER.BLUE-Mar412-LEAD Holly Rocks - BLEND #1.nam",
+      "sha256": "912676f754816bd5e8a337cdd6bb9bbb546e6c9350c80be89babbe388bf3d89c",
+      "bytes": 294021,
+      "head": {
+        "path": "04 - Lead/Bogner Uberschall - Head Only/[AMP] UBER.BLUE-Mar412-LEAD Holly Rocks - DI.nam",
+        "bytes": 294151,
+        "sha256": "e7fd99ce548a6712ff18dd3af62604ba10206e8acf7a659fb60779f2dc82a1de",
+        "url": "https://www.tone3000.com/tones/bogner-uberschall-79751"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Bogner Uberschall Rev Blue",
+      "matchKey": "uberbluemar412leadhollyrocks"
+    },
+    {
+      "file": "04 - Lead/Bogner Ubershall/[AMP] UBER.BLUE-Mar412-LEAD Holly Rocks - BLEND #2.nam",
+      "sha256": "f9a14248494edd0fe16cca8831a83b104c33b7525c1364337bd80a9dfeb605a6",
+      "bytes": 293882,
+      "head": {
+        "path": "04 - Lead/Bogner Uberschall - Head Only/[AMP] UBER.BLUE-Mar412-LEAD Holly Rocks - DI.nam",
+        "bytes": 294151,
+        "sha256": "e7fd99ce548a6712ff18dd3af62604ba10206e8acf7a659fb60779f2dc82a1de",
+        "url": "https://www.tone3000.com/tones/bogner-uberschall-79751"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Bogner Uberschall Rev Blue",
+      "matchKey": "uberbluemar412leadhollyrocks"
+    },
+    {
+      "file": "04 - Lead/Bogner Ubershall/[AMP] UBER.BLUE-Mar412-LEAD Holly Rocks - BLEND #3.nam",
+      "sha256": "aae30d3e21242d6973a3814c3682ac948ff544c1ee6b66423d1dee5f582d5980",
+      "bytes": 294045,
+      "head": {
+        "path": "04 - Lead/Bogner Uberschall - Head Only/[AMP] UBER.BLUE-Mar412-LEAD Holly Rocks - DI.nam",
+        "bytes": 294151,
+        "sha256": "e7fd99ce548a6712ff18dd3af62604ba10206e8acf7a659fb60779f2dc82a1de",
+        "url": "https://www.tone3000.com/tones/bogner-uberschall-79751"
+      },
+      "cabinet": {
+        "file": "Factory/4x12/M25 UL 1960TV 4x12 M201 1.50in 0.0in SA73.wav",
+        "sha256": "16fc510aa3dae401ec61d589b0543abbc4d42228e449d522a476ef2411618f54",
+        "locked": false
+      },
+      "model": "Bogner Uberschall Rev Blue",
+      "matchKey": "uberbluemar412leadhollyrocks"
+    }
+  ]
+}

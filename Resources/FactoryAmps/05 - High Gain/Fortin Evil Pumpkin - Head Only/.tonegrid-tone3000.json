@@ -1,0 +1,43 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/fortin-evil-pumpkin-66260",
+  "tone_id": "66260",
+  "model": "Fortin Evil Pumpkin",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] FRTN.EVL.PMPKN-Mes4x12-EP Jason Chugs - DI.nam",
+      "sha256": "9c6e9a95829cd5d8a359eaa997633eb547617648be95e0d769137d1345986d96",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] FRTN.EVL.PMPKN-Mar4x12-EP Jason Chugs - DI.nam",
+      "sha256": "512f631b617499c541a3ac15c14d553f1c786d1d4dad423498788194d9fc5d44",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] FRTN.EVL.PMPKN-Mes4x12-EP Jason's Settings - DI.nam",
+      "sha256": "5b18cd3e897c39cb03e66fe933a879f9ae78ed33058400f3dcabfc066fe6b265",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] FRTN.EVL.PMPKN-Mar4x12-EP Jason's Settings - DI.nam",
+      "sha256": "fe17ff224f877837c7c269f3682559037939e37e4b98662a1900205a7ef7e0ad",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] FRTN.EVL.PMPKN-Mar4x12-KK Jason's Settings - DI.nam",
+      "sha256": "3c4ea2631bd4ba7aa63add8a8157381007034e474aa44c7781e9f1c21320b950",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] FRTN.EVL.PMPKN-Mes4x12-KK Jason's Settings - DI.nam",
+      "sha256": "46889821b1c2ae586e1a90d7772d35c04163f3ce33b7c622962e3a83e90810cb",
+      "gear": "amp"
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "presets": [
+    {
+      "rank": 1,
+      "id": "001-metallica-master-of-puppets-rhythm",
+      "artist": "Metallica",
+      "song": "Master of Puppets",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 2,
+      "id": "002-metallica-enter-sandman-rhythm",
+      "artist": "Metallica",
+      "song": "Enter Sandman",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 3,
+      "id": "003-metallica-nothing-else-matters-solo",
+      "artist": "Metallica",
+      "song": "Nothing Else Matters",
+      "part": "Solo",
+      "genre": "Rock"
+    },
+    {
+      "rank": 4,
+      "id": "004-led-zeppelin-stairway-to-heaven-solo",
+      "artist": "Led Zeppelin",
+      "song": "Stairway to Heaven",
+      "part": "Solo",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 5,
+      "id": "005-guns-n-roses-sweet-child-o-mine-lead",
+      "artist": "Guns N' Roses",
+      "song": "Sweet Child O' Mine",
+      "part": "Lead",
+      "genre": "Hard Rock"
+    },
+    {
+      "rank": 6,
+      "id": "006-nirvana-smells-like-teen-spirit-rhythm",
+      "artist": "Nirvana",
+      "song": "Smells Like Teen Spirit",
+      "part": "Rhythm",
+      "genre": "Grunge"
+    },
+    {
+      "rank": 7,
+      "id": "007-nirvana-come-as-you-are-main",
+      "artist": "Nirvana",
+      "song": "Come As You Are",
+      "part": "Main",
+      "genre": "Grunge"
+    },
+    {
+      "rank": 8,
+      "id": "008-radiohead-creep-rhythm",
+      "artist": "Radiohead",
+      "song": "Creep",
+      "part": "Rhythm",
+      "genre": "Alternative"
+    },
+    {
+      "rank": 9,
+      "id": "009-ozzy-osbourne-crazy-train-rhythm",
+      "artist": "Ozzy Osbourne",
+      "song": "Crazy Train",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 10,
+      "id": "010-ac-dc-back-in-black-rhythm",
+      "artist": "AC/DC",
+      "song": "Back In Black",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 11,
+      "id": "011-red-hot-chili-peppers-californication-lead",
+      "artist": "Red Hot Chili Peppers",
+      "song": "Californication",
+      "part": "Lead",
+      "genre": "Alternative"
+    },
+    {
+      "rank": 12,
+      "id": "012-metallica-one-heavy-rhythm",
+      "artist": "Metallica",
+      "song": "One",
+      "part": "Heavy Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 13,
+      "id": "013-metallica-fade-to-black-lead",
+      "artist": "Metallica",
+      "song": "Fade to Black",
+      "part": "Lead",
+      "genre": "Metal"
+    },
+    {
+      "rank": 14,
+      "id": "014-eagles-hotel-california-solo",
+      "artist": "Eagles",
+      "song": "Hotel California",
+      "part": "Solo",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 15,
+      "id": "015-rage-against-the-machine-killing-in-the-name-rhythm",
+      "artist": "Rage Against the Machine",
+      "song": "Killing in the Name",
+      "part": "Rhythm",
+      "genre": "Alternative Metal"
+    },
+    {
+      "rank": 16,
+      "id": "016-black-sabbath-paranoid-rhythm",
+      "artist": "Black Sabbath",
+      "song": "Paranoid",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 17,
+      "id": "017-metallica-for-whom-the-bell-tolls-rhythm",
+      "artist": "Metallica",
+      "song": "For Whom the Bell Tolls",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 18,
+      "id": "018-metallica-seek-destroy-rhythm",
+      "artist": "Metallica",
+      "song": "Seek & Destroy",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 19,
+      "id": "019-black-sabbath-iron-man-rhythm",
+      "artist": "Black Sabbath",
+      "song": "Iron Man",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 20,
+      "id": "020-the-cranberries-zombie-rhythm",
+      "artist": "The Cranberries",
+      "song": "Zombie",
+      "part": "Rhythm",
+      "genre": "Alternative"
+    },
+    {
+      "rank": 21,
+      "id": "021-foo-fighters-everlong-rhythm",
+      "artist": "Foo Fighters",
+      "song": "Everlong",
+      "part": "Rhythm",
+      "genre": "Alternative Rock"
+    },
+    {
+      "rank": 22,
+      "id": "022-red-hot-chili-peppers-can-t-stop-rhythm",
+      "artist": "Red Hot Chili Peppers",
+      "song": "Can't Stop",
+      "part": "Rhythm",
+      "genre": "Funk Rock"
+    },
+    {
+      "rank": 23,
+      "id": "023-pixies-where-is-my-mind-main",
+      "artist": "Pixies",
+      "song": "Where Is My Mind?",
+      "part": "Main",
+      "genre": "Alternative"
+    },
+    {
+      "rank": 24,
+      "id": "024-arctic-monkeys-do-i-wanna-know-main",
+      "artist": "Arctic Monkeys",
+      "song": "Do I Wanna Know?",
+      "part": "Main",
+      "genre": "Alternative Rock"
+    },
+    {
+      "rank": 25,
+      "id": "025-iron-maiden-the-trooper-rhythm",
+      "artist": "Iron Maiden",
+      "song": "The Trooper",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 26,
+      "id": "026-chuck-berry-johnny-b-goode-lead",
+      "artist": "Chuck Berry",
+      "song": "Johnny B. Goode",
+      "part": "Lead",
+      "genre": "Rock and Roll"
+    },
+    {
+      "rank": 27,
+      "id": "027-dire-straits-sultans-of-swing-lead",
+      "artist": "Dire Straits",
+      "song": "Sultans of Swing",
+      "part": "Lead",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 28,
+      "id": "028-muse-hysteria-rhythm",
+      "artist": "Muse",
+      "song": "Hysteria",
+      "part": "Rhythm",
+      "genre": "Alternative Rock"
+    },
+    {
+      "rank": 29,
+      "id": "029-megadeth-symphony-of-destruction-rhythm",
+      "artist": "Megadeth",
+      "song": "Symphony of Destruction",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 30,
+      "id": "030-ac-dc-thunderstruck-rhythm",
+      "artist": "AC/DC",
+      "song": "Thunderstruck",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 31,
+      "id": "031-queen-bohemian-rhapsody-solo",
+      "artist": "Queen",
+      "song": "Bohemian Rhapsody",
+      "part": "Solo",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 32,
+      "id": "032-deep-purple-smoke-on-the-water-rhythm",
+      "artist": "Deep Purple",
+      "song": "Smoke on the Water",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 33,
+      "id": "033-ac-dc-highway-to-hell-rhythm",
+      "artist": "AC/DC",
+      "song": "Highway to Hell",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 34,
+      "id": "034-michael-jackson-beat-it-solo",
+      "artist": "Michael Jackson",
+      "song": "Beat It",
+      "part": "Solo",
+      "genre": "Pop Rock"
+    },
+    {
+      "rank": 35,
+      "id": "035-red-hot-chili-peppers-under-the-bridge-rhythm",
+      "artist": "Red Hot Chili Peppers",
+      "song": "Under the Bridge",
+      "part": "Rhythm",
+      "genre": "Alternative"
+    },
+    {
+      "rank": 36,
+      "id": "036-the-animals-house-of-the-rising-sun-main",
+      "artist": "The Animals",
+      "song": "House of the Rising Sun",
+      "part": "Main",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 37,
+      "id": "037-deftones-my-own-summer-shove-it-rhythm",
+      "artist": "Deftones",
+      "song": "My Own Summer (Shove It)",
+      "part": "Rhythm",
+      "genre": "Alternative Metal"
+    },
+    {
+      "rank": 38,
+      "id": "038-lynyrd-skynyrd-sweet-home-alabama-rhythm",
+      "artist": "Lynyrd Skynyrd",
+      "song": "Sweet Home Alabama",
+      "part": "Rhythm",
+      "genre": "Southern Rock"
+    },
+    {
+      "rank": 39,
+      "id": "039-system-of-a-down-toxicity-rhythm",
+      "artist": "System of a Down",
+      "song": "Toxicity",
+      "part": "Rhythm",
+      "genre": "Alternative Metal"
+    },
+    {
+      "rank": 40,
+      "id": "040-pink-floyd-wish-you-were-here-lead",
+      "artist": "Pink Floyd",
+      "song": "Wish You Were Here",
+      "part": "Lead",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 41,
+      "id": "041-nirvana-heart-shaped-box-rhythm",
+      "artist": "Nirvana",
+      "song": "Heart-Shaped Box",
+      "part": "Rhythm",
+      "genre": "Grunge"
+    },
+    {
+      "rank": 42,
+      "id": "042-system-of-a-down-aerials-rhythm",
+      "artist": "System of a Down",
+      "song": "Aerials",
+      "part": "Rhythm",
+      "genre": "Alternative Metal"
+    },
+    {
+      "rank": 43,
+      "id": "043-pink-floyd-comfortably-numb-solo",
+      "artist": "Pink Floyd",
+      "song": "Comfortably Numb",
+      "part": "Solo",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 44,
+      "id": "044-the-white-stripes-seven-nation-army-main",
+      "artist": "The White Stripes",
+      "song": "Seven Nation Army",
+      "part": "Main",
+      "genre": "Garage Rock"
+    },
+    {
+      "rank": 45,
+      "id": "045-slipknot-psychosocial-rhythm",
+      "artist": "Slipknot",
+      "song": "Psychosocial",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 46,
+      "id": "046-john-mayer-slow-dancing-in-a-burning-room-solo",
+      "artist": "John Mayer",
+      "song": "Slow Dancing in a Burning Room",
+      "part": "Solo",
+      "genre": "Blues Rock"
+    },
+    {
+      "rank": 47,
+      "id": "047-metallica-nothing-else-matters-clean",
+      "artist": "Metallica",
+      "song": "Nothing Else Matters",
+      "part": "Clean",
+      "genre": "Rock"
+    },
+    {
+      "rank": 48,
+      "id": "048-system-of-a-down-chop-suey-rhythm",
+      "artist": "System of a Down",
+      "song": "Chop Suey!",
+      "part": "Rhythm",
+      "genre": "Alternative Metal"
+    },
+    {
+      "rank": 49,
+      "id": "049-black-sabbath-war-pigs-rhythm",
+      "artist": "Black Sabbath",
+      "song": "War Pigs",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 50,
+      "id": "050-pink-floyd-money-rhythm",
+      "artist": "Pink Floyd",
+      "song": "Money",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 51,
+      "id": "051-john-mayer-slow-dancing-in-a-burning-room-rhythm",
+      "artist": "John Mayer",
+      "song": "Slow Dancing in a Burning Room",
+      "part": "Rhythm",
+      "genre": "Blues Rock"
+    },
+    {
+      "rank": 52,
+      "id": "052-derek-and-the-dominos-layla-lead",
+      "artist": "Derek and the Dominos",
+      "song": "Layla",
+      "part": "Lead",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 53,
+      "id": "053-zz-top-la-grange-rhythm",
+      "artist": "ZZ Top",
+      "song": "La Grange",
+      "part": "Rhythm",
+      "genre": "Blues Rock"
+    },
+    {
+      "rank": 54,
+      "id": "054-free-all-right-now-rhythm",
+      "artist": "Free",
+      "song": "All Right Now",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 55,
+      "id": "055-van-halen-ain-t-talkin-bout-love-rhythm",
+      "artist": "Van Halen",
+      "song": "Ain't Talkin' 'Bout Love",
+      "part": "Rhythm",
+      "genre": "Hard Rock"
+    },
+    {
+      "rank": 56,
+      "id": "056-the-police-every-breath-you-take-rhythm",
+      "artist": "The Police",
+      "song": "Every Breath You Take",
+      "part": "Rhythm",
+      "genre": "New Wave"
+    },
+    {
+      "rank": 57,
+      "id": "057-toto-hold-the-line-rhythm",
+      "artist": "Toto",
+      "song": "Hold the Line",
+      "part": "Rhythm",
+      "genre": "Rock"
+    },
+    {
+      "rank": 58,
+      "id": "058-the-rolling-stones-i-can-t-get-no-satisfaction-main",
+      "artist": "The Rolling Stones",
+      "song": "(I Can't Get No) Satisfaction",
+      "part": "Main",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 59,
+      "id": "059-the-beatles-day-tripper-main",
+      "artist": "The Beatles",
+      "song": "Day Tripper",
+      "part": "Main",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 60,
+      "id": "060-the-police-message-in-a-bottle-rhythm",
+      "artist": "The Police",
+      "song": "Message in a Bottle",
+      "part": "Rhythm",
+      "genre": "New Wave"
+    },
+    {
+      "rank": 61,
+      "id": "061-judas-priest-breaking-the-law-rhythm",
+      "artist": "Judas Priest",
+      "song": "Breaking the Law",
+      "part": "Rhythm",
+      "genre": "Metal"
+    },
+    {
+      "rank": 62,
+      "id": "062-kansas-carry-on-wayward-son-rhythm",
+      "artist": "Kansas",
+      "song": "Carry on Wayward Son",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 63,
+      "id": "063-pearl-jam-alive-lead",
+      "artist": "Pearl Jam",
+      "song": "Alive",
+      "part": "Lead",
+      "genre": "Grunge"
+    },
+    {
+      "rank": 64,
+      "id": "064-lenny-kravitz-are-you-gonna-go-my-way-rhythm",
+      "artist": "Lenny Kravitz",
+      "song": "Are You Gonna Go My Way",
+      "part": "Rhythm",
+      "genre": "Rock"
+    },
+    {
+      "rank": 65,
+      "id": "065-jimi-hendrix-hey-joe-lead",
+      "artist": "Jimi Hendrix",
+      "song": "Hey Joe",
+      "part": "Lead",
+      "genre": "Psychedelic Rock"
+    },
+    {
+      "rank": 66,
+      "id": "066-jimi-hendrix-purple-haze-rhythm",
+      "artist": "Jimi Hendrix",
+      "song": "Purple Haze",
+      "part": "Rhythm",
+      "genre": "Psychedelic Rock"
+    },
+    {
+      "rank": 67,
+      "id": "067-motorhead-ace-of-spades-rhythm",
+      "artist": "Motörhead",
+      "song": "Ace of Spades",
+      "part": "Rhythm",
+      "genre": "Heavy Rock"
+    },
+    {
+      "rank": 68,
+      "id": "068-led-zeppelin-whole-lotta-love-rhythm",
+      "artist": "Led Zeppelin",
+      "song": "Whole Lotta Love",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 69,
+      "id": "069-eric-clapton-cocaine-rhythm",
+      "artist": "Eric Clapton",
+      "song": "Cocaine",
+      "part": "Rhythm",
+      "genre": "Blues Rock"
+    },
+    {
+      "rank": 70,
+      "id": "070-scorpions-rock-you-like-a-hurricane-rhythm",
+      "artist": "Scorpions",
+      "song": "Rock You Like a Hurricane",
+      "part": "Rhythm",
+      "genre": "Hard Rock"
+    },
+    {
+      "rank": 71,
+      "id": "071-the-cure-just-like-heaven-main",
+      "artist": "The Cure",
+      "song": "Just Like Heaven",
+      "part": "Main",
+      "genre": "Alternative"
+    },
+    {
+      "rank": 72,
+      "id": "072-santana-smooth-lead",
+      "artist": "Santana",
+      "song": "Smooth",
+      "part": "Lead",
+      "genre": "Latin Rock"
+    },
+    {
+      "rank": 73,
+      "id": "073-aerosmith-dream-on-lead",
+      "artist": "Aerosmith",
+      "song": "Dream On",
+      "part": "Lead",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 74,
+      "id": "074-pink-floyd-another-brick-in-the-wall-pt-2-lead",
+      "artist": "Pink Floyd",
+      "song": "Another Brick in the Wall, Pt. 2",
+      "part": "Lead",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 75,
+      "id": "075-u2-pride-in-the-name-of-love-rhythm",
+      "artist": "U2",
+      "song": "Pride (In the Name of Love)",
+      "part": "Rhythm",
+      "genre": "Rock"
+    },
+    {
+      "rank": 76,
+      "id": "076-guns-n-roses-knockin-on-heaven-s-door-lead",
+      "artist": "Guns N' Roses",
+      "song": "Knockin' on Heaven's Door",
+      "part": "Lead",
+      "genre": "Hard Rock"
+    },
+    {
+      "rank": 77,
+      "id": "077-heart-barracuda-rhythm",
+      "artist": "Heart",
+      "song": "Barracuda",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 78,
+      "id": "078-dick-dale-misirlou-lead",
+      "artist": "Dick Dale",
+      "song": "Misirlou",
+      "part": "Lead",
+      "genre": "Surf Rock"
+    },
+    {
+      "rank": 79,
+      "id": "079-rush-tom-sawyer-rhythm",
+      "artist": "Rush",
+      "song": "Tom Sawyer",
+      "part": "Rhythm",
+      "genre": "Progressive Rock"
+    },
+    {
+      "rank": 80,
+      "id": "080-dream-theater-pull-me-under-rhythm",
+      "artist": "Dream Theater",
+      "song": "Pull Me Under",
+      "part": "Rhythm",
+      "genre": "Progressive Metal"
+    },
+    {
+      "rank": 81,
+      "id": "081-zz-top-sharp-dressed-man-rhythm",
+      "artist": "ZZ Top",
+      "song": "Sharp Dressed Man",
+      "part": "Rhythm",
+      "genre": "Blues Rock"
+    },
+    {
+      "rank": 82,
+      "id": "082-the-smashing-pumpkins-cherub-rock-rhythm",
+      "artist": "The Smashing Pumpkins",
+      "song": "Cherub Rock",
+      "part": "Rhythm",
+      "genre": "Alternative Rock"
+    },
+    {
+      "rank": 83,
+      "id": "083-tool-schism-rhythm",
+      "artist": "Tool",
+      "song": "Schism",
+      "part": "Rhythm",
+      "genre": "Progressive Metal"
+    },
+    {
+      "rank": 84,
+      "id": "084-green-day-basket-case-rhythm",
+      "artist": "Green Day",
+      "song": "Basket Case",
+      "part": "Rhythm",
+      "genre": "Punk Rock"
+    },
+    {
+      "rank": 85,
+      "id": "085-blink-182-all-the-small-things-rhythm",
+      "artist": "Blink-182",
+      "song": "All the Small Things",
+      "part": "Rhythm",
+      "genre": "Pop Punk"
+    },
+    {
+      "rank": 86,
+      "id": "086-prince-purple-rain-lead",
+      "artist": "Prince",
+      "song": "Purple Rain",
+      "part": "Lead",
+      "genre": "Pop Rock"
+    },
+    {
+      "rank": 87,
+      "id": "087-def-leppard-pour-some-sugar-on-me-rhythm",
+      "artist": "Def Leppard",
+      "song": "Pour Some Sugar on Me",
+      "part": "Rhythm",
+      "genre": "Hard Rock"
+    },
+    {
+      "rank": 88,
+      "id": "088-bon-jovi-livin-on-a-prayer-rhythm",
+      "artist": "Bon Jovi",
+      "song": "Livin' on a Prayer",
+      "part": "Rhythm",
+      "genre": "Hard Rock"
+    },
+    {
+      "rank": 89,
+      "id": "089-boston-more-than-a-feeling-rhythm",
+      "artist": "Boston",
+      "song": "More Than a Feeling",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 90,
+      "id": "090-aerosmith-walk-this-way-rhythm",
+      "artist": "Aerosmith",
+      "song": "Walk This Way",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 91,
+      "id": "091-cream-sunshine-of-your-love-rhythm",
+      "artist": "Cream",
+      "song": "Sunshine of Your Love",
+      "part": "Rhythm",
+      "genre": "Blues Rock"
+    },
+    {
+      "rank": 92,
+      "id": "092-the-who-won-t-get-fooled-again-rhythm",
+      "artist": "The Who",
+      "song": "Won't Get Fooled Again",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 93,
+      "id": "093-thin-lizzy-the-boys-are-back-in-town-rhythm",
+      "artist": "Thin Lizzy",
+      "song": "The Boys Are Back in Town",
+      "part": "Rhythm",
+      "genre": "Classic Rock"
+    },
+    {
+      "rank": 94,
+      "id": "094-alice-in-chains-man-in-the-box-rhythm",
+      "artist": "Alice in Chains",
+      "song": "Man in the Box",
+      "part": "Rhythm",
+      "genre": "Grunge"
+    },
+    {
+      "rank": 95,
+      "id": "095-soundgarden-black-hole-sun-main",
+      "artist": "Soundgarden",
+      "song": "Black Hole Sun",
+      "part": "Main",
+      "genre": "Grunge"
+    },
+    {
+      "rank": 96,
+      "id": "096-the-smiths-this-charming-man-rhythm",
+      "artist": "The Smiths",
+      "song": "This Charming Man",
+      "part": "Rhythm",
+      "genre": "Alternative"
+    },
+    {
+      "rank": 97,
+      "id": "097-u2-where-the-streets-have-no-name-rhythm",
+      "artist": "U2",
+      "song": "Where the Streets Have No Name",
+      "part": "Rhythm",
+      "genre": "Rock"
+    },
+    {
+      "rank": 98,
+      "id": "098-john-mayer-gravity-rhythm",
+      "artist": "John Mayer",
+      "song": "Gravity",
+      "part": "Rhythm",
+      "genre": "Blues Rock"
+    },
+    {
+      "rank": 99,
+      "id": "099-stevie-ray-vaughan-pride-and-joy-rhythm",
+      "artist": "Stevie Ray Vaughan",
+      "song": "Pride and Joy",
+      "part": "Rhythm",
+      "genre": "Blues"
+    },
+    {
+      "rank": 100,
+      "id": "100-guns-n-roses-november-rain-solo",
+      "artist": "Guns N' Roses",
+      "song": "November Rain",
+      "part": "Solo",
+      "genre": "Hard Rock"
+    },
+    {
+      "rank": 101,
+      "id": "101-jimi-hendrix-little-wing-main",
+      "artist": "Jimi Hendrix",
+      "song": "Little Wing",
+      "part": "Main",
+      "genre": "Psychedelic Rock"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/mesa-boogie-mark-vii-64728",
+  "tone_id": "64728",
+  "model": "Mesa Boogie Mark VII",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] MESA.MKVII-90W-CH1-CLN Factory Bright Clean - DI.nam",
+      "sha256": "c573001b45974b05db4085d911d5accf6caad22b85337c81ba479aaf8e8d6b64",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] MESA.MKVII-90W-CH1-FAT Factory Country Clean - DI.nam",
+      "sha256": "e1e6329897cfa32e847dcbed54f7935425a65ed1ab37ad10ff4a9a80fab97982",
+      "gear": "amp"
+    }
+  ]
+}

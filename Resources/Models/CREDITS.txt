@@ -1,0 +1,4 @@
+ToneGrid 1.1.38 - Factory pedal library
+151 pedal captures across nine NAM pedals. All current source URLs, authors, calibration metadata and SHA-256 identities are listed in catalog.xml, provenance.json and Licenses/NAM-CAPTURE-INVENTORY.csv.
+Blues OD: 21 creator-authorized MaestrodiMusica Blues Driver BD-2 captures, supplied unchanged with 10.5 dBu input/output metadata.
+Creator permissions are confirmed by the publisher; they do not grant further redistribution rights to recipients.

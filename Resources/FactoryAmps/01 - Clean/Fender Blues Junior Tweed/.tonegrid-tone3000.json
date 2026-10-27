@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "source": "tone3000",
+  "tone_id": 100112,
+  "title": "Fender Blues Junior Tweed",
+  "creator": "gloo",
+  "creator_id": "f5f1f64a-5afb-46fd-8740-b6ab293f08b4",
+  "url": "https://www.tone3000.com/tones/fender-tweed-amp-100112",
+  "license": "t3k",
+  "architecture": "2",
+  "format": "nam",
+  "gear": "amp-cab",
+  "models": [
+    {
+      "file": "Fender Blues Junior Tweed - Clean 01.nam",
+      "sha256": "3aefaa1618e490f57a69e7b0970ea85dbe20ff51f3b6eb5fe2a798760d99431a"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Clean 02.nam",
+      "sha256": "75f42a78feb983fadb86e6a4fab77ed8da824dfba3cc10e2819b90e29ea4824c"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Clean 03.nam",
+      "sha256": "cd442862837bc30c34f6aa5c5dfabf4bdad7038cf242c4b87d662514265dd2ec"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Clean 04.nam",
+      "sha256": "0819497bd7f55fe607d169e80d20ed0d6b2d55bad7cd2f8ff9f6065b9e318407"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Clean 05.nam",
+      "sha256": "d168c9b70fd2fbb137195fe6708733fff6b8a43b3240786dd8e36c24a35e2588"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Clean 06.nam",
+      "sha256": "472640d0d943db36ff0dc0921b992fd66eb3fe92a167fc87e70039a552c7ab37"
+    },
+    {
+      "file": "Fender Blues Junior Tweed - Clean 07.nam",
+      "sha256": "1c9b3e8603ae1ecc9e1f6dd2cc3e3980a5620a3e4fd3bcd56bc5a30f23da7be9"
+    }
+  ],
+  "image": "thumbnail.jpg",
+  "description": "This is the Fender Blues Junior Tweed Amp.\n\nThis is an amazing amp, where most modern amps have a scooped sound profile (likely due to the popularization of humbuckers), while this one retains the warm, thick, and very full sound that works wonders with single coils. This one being a 15W amp really surprised me with how well it sounds compared to amps a million times its size.\n\nI believe amps like this one were used on \"In Utero\", and I'm very lucky to have an opportunity to capture this one. In the next few days, I'll probably upload more takes with this amp.\n\nThis is an amp from a music shop where my friend works, and it was recorded with an SM57 in a DIY amp closet. In post, I just removed a bit of noise and used light EQ and compression to get the best tones. If you're curious, it costs around $850.\n\nToneGrid notes: publisher-authorized redistribution. Clean captures are filed under Clean; Dirty captures under Crunch. Every capture has a publisher-approved +12 dB input listening adjustment, applied automatically with Gain at 0 dB. This is not measured electrical calibration: input/output dBu references remain absent. Full output normalization is measured against the existing Marshall reference. Clean 07 is peak-limited and remains about 0.4 dB quieter on the reference DI. The category and numerical suffix identify the original capture, not measured amp knob positions.",
+  "maker": "Fender",
+  "model": "Blues Junior Tweed",
+  "creator_username": "gloo",
+  "downloaded_at": "2026-10-17T14:26:20.500+01:00",
+  "provenance": {
+    "basis": "Supplied creator sidecar, NAM metadata and filenames",
+    "creator": "gloo",
+    "sourceUrl": "https://www.tone3000.com/tones/fender-tweed-amp-100112",
+    "redistribution": "Publisher confirmed creator permission on 2026-10-17",
+    "inputCompensation": "Publisher explicitly approved +12 dB listening adjustment on all 20 files; not electrical calibration",
+    "artwork": "AI-generated illustration for ToneGrid, not a capture-session photograph",
+    "classification": "Clean filenames -> 01 - Clean; Dirty filenames -> 03 - Crunch"
+  }
+}

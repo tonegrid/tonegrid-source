@@ -1,0 +1,78 @@
+{
+  "source": "tone3000",
+  "creator": "rxguitar",
+  "creator_username": "rxguitar",
+  "url": "https://www.tone3000.com/tones/marshall-studio-jtm-st20h-92048",
+  "tone_id": "92048",
+  "model": "Marshall Studio JTM ST20H",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "JTM20_02_DIR_JMP_Crunch-Ref.nam",
+      "sha256": "997479185e866ca9d3e05b5f0c4dbf1f7019f05ecf00656107f2789a8ecaa66c",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_03_DIR_JMP_Heavy-Crunch.nam",
+      "sha256": "8e8781c117dbd012a9d9292e18fe0faddf89e918287a4cb0ee91f356ca8ae76b",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_05_DIR_JMP_Woolly-Rhythm.nam",
+      "sha256": "c9b1bf1a5f85e49a88043860365b3a2bc1485507a8286652b2abb3830afc9ef8",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_06_DIR_JMP_Crunch-5W.nam",
+      "sha256": "08deb7d521a3b2ac10e9c4d26a993371ed081b42bca4a3f39dfdf67c4f88a468",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_09_DIR_HT_Crunch.nam",
+      "sha256": "3c18cb80bb1547cf507bb4059bf3f761b84fdd68adc0753db5acb2bd2a1c22e9",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_10_DIR_HT_Crunch-Scoop.nam",
+      "sha256": "8d2303048b07a4b77147e99f7ff946b25f268ba6b1833f7cb9789ee17e8d5196",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_11_DIR_HT_HardRock.nam",
+      "sha256": "ee4ac61cab0e96a6df25274c0641b90d537338d4f01e1e819220b88e8d971149",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_12_DIR_HT_Dimed.nam",
+      "sha256": "0f67f836e719d400af2cf027a3214370d5dfc71ce8fb80a2ef9c963f76c37a01",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_15_DIR_JMP_Crunch_Keeley-TS.nam",
+      "sha256": "11369db0da9cf10565b7a1e89731f1afe9e20f84324c9b8d4a5280e3dacb8ae7",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_16_DIR_JMP_Crunch_Keeley-ODR.nam",
+      "sha256": "55a9f442402af3d9cebc5cfca97b94cbbead211dd8142104f6c5997808eecc8e",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_17_DIR_JMP_Crunch_Keeley-Hyb.nam",
+      "sha256": "d823ad2a4102fad5a48f2eb16ff5adf1318dd27c7cae39fc68f8005a97c59dd1",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_18_DIR_JMP_Mid-Focus.nam",
+      "sha256": "fe6e74360b55225189673ebfdcd58a344ced3d19c9e481234c2cb11b6a02e214",
+      "gear": "amp"
+    },
+    {
+      "file": "JTM20_19_DIR_JMP_Pedal-Platform.nam",
+      "sha256": "ff4f1e3c48c9b941314877adaffe2a2ea0fc740f207f9947f19a450ed0c9cf0e",
+      "gear": "amp"
+    }
+  ]
+}

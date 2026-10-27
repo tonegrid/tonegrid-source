@@ -1,0 +1,183 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/mesa-boogie-badlander-50-crunch-channel-115dbu-35162",
+  "tone_id": "35162",
+  "model": "Mesa Badlander 50 - Crunch 11.5dBu",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "MB BL50 Cr G-6 T-3 M-7 B-6 P-5 Ma-3 xSTD.nam",
+      "sha256": "fbb8601bfc5488c5a9ee7675073d4060b0356107d550c69778e0585960bc27a0",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-10 T-5 M-5 B-5 P-5 Ma-3.nam",
+      "sha256": "93b7878cf09b2a63b9f5fb16929606412cb3cddfeae34b3a9d622f36677ff774",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-10 T-5 M-4 B-4 P-4 Ma-3.nam",
+      "sha256": "0540c40e87d3d07dc13d9c016739485ac3013b41ba112c121ff2300a9298dd1a",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-10 T-4 M-6 B-6 P-6 Ma-3.nam",
+      "sha256": "875789bdab1c569a06f5f83205552541822d12c8857b124e3004b013a9fe7c95",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-10 T-4 M-5 B-5 P-5 Ma-3.nam",
+      "sha256": "0a882bced168bbedc307248d0c943f75a3d004834a15972221669c44bdbe3076",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-10 T-4 M-3 B-4 P-5 Ma-3.nam",
+      "sha256": "bc7c1ab7c0e9e85d228bc30739a0bf2bb8b0d1e26df2e4c60273ef9eaafdf8bc",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-10 T-4 M-2 B-6 P-4 Ma-3.nam",
+      "sha256": "7e975e717dd15e2178e1fce6eac9c39106507416c11c495f97ae626f22b6e3ad",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-10 T-2 M-7 B-6 P-5 Ma-3.nam",
+      "sha256": "38ccadc65c9d0d3d11e1dfa15366f87f8f1147cb2902e5fc414acb755494e534",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-8 T-5 M-5 B-5 P-5 Ma-3.nam",
+      "sha256": "4e9d55f340905298ae5d4af0f4ec5016761a3dff36399880362aaa31c4ba0704",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-8 T-4 M-6 B-6 P-6 Ma-3.nam",
+      "sha256": "eb4fe182c5a2293b265087444dab541760d1cb1167b752c92f569dcd97d72290",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-8 T-4 M-5 B-5 P-6 Ma-3.nam",
+      "sha256": "fdac99482a4a990a8fab62c791e1b7acbed6db1b404521717904d9fbe55cc848",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-8 T-4 M-4 B-5 P-6 Ma-3.nam",
+      "sha256": "1e7d4b78d44e5d50a0a8e0e66df474b5b1857f7fe497d123e56cb46ff99d47d2",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-8 T-4 M-4 B-5 P-4 Ma-3 xSTD.nam",
+      "sha256": "aa85440a572af787c4b657493cb654b75074f02d976767bd6750b4c52c646af1",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-8 T-4 M-2 B-6 P-4 Ma-3.nam",
+      "sha256": "15ff4a67d8016aa96904f513dfcbab64157ce7bfdec004cf05ed17c6e722cd53",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-8 T-2 M-7 B-6 P-5 Ma-3.nam",
+      "sha256": "f35d42960841e468cefeb965453c189edf978bf1919edcf4d1b8d1f8c7c38f52",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-7 T-5 M-6 B-6 P-6 Ma-3.nam",
+      "sha256": "184e2f3130db0a61dd91c9c6c34d7d9dd3ed7faa7ae42a27dd37b887d2e724ea",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-7 T-5 M-5 B-5 P-5 Ma-3.nam",
+      "sha256": "885798923c505af6b4b4eaedf8cc5971564c34af1983e1ebe1be2af73551951c",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-7 T-5 M-4 B-4 P-4 Ma-3.nam",
+      "sha256": "22313eb969a821edea59b0b3e3da2a0df9f4f683f2f515937cd847fcf2537de6",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-7 T-4 M-4 B-5 P-4 Ma-3.nam",
+      "sha256": "01e01fe45c81aea09426a6c5dd7dbefc814f1e2891503a8238c313439c3e9a34",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-7 T-4 M-3 B-4 P-5 Ma-3.nam",
+      "sha256": "662c357720fee6b09173ee5607356313af44170bb48f058d7b79e21993103975",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-7 T-4 M-2 B-6 P-4 Ma-3.nam",
+      "sha256": "bb04d6c8fac70e2240579792b544f5bb0e4b58969b5e54368adf5ba2c701e9f8",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-7 T-2 M-7 B-6 P-5 Ma-3.nam",
+      "sha256": "68c5fc434014b51cf59af50c9ec7530b449b4ce9132bf9af84357b06e4cafc67",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-6 T-5 M-4 B-4 P-4 Ma-3.nam",
+      "sha256": "648c1071f68dfc9e2a8de031aa80d6627086a4aada4adfdc2511648f62f8f1a4",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-6 T-4 M-4 B-5 P-4 Ma-3.nam",
+      "sha256": "046372a3b2800a2af4b04f04027b6e9d62eae4024f6ec3e0d9752ce62e9450b4",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-6 T-4 M-5 B-5 P-6 Ma-3.nam",
+      "sha256": "1632e6c49b3e2bc9b820af151b6726a915a1334c079ea8a77a90c223422ed651",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-6 T-4 M-3 B-4 P-5 Ma-3.nam",
+      "sha256": "d277b084467df6f7f2ac68143f4e442f467a7855bd954bdb0315b5cba11865b4",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-6 T-2 M-7 B-6 P-5 Ma-3.nam",
+      "sha256": "a919ac1619636ee18bf94ac53ef43fff000f75585189b80fd4642e19ac870e9e",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-6 T-4 M-2 B-6 P-4 Ma-3.nam",
+      "sha256": "dc695eff92c44190de54ecfba1fcca39860fbac8849ee9d18ddc3402f9b1d435",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-10 T-4 M-4 B-5 P-4 Ma-3.nam",
+      "sha256": "92b2000680e1aabf752b86b45fabb5e1cf11824c73aebec6f50e69ae2b2fd6bc",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-8 T-5 M-4 B-4 P-4 Ma-3.nam",
+      "sha256": "b1f7129a1f000a7ec6bed2c604b0b94f40435ea5a728d5cdcf26855ae0456479",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-8 T-4 M-3 B-4 P-5 Ma-3.nam",
+      "sha256": "71cc1a322a9c12afc5c53a1e053171876f9a6d031a4257ad718952cc3672a555",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-7 T-4 M-5 B-5 P-6 Ma-3.nam",
+      "sha256": "596773dad78c1b180fda1a395efb1200db80909754f783d5b39cc9ba68cc235f",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-6 T-5 M-5 B-5 P-5 Ma-3.nam",
+      "sha256": "a742b549d9a6555da146fe3e7049fb25b06218c4197562684dc0e09930541dd1",
+      "gear": "amp"
+    },
+    {
+      "file": "MB BL50 Cr G-6 T-4 M-6 B-6 P-6 Ma-3.nam",
+      "sha256": "85c487735d2349448084fc0fdccb4e25c28396f3191d9283b5db11cf97683a2a",
+      "gear": "amp"
+    }
+  ]
+}

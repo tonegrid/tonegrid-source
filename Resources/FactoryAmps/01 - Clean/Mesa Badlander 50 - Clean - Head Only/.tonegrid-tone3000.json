@@ -1,0 +1,88 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/mesa-badlander-50-clean-channel-96851",
+  "tone_id": "96851",
+  "model": "Mesa Badlander 50 - Clean",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "DI MB BL50 CL G-3 SR Nrm M65 8dB.nam",
+      "sha256": "dc69fec29fca0537e2742f7e39d80b59e781c8ed652f4bb36134a278fe9ba946",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 SR Nrm TV 8dB.nam",
+      "sha256": "87bbbf8befc5b96a951671c1bd3251a9434d5b50a1926528af3463437d962797",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 SR Nrm SRL 8dB.nam",
+      "sha256": "a40642a9162bc77960e33dadb4eee4e9f50b5bf0adebc8479d660ed25738e481",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 SR Vib M65 8dB.nam",
+      "sha256": "45337e602b18d38cfa95d2c4f471b824cd9491e49cca3dfddf2036b2eb97a66f",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 SR Vib TV 8dB.nam",
+      "sha256": "f38ccb01dcce250b14f6d2751e4a600b314457cac47d9e0b02fd0e5c09020bbd",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 AC Nrm M65 8dB.nam",
+      "sha256": "922397867477f4c58d040c0f45f95902b84c5865232eba42bbd941a884d54cbf",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 AC Nrm TV 8dB.nam",
+      "sha256": "8ec8de9d7dca525f4ec227bb4f45e389c3753a25866821411b0481004f0b2141",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 AC Nrm SRL 8dB.nam",
+      "sha256": "d5f7af63c2d4bfeb9e0115f951b824dd776d466bf91b7c23393f4ae691c42217",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 JTM M65 8dB.nam",
+      "sha256": "9a5790d73742b371a8f36806fba6204d76cbabbd79850b335c3e83a2334509ea",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 JTM TV 8dB.nam",
+      "sha256": "eacd222870240aefa60ad7e05fb35b4cb3d2082e9d26a575e18f4ef3136aa1c7",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 DeVille M65 8dB.nam",
+      "sha256": "e1880b3bb96c94a2bab525179e90980ce50772290c0307bea65d8c2085dca7c0",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 DeVille TV 8dB.nam",
+      "sha256": "3758badafe58bbf2ce2e637368d576715054e95b927190f648dced8b8c506b03",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 DeVille SRL 8dB.nam",
+      "sha256": "a0c7e716940b0cbfb0c341d8ee8584bb283ee6423c1a7f5ebb343e551506c196",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 SR Vib SRL 8dB.nam",
+      "sha256": "e653a847d22392d474b34dbd79db7a9911db02ec7f8dec21a2ec30c887e6e224",
+      "gear": "amp"
+    },
+    {
+      "file": "DI MB BL50 CL G-3 JTM SRL 8dB.nam",
+      "sha256": "b869ebffdadc6ca93af2b016822c9eda1c1d25315c101878c04f841cedb7ed78",
+      "gear": "amp"
+    }
+  ]
+}

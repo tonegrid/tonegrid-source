@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PedalRig version="17" name="Jimi Hendrix - Hey Joe" presetId="tonegrid-starter-142-007">
+  <OutputDSP version="7" ampNormalizationEnabled="1" spreadEnabled="0" offsetMs="8.0" wobblePercent="25.0" crossoverHz="130.0" wobbleEnabled="0" crossoverEnabled="0" diffuseEnabled="0">
+    <Reverb version="1" enabled="1" type="1" timeSeconds="1.100000023841858" preDelayMs="18.0" color="69.0" mixPercent="23.0" />
+    <Pitch version="1" mode="0" semitones="0" dry="100.0" down="0.0" up="0.0" />
+    <Mod version="1" enabled="0" type="0" rateHz="0.800000011920929" depth="25.0" level="20.0" />
+    <Delay version="1" enabled="0" timeMs="320.0" feedback="0.0" mix="0.0" />
+    <AmpEq version="3" bassDb="0.0" midDb="4.099999904632568" trebleDb="2.700000047683716" enabled="1" lowCut="1" highCut="1" lowCutHz="80.0" highCutHz="8000.0" lowMidHz="250.0" lowMidDb="0.0" lowMidQ="1.0" presenceHz="3000.0" presenceDb="4.0" presenceQ="1.0" depthDb="0.0" depthHz="100.0" />
+  </OutputDSP>
+  <AmpSource type="NAM" file="02 - Edge/Marshall 2555X Silver Jubilee Reissue - Head Only/JUB2555X_03_DIR_CLN_50W_EdgeBreakup.nam" bytes="296011" sha256="8b4b8e9eafd3514e39819d69790bee00457c67856e0818b8bcd2821d3f35710b" gainDb="0.0" volumeDb="4.0" />
+  <Input gain="0.0" threshold="-74.0" gate="0" />
+  <Pedal id="0" preset="0" enabled="0" input="-18.0" mix="1.0" output="2.0" ratio="2.0" model="algorithm-v1" />
+  <Pedal id="1" preset="2" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="ac661457216323fca615551d78830155cf79e95642704d03a0e93e16d2aa41b1" />
+  <Pedal id="2" preset="4" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="bf87a558598bea0a16789e2631993d01d12eaa0d0ff587ac355d3216659e747d" />
+  <Pedal id="3" preset="2" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="8018b901a7d0744250615537ded839d62b52b7a91c24b7429ed75f34e8ec373b" />
+  <Pedal id="4" preset="3" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="d521e42b8e2d4f304deaa88317e39aa1e47e43b5a96e80e150e09809cee8c4fd" />
+  <Pedal id="5" preset="11" enabled="1" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="15436cfc5dca87dd59a4b45e07b13018153de7d78050f3d2afdf6448c46d58bb" />
+  <Pedal id="6" preset="0" enabled="0" input="1.0" mix="1.0" output="0.0" ratio="2.0" model="algorithm-v1" />
+  <Pedal id="7" preset="2" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="7c41c8d87027b4dc15ff8a3e31d99d4030b01a2c7c8245efdfd0bb5f76b87b9c" />
+  <Pedal id="8" preset="10" enabled="0" input="-8.899999618530273" tone="0.0" output="0.0" ratio="2.0" model="68bca2080beb3ec3316f44931f6d1f56ad9137b5fe5ecead8082c4974ce668c1" />
+  <Pedal id="9" preset="0" enabled="0" input="0.0" mix="1.0" output="0.0" ratio="2.0" wahSensitivity="55.0" wahRange="75.0" wahDecay="160.0" model="auto-wah-v2" />
+  <Pedal id="10" preset="10" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="83f35d7e0825e48e8899ea07ad06a0503bee68c50575559d5307dac683d7d031" />
+  <Pedal id="11" preset="12" enabled="0" input="0.0" tone="0.0" output="0.0" ratio="2.0" model="6f6035cf5e0315e29357316fab968bb1a0fe21f7d8216679c39997684c4cbe31" />
+  <Pedal id="12" preset="0" enabled="0" input="0.0" mix="1.0" output="0.0" ratio="2.0" eq0="0.0" eq1="0.0" eq2="0.0" eq3="0.0" eq4="0.0" eq5="0.0" eq6="0.0" model="graphic-eq-v1" />
+  <PresetMetadata sourceToneBankId="065-jimi-hendrix-hey-joe-lead" creator="ToneGrid" />
+  <CabinetIR version="1" file="4x12/Marshall 2551AV Celestion G12 Vintage Cab/2551AV_SM57_Blend_Short.wav" sha256="e2d4456e6ffe659a3d2fb39f201baf8480172666d06e4c3a8b040ed84b3c7748" locked="0" bypassed="0" />
+</PedalRig>

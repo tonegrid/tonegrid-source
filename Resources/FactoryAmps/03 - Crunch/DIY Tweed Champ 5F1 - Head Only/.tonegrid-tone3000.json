@@ -1,0 +1,103 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/diy-tweed-champ-5f1-head-115dbu-5101",
+  "tone_id": "5101",
+  "model": "DIY Tweed Champ 5F1 Head (11.5dBu)",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "5F1 Hi V-7 V1A Cap-none.nam",
+      "sha256": "77ee6bab350abc9757f4c5262bfa73549fc9f5e3386da789c49d40d01b041010",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-10 V1A Cap-none.nam",
+      "sha256": "533cf27ddc873f2be7d571c4e5e49c811c2d3f724f2d6b0defab08dd5f31577b",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Lo V-8 V1A Cap-25uF.nam",
+      "sha256": "985ec1b77bd4c7a485707debedc6141965e33c81646ed797b71820ecf847c5ff",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-8 V1A Cap-25uF.nam",
+      "sha256": "0acbdd760c37410bd01353e80bf8d9b24f8f71dcf862af638cf808b5d292d84e",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Lo V-6 V1A Cap-None.nam",
+      "sha256": "e2f1b8616c1c45d2d0ca62640522bd2bf19b546c40f1c4a4cddaa738b6c11dde",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-7 V1A Cap-25uF.nam",
+      "sha256": "c19a45ce2afff06fd2da998f42e6dea2072dadae51bfb7666b94ef81e8e604dd",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-6 V1A Cap-None.nam",
+      "sha256": "e717258dac762167ff8885311694f8479afe8bc4c3f6874158f3a8cde4e85731",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-10 V1A Cap-25uF.nam",
+      "sha256": "be9d742f903639a44802c131469b62e9fe18fb51e081fa25ed232f0babddfe9f",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-9 V1A Cap-25uF.nam",
+      "sha256": "2f85b16d3bb34a9a0e8ffea96870af064d4d6e53130e10c90b1cf36d42a7efbc",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Lo V-6 V1A Cap-25uF.nam",
+      "sha256": "ab7ecd2590ee41c21eb8d21e6c5cac31b1b4da516957c2067c5b5e16731de4b9",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-9 V1A Cap-None.nam",
+      "sha256": "38705834112ef9e051d4f5c521d14a0f74fa8469beb466ad95f4f49ca59e60fc",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-6 V1A Cap-25uF.nam",
+      "sha256": "a7b3c9ca5aa224ed4aa326ce6c717f2f84fa7dcaee8aabbbe9d8487d557b6211",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Lo V-10 V1A Cap-None.nam",
+      "sha256": "963723662a499b8024c8436cd55743b8873a8dd947b76e358975e5fc3f88382f",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-5 V1A Cap-25uF.nam",
+      "sha256": "7a39ac23bb09ddd600a06c9477c769e87ba26d025452cc411dc90cd4c1b13900",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-8 V1A Cap-None.nam",
+      "sha256": "3e0a3c0d7d22c392a71d12054aa06bd3b572e9705e59b6d1e0fa54f465162bd5",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Lo V-8 V1A Cap-None.nam",
+      "sha256": "9dab10fcf0c79df128826dea9ea2ec5d2bf963dd02bb8f54d939478c322659d4",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Lo V-10 V1A Cap-25uF.nam",
+      "sha256": "0583a667e9ad29a3a12569d0254ea9887cc100714cf284e86655e533d4af9b40",
+      "gear": "amp"
+    },
+    {
+      "file": "5F1 Hi V-5 V1A Cap-None.nam",
+      "sha256": "d35412a4fa6c61ce37f6d175cb0782c381b98c2223c14d683101ff0b071163fc",
+      "gear": "amp"
+    }
+  ]
+}

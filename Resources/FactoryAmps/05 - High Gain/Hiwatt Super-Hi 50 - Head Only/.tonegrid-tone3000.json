@@ -1,0 +1,42 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/hiwatt-super-hi-50-64577",
+  "tone_id": "64577",
+  "maker": "Hiwatt",
+  "model": "Super-Hi 50",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Hiwatt Super-Hi 50, Fortin-designed 50W EL34 amplifier, captured by 2dor. AMP captures contain the complete head without cabinet or microphone. PRE and POW are separate preamp-only and poweramp-only utilities, not complete heads. Mesa 4x12 Oversized Straight used as load. Original calibrated NAM bytes retained. No exact cabinet IR association is asserted.",
+  "models": [
+    {
+      "file": "[AMP] HWAT-SUPERHI50 Scooped Up+ - DI.nam",
+      "sha256": "012b3341d7f3f5c3c591e687dc16726c19d8fa845db5b3f1ff264d31dc088d0a",
+      "gear": "amp",
+      "name": "[AMP] HWAT-SUPERHI50 Scooped Up+ - DI",
+      "categoryRationale": "Gain 6, SuperHi on; same setting as the existing High Gain full rig."
+    },
+    {
+      "file": "[AMP] HWAT-SUPERHI50 Bovine Beheading II - DI.nam",
+      "sha256": "e1b40892ed730eaccf0e11a7b913f667aed7c18dc97b49c074c20b56d6f50e58",
+      "gear": "amp",
+      "name": "[AMP] HWAT-SUPERHI50 Bovine Beheading II - DI",
+      "categoryRationale": "Gain 6.5, SuperHi off; same setting as the existing High Gain full rig."
+    },
+    {
+      "file": "[AMP] HWAT-SUPERHI50 Maxwatt+ - DI.nam",
+      "sha256": "e2a0da40947040e2fc7b933a242a12a789d6071816d63909f29dcfa9805e1425",
+      "gear": "amp",
+      "name": "[AMP] HWAT-SUPERHI50 Maxwatt+ - DI",
+      "categoryRationale": "Gain 7, SuperHi on; same setting as the existing High Gain full rig."
+    },
+    {
+      "file": "[AMP] HWAT-SUPERHI50 Bovine Beheading II+ - DI.nam",
+      "sha256": "bec843965c1ac1d6f0f3926d8caced07999c8ffb82021d750a3bf31701337221",
+      "gear": "amp",
+      "name": "[AMP] HWAT-SUPERHI50 Bovine Beheading II+ - DI",
+      "categoryRationale": "Gain 6.5, SuperHi on; same setting as the existing High Gain full rig."
+    }
+  ]
+}

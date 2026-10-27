@@ -1,0 +1,18 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/diezel-vh4-64455",
+  "tone_id": "64455",
+  "model": "Diezel VH4",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] DiZLVH4-CH4 Lead the Way - DI.nam",
+      "sha256": "a23b2fd69249f3d89f052de7fb6bb8e0f6af3c21e6159e31706ba1ebf0e2ce6c",
+      "gear": "amp"
+    }
+  ]
+}

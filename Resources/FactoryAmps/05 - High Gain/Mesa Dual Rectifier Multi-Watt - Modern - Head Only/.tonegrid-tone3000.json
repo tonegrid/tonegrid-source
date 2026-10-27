@@ -1,0 +1,193 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/mesa-boogie-dual-rectifier-mw-modern-mode-28128",
+  "tone_id": "28128",
+  "model": "Mesa Dual Rectifier Multi-Watt - Modern",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "MBDR MW Red Mdn G-12_00 - 6.nam",
+      "sha256": "1c53afba512bd6b9143b9539f29fcf8ee5d6a405bfe045c9ce78213ca6d896d1",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-2_00 - 6.nam",
+      "sha256": "19d1d588f88a4f50ed4abb8759c910604f8455fd9abf1654757c528edd8ad0ca",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-1_00 - 6.nam",
+      "sha256": "e3ca7b98b69e26980893571486283865acbcf8d62bff4eb96dca5545ca2fc782",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-12_00 - 6.nam",
+      "sha256": "14a5d92ae3bc54a3153375f9595fd66b65c8989398fcd6664a74ef8028d9c802",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-1_00 - 6.nam",
+      "sha256": "0e8b5ebb87c207006b01f5d07b0522e83e63929680bf3e37aed85e2908d4f973",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-12_00 - 5.nam",
+      "sha256": "9dd1583f517da9cb8e57222029d5f085f9b39f06d04c56f19b4e9dd9b1b21916",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-12_00 - 4.nam",
+      "sha256": "101019a12a8f4090da2a4b9d7154ff7fe5248ef6723ede65de8fe1e9dae0e482",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-12_00 - 3.nam",
+      "sha256": "645a5cf33f058143777017a503b79d54efaac69b87efdba98bb595c351941b3c",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-12_00 - 2.nam",
+      "sha256": "d5d90a2d3cf9e92901b448b5aae374601491ea94eaaf5f64bd1954a4fb085814",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-2_00 - 5.nam",
+      "sha256": "6eb3b4da1e2186750aba29013ffa6d864c96078ed570677147f0d28eacb9a913",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-2_00 - 4.nam",
+      "sha256": "8defc032fbf0c83191988f21546b49424d18ee53b71032600c7bede551708b67",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-2_00 - 3.nam",
+      "sha256": "c2dc394d4c60259401a1a830cf35796f2e0484c3bd581580e276d4c57f133d43",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-2_00 - 2.nam",
+      "sha256": "f336d6a9970b73035070d1b34ffb6e649ad07acd023368bf70059bd13e10611b",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-1_00 - 5.nam",
+      "sha256": "967f1932ad7634b81ed278231db3a48102c57a443211095508a3ed72db912899",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-1_00 - 4.nam",
+      "sha256": "ae8d762143f78f061cee0e968717f1a7ffde5e3e8a7791641b276185f9a9e854",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-1_00 - 3.nam",
+      "sha256": "76cfa51c0818c7492391e139e6f70145ba3ad5cf76ce7fcae055b29538c7c59a",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-1_00 - 2.nam",
+      "sha256": "7eb5eddd48da74a4dfd5cd456f2fcde599808881e664f6b65ddebfbdfb871b50",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-1_00 - 1.nam",
+      "sha256": "0922a6a857b63b3b23120c4a8f4f91cd05c14280c6e6dd4c83e52d2b58f81fde",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-12_00 - 4.nam",
+      "sha256": "56028c96e37821c2d72b912590b2ff33e8f8c3ce420c8abc94943ad5de44275e",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-12_00 - 3.nam",
+      "sha256": "0be339fefaffc45248777c905db2ace6411b2903729a3d79db031ba077e8fc3b",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-12_00 - 2.nam",
+      "sha256": "f404e951814840e358ece5035842092d41ab342c01f1856d6ce1051015de9ba1",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-12_00 - 1.nam",
+      "sha256": "53443da8fb6e004b82ee75f804a4864503a3b2c00e3c716ab6c1ed7ca2c904f5",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-2_00 - 4.nam",
+      "sha256": "126522f1906968fb6b04647622707836ce3f810b64758087d639d5e76414fa37",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-2_00 - 3.nam",
+      "sha256": "108267148e0ed2ac1f4af4406ea997057a3721d0fbadd5c44fedb051fbe1e2b0",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-2_00 - 2.nam",
+      "sha256": "92e4f955fa028dc89322bc937db08d82968a506705c697357d7317fe81660047",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-2_00 - 1.nam",
+      "sha256": "9ffbe719ec24677ace81a4ac9903128ffb43a712e57946e50638f4b93ec26e2a",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-1_00 - 5.nam",
+      "sha256": "2de33d9985bd2c616af6b01556669d9f0a53d73c5791e12f035700a213d84549",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-1_00 - 3.nam",
+      "sha256": "b90d3a93f9fd1b363bc2b532a1ad0342ea3b8a18ee415f31f54e48634ca873de",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-1_00 - 2.nam",
+      "sha256": "5970eac7b75f3ed20b712a17e455dd84a64fe74a1e4039b4f7cc2d6b1c9fc648",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-1_00 - 1.nam",
+      "sha256": "a078208a89376af65d9ec37b30e9c520f85e233d2163a878247c11f54a2c52a3",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-2_00 - 6.nam",
+      "sha256": "8e570152da959dd85cd479d6211068afc84940a1a64f513ef25bd9c967dabd94",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-12_00 - 1.nam",
+      "sha256": "8c897312b493b40fd70e5c5ef46e072bd0da74db00cb68d4fbfaf46506c7f525",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Mdn G-2_00 - 1.nam",
+      "sha256": "786eeed0c1ab518d2819d1dfec0c9b2c95b60e58b20e1756a4c702c9b60a7b66",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-12_00 - 5.nam",
+      "sha256": "084996fe708fc0ef31a49f5bd166b69f5efbb210002e7692a45d14f5845cee30",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-2_00 - 5.nam",
+      "sha256": "9072911f7aa7b1a9a7a849d681ab89ffd10e4ddb1a1e7e71250b7244f88de64d",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Mdn G-1_00 - 4.nam",
+      "sha256": "50741f03dfdcfde353b4db5fa1f80b1c7f7bc2172545ebc003b15d51a3af6aaa",
+      "gear": "amp"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "webview2": {
+    "version": "1.0.2903.40",
+    "url": "https://api.nuget.org/v3-flatcontainer/microsoft.web.webview2/1.0.2903.40/microsoft.web.webview2.1.0.2903.40.nupkg",
+    "sha256": "ef128016dd1e51c59178c827ed5b8aa3322c57afa8675d930f8109505542ad74",
+    "destination": "vendor/webview2/Microsoft.Web.WebView2.1.0.2903.40"
+  }
+}

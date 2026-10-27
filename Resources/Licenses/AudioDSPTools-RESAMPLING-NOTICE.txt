@@ -1,0 +1,5 @@
+AudioDSPTools by Steven Atkinson; MIT license in AudioDSPTools-LICENSE.txt.
+Source: https://github.com/sdatkinson/AudioDSPTools
+ToneGrid uses the existing vendored Lanczos ResamplingContainer (float, stereo, width 12), following the whole-chain boundary design in TONE3000 ChainDomain.h.
+The source retains the iPlug2 zlib notices, Cockos WDL notices and the Surge Lanczos author license exception. These source files are included in the corresponding source archive.
+ToneGrid adaptations: callback passed by const reference to avoid audio-thread copies; fallback copy direction; standard alignment declarations for all supported compilers. The device adapter is independent ToneGrid code. No oversampling is enabled.

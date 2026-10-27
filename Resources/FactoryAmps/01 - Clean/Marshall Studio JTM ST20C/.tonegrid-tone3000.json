@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "source": "tone3000",
+  "tone_id": 92047,
+  "title": "Marshall Studio JTM ST20C",
+  "creator": "rxguitar",
+  "creator_id": "0ce9d9ac-8636-4c41-b0e9-0fd5b5f1b3ee",
+  "url": "https://www.tone3000.com/tones/marshall-studio-jtm-st20c-92047",
+  "license": "t3k",
+  "architecture": "2",
+  "format": "nam",
+  "gear": "amp-cab",
+  "models": [
+    {
+      "file": "JTM20_01_FULL_JMP_Clean.nam",
+      "sha256": "19d88f49f63e0903db7594093446db7797d3e396615eafe1589f3e072ba62501"
+    },
+    {
+      "file": "JTM20_07_FULL_HT_Clean.nam",
+      "sha256": "9daec6234db6b199bda11637a475ca3666686a3f5bf2ea2fc4c4532191f90de5"
+    },
+    {
+      "file": "JTM20_13_FULL_NRM_Deep-Clean.nam",
+      "sha256": "418b37a0d7c9c090a50c45df38f2acc7bba8c4226062d22c98eaa353087e18b6"
+    },
+    {
+      "file": "JTM20_19_FULL_JMP_Pedal-Plateform.nam",
+      "sha256": "1a4d45f68019e27b7049d4afad546f9d6395573ef1d2f76a799106b0cf6e59aa"
+    }
+  ],
+  "image": "thumbnail.jpg",
+  "description": "🔊 This pack contains 19 Neural Amp Modeler (NAM) profiles captured from a Marshall Studio JTM ST20C combo using a controlled, studio-grade reamping workflow. The goal is to deliver accurate, touch-sensitive, and consistent profiles reflecting the real dynamic behavior of the JTM45 circuit, available in both Direct and Full Rig (mic'd) formats.\n\n🎚️ To maintain tonal coherence across the collection, Presence values were fine-tuned specifically for each gain level to tame harsh high frequencies, while keeping microphone placement identical throughout the session.\n\n🎛️ Gain staging & Calibration\nThese profiles were captured using mathematically verified reference levels:\n- Input Calibration (Send): +7.5 dBu\n- Output Calibration (Return): +3.8 dBu\n\n🔀 Studio-grade Reamping Chain\nThe signal is routed through a precision reamping chain designed to preserve pure guitar impedance, attack dynamics, and transient integrity:\n- Interface: MOTU M4 (ESS Sabre32 Ultra DAC line out @ +16 dBu)\n- Reamp Box: Radial X-Amp (Active Class-A buffer & transformer isolation)\n- Cabling: EBS High Performance shielded, low-capacitance patch cables to eliminate noise and capacitive loss.\n\n🎙️ Microphone setup (Full Rig captures)\nThe combo's internal Celestion G12M-65 Creamback speaker was captured using a Sennheiser e906 set to flat voicing. \n- Position: Placed 3 cm from the grille cloth, targeted directly at the cap edge (dome/cone junction).\n- Angle: Angled slightly off-axis toward the outer cone to smooth out aggressive high-end fizz while retaining punchy midrange bite and transient definition.\n- Preamp: MOTU M4 ultra-clean preamp for transparent dynamics and low noise.\n\n📂 Pack structure (19 profiles — available in DIR and FULL)\n\n🟢 #01 to #06 — Jumped Channel Versatility\nInputs bridged with EBS patch cabling (Loudness 1 + Loudness 2)[cite: 4]. Covers warm jumped cleans, reference vintage breakup, fat woolly rhythms, and 5W attenuated crunch.\n\n🟡 #07 to #12 — High Treble Channel (Lead / Plexi)\nPure High Treble input[cite: 4]. Ranges from pristine edge-of-breakup chimes (#07–#08) to classic rock crunch (#09–#11) and full-tilt vintage roar with \"Plexi Dimed\" (#12).\n\n🔵 #13 & #14 — Normal Channel (Deep & Sag)\nWarm, dark cleans and vintage power-tube sag characteristics.\n\n🟣 #15 to #17 — Keeley Noble Screamer Boosts\nJumped crunch pushed by the Keeley Noble Screamer (TS and ODR hybrid analog circuits) for tight modern lead and rhythm articulation.\n\n👑 #18 & #19 — Custom Voicings\n- #18 Mid-Focus Crunch: Punchy, midrange-forward crunch dialed to cut through dense band mixes.\n- #19 Pedal Platform Deep: High-headroom clean with tailored low-end and tamed presence, voiced specifically to take high-gain distortion pedals cleanly.\n\n🎯 Purpose of the pack\nDesigned for guitarists seeking an authentic, responsive vintage Marshall experience with zero guesswork. Load the Full Rig profiles to play instantly, or pair the Direct captures with your favorite IRs.",
+  "maker": "Marshall",
+  "model": "Studio JTM ST20C",
+  "creator_username": "rxguitar",
+  "downloaded_at": "2026-10-16T22:03:34.342+01:00",
+  "provenance": {
+    "basis": "Creator pack description and supplied NAM metadata",
+    "sourceUrl": "https://www.tone3000.com/tones/marshall-studio-jtm-st20c-92047",
+    "retrieved": "2026-10-17",
+    "artwork": "Illustrative thumbnail generated for ToneGrid; not a capture-session photograph",
+    "classification": "Publisher classification from filenames and creator gain-stage descriptions"
+  }
+}

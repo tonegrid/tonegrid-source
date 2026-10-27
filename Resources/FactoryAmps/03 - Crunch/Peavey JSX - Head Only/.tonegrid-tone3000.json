@@ -1,0 +1,93 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/peavey-jsx-amp-head-67214",
+  "tone_id": "67214",
+  "model": "Peavey JSX - Amp Head",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "DI JSX Cr G-8 T-7 M-4 B-6 Ma-1 P-3 R-5.5 SRL.nam",
+      "sha256": "1a33a139a930be22fc7e9df141961cf165fb90695a41834e2102be9a74f01c93",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-8 T-7 M-4 B-6 Ma-1 P-3 R-5.5 Fat SRL.nam",
+      "sha256": "fa63dfed8e99a334a491598da6cac8b0466af754d5542786c17a17f353e08616",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-8 T-5 M-5-B-5 Ma-1 P-3 R-3 SRL.nam",
+      "sha256": "9ae5d4b20390cf48b5f34e352a7fafa49b803ddbc0ee65925da822769f2283c8",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-8 T-5 M-5-B-5 Ma-1 P-3 R-3 Fat SRL.nam",
+      "sha256": "674191c29d394e6305880db6b96be0670bb75a360723efc47652e79196707ce0",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-6 T-4.5 M-6 B-6.5 Ma-1 P-4 R-3 SRL.nam",
+      "sha256": "fe2ca46936fe8d24dbf47cea804e1706d98a32ce2f6f4df5379b0c5748bb4b40",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-6 T-4.5 M-6 B-6.5 Ma-1 P-4 R-3 Fat SRL.nam",
+      "sha256": "ea6606579bf40358a255b106a3a7c0d89f872b8c0285b4a93ca3fd038da0bdd6",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-6 T-6 M-4 B-6 Ma-1 P-4 R-5 SRL.nam",
+      "sha256": "ecba0e23b93405f2b138226e7b2e87987030042e7e768ce479f26908a1d41292",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-6 T-6 M-4 B-6 Ma-1 P-4 R-5 Fat SRL.nam",
+      "sha256": "cd072d4053757226b35a1864c463e5843baa21efcd7595c0094adc6a02e4f781",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-6 T-6 M-5 B-6 Ma-1 P-2 R-1 SRL.nam",
+      "sha256": "2b60a5702ff6cd79fdaefb59c9acce53aa5bb530400323a097f6e91bfa982f91",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-6 T-6 M-5 B-6 Ma-1 P-2 R-1 Fat SRL.nam",
+      "sha256": "a34cd47e518c7e4a0300e5c3b12c8fbfbdc5fd17c3e47248dab65772f1d2b4b1",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-6 T-6 M-6 B-5 Ma-1 P-2 R-3 SRL.nam",
+      "sha256": "0486fe2c926d5a69b1cf1967193f8278382b60ea903c54f97d899f4a7b7cba8f",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-6 T-6 M-6 B-5 Ma-1 P-2 R-3 Fat SRL.nam",
+      "sha256": "768be93ca9cc7ba8aaa122de3d1be6ff2bee0a9ff4b66b3d8bad6c4dfcc7d9aa",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-6 T-5 M-7 B-4 Ma-1 P-4 R-4 SRL.nam",
+      "sha256": "7f5bf8cb7673d49e67391b66bfe3b52635d87588bde7e4373aa5a4134cf0ba5b",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-6 T-5 M-7 B-4 Ma-1 P-4 R-4 Fat SRL.nam",
+      "sha256": "064a644fc7dcd36b1729e6c46293bd39585cd3f3b07886b8b82d7b39c2868b9e",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-4 T-5 M-4 B-6 Ma-1 P-3 R-5 SRL.nam",
+      "sha256": "498babd7ee4abc02cef93358ab281c9b70487bed912072b157ecbef74261e983",
+      "gear": "amp"
+    },
+    {
+      "file": "DI JSX Cr G-4 T-5 M-4 B-6 Ma-1 P-3 R-5 Fat SRL.nam",
+      "sha256": "bd26d141b5de3a7d0342996bcd6b089a0e0a804bff8a5b1961563cc4ced61d3a",
+      "gear": "amp"
+    }
+  ]
+}

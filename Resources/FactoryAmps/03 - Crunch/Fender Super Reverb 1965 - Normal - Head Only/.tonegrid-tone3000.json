@@ -1,0 +1,253 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/fender-65-super-reverb-reissue-normal-channel-68651",
+  "tone_id": "68651",
+  "model": "Fender Super Reverb 1965 - Normal",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "BFSR Nrm V-7 T-5 B-1 SRL.nam",
+      "sha256": "f55ed7863e5c986a7a91ade268b1ac40a35d05daad06a4f166556ccc488d62ef",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-5 B-2 SRL.nam",
+      "sha256": "cc037e9c833b834be033b0880477863d4e881aa2863444ca8fd0a616f964f149",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-6 B-1 SRL.nam",
+      "sha256": "29d926c21c26539a43d2a3e1129b925149d1e329f4bda0080347725d7b8efe7c",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-6 B-2 SRL.nam",
+      "sha256": "1bfc6681b141a9717a6d516ce18ced55b89d70c87219d869044517ae404efbd2",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-6 B-3 SRL.nam",
+      "sha256": "10642f6a511ff484ee17ce532cbe13793a99c27cfa9802a06cf69d93443f01c8",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-7 B-1 SRL.nam",
+      "sha256": "d0da24fc01a6c4d391e983705f122bcdf4268f08f3cb5a7016f89107bd65b621",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-7 B-2 SRL.nam",
+      "sha256": "12c23540adab3dae4dc0cf8fa78f018b05dcd800475a39a747b5cd792cf46606",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-8 B-1 SRL.nam",
+      "sha256": "cce73d8f31d77eaa5b378bf7c157778b0bf247fc0f2b2a9321e014c67898b80e",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-8 B-2 SRL.nam",
+      "sha256": "cc5eb67fba1761267f69468971b7dd1677fa68d57ad906bf04a478a0cef2069d",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-8 B-3 SRL.nam",
+      "sha256": "f57e288daac669a299e7bb2ee84b49cbc6a178025c01bacc114d8336d35937f6",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-5 B-1 SRL.nam",
+      "sha256": "d8b62c49fd7c6a22db46f85c924c77be6ad1755c2c68410985509fe78b9612a4",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-6 B-1 SRL.nam",
+      "sha256": "4d13a5b0d377579b668641bca4428b8067b08b5629b6e18ecf6494eeb5f33347",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-6 B-2 SRL.nam",
+      "sha256": "1cb6568874e92180961cce6fbd4322f7221b70b7e3bbedaa9a4761ac962fb17f",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-7 B-1 SRL.nam",
+      "sha256": "4803cd90a04dbd53917f2088fabffc5589d22abf4e1bd2ebf17f8be8ea5e0e0e",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-7 B-2 SRL.nam",
+      "sha256": "3a3985981b0e33a28dace9ea40276684fb159bffc6cd0ed01048df4847aeaf86",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-8 B-1 SRL.nam",
+      "sha256": "7c7d3d5a2bffa9a0d3d581be6fda237e217e31e9295cd97de25d5574a1aa81d2",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-9 B-1 SRL.nam",
+      "sha256": "e4ea732495659e7390ff86e22480fb82b3939112b73e490edbc0c4f1c4d8cc8b",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-9 B-2 SRL.nam",
+      "sha256": "e665ed9aefb6d0b9eec0af2175e35248f6ce41d3b94b8e46be02332f508d6daf",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-10 B-1 SRL.nam",
+      "sha256": "e614be1611517a084344cc974571ea3c9a0c5f9203f496e9bcb7c9bd5062d8cc",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-10 B-2 SRL.nam",
+      "sha256": "4fc3813992c1384873c2738282bde2729f99ea7d12a2002c57b5be514c97acd6",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-5 B-2 SRL.nam",
+      "sha256": "7afbec4a44f5a9cfda7cf62a96267a76bd044de8920993ce62e16e4aed5c59c9",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-6 B-1 SRL.nam",
+      "sha256": "4a2e7b54b4fc8aa0363a52e1fe1c35ac987e2f0c84f07f80eb8377321719b6b4",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-6 B-2 SRL.nam",
+      "sha256": "52c3678bf58baf3301cda0cc122a4cce5be23066984b39ea1060a399e5670237",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-7 B-1 SRL.nam",
+      "sha256": "a56a7d16a41228e9a0060f7c2407df9fe5d359407d37b10054ca842f52612623",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-7 B-2 SRL.nam",
+      "sha256": "7ffc02cd312e536280c539be23ce63ca5ffafc866ea0f0b600863eb420e615b5",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-8 B-2 SRL.nam",
+      "sha256": "8f683007760d86293d7e4f3fc6a57c3121b080678fef45f2d757e60ee5165d49",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-9 B-1 SRL.nam",
+      "sha256": "9cfc26ef83890499dcdd45dc8779615f8703750a459a5873a75321cfcd984061",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-9 B-2 SRL.nam",
+      "sha256": "22d7f924494b7e02d8dc37823a09bb9f2c1cac527b5777f30a1ba955dc1a8443",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-10 B-1 SRL.nam",
+      "sha256": "7b5386d1125a2a3194bbe7b725d1b9e3df671752bbb9d851b8002dd0544d37f8",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-10 B-2 SRL.nam",
+      "sha256": "25b324ffea2d3be3caa06fc46e6aee8d95843dbd73a9d96a4ea7de392fe6df9f",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-6 B-1 SRL.nam",
+      "sha256": "657d1ecb3905e9eb2f24019d900ee09f873441aaf9f4d703a1fdfba409274c47",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-6 B-2 SRL.nam",
+      "sha256": "273f9ec790146ca0e1a9c5d5e0da3104c7852ad8861985b3653e711057b3033d",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-7 B-1 SRL.nam",
+      "sha256": "42a755a313ceff4d7b0739f478c0af01fc3642651a6204c32e8da7fad77807c7",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-8 B-1 SRL.nam",
+      "sha256": "b5311225913cb137285d868039d33eb58a033b2ea8cf0d3b51f676a8947078e6",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-7 B-2 SRL.nam",
+      "sha256": "9a3f1cd80fe6405fddc1ad7f2730b32f41006486e6636d20ec473708ae4ea843",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-8 B-2 SRL.nam",
+      "sha256": "b91c01f21d756f21101d9d4374d4e916a977a9998a12032e03d5b40ed3f95208",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-9 B-1 SRL.nam",
+      "sha256": "bb98e67de6d7b073ee150719382df12dfb68bcfbc840a600e99530013bae0ea2",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-9 B-2 SRL.nam",
+      "sha256": "75b51e6bd0dbb3ad585806f4eb88a6a195cfc9f4329c6cf6624537c6c6bcd4d7",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-10 B-1 SRL.nam",
+      "sha256": "4823c626bec24a44ae7fae19a7bf4a71e0aa4d5451aa60c39903dfeacc3d1e37",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-5 B-3 SRL.nam",
+      "sha256": "991bf84f6040f4a787cb490c46d2a6aaed70b8a3a1fd555dd9f5450d8a0805b3",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-7 T-7 B-3 SRL.nam",
+      "sha256": "c08bd84eabf2f420f580234b4aec30173ae5a6b6f2823178a31250e70340820b",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-5 B-2 SRL.nam",
+      "sha256": "aff65013bb0b14b65a16a7c34d82ffa04e99380a55e2a6c3221e16dd4153f8e8",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-8 T-8 B-2 SRL.nam",
+      "sha256": "3614e30cc51782d9157ce9c189994655a4998d7e2dfd292b25fc468639c45593",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-5 B-1 SRL.nam",
+      "sha256": "55dc4c1ee0801fccdb769eec76bd120e4ab767fe9ec34fba685173eaf72efebd",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-9 T-8 B-1 SRL.nam",
+      "sha256": "0218dc17d5687f6c0f5b9c289d2925782e9f3890c2b8e13a2495728fdd039a7d",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-5 B-1 SRL.nam",
+      "sha256": "c478d45e33564d9367cd1e50a57af6059dce927fe1fc8e29c2aaf4efb782c484",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-5 B-2 SRL.nam",
+      "sha256": "3427a7be77ca3b8e4a1877277c09f7750a8aac784e236842eccd3ef1148da634",
+      "gear": "amp"
+    },
+    {
+      "file": "BFSR Nrm V-10 T-10 B-2 SRL.nam",
+      "sha256": "735639656e77cea6d601bf403eb4d3e0c1cd544758688f9905970367112e00f0",
+      "gear": "amp"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/orange-or60-90926",
+  "tone_id": "90926",
+  "model": "Orange OR60",
+  "gear": "amp",
+  "image": "thumbnail.png",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] ORNG.OR60-Mar412-HV British Tunes - DI.nam",
+      "sha256": "51b180c3f0825bf4cb8f781a3e6fd256666aa2413fdf4595b3e60148377e3c9a",
+      "gear": "amp"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/wizard-modern-classic-mcii-100w-75141",
+  "tone_id": "75141",
+  "model": "Wizard Modern Classic MCII 100W",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] Wzd.MCII100-Mar412-RTK-BST-HI AA Bottom - DI.nam",
+      "sha256": "9cfeab1883912f7251a55721bf765f4324d8bda40926a4233d3f03fc2806cccc",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] Wzd.MCII100-Mes412-RTK-BST-HI AA Bottom - DI.nam",
+      "sha256": "341f39593ae8b7844c5611a82ced5cc6970e1fa42651a0432f84cbdbd7a1f16a",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] Wzd.MCII100-Mar412-RT-NRM-HI Sleepy Sheriff - DI.nam",
+      "sha256": "101efae2d6d43e75c0310f8cfdb9fd238172d776f5a951b806c22f1eb7ff9b35",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] Wzd.MCII100-Mes412-RT-NRM-HI Sleepy Sheriff - DI.nam",
+      "sha256": "c7c8c0338a1bb24c29cba4c98af2134d52e0258ee27124719dbb7a42d67a6675",
+      "gear": "amp"
+    }
+  ]
+}

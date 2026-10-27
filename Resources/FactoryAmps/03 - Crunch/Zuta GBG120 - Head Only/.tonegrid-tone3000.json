@@ -1,0 +1,23 @@
+{
+  "source": "tone3000",
+  "creator": "2dor",
+  "creator_username": "2dor",
+  "url": "https://www.tone3000.com/tones/zuta-gbg120-77452",
+  "tone_id": "77452",
+  "model": "Zuta GBG120",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "[AMP] Zoota.GBG12O-Mar412-CH2 Transylvanian Clay - DI.nam",
+      "sha256": "ca5de5fd1ef18364626fea4b03b95bc1789a5ec58c7b9220e568ebba54726bac",
+      "gear": "amp"
+    },
+    {
+      "file": "[AMP] Zoota.GBG12O-Mes412-CH2 Transylvanian Clay - DI.nam",
+      "sha256": "229d11c9cfdb0e266664296335edf2245f8f305abc7614c1e56dec6da5247a08",
+      "gear": "amp"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/peavey-6505-1992-original-lead-mesa-4x12-load-amp-head-72177",
+  "tone_id": "72177",
+  "model": "Peavey 6505 1992 Original - Lead",
+  "gear": "amp",
+  "image": "thumbnail.png",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "DI 6505 1992 Ld - 3 - 4FB.nam",
+      "sha256": "4dfa80b541c786d209974fef36049ed4e708da7a2e3cce51ee77231d30961bd0",
+      "gear": "amp"
+    }
+  ]
+}

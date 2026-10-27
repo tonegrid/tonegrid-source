@@ -1,0 +1,1360 @@
+{
+  "amps": {
+    "clean": "01 - Fender Clean/[AMP] BADLND-020W BOLD CLEAN Clean-Blues #01 - FREDMAN #1.nam",
+    "brightclean": "15 - Mesa Mark  Tight Metal/[AMP] MESA.MKVII-90W-CH1-CLN Factory Bright Clean - BLEND #1.nam",
+    "deluxe": "02 - US Edge - Blues/Fender Deluxe Reverb Reissue Iconic Clean A2 -  Amalgam - INTERNAL USE ONLY.nam",
+    "brown": "02 - US Edge - Blues/Fender Brown Deluxe 6G3 1963 - Edge of Breakup - A2 - Amalgam - INTERNAL USE ONLY.nam",
+    "tweed": "03 - Tweed Breakup/Tweed-5E3-RockNRoll-FullRig - madhatteramplab - INTERNAL USE ONLY.nam",
+    "plexiedge": "06 - Early British - Plexi Edge/06 Early British  Plexi Edge - Friedman Plex - LV-Lo Brownie - BLEND #1.nam",
+    "plexi": "07 - Plexi - Crunch/07 - Plexi - Crunch - Marshall  JMP2204-Mar4x12-HI Brown Beef - BLEND #1.nam",
+    "jcm": "08 - JCM800 - 80s British/08 - JCM800 - 80s British -2203-MODIFIED-HI The Sound - BLEND #1.nam",
+    "jcmedge": "08 - JCM800 - 80s British/08 - JCM800 - 80s British -2203-MODIFIED-LO Edge of Breakup - BLEND #1.nam",
+    "mark": "15 - Mesa Mark  Tight Metal/[AMP] MESA.MKVII-90W-CH3-MKIIC Bull Sheet - BLEND #1.nam",
+    "recto": "16 - Dual Rectifier/[AMP] DREC.G-DIO-BLD-RED-MDN Alone I Stand - SM57.nam",
+    "hiwattdrive": "13 - Hiwatt  Gilmour/[AMP] HWAT-SUPERHI50 Bright Overdrive - BLEND #1.nam",
+    "slash": "09 -Silver Jubilee  Slash/Silver_Jubilee_1987_Slash_Settings_CAB by tophattones - INTERNAL USE ONLY.nam",
+    "acedge": "04 - British Chime  AC30/VOX AC30 TB6 ALNICO BLUE EDGE - by analog - INTERNAL USE ONLY.nam",
+    "acclean": "04 - British Chime  AC30/VOX AC30 TB6 ALNICO SILVER CLEAN- by analog - INTERNAL USE ONLY.nam",
+    "acdc": "07 - Plexi - Crunch/07 - Plexi - Crunch - Marshall JMP2204-Mar4x12-HI Aseedeesee - BLEND #1.nam",
+    "hendrix": "07 - Plexi - Crunch/07 - Plexi - Crunch - Marshall JMP2204-Mar4x12-HI Hendrics - BLEND #1.nam",
+    "ratm": "07 - Plexi - Crunch/07 - Plexi - Crunch - Marshall JMP2204-Mar4x12-HI RATM - BLEND #1.nam",
+    "friedman": "10 - Hot British Lead/[AMP] BE100DLX-BE Eddie #01 - BLEND.nam",
+    "mkii": "15 - Mesa Mark  Tight Metal/[AMP] MESA.MKVII-90W-CH3-MKIIC Bull Sheet - BLEND #1.nam",
+    "mkiv": "15 - Mesa Mark  Tight Metal/[AMP] MESA.MKVII-90W-CH3-MKIV War Never Changes - BLEND #1.nam",
+    "6505": "18 - 5150 - 6505/[AMP] PV6505-OG1992-Mar4x12-LEAD Sneap - BLEND #1.nam",
+    "diezel": "19 - Diezel  - Modern Tight/[AMP] DiZLVH4-CH2 Those Bones - BLEND #1.nam"
+  },
+  "effects": {
+    "dry": {},
+    "room": {
+      "reverb": [
+        "Room",
+        0.9,
+        7
+      ]
+    },
+    "plate": {
+      "reverb": [
+        "Plate",
+        1.6,
+        12
+      ]
+    },
+    "lead": {
+      "delay": [
+        340,
+        24,
+        15
+      ],
+      "reverb": [
+        "Plate",
+        1.9,
+        14
+      ]
+    },
+    "longlead": {
+      "delay": [
+        430,
+        28,
+        20
+      ],
+      "reverb": [
+        "Plate",
+        2.6,
+        18
+      ]
+    },
+    "slap": {
+      "delay": [
+        110,
+        8,
+        10
+      ],
+      "reverb": [
+        "Room",
+        0.8,
+        8
+      ]
+    },
+    "spring": {
+      "reverb": [
+        "Spring",
+        1.5,
+        14
+      ]
+    },
+    "surf": {
+      "reverb": [
+        "Spring",
+        2.4,
+        27
+      ]
+    },
+    "chorus": {
+      "mod": [
+        "Chorus",
+        0.75,
+        32,
+        22
+      ],
+      "reverb": [
+        "Plate",
+        1.5,
+        12
+      ]
+    },
+    "cleanwide": {
+      "mod": [
+        "Chorus",
+        0.55,
+        28,
+        20
+      ],
+      "delay": [
+        300,
+        18,
+        12
+      ],
+      "reverb": [
+        "Plate",
+        2,
+        15
+      ]
+    },
+    "flange": {
+      "mod": [
+        "Flanger",
+        0.25,
+        35,
+        18
+      ],
+      "reverb": [
+        "Room",
+        1,
+        6
+      ]
+    },
+    "phase": {
+      "mod": [
+        "Phaser",
+        0.35,
+        45,
+        28
+      ],
+      "reverb": [
+        "Room",
+        1.1,
+        8
+      ]
+    },
+    "tremolo": {
+      "mod": [
+        "Tremolo",
+        3.2,
+        35,
+        70
+      ],
+      "reverb": [
+        "Spring",
+        1.5,
+        12
+      ]
+    },
+    "edge": {
+      "delay": [
+        375,
+        34,
+        29
+      ],
+      "reverb": [
+        "Plate",
+        1.9,
+        12
+      ]
+    },
+    "streets": {
+      "delay": [
+        350,
+        38,
+        32
+      ],
+      "reverb": [
+        "Large",
+        2.4,
+        14
+      ]
+    },
+    "octave": {
+      "reverb": [
+        "Room",
+        0.7,
+        5
+      ]
+    }
+  },
+  "presets": [
+    {
+      "rank": 1,
+      "amp": "mark",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "room",
+      "gainDb": -1,
+      "volumeDb": -12,
+      "note": "Mark VII IIC-mode rhythm: tight preamp EQ and short room; no added drive stage."
+    },
+    {
+      "rank": 2,
+      "amp": "mkii",
+      "character": "high gain",
+      "pedals": {
+        "12": "4"
+      },
+      "effects": "room",
+      "gainDb": 0.0,
+      "volumeDb": -10.0,
+      "note": "Scooped but controlled Mark rhythm with a short room."
+    },
+    {
+      "rank": 3,
+      "amp": "mkiv",
+      "character": "lead",
+      "pedals": {
+        "12": "3"
+      },
+      "effects": "lead",
+      "gainDb": -1.0,
+      "volumeDb": -9.0,
+      "note": "Singing lead and rounded upper mids with modest repeats."
+    },
+    {
+      "rank": 4,
+      "amp": "plexiedge",
+      "character": "lead",
+      "pedals": {
+        "6": "1"
+      },
+      "effects": "plate",
+      "gainDb": 0,
+      "volumeDb": -10,
+      "note": "Friedman Plex low-input edge with an intentional 2 dB clean boost for the solo."
+    },
+    {
+      "rank": 5,
+      "amp": "slash",
+      "character": "lead",
+      "pedals": {
+        "12": "3"
+      },
+      "effects": "lead",
+      "gainDb": 0.0,
+      "volumeDb": -9.0,
+      "note": "Mid-rich Jubilee lead and restrained sustain ambience."
+    },
+    {
+      "rank": 6,
+      "amp": "clean",
+      "character": "crunch",
+      "pedals": {
+        "3": "7",
+        "12": "6"
+      },
+      "effects": "room",
+      "gainDb": 0,
+      "volumeDb": -10,
+      "note": "Wampler high drive into a clean platform; tame upper bite."
+    },
+    {
+      "rank": 7,
+      "amp": "deluxe",
+      "character": "clean",
+      "pedals": {
+        "0": "0"
+      },
+      "effects": "chorus",
+      "gainDb": -2,
+      "volumeDb": -8,
+      "note": "Deluxe Reverb clean platform with slow chorus and gentle compression."
+    },
+    {
+      "rank": 8,
+      "amp": "acclean",
+      "character": "crunch",
+      "pedals": {
+        "3": "6"
+      },
+      "effects": "room",
+      "gainDb": 0.0,
+      "volumeDb": -9.0,
+      "note": "Bright Wampler drive on a clean chime platform."
+    },
+    {
+      "rank": 9,
+      "amp": "jcm",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "room",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "British articulation and low-end control without more gain pedals."
+    },
+    {
+      "rank": 10,
+      "amp": "acdc",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": 0.0,
+      "volumeDb": -8.0,
+      "note": "Lean Marshall crunch directly from the capture."
+    },
+    {
+      "rank": 11,
+      "amp": "brown",
+      "character": "lead",
+      "pedals": {
+        "0": "0"
+      },
+      "effects": "plate",
+      "gainDb": -2,
+      "volumeDb": -9,
+      "note": "Brown Deluxe edge with gentle compression for melodic phrasing."
+    },
+    {
+      "rank": 12,
+      "amp": "mark",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "dry",
+      "gainDb": 0.0,
+      "volumeDb": -12,
+      "note": "Dry, percussive palm-muted high gain."
+    },
+    {
+      "rank": 13,
+      "amp": "mkii",
+      "character": "lead",
+      "pedals": {
+        "12": "3"
+      },
+      "effects": "lead",
+      "gainDb": -1.0,
+      "volumeDb": -9.0,
+      "note": "Warm sustained Mark lead, short repeats kept behind the notes."
+    },
+    {
+      "rank": 14,
+      "amp": "tweed",
+      "character": "lead",
+      "pedals": {
+        "4": "0"
+      },
+      "effects": "plate",
+      "gainDb": 0.0,
+      "volumeDb": -8.0,
+      "note": "Low-gain transparent drive and rounded tweed texture."
+    },
+    {
+      "rank": 15,
+      "amp": "ratm",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "dry",
+      "gainDb": 0.0,
+      "volumeDb": -9.0,
+      "note": "Direct abrasive British attack; no pitch movement forced into the rhythm."
+    },
+    {
+      "rank": 16,
+      "amp": "plexiedge",
+      "character": "crunch",
+      "pedals": {
+        "8": "3"
+      },
+      "effects": "room",
+      "gainDb": -2,
+      "volumeDb": -11,
+      "note": "Treble boost into Friedman Plex low-input edge; restrained amp gain preserves bite."
+    },
+    {
+      "rank": 17,
+      "amp": "mark",
+      "character": "high gain",
+      "pedals": {
+        "12": "4"
+      },
+      "effects": "room",
+      "gainDb": -1.0,
+      "volumeDb": -12,
+      "note": "Weighty Mark rhythm with mild scoop and a little room."
+    },
+    {
+      "rank": 18,
+      "amp": "jcm",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "dry",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "Early thrash bite using the amp alone and tight EQ."
+    },
+    {
+      "rank": 19,
+      "amp": "plexiedge",
+      "character": "fuzz",
+      "pedals": {
+        "7": "4"
+      },
+      "effects": "room",
+      "gainDb": -2,
+      "volumeDb": -11,
+      "note": "Classic fuzz into Friedman Plex low-input edge rather than stacking onto a high-gain capture."
+    },
+    {
+      "rank": 20,
+      "amp": "clean",
+      "character": "crunch",
+      "pedals": {
+        "3": "5"
+      },
+      "effects": "chorus",
+      "gainDb": 0,
+      "volumeDb": -10,
+      "note": "Wampler medium drive with a light, broad chorus texture."
+    },
+    {
+      "rank": 21,
+      "amp": "recto",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "room",
+      "gainDb": -1.0,
+      "volumeDb": -12,
+      "note": "Dense modern rhythm; EQ keeps the bottom from becoming loose."
+    },
+    {
+      "rank": 22,
+      "amp": "brightclean",
+      "character": "clean",
+      "pedals": {
+        "0": "2"
+      },
+      "effects": "room",
+      "gainDb": -1,
+      "volumeDb": -8,
+      "note": "Mark VII bright clean and fast compressor for clipped funk rhythm."
+    },
+    {
+      "rank": 23,
+      "amp": "clean",
+      "character": "crunch",
+      "pedals": {
+        "11": "6"
+      },
+      "effects": "plate",
+      "gainDb": 0,
+      "volumeDb": -10,
+      "note": "Low-gain Filter Dist texture into a clean amp."
+    },
+    {
+      "rank": 24,
+      "amp": "brown",
+      "character": "fuzz",
+      "pedals": {
+        "7": "4"
+      },
+      "effects": "slap",
+      "gainDb": -2,
+      "volumeDb": -9,
+      "note": "Dark soft fuzz with a small slap, retaining the riff's space."
+    },
+    {
+      "rank": 25,
+      "amp": "jcm",
+      "character": "high gain",
+      "pedals": {
+        "12": "1"
+      },
+      "effects": "room",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "Mid-forward British rhythm with no extra saturation stage."
+    },
+    {
+      "rank": 26,
+      "amp": "tweed",
+      "character": "lead",
+      "pedals": {},
+      "effects": "slap",
+      "gainDb": 0.0,
+      "volumeDb": -7.0,
+      "note": "Tweed breakup and short slap for a clear early-rock lead."
+    },
+    {
+      "rank": 27,
+      "amp": "deluxe",
+      "character": "clean",
+      "pedals": {
+        "0": "0"
+      },
+      "effects": "plate",
+      "gainDb": -2,
+      "volumeDb": -8,
+      "note": "Deluxe Reverb clean, gentle compression and open upper mids for finger articulation."
+    },
+    {
+      "rank": 28,
+      "amp": "clean",
+      "character": "fuzz",
+      "pedals": {
+        "5": "10"
+      },
+      "effects": "room",
+      "gainDb": 0,
+      "volumeDb": -10,
+      "note": "Dense vintage fuzz texture on a cleaner amp platform."
+    },
+    {
+      "rank": 29,
+      "amp": "jcm",
+      "character": "high gain",
+      "pedals": {
+        "1": "3",
+        "12": "2"
+      },
+      "effects": "dry",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "Low-drive 808 boost tightens the British high-gain attack."
+    },
+    {
+      "rank": 30,
+      "amp": "acdc",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": 1.0,
+      "volumeDb": -9.0,
+      "note": "Immediate Marshall crunch with slightly more intentional amp drive."
+    },
+    {
+      "rank": 31,
+      "amp": "acedge",
+      "character": "lead",
+      "pedals": {
+        "8": "4"
+      },
+      "effects": "lead",
+      "gainDb": 0.0,
+      "volumeDb": -10.0,
+      "note": "Bright treble booster and chime with compact lead ambience."
+    },
+    {
+      "rank": 32,
+      "amp": "plexiedge",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": -1,
+      "volumeDb": -10,
+      "note": "Uncluttered British body, little ambience and no extra drive pedal."
+    },
+    {
+      "rank": 33,
+      "amp": "acdc",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": 0.0,
+      "volumeDb": -8.0,
+      "note": "Dry-centered classic crunch with a short room."
+    },
+    {
+      "rank": 34,
+      "amp": "friedman",
+      "character": "lead",
+      "pedals": {
+        "12": "3"
+      },
+      "effects": "lead",
+      "gainDb": 0.0,
+      "volumeDb": -10.0,
+      "note": "Hot British sustain and a warm EQ contour for the solo."
+    },
+    {
+      "rank": 35,
+      "amp": "deluxe",
+      "character": "clean",
+      "pedals": {
+        "0": "0"
+      },
+      "effects": "spring",
+      "gainDb": -2,
+      "volumeDb": -8,
+      "note": "Deluxe clean chord definition with gentle compression and spring depth."
+    },
+    {
+      "rank": 36,
+      "amp": "acclean",
+      "character": "clean",
+      "pedals": {},
+      "effects": "tremolo",
+      "gainDb": 0.0,
+      "volumeDb": -6.0,
+      "note": "Clean arpeggios with restrained tremolo and spring reverb."
+    },
+    {
+      "rank": 37,
+      "amp": "recto",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "dry",
+      "gainDb": 0.0,
+      "volumeDb": -12,
+      "note": "Low-tuned, tight modern rhythm without an artificial pitch preset."
+    },
+    {
+      "rank": 38,
+      "amp": "brown",
+      "character": "crunch",
+      "pedals": {
+        "4": "0"
+      },
+      "effects": "room",
+      "gainDb": -3,
+      "volumeDb": -10,
+      "note": "Brown Deluxe edge with low-gain transparent drive for bright chord rhythm."
+    },
+    {
+      "rank": 39,
+      "amp": "recto",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "room",
+      "gainDb": -1.0,
+      "volumeDb": -12,
+      "note": "Fast stop-start rhythm with controlled bass and little ambience."
+    },
+    {
+      "rank": 40,
+      "amp": "brightclean",
+      "character": "clean",
+      "pedals": {
+        "0": "0"
+      },
+      "effects": "plate",
+      "gainDb": -2,
+      "volumeDb": -8,
+      "note": "Mark VII clean platform with light compression for open melodic phrasing; not a Hiwatt DR103 claim."
+    },
+    {
+      "rank": 41,
+      "amp": "clean",
+      "character": "crunch",
+      "pedals": {
+        "3": "5"
+      },
+      "effects": "chorus",
+      "gainDb": 0,
+      "volumeDb": -10,
+      "note": "Mid-drive Wampler texture and understated chorus."
+    },
+    {
+      "rank": 42,
+      "amp": "recto",
+      "character": "high gain",
+      "pedals": {
+        "12": "6"
+      },
+      "effects": "room",
+      "gainDb": -2.0,
+      "volumeDb": -12,
+      "note": "Broad sustained rhythm; high-frequency bite slightly softened."
+    },
+    {
+      "rank": 43,
+      "amp": "brightclean",
+      "character": "lead",
+      "pedals": {
+        "5": "6",
+        "12": "3"
+      },
+      "effects": "longlead",
+      "gainDb": -2,
+      "volumeDb": -12,
+      "note": "Vintage fuzz into Mark VII clean, warm lead EQ and long repeats; the available Hiwatt Super Hi 50 is not a clean DR103."
+    },
+    {
+      "rank": 44,
+      "amp": "clean",
+      "character": "fuzz",
+      "pedals": {
+        "7": "8"
+      },
+      "effects": "octave",
+      "gainDb": 0,
+      "volumeDb": -10,
+      "note": "Fuzz and an octave-down-only voice for the low-register riff.",
+      "octaveDown": true
+    },
+    {
+      "rank": 45,
+      "amp": "6505",
+      "character": "high gain",
+      "pedals": {
+        "1": "3",
+        "12": "2"
+      },
+      "effects": "dry",
+      "gainDb": -1.0,
+      "volumeDb": -12.0,
+      "note": "Low-drive 808 attack ahead of a tight modern amp."
+    },
+    {
+      "rank": 46,
+      "amp": "acclean",
+      "character": "clean",
+      "pedals": {
+        "0": "1"
+      },
+      "effects": "room",
+      "gainDb": 0.0,
+      "volumeDb": -6.0,
+      "note": "Clipped clean rhythm with moderate compression."
+    },
+    {
+      "rank": 47,
+      "amp": "clean",
+      "character": "clean",
+      "pedals": {
+        "0": "0"
+      },
+      "effects": "slap",
+      "gainDb": -1,
+      "volumeDb": -7,
+      "note": "Sparse clean guitar texture; no attempt to synthesize the recorded bass line."
+    },
+    {
+      "rank": 48,
+      "amp": "recto",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "dry",
+      "gainDb": -1.0,
+      "volumeDb": -12,
+      "note": "Defined modern chord attack and no extra delay wash."
+    },
+    {
+      "rank": 49,
+      "amp": "plexiedge",
+      "character": "crunch",
+      "pedals": {
+        "8": "5"
+      },
+      "effects": "room",
+      "gainDb": -3,
+      "volumeDb": -11,
+      "note": "Treble boost into low-input Friedman Plex with controlled gain for defined chord attack."
+    },
+    {
+      "rank": 50,
+      "amp": "jcmedge",
+      "character": "crunch",
+      "pedals": {
+        "4": "1"
+      },
+      "effects": "room",
+      "gainDb": -3,
+      "volumeDb": -10,
+      "note": "JCM800 low-input edge and asymmetric transparent drive for grainy, defined rhythm."
+    },
+    {
+      "rank": 51,
+      "amp": "deluxe",
+      "character": "clean",
+      "pedals": {
+        "0": "0",
+        "2": "1"
+      },
+      "effects": "plate",
+      "gainDb": -2,
+      "volumeDb": -9,
+      "note": "Deluxe clean with gentle compression and low-gain Horse lift; an available-library interpretation, not a Two-Rock capture."
+    },
+    {
+      "rank": 52,
+      "amp": "tweed",
+      "character": "lead",
+      "pedals": {
+        "4": "1"
+      },
+      "effects": "slap",
+      "gainDb": 0.0,
+      "volumeDb": -8.0,
+      "note": "Edgy tweed lead and asymmetric drive with a compact slap."
+    },
+    {
+      "rank": 53,
+      "amp": "plexiedge",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": -1,
+      "volumeDb": -10,
+      "note": "Raw edge-of-breakup rhythm with no redundant drive stage."
+    },
+    {
+      "rank": 54,
+      "amp": "plexi",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": -1.0,
+      "volumeDb": -8.0,
+      "note": "Open British chord tone with restrained gain."
+    },
+    {
+      "rank": 55,
+      "amp": "friedman",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "phase",
+      "gainDb": 0.0,
+      "volumeDb": -10.0,
+      "note": "Hot British rhythm and slow phase motion."
+    },
+    {
+      "rank": 56,
+      "amp": "brightclean",
+      "character": "clean",
+      "pedals": {
+        "0": "1"
+      },
+      "effects": "chorus",
+      "gainDb": -2,
+      "volumeDb": -8,
+      "note": "Bright Mark clean with moderate compression and light chorus for arpeggios."
+    },
+    {
+      "rank": 57,
+      "amp": "jcm",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "plate",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "British power-chord body with a short plate."
+    },
+    {
+      "rank": 58,
+      "amp": "clean",
+      "character": "fuzz",
+      "pedals": {
+        "7": "4"
+      },
+      "effects": "room",
+      "gainDb": 0,
+      "volumeDb": -10,
+      "note": "Lower-sustain classic fuzz into a clean platform."
+    },
+    {
+      "rank": 59,
+      "amp": "acedge",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": 0.0,
+      "volumeDb": -7.0,
+      "note": "Amp-generated chime and breakup with minimal ambience."
+    },
+    {
+      "rank": 60,
+      "amp": "acclean",
+      "character": "clean",
+      "pedals": {
+        "0": "0"
+      },
+      "effects": "chorus",
+      "gainDb": 0.0,
+      "volumeDb": -6.0,
+      "note": "Clean chord clarity and restrained modulation."
+    },
+    {
+      "rank": 61,
+      "amp": "jcm",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "room",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "British rhythm attack with low-end control."
+    },
+    {
+      "rank": 62,
+      "amp": "plexi",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "plate",
+      "gainDb": 0.0,
+      "volumeDb": -8.0,
+      "note": "Articulate British midrange and a compact plate."
+    },
+    {
+      "rank": 63,
+      "amp": "jcm",
+      "character": "lead",
+      "pedals": {
+        "4": "0"
+      },
+      "effects": "lead",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "Light transparent push and melodic lead repeats."
+    },
+    {
+      "rank": 64,
+      "amp": "plexi",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": 1.0,
+      "volumeDb": -9.0,
+      "note": "Forward British crunch and a close room."
+    },
+    {
+      "rank": 65,
+      "amp": "hendrix",
+      "character": "lead",
+      "pedals": {
+        "7": "5"
+      },
+      "effects": "plate",
+      "gainDb": -1.0,
+      "volumeDb": -10.0,
+      "note": "Soft fuzz and an open British lead texture."
+    },
+    {
+      "rank": 66,
+      "amp": "hendrix",
+      "character": "fuzz",
+      "pedals": {
+        "7": "9"
+      },
+      "effects": "room",
+      "gainDb": -1.0,
+      "volumeDb": -11.0,
+      "note": "Classic fuzz sustain; preserve its intentional level change into the amp."
+    },
+    {
+      "rank": 67,
+      "amp": "jcm",
+      "character": "high gain",
+      "pedals": {},
+      "effects": "dry",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "Direct, rough British high gain without another distortion block."
+    },
+    {
+      "rank": 68,
+      "amp": "plexi",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": 1.0,
+      "volumeDb": -9.0,
+      "note": "Thick amp crunch with a small room."
+    },
+    {
+      "rank": 69,
+      "amp": "plexiedge",
+      "character": "crunch",
+      "pedals": {
+        "4": "0"
+      },
+      "effects": "room",
+      "gainDb": -2,
+      "volumeDb": -10,
+      "note": "Low-input Friedman Plex and light transparent push for warm British edge."
+    },
+    {
+      "rank": 70,
+      "amp": "jcm",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "room",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "Tight 80s rhythm with controlled low end."
+    },
+    {
+      "rank": 71,
+      "amp": "deluxe",
+      "character": "clean",
+      "pedals": {
+        "0": "0"
+      },
+      "effects": "cleanwide",
+      "gainDb": -2,
+      "volumeDb": -8,
+      "note": "Deluxe clean, gentle compression and chorus/delay for a moving clean figure."
+    },
+    {
+      "rank": 72,
+      "amp": "mkiv",
+      "character": "lead",
+      "pedals": {
+        "12": "3"
+      },
+      "effects": "lead",
+      "gainDb": -3,
+      "volumeDb": -12,
+      "note": "Mark IV-mode lead with warm EQ and restrained repeats; no unnecessary high-gain drive stack."
+    },
+    {
+      "rank": 73,
+      "amp": "plexiedge",
+      "character": "lead",
+      "pedals": {
+        "4": "3"
+      },
+      "effects": "plate",
+      "gainDb": -1,
+      "volumeDb": -10,
+      "note": "Medium transparent drive for a singing, restrained lead."
+    },
+    {
+      "rank": 74,
+      "amp": "brightclean",
+      "character": "lead",
+      "pedals": {
+        "0": "4",
+        "12": "3"
+      },
+      "effects": "lead",
+      "gainDb": -2,
+      "volumeDb": -10,
+      "note": "Mark VII clean, sustain compression and warm EQ for singing lead; not a clean Hiwatt recreation."
+    },
+    {
+      "rank": 75,
+      "amp": "acedge",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "edge",
+      "gainDb": -1.0,
+      "volumeDb": -8.0,
+      "note": "Chiming amp with rhythmic repeats; no additional drive stack."
+    },
+    {
+      "rank": 76,
+      "amp": "slash",
+      "character": "lead",
+      "pedals": {
+        "12": "3"
+      },
+      "effects": "lead",
+      "gainDb": -1.0,
+      "volumeDb": -9.0,
+      "note": "Warm Jubilee lead with moderate repeats."
+    },
+    {
+      "rank": 77,
+      "amp": "plexi",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "flange",
+      "gainDb": 0.0,
+      "volumeDb": -9.0,
+      "note": "British chord attack and restrained flanger movement."
+    },
+    {
+      "rank": 78,
+      "amp": "brightclean",
+      "character": "clean",
+      "pedals": {
+        "12": "5"
+      },
+      "effects": "surf",
+      "gainDb": -2,
+      "volumeDb": -8,
+      "note": "Bright Mark clean and pronounced spring reverb for fast surf attack."
+    },
+    {
+      "rank": 79,
+      "amp": "jcm",
+      "character": "crunch",
+      "pedals": {
+        "12": "1"
+      },
+      "effects": "flange",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "Mid-present British rhythm with subtle flanger color."
+    },
+    {
+      "rank": 80,
+      "amp": "mkiv",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "room",
+      "gainDb": 0.0,
+      "volumeDb": -11.0,
+      "note": "Defined high-gain Mark rhythm with minimal ambience."
+    },
+    {
+      "rank": 81,
+      "amp": "plexi",
+      "character": "crunch",
+      "pedals": {
+        "4": "0"
+      },
+      "effects": "room",
+      "gainDb": -1.0,
+      "volumeDb": -9.0,
+      "note": "Low-gain transparent lift for gritty, articulate rhythm."
+    },
+    {
+      "rank": 82,
+      "amp": "clean",
+      "character": "fuzz",
+      "pedals": {
+        "5": "12",
+        "12": "6"
+      },
+      "effects": "room",
+      "gainDb": 0,
+      "volumeDb": -10,
+      "note": "Heavy vintage fuzz on a clean platform, softened upper bite."
+    },
+    {
+      "rank": 83,
+      "amp": "diezel",
+      "character": "high gain",
+      "pedals": {
+        "12": "1"
+      },
+      "effects": "room",
+      "gainDb": 1.0,
+      "volumeDb": -11.0,
+      "note": "Focused Diezel low mids and a small room."
+    },
+    {
+      "rank": 84,
+      "amp": "jcm",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "dry",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "Tight direct British crunch, no extra saturation pedals."
+    },
+    {
+      "rank": 85,
+      "amp": "recto",
+      "character": "high gain",
+      "pedals": {
+        "12": "2"
+      },
+      "effects": "room",
+      "gainDb": -2.0,
+      "volumeDb": -12,
+      "note": "Controlled modern rhythm with a short room."
+    },
+    {
+      "rank": 86,
+      "amp": "brightclean",
+      "character": "lead",
+      "pedals": {
+        "11": "10"
+      },
+      "effects": "cleanwide",
+      "gainDb": -2,
+      "volumeDb": -12,
+      "note": "Filter Dist sustain into a clean Mark platform with broad chorus and lead repeats."
+    },
+    {
+      "rank": 87,
+      "amp": "jcm",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "chorus",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "British rhythm with a small amount of chorus width."
+    },
+    {
+      "rank": 88,
+      "amp": "jcm",
+      "character": "crunch",
+      "pedals": {
+        "9": "4"
+      },
+      "effects": "room",
+      "gainDb": -1,
+      "volumeDb": -11,
+      "note": "Envelope-wah interpretation of the vocal movement; not a talkbox recreation."
+    },
+    {
+      "rank": 89,
+      "amp": "plexi",
+      "character": "crunch",
+      "pedals": {
+        "12": "1"
+      },
+      "effects": "plate",
+      "gainDb": 0.0,
+      "volumeDb": -9.0,
+      "note": "Forward midrange and sustained British rhythm."
+    },
+    {
+      "rank": 90,
+      "amp": "plexi",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": -1.0,
+      "volumeDb": -8.0,
+      "note": "Clear percussive crunch, little ambience and no extra distortion."
+    },
+    {
+      "rank": 91,
+      "amp": "plexiedge",
+      "character": "fuzz",
+      "pedals": {
+        "7": "9"
+      },
+      "effects": "room",
+      "gainDb": -1,
+      "volumeDb": -10,
+      "note": "Classic fuzz into warmer British breakup."
+    },
+    {
+      "rank": 92,
+      "amp": "hiwattdrive",
+      "character": "crunch",
+      "pedals": {},
+      "effects": "room",
+      "gainDb": -5,
+      "volumeDb": -12,
+      "note": "Hiwatt Super Hi 50 Bright Overdrive with reduced input drive for British chord attack; not a clean DR103."
+    },
+    {
+      "rank": 93,
+      "amp": "plexi",
+      "character": "crunch",
+      "pedals": {
+        "12": "1"
+      },
+      "effects": "plate",
+      "gainDb": -1.0,
+      "volumeDb": -9.0,
+      "note": "Mid-forward chord clarity and restrained plate ambience."
+    },
+    {
+      "rank": 94,
+      "amp": "friedman",
+      "character": "high gain",
+      "pedals": {
+        "9": "4",
+        "12": "6"
+      },
+      "effects": "room",
+      "gainDb": -1.0,
+      "volumeDb": -11.0,
+      "note": "Hot British amp with a dark envelope-wah interpretation of the vowel riff."
+    },
+    {
+      "rank": 95,
+      "amp": "deluxe",
+      "character": "clean",
+      "pedals": {
+        "0": "0"
+      },
+      "effects": "tremolo",
+      "gainDb": -2,
+      "volumeDb": -8,
+      "note": "Deluxe clean with moving modulation and spring depth for arpeggios."
+    },
+    {
+      "rank": 96,
+      "amp": "brightclean",
+      "character": "clean",
+      "pedals": {
+        "0": "1"
+      },
+      "effects": "slap",
+      "gainDb": -2,
+      "volumeDb": -8,
+      "note": "Bright Mark clean with gentle compression and compact slap for clipped rhythm."
+    },
+    {
+      "rank": 97,
+      "amp": "acclean",
+      "character": "clean",
+      "pedals": {},
+      "effects": "streets",
+      "gainDb": 0.0,
+      "volumeDb": -7.0,
+      "note": "Clean chime and clear rhythmic delay repeats."
+    },
+    {
+      "rank": 98,
+      "amp": "deluxe",
+      "character": "lead",
+      "pedals": {
+        "10": "14"
+      },
+      "effects": "plate",
+      "gainDb": -2,
+      "volumeDb": -10,
+      "note": "Waza Custom into Deluxe clean, retaining its original calibration and a short plate."
+    },
+    {
+      "rank": 99,
+      "amp": "brown",
+      "character": "crunch",
+      "pedals": {
+        "1": "6"
+      },
+      "effects": "spring",
+      "gainDb": -3,
+      "volumeDb": -11,
+      "note": "Classic 808 into Brown Deluxe edge, with conservative amp gain and spring depth."
+    },
+    {
+      "rank": 100,
+      "amp": "slash",
+      "character": "lead",
+      "pedals": {
+        "12": "3"
+      },
+      "effects": "longlead",
+      "gainDb": 0.0,
+      "volumeDb": -10.0,
+      "note": "Singing Jubilee lead, warm EQ and spacious repeats."
+    }
+  ]
+}

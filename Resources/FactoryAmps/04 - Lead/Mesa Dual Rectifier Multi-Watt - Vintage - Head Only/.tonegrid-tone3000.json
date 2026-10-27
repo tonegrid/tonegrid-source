@@ -1,0 +1,213 @@
+{
+  "source": "tone3000",
+  "creator": "OutmodedElectronics",
+  "creator_username": "outmodedelectronics",
+  "url": "https://www.tone3000.com/tones/mesa-boogie-dual-rectifier-mw-vintage-mode-27848",
+  "tone_id": "27848",
+  "model": "Mesa Dual Rectifier Multi-Watt - Vintage",
+  "gear": "amp",
+  "image": "thumbnail.jpg",
+  "description": "Head/DI capture without cabinet microphone. Category is curated from channel and gain-setting names.",
+  "models": [
+    {
+      "file": "MBDR MW Red Vin G-12_00 - 4.nam",
+      "sha256": "60d029b09d8621ad9ff397f0bd804bd7be4384af5244784d00ea68319ede8edd",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-12_00 - 3.nam",
+      "sha256": "d8a25af463ed41d00835f7232a259fe658e7ba86706949d9ef00ba327fc4acc8",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-12_00 - 2.nam",
+      "sha256": "de7f02def64e30d3f30ebd9e888fbb57c8eb26f7df62f632894d78e6b58ae178",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-12_00 - 1.nam",
+      "sha256": "e2b519dee6655e591a9fd353d39d2755fc541aea80541af5099a06ed616fc437",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-3_00 - 5.nam",
+      "sha256": "0ecde6ae96e9552849212c3c6375f63693c7ce8ebc158ee4cc5769b5e5791251",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-3_00 - 3.nam",
+      "sha256": "1919200ca1d24eb35ace156b8e4e22ea937673b76356052e558e2f0242fb72d5",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-3_00 - 2.nam",
+      "sha256": "16497a30e93d722ff92e81cbcea84d1d35b3e7318153ad328468fb3a7c6886ec",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-3_00 - 1.nam",
+      "sha256": "d60b2f8a81ae1e144fb1556805d1301643e16aa7105a22f573a8292ce3bd01c5",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-2_00 - 5.nam",
+      "sha256": "f4da48a7acea0430acc0769ca0d469639b7613eb9e259996b8c47fcafbae788e",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-2_00 - 3.nam",
+      "sha256": "69e5e4b1a3a4b4dfa7a4c95802c7eb17e1669232283d335c5b82253cc693a61e",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-2_00 - 2.nam",
+      "sha256": "7ffc7b4103c2d3e82cbcc5dce57d29cc7aaf4045d30e7f38da45654d6a83aa7f",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-2_00 - 1.nam",
+      "sha256": "ad9842550c87f872f879b873c0ea9e22a4848bcf7f3d6558f43484ba06ba9545",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-1_00 - 5.nam",
+      "sha256": "8963dec2fed638a1ebe89c798483b4a876a6b7bf58425697c0f9d9c29a41895f",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-1_00 - 4.nam",
+      "sha256": "93a7a2e3467de6477811d607c019571c9c3b8ed0261d8e9c1bd2f7d9a7bd9032",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-1_00 - 2.nam",
+      "sha256": "d08320f90290f9019145506d4872d67b734cc62ce6fe8d2b3bf6534d27fe902f",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-1_00 - 1.nam",
+      "sha256": "c5965c0e5c13d4115995af88cc671e7b1d04d97d445174cd19f06d5940b34274",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-12_00 - 5.nam",
+      "sha256": "080af5388d2b862bf60977af2970fcc1bd4cff335869c18ea58e5d96032396e2",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-12_00 - 4.nam",
+      "sha256": "d90daac49716997e46d432c825e4aa55230ba42ddf48e7a4c6ff54431995d63c",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-12_00 - 2.nam",
+      "sha256": "13c835019ed05fa2d7b308d1c0ffbdbecccfa38c5804b247b06753ad24cda08c",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-12_00 - 1.nam",
+      "sha256": "e731b95064dcf06ce1246fdaf8df4d52456636f3ca111633c6882c83a74737e1",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-3_00 - 5.nam",
+      "sha256": "c519868e7b97020690830972c0df8827ace1418a7f7afb30d0a1a8b80880c78c",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-3_00 - 4.nam",
+      "sha256": "eda021ac19bb0a14e10aa9d794ccbb20030548b2c709e9fdfad8bf2bace56a89",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-3_00 - 3.nam",
+      "sha256": "3706938361311a871d323fd89600d4a51ffdff0a2f42e0094cc3fff35e78dcfd",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-3_00 - 1.nam",
+      "sha256": "1f721dae4f0ecda47c939dda3e7eeb4e0aefa8f76fce8f9360d77ce67cc9cca5",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-2_00 - 5.nam",
+      "sha256": "196a05c5ef8b2143fcfaa2a0da6def943ca7675c2844043aace3b2f05db158e2",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-2_00 - 4.nam",
+      "sha256": "1a388ce933f853d50f70b8058c588120a99877086fa52f1181922a84bf75ee1c",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-2_00 - 3.nam",
+      "sha256": "dd4e175147b8d5c1e68a804652e6c6f239c629931a10ce57fa5f846ee3e1525b",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-2_00 - 1.nam",
+      "sha256": "3c22a98b8356f58920ff76377d5f22019ef815466ea446f389cee8144e1f1496",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-1_00 - 5.nam",
+      "sha256": "087c2b82cf4ce8edaef99d38ea50646351b4e683b179a09fe85133193b8e215f",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-1_00 - 4.nam",
+      "sha256": "6b6c7f1b86cb441285a5d92ee6411a57707f96fdaa3b0b2eb1f211517a319d22",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-1_00 - 3.nam",
+      "sha256": "4d6fd5d6474dc41f563e884ad1c2bed573a1911a8604dab3ad8946ee04fad738",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-1_00 - 2.nam",
+      "sha256": "91333cf0e1bf546c59cbc8c6afe42195a35aae83ee30257db5e5337b0f80eb9b",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-12_00 - 5.nam",
+      "sha256": "6f3d28a7cacd11e15f7654b069113d90ac4d97736631ff86c3a9d7c667ae6ed2",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-3_00 - 4.nam",
+      "sha256": "e48f8a428da2d4a3ead883564758fb50b2bd672aa5016e360eb184a581eb3464",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-2_00 - 4.nam",
+      "sha256": "54ecd98ae75792a9298f6f00afe1e1816b07ed870e5399df33ad819e54ae0dfc",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Red Vin G-1_00 - 3.nam",
+      "sha256": "cd3d83577e31b43bdab664107392a5fa338235949446d25bc4745e0d3682832e",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-12_00 - 3.nam",
+      "sha256": "d0f52d263ca0a866977432219d93cd6c7317b1e64c99b29f9376caa60326defc",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-3_00 - 2.nam",
+      "sha256": "665bd8c01616120aee228f672d534dcfe1da2029ad737234d7a845771244ee78",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-2_00 - 2.nam",
+      "sha256": "2edeb463993fe89960d0ceff75620c39fcc4249cbcf040b80baf5a16c62f90bc",
+      "gear": "amp"
+    },
+    {
+      "file": "MBDR MW Or Vin G-1_00 - 1.nam",
+      "sha256": "063b5804d145f9534ca4e846730f8032a66956351fd65bdd81d64d79894e9800",
+      "gear": "amp"
+    }
+  ]
+}
