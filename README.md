@@ -3,6 +3,8 @@
 ToneGrid is a desktop guitar pedalboard and NAM amplifier/cabinet application, with PLAY, JAM, LEARN and RECORD modules, local presets, guitar calibration and recording/export tools.
 
 **Maintainer:** [L’équipe ToneGrid](https://github.com/tonegrid).  
+**Project co-lead and maintainer:** Christian Berlovan ([tonegrid](https://github.com/tonegrid)).
+
 **Website:** https://www.tonegrid.net  
 **Downloads:** https://www.tonegrid.net/download/  
 **Public download repository:** https://github.com/tonegrid/tonegrid-downloads
